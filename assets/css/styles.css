@@ -1,0 +1,61 @@
+/* Container / card */
+.story-card {
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 700px;
+  margin: 12px auto;
+  padding: 16px;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+  overflow: visible; /* ensure children (button) are not clipped */
+}
+
+/* Title */
+.story-title {
+  margin: 0 0 8px 0;
+  font-size: 1.25rem;
+  color: #111;
+}
+
+/* Snippet: modern clamp (WebKit) w/ fallback via max-height */
+.story-snippet {
+  color: #333;
+  line-height: 1.45;
+  margin: 0;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;    /* show 3 lines */
+  overflow: hidden;
+
+  /* Fallback: limit height roughly to 3 lines */
+  max-height: calc(1.45em * 3);
+}
+
+/* Read more button */
+.read-more {
+  display: inline-block;
+  margin-top: 10px;
+  background: #007bff;
+  color: #fff;
+  border: none;
+  padding: 8px 14px;
+  border-radius: 6px;
+  font-size: 0.95rem;
+  cursor: pointer;
+  line-height: 1;
+  text-align: center;
+}
+
+/* Ensure button stays visible on very small screens */
+@media (max-width: 600px) {
+  .story-card { padding: 12px; }
+  .read-more {
+    display: block;    /* full-width button on small screens */
+    width: 100%;
+    box-sizing: border-box;
+    padding: 12px;
+    font-size: 1rem;
+  }
+  .story-title { font-size: 1.1rem; }
+}

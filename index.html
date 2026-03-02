@@ -1,25 +1,32 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>NewsFlash AI</title>
-    <link rel="stylesheet" href="style.css">
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Stories</title>
+  <link rel="stylesheet" href="assets/css/styles.css">
 </head>
-
 <body>
-    <div id="app" class="app-container">
-        <!-- Cards will be injected here -->
-        <div id="loading" class="loading">
-            <div class="spinner"></div>
-            <p>Gathering Today's Research...</p>
-        </div>
-    </div>
+  <main>
+    <!-- Example story card: replicate for each story -->
+    <article class="story-card">
+      <h2 class="story-title">Story title</h2>
 
-    <script src="news_data.js"></script>
-    <script src="script.js"></script>
+      <div class="story-snippet" id="snippet-1" aria-hidden="false">
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin gravida
+          pharetra felis, sed ullamcorper nibh volutpat sed. Integer euismod nisl
+          non risus feugiat, sed faucibus ipsum tincidunt. Sed do eiusmod tempor
+          incididunt ut labore et dolore magna aliqua. <!-- long story text -->
+        </p>
+      </div>
+
+      <button class="read-more" aria-expanded="false" data-target="snippet-1">
+        Read more
+      </button>
+    </article>
+  </main>
+
+  <script src="assets/js/script.js" defer></script>
 </body>
-
 </html>
