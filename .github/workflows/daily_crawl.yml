@@ -2,7 +2,7 @@ name: Daily News Crawl
 
 on:
   schedule:
-    - cron: '0 10 * * *' # Runs at 10:00 AM UTC (adjust as needed)
+    - cron: '0 12 * * *' # Runs at 12:00 PM UTC (adjust as needed)
   workflow_dispatch: # Allows manual trigger
 
 jobs:
