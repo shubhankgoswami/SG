@@ -13,6 +13,10 @@
     -webkit-tap-highlight-color: transparent;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     font-family: 'Inter', sans-serif;
     background: #0f172a;
@@ -23,8 +27,8 @@ body {
 }
 
 .app-container {
-    padding: 2rem 1rem;
-    max-width: 600px;
+    padding: 2rem 1.5rem;
+    max-width: 800px;
     margin: 0 auto;
     display: flex;
     flex-direction: column;
@@ -150,10 +154,68 @@ body {
 }
 
 @keyframes fadeInList {
-    from { opacity: 0; transform: translateY(20px); }
-    to { opacity: 1; transform: translateY(0); }
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
 }
 
 .card {
     animation: fadeInList 0.5s ease-out backwards;
+}
+
+/* Base Responsive Adjustments */
+@media (max-width: 768px) {
+    .app-container {
+        padding: 1.5rem 1rem;
+    }
+
+    .title {
+        font-size: 1.25rem;
+    }
+}
+
+/* Mobile Specific Optimizations */
+@media (max-width: 480px) {
+    .app-container {
+        padding: 1rem 0.75rem;
+        gap: 1rem;
+    }
+
+    .card {
+        padding: 1.25rem;
+        border-radius: 16px;
+    }
+
+    .title {
+        font-size: 1.15rem;
+    }
+
+    .category {
+        font-size: 0.6rem;
+    }
+
+    .summary {
+        font-size: 0.95rem;
+        line-height: 1.6;
+    }
+
+    .card::after {
+        top: 1.25rem;
+        right: 1.25rem;
+        font-size: 1.25rem;
+    }
+}
+
+/* Large Screens */
+@media (min-width: 1200px) {
+    .app-container {
+        padding-top: 4rem;
+        gap: 2rem;
+    }
 }
