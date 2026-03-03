@@ -53,18 +53,23 @@ def curate_news(entries):
     genai.configure(api_key=api_key)
     model = genai.GenerativeModel('gemini-2.5-flash')
 
-    # Prepare input for Gemini
-    news_input = "\n".join([f"Source: {e['source']}\nTitle: {e['title']}\nSummary: {e['summary'][:200]}\nLink: {e['link']}\n---" for e in entries])
+    # Prepare input for Gemini - passing more text (up to 1000 chars) for better factual accuracy
+    news_input = "\n".join([f"Source: {e['source']}\nTitle: {e['title']}\nSummary: {e['summary'][:1000]}\nLink: {e['link']}\n---" for e in entries])
 
     prompt = f"""
-    You are a high-end news curator for a tech-savvy executive. 
-    Analyze the following news items and select the top 20-25 most critical and interesting updates for today ({datetime.date.today()}).
-    Prioritize AI, breakthroughs in Tech, and major global shifts.
+    You are a high-end, high-accuracy news curator for a tech-savvy executive. 
+    Analyze the following news items and select the top 20-25 most critical updates for today ({datetime.date.today()}).
+    
+    STRICT RULES:
+    1. ZERO HALLUCINATION: Based ONLY on the provided summaries, write a professional summary.
+    2. DO NOT FABRICATE: If a specific percentage, number, or fact is not in the source text, DO NOT invent one.
+    3. NO "FILL-IN-THE-BLANKS": If the source text is too sparse to write 60 words, either skip the story or stay extremely concise (priority is accuracy over word count).
+    4. Prioritize: AI breakthroughs, Tech economy, and major global shifts.
     
     For each selected item, provide:
-    1. A catchy broad category (e.g., "AI BREAKTHROUGH", "BIG TECH", "GLOBAL ECONOMY").
+    1. A catchy broad category.
     2. A short, punchy title.
-    3. A cohesive summary of 60-100 words that provides deep context and insight.
+    3. A cohesive summary (60-100 words) that provides deep context based ONLY on the source.
     4. The original source link.
 
     Return the output ONLY as a JSON array of objects with the following keys:
