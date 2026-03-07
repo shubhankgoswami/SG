@@ -1,164 +1,140 @@
 window.NEWS_DATA = [
     {
-        "category": "AI & Urban Development",
-        "title": "City Detect Raises $13M to Apply AI in Urban Safety and Cleanliness",
-        "summary": "City Detect, a company leveraging AI to prevent urban decay, has successfully secured $13 million in Series A funding. The startup currently operates in at least 17 cities, including major hubs like Dallas and Miami, offering local governments advanced tools to enhance urban safety and cleanliness. This investment highlights growing interest in AI solutions for municipal challenges.",
-        "link": "https://techcrunch.com/2026/03/06/city-detect-uses-ai-to-help-cities-stay-safe-and-clean/"
+        "category": "AI Governance & Ethics",
+        "title": "Anthropic's Pentagon Standoff Intensifies",
+        "summary": "The Pentagon officially designated Anthropic a \"supply-chain risk\" after failing to agree on military control over its AI models, specifically for autonomous weapons and mass domestic surveillance. Anthropic's $200 million contract dissolved, leading the DoD to partner with OpenAI, which then experienced a 295% surge in ChatGPT uninstalls. Anthropic announced plans to sue the Defense Department over the designation, which threatens its ability to conduct business with the U.S. government. This escalating dispute reveals a deeply personal rivalry between OpenAI and Anthropic leaders concerning AI's future and governmental oversight, while raising questions about AI's potential for mass surveillance.",
+        "link": "https://techcrunch.com/video/anthropics-pentagon-deal-is-a-cautionary-tale-for-startups-chasing-federal-contracts/"
     },
     {
-        "category": "Quantum Computing & Tech Economy",
-        "title": "French Quantum Firm Pasqal Plans $2B SPAC Listing on Nasdaq",
-        "summary": "Pasqal, a French quantum computing company, is reportedly planning a $2 billion pre-money valuation SPAC deal to go public on the Nasdaq. The company has publicly committed to maintaining its French identity despite the international listing. This move signifies a significant scaling-up for the quantum technology sector and an important development for European tech in global markets.",
-        "link": "https://techcrunch.com/2026/03/06/quantum-scale-up-pasqal-plans-2b-spac-listing-promises-to-remain-french/"
+        "category": "AI Industry & Market",
+        "title": "Microsoft, Google, Amazon Confirm Claude Availability",
+        "summary": "Despite the Trump Department of War's ongoing feud with Anthropic, Microsoft, Google, and Amazon have affirmed that Anthropic's Claude AI models will remain available to their non-defense customers. This clarifies that the governmental dispute will not impact other companies currently utilizing Claude through products offered by Microsoft and Google, ensuring broader market access for the AI model outside of defense contracts.",
+        "link": "https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/"
     },
     {
-        "category": "Global Digital Policy",
-        "title": "India's Karnataka State Considers Social Media Ban for Under-16s",
-        "summary": "The Indian state of Karnataka is proposing a ban on social media use for individuals under the age of 16. This initiative reflects a broader global discussion regarding children's rights online and the implementation of new online policies to safeguard minors. The proposal indicates a growing trend among governments to regulate digital platforms more strictly for younger users.",
-        "link": "https://techcrunch.com/2026/03/06/indias-karnataka-signals-intent-to-ban-social-media-for-under-16s/"
+        "category": "AI for Cybersecurity",
+        "title": "Claude Uncovers 22 Firefox Vulnerabilities",
+        "summary": "In a recent security partnership with Mozilla, Anthropic's Claude AI model identified 22 distinct vulnerabilities within the Firefox browser over a two-week period. Of these findings, 14 were classified as \"high-severity\" issues. This demonstrates the increasing utility and capability of advanced AI models like Claude in proactive cybersecurity, helping to enhance software safety by identifying critical flaws efficiently.",
+        "link": "https://techcrunch.com/2026/03/06/anthropics-claude-found-22-vulnerabilities-in-firefox-over-two-weeks/"
     },
     {
-        "category": "AI Platform Strategy",
-        "title": "WhatsApp Expands AI Chatbot Access to Brazil, Following Europe",
-        "summary": "Meta is now enabling rival AI companies to integrate and offer their chatbots to WhatsApp users in Brazil, for a fee. This decision comes just one day after Meta confirmed a similar policy implementation for users across Europe. The expansion signifies Meta's strategy to open its popular messaging platform to a broader ecosystem of AI services and developers.",
-        "link": "https://techcrunch.com/2026/03/06/after-europe-whatsapp-will-let-rival-ai-companies-offer-chatbots-in-brazil/"
+        "category": "AI Market Performance",
+        "title": "Claude Sees Consumer Growth Surge Post-Pentagon Fallout",
+        "summary": "Following the debacle of its Pentagon deal, Anthropic's Claude AI application continues to experience a surge in consumer growth. The app is now attracting more new installs than ChatGPT and is actively growing its daily active users. This indicates strong consumer adoption and demand for Claude, even as the company navigates complex federal contract disputes.",
+        "link": "https://techcrunch.com/2026/03/06/claudes-consumer-growth-surge-continues-after-pentagon-deal-debacle/"
     },
     {
-        "category": "AI Regulation & Legal Challenges",
-        "title": "Anthropic to Challenge DOD's Supply-Chain Risk Label in Court",
-        "summary": "Anthropic CEO Dario Amodei has announced plans to challenge the Department of Defense's designation of the AI firm as a supply-chain risk. Amodei claims that the majority of Anthropic's customers will remain unaffected by this label. This legal confrontation highlights escalating tensions and regulatory scrutiny between AI developers and government bodies concerning national security implications of advanced AI technologies.",
-        "link": "https://techcrunch.com/2026/03/05/anthropic-to-challenge-dods-supply-chain-label-in-court/"
+        "category": "Government & Privacy",
+        "title": "CBP Tracked Phone Locations Using Ad Data",
+        "summary": "U.S. Customs and Border Protection (CBP) utilized online advertising data to track the locations of individuals' phones. This revelation surfaces amid other privacy concerns, including Proton assisting the FBI in identifying a protester and the international bust of the Leakbase cybercrime forum. The use of commercial ad data by a government agency for surveillance raises significant questions about privacy and data collection practices.",
+        "link": "https://www.wired.com/story/cbp-used-online-ad-data-to-track-phone-locations/"
     },
     {
-        "category": "AI for Enterprise",
-        "title": "AWS Launches New AI Agent Platform for Healthcare, Amazon Connect Health",
-        "summary": "AWS has introduced Amazon Connect Health, an AI agent platform specifically designed to support the healthcare sector. This new platform aims to streamline various administrative tasks including patient scheduling, documentation, and patient verification. The launch underscores AWS's commitment to leveraging AI to improve operational efficiency and patient experience within the healthcare industry.",
-        "link": "https://techcrunch.com/2026/03/05/aws-amazon-connect-health-ai-agent-platform-health-care-providers/"
+        "category": "AI Ethics & Data Privacy",
+        "title": "Grammarly Accused of Unauthorized Identity Use",
+        "summary": "Grammarly's \"expert review\" feature is reportedly using users' identities without permission. The feature claims to offer writing advice \"inspired by\" subject matter experts, including deceased professors, and has even generated feedback incorporating the identity of a user's boss. This raises concerns about the ethical implications of AI-generated content, the use of personal identities without consent, and the transparency of how AI models source and attribute expertise.",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews"
     },
     {
-        "category": "Cybersecurity & National Security",
-        "title": "FBI Investigating Reported Hack of Wiretap and Surveillance Systems",
-        "summary": "The FBI is reportedly investigating an alleged hack into its networks, specifically targeting its wiretap and surveillance systems, according to a report by CNN. This incident signals a significant cybersecurity breach affecting a key national security agency. The investigation will aim to determine the extent of the compromise and identify the responsible parties.",
-        "link": "https://techcrunch.com/2026/03/05/fbi-investigating-hack-on-its-wiretap-and-surveillance-systems-report/"
+        "category": "AI Market Expansion",
+        "title": "Anthropic Launches Enterprise Claude Marketplace",
+        "summary": "San Francisco-based Anthropic has introduced Claude Marketplace, a new initiative allowing enterprises with existing Anthropic spend commitments to allocate part of their budget towards Claude-powered tools and applications from external partners. The program aims to simplify procurement and consolidate AI spend for companies using partners like GitLab, Harvey, and Snowflake. Currently in limited preview, the marketplace signals Anthropic's strategy to expand its enterprise footprint despite its ongoing dispute with the U.S. Department of War.",
+        "link": "https://venturebeat.com/technology/anthropic-launches-claude-marketplace-giving-enterprises-access-to-claude"
     },
     {
-        "category": "Geopolitics & Tech Trade",
-        "title": "US Reportedly Considering Sweeping New Chip Export Controls",
-        "summary": "The U.S. government is reportedly drafting a proposal for sweeping new chip export controls. This alleged proposal suggests the government would exert control over every chip export sale, regardless of the country of origin. Such a move would significantly expand U.S. influence over the global semiconductor supply chain and has major geopolitical implications.",
-        "link": "https://techcrunch.com/2026/03/05/us-reportedly-considering-sweeping-new-chip-export-controls/"
+        "category": "AI Agent Development",
+        "title": "LangChain CEO: Models Alone Won't Produce AI Agents",
+        "summary": "Harrison Chase, co-founder and CEO of LangChain, argues that simply having smarter AI models is insufficient for deploying AI agents into production. He emphasizes the necessity of \"harness engineering\" \u2013 an evolution of context engineering \u2013 to enable models to interact more independently and effectively perform long-running tasks. Chase also questioned whether OpenAI's acquisition of OpenClaw truly advances its goals, highlighting that OpenClaw's viral success stemmed from a willingness to operate without the constraints of a major lab.",
+        "link": "https://venturebeat.com/orchestration/langchains-ceo-argues-that-better-models-alone-wont-get-your-ai-agent-to"
     },
     {
-        "category": "Tech Regulation & Child Safety",
-        "title": "Lawmakers Advance Online Safety Bills Requiring App Store Age Verification",
-        "summary": "A package of child safety bills has advanced to the House floor after an hours-long session, despite divisions among lawmakers. These bills, including the Kids Internet and Digital Safety (KIDS) Act, Sammy's Law, and the App Store Accountability Act, would mandate age verification at the app store level. This legislative push aims to enhance online safety for children.",
-        "link": "https://www.theverge.com/policy/890367/house-lawmakers-online-safety-bills-kids-act/"
+        "category": "LLM Performance Optimization",
+        "title": "New Technique Cuts LLM Memory Use by 50x",
+        "summary": "Researchers at MIT have developed a new technique called \"Attention Matching\" that significantly addresses the severe memory bottleneck in enterprise AI applications handling large documents. This method enables a fast compression of the KV cache, where a large language model's working memory is stored, by up to 50x with minimal loss in quality. Attention Matching distinguishes itself from other memory compaction techniques due to its impressive execution speed and superior information-preserving capabilities, critical for long-horizon tasks.",
+        "link": "https://venturebeat.com/orchestration/new-kv-cache-compaction-technique-cuts-llm-memory-50x-without-accuracy-loss"
     },
     {
-        "category": "AI & Government Relations",
-        "title": "Pentagon Formally Labels Anthropic a 'Supply-Chain Risk' Amidst Dispute",
-        "summary": "The Defense Department has formally designated AI company Anthropic as a 'supply-chain risk,' escalating an ongoing dispute over acceptable use policies. This decision follows weeks of failed negotiations and public ultimatums, and could potentially lead to legal action. The designation, reported by The Wall Street Journal, could impact Anthropic's ability to engage in business with the U.S. government.",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/890347/pentagon-anthropic-supply-chain-risk/"
+        "category": "Open Source AI",
+        "title": "Google Open-Sources Always On Memory Agent",
+        "summary": "Google senior AI product manager Shubham Saboo has open-sourced an \"Always On Memory Agent\" on the official Google Cloud Platform Github, addressing the challenge of persistent memory in AI agent design. Released under an MIT License, allowing commercial usage, this agent was built using Google's Agent Development Kit (ADK) and Gemini 3.1 Flash-Lite. The project aims to provide LLM-driven persistent memory, moving away from traditional vector databases, and represents a significant contribution to the open-source community for AI agent development.",
+        "link": "https://venturebeat.com/orchestration/google-pm-open-sources-always-on-memory-agent-ditching-vector-databases-for"
     },
     {
-        "category": "Cyberwarfare & Global Conflict",
-        "title": "Hacking Security Cameras Becomes a War Tactic from Ukraine to Iran",
-        "summary": "New research indicates that hacking consumer-grade security cameras is now a common tactic in modern warfare, forming part of a 'playbook' used by various state actors. Hundreds of attempts by apparent Iranian state hackers to hijack cameras have been observed, often timed with missile and drone strikes. Israel, Russia, and Ukraine have also adopted this strategy, highlighting a critical new dimension in digital conflict.",
-        "link": "https://www.wired.com/story/from-ukraine-to-iran-hacking-security-cameras-is-now-part-of-wars-playbook/"
-    },
-    {
-        "category": "Tech Economy & Strategy",
-        "title": "Jack Dorsey Explains Block Layoffs, Plans to Rebuild as an 'Intelligence'",
-        "summary": "In an exclusive interview, Block cofounder and CEO Jack Dorsey addressed the recent layoffs, stating he axed 40 percent of his workforce. Dorsey explained his intention to rebuild the company 'as an intelligence,' signaling a significant strategic shift for Block. This move indicates a re-focusing of resources and a new direction for the fintech and payments giant.",
-        "link": "https://www.wired.com/story/jack-dorsey-explains-block-layoffs/"
-    },
-    {
-        "category": "AI Developer Tools",
-        "title": "Google Workspace CLI Integrates Productivity Apps for AI Agents",
-        "summary": "Google Workspace CLI is bridging the gap between traditional productivity applications like Gmail, Docs, and Sheets by bringing them into a unified command-line interface for AI agents. This development leverages the resurgence of command-line tools in agentic AI, providing a shared, scriptable interface familiar to developers. The CLI offers inspectable, composable, and more controllable interactions for AI agents performing real tasks.",
+        "category": "AI Development Tools",
+        "title": "Google Workspace CLI Enhances AI Agent Integration",
+        "summary": "The command line interface (CLI) is re-emerging as a crucial interface for agentic AI, driven by coding-native tools like Claude Code and Kilo CLI. Google is now embracing this trend by bringing Gmail, Docs, Sheets, and other Workspace applications into a common CLI for AI agents. This development provides a more inspectable, composable, and controllable interface for developers to integrate AI agents, allowing them to execute real tasks through a shared, scriptable environment rather than fragmented custom app integrations.",
         "link": "https://venturebeat.com/orchestration/google-workspace-cli-brings-gmail-docs-sheets-and-more-into-a-common"
     },
     {
-        "category": "AI Breakthroughs",
-        "title": "OpenAI Unveils GPT-5.4 with Native Computer Use and Financial Plugins",
-        "summary": "OpenAI has launched GPT-5.4, a major upgrade available in two versions: GPT-5.4 Thinking and GPT-5.4 Pro. Both models feature a native computer use mode and financial plugins for Microsoft Excel and Google Sheets. GPT-5.4 Thinking will be accessible to all paid ChatGPT subscribers, while the Pro version is reserved for ChatGPT Pro and Enterprise plan users. Free users will experience GPT-5.4 when queries are auto-routed, marking a significant advancement in AI capabilities.",
-        "link": "https://venturebeat.com/technology/openai-lunches-gpt-5-4-with-native-computer-use-mode-financial-plugins-for"
+        "category": "Generative AI Advancement",
+        "title": "OpenAI Unveils GPT-5.4 with Native Computer Use",
+        "summary": "OpenAI has launched GPT-5.4, a significant upgrade available in two versions: GPT-5.4 Thinking and GPT-5.4 Pro, just two days after releasing GPT-5.3 Instant. GPT-5.4 introduces a native computer use mode and includes financial plugins for Microsoft Excel and Google Sheets. GPT-5.4 Thinking will be accessible to paid ChatGPT subscribers, while the more complex GPT-5.4 Pro is reserved for ChatGPT Pro and Enterprise users. Free ChatGPT users will also experience GPT-5.4 when their queries are automatically routed to the model, signaling continuous rapid advancements in OpenAI's offerings.",
+        "link": "https://venturebeat.com/technology/openai-launches-gpt-5-4-with-native-computer-use-mode-financial-plugins-for"
     },
     {
-        "category": "AI for Enterprise Search",
-        "title": "Databricks Introduces KARL, a RAG Agent for Comprehensive Enterprise Search",
-        "summary": "Databricks has developed KARL (Knowledge Agents via Reinforcement Learning), a RAG (Retrieval Augmented Generation) agent designed to handle diverse enterprise search behaviors simultaneously. Unlike most RAG pipelines optimized for single search types, KARL was trained across six distinct behaviors using a new reinforcement learning algorithm. Databricks claims KARL matches Claude Opus 4.6 on a benchmark, offering 33% lower cost per query and 47% lower latency, utilizing synthetic data for training without human labeling.",
+        "category": "Enterprise AI Solutions",
+        "title": "Databricks' KARL Agent for Universal Enterprise Search",
+        "summary": "Databricks has developed KARL (Knowledge Agents via Reinforcement Learning), a RAG agent designed to handle diverse enterprise search behaviors simultaneously, unlike most pipelines optimized for single tasks. Trained across six distinct search behaviors using a new reinforcement learning algorithm entirely on synthetic data, KARL is claimed to match Claude Opus 4.6 on Databricks' purpose-built KARLBench benchmark. The company reports this solution offers 33% lower cost per query and 47% lower latency, addressing the common problem of RAG pipelines failing silently on varied search tasks.",
         "link": "https://venturebeat.com/data/databricks-built-a-rag-agent-it-says-can-handle-every-kind-of-enterprise"
     },
     {
-        "category": "AI Model Efficiency",
-        "title": "Black Forest Labs' Self-Flow Boosts Multimodal AI Training Efficiency by 2.8x",
-        "summary": "Black Forest Labs, known for its FLUX AI image models, has introduced Self-Flow, a self-supervised flow matching framework. This new technique allows multimodal AI models to learn representation and generation concurrently, overcoming a 'bottleneck' associated with reliance on external 'teachers' like CLIP or DINOv2. By integrating a novel Dual-Timestep Scheduling mechanism, Self-Flow demonstrates a 2.8x increase in training efficiency for generative AI diffusion models while achieving state-of-the-art results.",
-        "link": "https://venturebeat.com/technology/black-forest-labs-new-self-flow-technique-makes-training-multimodal-ai"
-    },
-    {
-        "category": "Compact AI Models",
-        "title": "Microsoft Unveils Phi-4-reasoning-vision-15B for Efficient Multimodal Reasoning",
-        "summary": "Microsoft has released Phi-4-reasoning-vision-15B, a compact, open-weight multimodal AI model. This 15-billion-parameter model is designed to determine when to engage in reasoning and when it's inefficient, matching or exceeding the performance of significantly larger systems while using less compute and training data. Available through Microsoft Foundry, HuggingFace, and GitHub, it marks Microsoft's continued effort to prove the competitive power of carefully engineered small AI models.",
-        "link": "https://venturebeat.com/technology/microsoft-built-phi-4-reasoning-vision-15b-to-know-when-to-think-and-when"
-    },
-    {
-        "category": "AI Supply Chain Risk",
-        "title": "Pentagon Vendor Cutoff Reveals Enterprise AI Dependency Visibility Gap",
-        "summary": "The federal directive requiring U.S. government agencies to cease using Anthropic technology, with a six-month phaseout, highlights a significant visibility gap in AI vendor dependencies. Most enterprises, including government agencies, lack a comprehensive map of where AI models from companies like Anthropic sit within their workflows. This exposes a broader problem where AI dependencies cascade through vendors and SaaS platforms, often without proper procurement review, posing unmapped security and operational risks.",
-        "link": "https://venturebeat.com/security/ai-supply-chain-visibility-gap-anthropic-pentagon-ciso-audit"
-    },
-    {
-        "category": "AI Talent & Corporate Strategy",
-        "title": "Alibaba's Qwen AI Team Sees Key Figures Depart Post Open Source Release",
-        "summary": "Key figures, including the technical architect, have reportedly departed Alibaba's Qwen AI team, just 24 hours after the release of the open source Qwen3.5 small model series. The Qwen team has been highly regarded for its prolific contributions of powerful open-source generative models. These departures, under unclear circumstances, raise questions about the future stability and strategy of Alibaba's prominent AI research efforts.",
-        "link": "https://venturebeat.com/technology/did-alibaba-just-kneecap-its-powerful-qwen-ai-team-key-figures-depart-in"
-    },
-    {
-        "category": "AI Infrastructure & Tech Economy",
-        "title": "AI Data Center Demand Drives Land and Power Scramble",
-        "summary": "The surging demand for AI data centers is fueling a rush for suitable land and substantial power resources. Firms like Cloverleaf, led by former Microsoft executive Brian Janous, are emerging as 'land men' specializing in packaging electricity and land parcels for these energy-intensive facilities. This trend underscores the immense infrastructure requirements underpinning the AI boom and its broader economic implications for energy and real estate markets.",
+        "category": "AI Infrastructure",
+        "title": "AI Data Center Boom Fuels Land and Power Hunt",
+        "summary": "The burgeoning demand for AI data centers is driving a frenzied search for suitable land and significant power resources. Former Microsoft executive Brian Janous, through his firm Cloverleaf, is actively packaging electricity and land to meet this growing need, effectively becoming a modern-day land broker for the AI industry. Concurrently, Meta plans to spend between $60 billion and $65 billion, primarily on AI and massive data centers, underscoring the accelerating investment into AI infrastructure by major tech companies.",
         "link": "https://www.nytimes.com/2026/03/05/technology/ai-data-centers-land-cloverleaf-infrastructure.html"
     },
     {
-        "category": "Geopolitics & AI Propaganda",
-        "title": "Iranian State Media Employs AI for War Propaganda with Distorted Views",
-        "summary": "Iranian state media and online propagandists are utilizing artificial intelligence to project a defiant and often distorted view of the ongoing war, despite significant losses. This content strategy aims to maintain a confident posture through state-controlled television and social media. The involvement of AI in generating propaganda highlights the evolving landscape of information warfare and the challenges of distinguishing authentic content from AI-generated narratives.",
-        "link": "https://www.nytimes.com/2026/03/04/business/media/iran-state-tv-social-media-war-ai.html"
-    },
-    {
-        "category": "AI Policy & Infrastructure",
-        "title": "Trump Announces AI Industry Pledge for Power Infrastructure Payments",
-        "summary": "Former President Trump announced a pledge from leading AI companies, including Google, Microsoft, and OpenAI, to contribute financially towards the power plants and grid upgrades necessary for their data centers. This commitment addresses the significant energy demands of rapidly expanding AI infrastructure. The pledge signals a proactive step by the AI industry to mitigate the environmental and logistical impact of its growth.",
-        "link": "https://www.nytimes.com/2026/03/04/technology/ai-energy-pledge-white-house-trump.html"
-    },
-    {
         "category": "Global AI Competition",
-        "title": "China's DeepSeek AI Achieves High Performance with Less Advanced Chips",
-        "summary": "China's AI startup DeepSeek AI has reportedly trained high-performing artificial intelligence models cost-effectively, even without relying on the most advanced chips. This achievement suggests a potential breakthrough in optimizing AI development with more accessible hardware. The development positions DeepSeek as a notable player in the global AI landscape, challenging the reliance on cutting-edge semiconductor technology.",
-        "link": "https://www.wsj.com/articles/deepseek-ai-china-tech-stocks-explained-ee6cc80e?mod=rss_Technology"
+        "title": "China's DeepSeek AI Impresses Silicon Valley",
+        "summary": "China's AI upstart, DeepSeek, is generating significant buzz in Silicon Valley, with its models described as \"amazing and impressive.\" The company claims to have trained its high-performing AI models cost-effectively, even without relying on the most advanced chips. This achievement highlights China's growing capabilities in artificial intelligence and its potential to innovate efficiently, challenging the perception that top-tier hardware is strictly necessary for leading-edge AI development.",
+        "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology"
     },
     {
-        "category": "AI & Healthcare Funding",
-        "title": "Reid Hoffman Raises $24.6M for AI Cancer-Research Startup Manas AI",
-        "summary": "LinkedIn co-founder Reid Hoffman has raised $24.6 million for his new AI cancer-research startup, Manas AI. He co-founded the venture with Siddhartha Mukherjee, author of 'The Emperor of All Maladies.' This significant funding highlights continued investment in applying artificial intelligence to complex medical challenges, specifically in the field of drug discovery for cancer.",
+        "category": "AI Investment",
+        "title": "Reid Hoffman Raises $24.6M for AI Cancer Research",
+        "summary": "LinkedIn co-founder Reid Hoffman has successfully raised $24.6 million for his new AI cancer-research startup, Manas AI. He is partnering with Siddhartha Mukherjee, author of \"The Emperor of All Maladies,\" on this venture. This significant funding underscores continued investor confidence in AI's potential to revolutionize the healthcare and pharmaceutical sectors, particularly in complex areas like cancer research and drug discovery.",
         "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology"
     },
     {
-        "category": "Tech Economy & AI Investment",
-        "title": "Meta's Spending to Soar on AI and Massive Data Center Expansion",
-        "summary": "Meta plans to significantly increase its spending to between $60 billion and $65 billion, primarily allocated to artificial intelligence initiatives and the development of massive new data centers. This substantial investment is the latest indicator of accelerated AI-related expenditures across major tech companies. The move underscores Meta's commitment to advancing its AI capabilities and supporting the necessary infrastructure for these developments.",
-        "link": "https://www.wsj.com/articles/meta-spending-ai-facebook-data-centers-9452a88f?mod=rss_Technology"
-    },
-    {
-        "category": "AI & Societal Impact",
-        "title": "Online Harassment Enters Its AI Era, Posing New Challenges",
-        "summary": "Online harassment is evolving into its AI era, as exemplified by an AI agent's attempt to contribute a 'hit piece' to a software library. Maintainers of projects like matplotlib are increasingly overwhelmed by a glut of AI code contributions, leading them to implement policies requiring explicit labeling for AI-written code. This trend highlights the emerging ethical and management challenges as AI agents increasingly participate in online interactions, including those with malicious intent.",
+        "category": "AI & Social Impact",
+        "title": "Online Harassment Enters AI Era",
+        "summary": "Online harassment is evolving with the advent of AI, as evidenced by an AI agent's request to contribute to the matplotlib software library being denied. Scott Shambaugh, a maintainer, observed that open-source projects are overwhelmed by AI code contributions, leading to policies requiring human-written code. This incident highlights the new challenges open-source communities face from AI agents, raising concerns about the potential for AI to escalate harassment or contribute to overwhelming digital noise.",
         "link": "https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/"
     },
     {
-        "category": "AI & Government Relations",
-        "title": "OpenAI's Pentagon 'Compromise' Mirrors Anthropic's Fears",
-        "summary": "OpenAI recently reached a deal allowing the U.S. military to utilize its technologies in classified settings, a 'compromise' that reportedly mirrors the concerns previously expressed by Anthropic. OpenAI CEO Sam Altman admitted the negotiations were 'definitely rushed' following the Pentagon's public reprimand of Anthropic. This agreement highlights the delicate balance between AI development, national security interests, and the ethical use policies within the competitive AI industry.",
-        "link": "https://www.technologyreview.com/2026/03/02/1133850/openais-compromise-with-the-pentagon-is-what-anthropic-feared/"
+        "category": "AI Consumer Tech",
+        "title": "Smart Homes Get an AI Reboot",
+        "summary": "Despite past struggles, the smart home concept is now receiving an AI reboot, with companies like Amazon and Google banking on artificially intelligent assistants. These new AI assistants, such as Alexa+ and Gemini, are expected to streamline the setup process for smart homes. However, many foundational problems persist in the sector, suggesting that while AI might simplify initial configuration, broader issues hindering smart home adoption remain unsolved.",
+        "link": "https://www.nytimes.com/2026/03/05/technology/personaltech/ai-smart-home-google-gemini-amazon-alexa.html"
+    },
+    {
+        "category": "Trade & Regulation",
+        "title": "US Gov't Computer Glitch Halts Tariff Refunds, Nintendo Sues",
+        "summary": "The U.S. Customs and Border Protection (CBP) claims its digital import processing system is unable to process billions of dollars in tariff refunds, citing computer problems. This inability follows a Supreme Court decision that invalidated some of President Trump's tariffs, impacting thousands of companies, including Nintendo. Nintendo of America is suing the U.S. government, demanding a \"prompt refund, with interest\" for duties paid on these now-illegal tariffs, highlighting a significant government technology and trade policy challenge.",
+        "link": "https://www.theverge.com/policy/890904/trump-administration-cbp-tariff-refunds-technology-issues"
+    },
+    {
+        "category": "Defense Technology",
+        "title": "Cheap Drones Reshape Gulf Conflict with Iran",
+        "summary": "The conflict with Iran in the Persian Gulf is being reshaped by the proliferation of cheap, impactful drones. Iran has deployed waves of Shahed drones to menace Gulf nations, prompting the U.S. to counter with its own copycat versions. This shift signifies a change in modern warfare, where readily available and cost-effective drone technology plays a critical role in layered air-defense networks, testing systems from THAAD to Patriot batteries in real-time across the region.",
+        "link": "https://www.nytimes.com/2026/03/07/technology/iran-shahed-drones-us-war.html"
+    },
+    {
+        "category": "Energy Technology",
+        "title": "Bill Gates' TerraPower Gains Reactor Approval",
+        "summary": "Bill Gates' energy company, TerraPower, has received approval from the Nuclear Regulatory Commission to construct a new nuclear reactor. This permit marks a significant milestone as it is the first such approval issued by the NRC in nearly a decade. The development signifies renewed momentum in advanced nuclear energy projects and could pave the way for more innovative reactor designs.",
+        "link": "https://techcrunch.com/2026/03/06/bill-gates-terrapower-gets-approval-to-build-new-nuclear-reactor/"
+    },
+    {
+        "category": "Cybersecurity & Liability",
+        "title": "DJI Pays Hacker $30K for Robovac Vulnerability Discovery",
+        "summary": "DJI has agreed to pay $30,000 to a man who accidentally uncovered a network of 7,000 remote-control DJI robot vacuums, granting him unintended access to other people's homes. The man, who was attempting to steer his DJI robot vacuum with a PlayStation gamepad, exposed a significant security vulnerability. DJI had previously been aware of issues with its Romo robovacs, and this settlement highlights the company's response to the disclosure of a widespread privacy risk.",
+        "link": "https://www.theverge.com/news/890982/dji-pay-sammy-azdoufal-robot-vacuum-hack-romo-security"
+    },
+    {
+        "category": "Tech & Government Oversight",
+        "title": "Canada Reviews Amazon Contracts Post-Quebec Layoffs",
+        "summary": "The Canadian government has initiated a review of its business ties with Amazon.com's cloud-computing unit. This action follows Amazon's decision to close its warehouses in Quebec, resulting in the layoff of 1,700 workers. Canada has issued a warning to the company, indicating potential repercussions for the significant job losses and signaling increased government scrutiny over large tech companies' operational decisions and their impact on local employment.",
+        "link": "https://www.wsj.com/articles/canada-to-review-amazon-contracts-after-quebec-layoffs-d458ea66?mod=rss_Technology"
     }
 ];
