@@ -1,152 +1,146 @@
 window.NEWS_DATA = [
     {
-        "category": "Tech Economy & Global Trade",
-        "title": "Honda Scraps US EV Plans, Blames Tariffs",
-        "summary": "Honda is canceling the release of three electric vehicle models previously planned for the US market. The Japanese automaker attributes this strategic shift to the impact of tariffs and escalating competition from Chinese manufacturers. This change of plans is projected to cost Honda a significant amount, up to $15.7 billion, highlighting the severe economic pressures and global trade challenges impacting the automotive industry's EV transition.",
-        "link": "https://techcrunch.com/2026/03/12/honda-scraps-3-evs-planned-for-the-us-blaming-tariffs-and-chinese-competition/"
+        "category": "AI Hardware & Vision",
+        "title": "Nvidia's Jensen Huang to Unveil Future AI Vision at GTC 2026",
+        "summary": "Jensen Huang's keynote at Nvidia's annual GPU Technology Conference (GTC) 2026 is highly anticipated. The event serves as the chipmaker's flagship platform to announce new products, highlight strategic partnerships, and articulate its vision for the future of computing, particularly focusing on Nvidia's pivotal role in the evolving landscape of artificial intelligence. This keynote is expected to provide critical insights into upcoming advancements and strategic directions within the AI and computing sectors.",
+        "link": "https://techcrunch.com/2026/03/12/how-to-watch-jensen-huangs-nvidia-gtc-2026-keynote/"
     },
     {
-        "category": "AI Applications & Environment",
-        "title": "Google AI Predicts Flash Floods from Old Reports",
-        "summary": "Google is employing artificial intelligence, specifically large language models (LLMs), to predict flash floods by analyzing old news reports. This innovative approach addresses data scarcity issues by transforming qualitative historical accounts into quantitative data. The LLM's ability to extract structured information from unstructured text provides a new method for environmental forecasting, enhancing preparedness for natural disasters where traditional data might be insufficient.",
-        "link": "https://techcrunch.com/2026/03/12/google-is-using-old-news-reports-and-ai-to-predict-flash-floods/"
+        "category": "AI in Enterprise",
+        "title": "Sales Automation Startup Rox AI Valued at $1.2 Billion",
+        "summary": "Rox AI, a sales automation startup founded in 2024 by New Relic's former chief growth officer, has reportedly reached a $1.2 billion valuation. The company distinguishes itself by offering an AI-native alternative to traditional Customer Relationship Management (CRM) tools. This significant valuation underscores growing investor confidence in AI-driven solutions for streamlining sales processes and the broader enterprise software market's shift towards artificial intelligence.",
+        "link": "https://techcrunch.com/2026/03/12/sales-automation-startup-rox-ai-hits-1-2b-valuation-sources-say/"
     },
     {
-        "category": "AI Product Integration",
-        "title": "Google Maps Integrates AI 'Ask Maps' with Gemini",
-        "summary": "Google Maps is rolling out its 'Ask Maps' AI feature, powered by Gemini, alongside an upgraded 'immersive' navigation experience. This represents the biggest update to Maps in over a decade, allowing users to ask complex, real-world questions and receive highly detailed, personalized responses. This enhancement aims to overcome previous limitations where Google Maps struggled with hyper-specific queries, making trip planning and local discovery more intuitive and comprehensive.",
-        "link": "https://techcrunch.com/2026/03/12/google-maps-is-getting-an-ai-ask-maps-feature-and-upgraded-immersive-navigation/"
+        "category": "Tech Products & Market",
+        "title": "Apple's MacBook Neo Disrupts Market, PC Makers React",
+        "summary": "Apple has successfully entered the affordable laptop market with the MacBook Neo, receiving positive reviews and surprising the industry with its execution. Priced aggressively at $600, the new device has already prompted reactions from competitors. An executive from a major PC manufacturer, Asus CFO Nick Wu, acknowledged the Neo's \"aggressive entry-level pricing\" and its implications for new competition, indicating that PC makers are now grappling with Apple's sudden and effective entry into this segment.",
+        "link": "https://www.theverge.com/report/894090/macbook-neo-pc-windows-laptop-competition-asus-footinmouth"
     },
     {
-        "category": "AI Funding & Innovation (China)",
-        "title": "Chinese BCI Startup Gestala Raises $21M Post-Launch",
-        "summary": "Chinese brain-computer interface (BCI) startup Gestala has secured $21 million in early-stage funding just two months after its launch. This significant investment marks the largest early-stage funding round in China\u2019s BCI industry. Gestala is developing non-invasive ultrasound brain technology, indicating rapid advancements and substantial investor confidence in the country's BCI sector, particularly for new ventures with promising technological approaches.",
-        "link": "https://techcrunch.com/2026/03/11/bci-startup-gestala-raises-21-million-for-non-invasive-ultrasound-brain-tech/"
+        "category": "Tech Policy & Business",
+        "title": "Apple Cuts China App Store Fees to Appease Regulators",
+        "summary": "Apple is reducing App Store developer fees in China from March 15th, dropping its commission on purchases from 30 percent to 25 percent. This decision follows discussions with Chinese regulators and suggests an effort to avoid formal antitrust intervention. China had reportedly considered opening a formal investigation into Apple's App Store practices. The fee reduction aims to preempt regulatory action and maintain Apple's market position in a crucial region.",
+        "link": "https://www.theverge.com/tech/894306/apple-app-store-fees-china-reduced-antitrust"
     },
     {
-        "category": "AI Geopolitics & Regulation",
-        "title": "Anthropic Sues Pentagon Over 'Supply Chain Risk' Label",
-        "summary": "Anthropic, the AI company behind Claude, is embroiled in a legal battle with the Pentagon. The Department of Defense recently designated Anthropic as a 'supply chain risk,' prompting the company to file a lawsuit challenging this assessment. This messy and fast-moving situation highlights growing tensions and complex issues surrounding national security implications, trust, and regulatory oversight for leading AI developers interacting with government entities.",
-        "link": "https://www.theverge.com/podcast/893370/anthropic-pentagon-ai-mass-surveillance-nsa-privacy-spying"
+        "category": "AI & Market Dynamics",
+        "title": "Google AI Search Increasingly Self-Referential, Citing Own Services",
+        "summary": "Google's generative AI search tools are reportedly increasingly citing the company's own services, such as Google Search and YouTube, over third-party publishers. This trend raises concerns about potential market concentration and fair competition within the search and content ecosystem. The growing self-referential nature of Google's AI searches could impact content discoverability for external publishers and influence user reliance on Google's integrated platforms.",
+        "link": "https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/"
     },
     {
-        "category": "AI & Healthcare",
-        "title": "Microsoft Launches Copilot Health for Medical Records",
-        "summary": "Microsoft has introduced Copilot Health, a secure, separate space within Copilot designed for health-related inquiries. This feature enables users to ask questions about lab results and medical records, search for healthcare providers, and analyze data from wearables. The phased rollout of Copilot Health underscores a growing trend of integrating AI with personal health data, raising both benefits for informed decision-making and considerations regarding data privacy and security.",
-        "link": "https://www.theverge.com/tech/893594/microsoft-copilot-health-launch"
+        "category": "Global AI & Economy",
+        "title": "China's OpenClaw AI Spurs Cloud Server Gold Rush",
+        "summary": "Hype surrounding OpenClaw, an open-source AI agent that can autonomously complete tasks on a device, is creating a \"gold rush\" for AI companies in China. The demand for renting cloud servers and purchasing AI subscriptions to experiment with OpenClaw is driving significant revenue. This phenomenon highlights a burgeoning market for open-source AI tools and their immediate economic impact, as individuals and companies rush to adopt and capitalize on advanced AI agent capabilities.",
+        "link": "https://www.wired.com/story/china-is-going-all-in-on-openclaw/"
     },
     {
-        "category": "Cybersecurity & Geopolitics",
-        "title": "Iran-Linked Group Cyberattacks US Medtech Giant Stryker",
-        "summary": "US medical equipment provider Stryker experienced a cyberattack that disrupted its global networks on Wednesday. The incident is allegedly attributed to a hacking group linked to Iran. The attack specifically impacted Stryker's internal Microsoft environment, resulting in deleted information from devices and causing company phones to cease functioning, significantly disrupting work and communications. This highlights the escalating threat of state-sponsored cyberattacks on critical infrastructure and key industries.",
-        "link": "https://www.theverge.com/tech/893524/stryker-iran-us-medtech-cyberattack"
+        "category": "Future Tech & Connectivity",
+        "title": "6G to Integrate AI, Prioritize Uploads, and Introduce Sensing Capabilities",
+        "summary": "The next generation of cellular technology, 6G, is expected to succeed 5G around 2030, bringing significant advancements. Key focuses for 6G will include enhanced upload speeds, deep integration with artificial intelligence, and new radar-like \"sensing\" capabilities. This sensing technology will allow the network to detect and track vehicles, devices, and people, suggesting a profound evolution in how mobile networks interact with and interpret their physical environment, extending beyond mere connectivity.",
+        "link": "https://www.wired.com/story/6g-is-coming/"
+    },
+    {
+        "category": "AI in Defense",
+        "title": "Palantir Demos AI Chatbots for Military War Plan Generation",
+        "summary": "Palantir has demonstrated how the military could leverage AI chatbots, such as Anthropic\u2019s Claude, to generate war plans. Software demos and Pentagon records illustrate these chatbots' potential to analyze intelligence and suggest subsequent steps for military operations. This application highlights the growing integration of advanced AI into defense strategies, raising implications for decision-making processes and the future of military planning.",
+        "link": "https://www.wired.com/story/palantir-demos-show-how-the-military-can-use-ai-chatbots-to-generate-war-plans/"
+    },
+    {
+        "category": "AI Development & Security",
+        "title": "NanoClaw and Docker Partner for Safer Enterprise AI Agent Deployment",
+        "summary": "NanoClaw, an open-source AI agent platform, is partnering with Docker to enable enterprises to deploy AI agents securely within Docker Sandboxes. This collaboration addresses a major obstacle to enterprise AI adoption: safely giving agents the necessary operational scope without risking host system damage or exposing sensitive data. The partnership aims to facilitate the secure integration of AI agents into business systems, ensuring they can interact with live data and modify files safely.",
+        "link": "https://venturebeat.com/infrastructure/nanoclaw-and-docker-partner-to-make-sandboxes-the-safest-way-for-enterprises"
+    },
+    {
+        "category": "AI in Software Engineering",
+        "title": "Random Labs Unveils Slate V1, a 'Swarm-Native' Coding Agent",
+        "summary": "Y Combinator-backed Random Labs has launched Slate V1, described as the industry's first \"swarm native\" autonomous coding agent. Designed to tackle massively parallel and complex engineering tasks, Slate V1 addresses the \"systems problem\" bottleneck in managing capable AI models for real-world productivity. The tool uses a \"dynamic pruning algorithm\" to maintain context across large codebases while scaling output, aiming to overcome limitations of long horizons and deep context windows in AI-assisted software development.",
+        "link": "https://venturebeat.com/orchestration/y-combinator-backed-random-labs-lhttps://venturebeat.com/orchestration/y-combinator-backed-random-labs-launches-slate-v1-claiming-the-first-swarm"
+    },
+    {
+        "category": "AI Infrastructure",
+        "title": "Vector Databases Prove Essential for AI Agent Architectures",
+        "summary": "Contrary to earlier arguments suggesting large language models' growing context windows would diminish the need for vector databases, production evidence now shows vector search is increasingly critical for AI agents. The complexity of agents, which do not replace the retrieval problem but rather scale it, highlights the ongoing importance of purpose-built vector search. Qdrant, an open-source vector search company, recently secured $50 million in Series B funding, reinforcing this trend.",
+        "link": "https://venturebeat.com/data/agents-dont-replace-vector-search-they-make-it-harder-to-get-right"
     },
     {
         "category": "AI Infrastructure & Efficiency",
-        "title": "FriendliAI Optimizes GPU Inference with Continuous Batching",
-        "summary": "FriendliAI, founded by the researcher behind vLLM's continuous batching, is tackling GPU idle time by running inference directly on unused hardware. Their approach aims to optimize token throughput and split revenue with GPU cluster operators. This innovative solution seeks to maximize efficiency and profitability for neocloud operators by utilizing dead time on GPUs, which often sit dark when training jobs finish, while still incurring power and cooling costs.",
+        "title": "FriendliAI Targets Idle GPUs for Inference, Boosting Efficiency",
+        "summary": "FriendliAI proposes optimizing GPU clusters by running inference directly on unused hardware, rather than letting idle GPUs sit dark, incurring power and cooling costs. The company, founded by the researcher behind continuous batching for vLLM, aims to maximize token throughput and split revenue with operators. This approach provides an alternative to spot GPU markets, offering an inference stack on spare capacity and addressing the challenge of lost margin from dead time in neocloud operations.",
         "link": "https://venturebeat.com/infrastructure/the-team-behind-continuous-batching-says-your-idle-gpus-should-be-running"
     },
     {
         "category": "AI Model Breakthroughs",
-        "title": "Nvidia Releases Hybrid Nemotron 3 Super AI Model",
-        "summary": "Nvidia has launched Nemotron 3 Super, a 120-billion-parameter open-weight hybrid AI model. Designed to enhance agentic workflows by handling up to 15 times the token volume of standard chats, it merges state-space models, transformers, and a novel 'Latent' mixture-of-experts design. This architecture provides specialized depth without the typical bloat of dense reasoning models, making it commercially available and crucial for long-horizon tasks like software engineering or cybersecurity triaging, which are often costly to run.",
+        "title": "Nvidia Launches Nemotron 3 Super, a Hybrid AI Model for Agentic Workflows",
+        "summary": "Nvidia has released Nemotron 3 Super, a 120-billion-parameter hybrid AI model, with weights available on Hugging Face. Designed to handle the high token volume of multi-agent systems, Nemotron 3 Super merges state-space models, transformers, and a novel \"Latent\" mixture-of-experts design. This aims to provide specialized depth for agentic workflows without the typical bloat of dense reasoning models, making it cost-effective for enterprise tasks and available for commercial usage.",
         "link": "https://venturebeat.com/technology/nvidias-new-open-weights-nemotron-3-super-combines-three-different"
     },
     {
-        "category": "AI Enterprise Integration",
-        "title": "Anthropic Claude Gains Shared Context in Excel & PowerPoint",
-        "summary": "Anthropic has upgraded its Claude AI model with new capabilities for Microsoft Excel and PowerPoint, allowing for shared context across applications. Available to paid Claude plan users on Mac and Windows, these add-ins can be accessed via a Claude account or existing LLM gateways like Amazon Bedrock, Google Cloud Vertex AI, or Microsoft Foundry. This move expands Anthropic's enterprise footprint, offering flexibility for integration within diverse cloud and compliance setups, and potentially challenging Microsoft\u2019s Copilot Cowork.",
+        "category": "AI in Enterprise Applications",
+        "title": "Anthropic's Claude Gains Shared Context Across Microsoft Excel and PowerPoint",
+        "summary": "Anthropic has upgraded its Claude AI model with new capabilities for Microsoft Excel and PowerPoint, allowing for reusable workflows across multiple applications. Available to Mac and Windows users on paid Claude plans, these add-ins aim to expand Anthropic's enterprise footprint. Enterprises can access Claude for Excel and PowerPoint through a Claude account or existing LLM gateways, providing flexibility for integration within various cloud and compliance setups. This move strategically challenges Microsoft's Copilot offerings.",
         "link": "https://venturebeat.com/orchestration/anthropic-gives-claude-shared-context-across-microsoft-excel-and-powerpoint"
     },
     {
-        "category": "AI Multimodality & Cost Efficiency",
-        "title": "Google Introduces Multimodal Gemini Embedding 2",
-        "summary": "Google has announced the public preview of Gemini Embedding 2, a new embeddings model that marks a significant advancement in representing and retrieving information across various media types. Unlike previous models limited to text, Gemini Embedding 2 natively integrates text, images, video, audio, and documents into a single numerical space. This innovation reduces latency by up to 70% and lowers overall costs for enterprises utilizing AI models powered by their own diverse data sets.",
+        "category": "AI Model Breakthroughs",
+        "title": "Google's Gemini Embedding 2 Arrives with Native Multimodal Support",
+        "summary": "Google has publicly previewed Gemini Embedding 2, a new embeddings model that natively integrates text, images, video, audio, and documents into a single numerical space. This significant evolution in information representation aims to reduce latency by as much as 70% for some customers and lower total costs for enterprises utilizing AI models powered by their own data. The model enhances how machines represent and retrieve information across different media types, speeding up enterprise data stacks.",
         "link": "https://venturebeat.com/data/googles-gemini-embedding-2-arrives-with-native-multimodal-support-to-cut"
     },
     {
-        "category": "AI Agent Infrastructure",
-        "title": "Manufact Raises $6.3M for AI Agent Software",
-        "summary": "Manufact, a startup from Y Combinator\u2019s Summer 2025 batch, has raised $6.3 million in seed funding to develop software for artificial intelligence agents. The company aims to position its MCP (Machine Comprehension Protocol) as the 'USB-C for AI,' facilitating communication and action between AI agents rather than just human users. This funding, led by Peak XV, signals a strategic shift in software development towards AI-to-AI interaction as agents increasingly act on behalf of people.",
-        "link": "https://venturebeat.com/infrastructure/manufact-raises-usd6-3m-as-mcp-becomes-the-usb-c-for-ai-powering-chatgpt-and"
+        "category": "AI Development Challenges",
+        "title": "Meta Delays New AI Model Rollout After Performance Concerns",
+        "summary": "Meta has postponed the rollout of a new AI model, identified as \"Avocado,\" due to performance concerns. This delay comes despite the tech giant investing billions in its pursuit of being at the forefront of artificial intelligence. The setback highlights the ongoing challenges in developing and deploying advanced AI models, even for major tech companies with substantial resources, and underscores the high stakes involved in AI innovation.",
+        "link": "https://www.nytimes.com/2026/03/12/technology/meta-avocado-ai-model-delayed.html"
     },
     {
-        "category": "AI Agent Research",
-        "title": "Google AI Agents Learn Cooperation from Unpredictable Opponents",
-        "summary": "Google's Paradigms of Intelligence team found that training AI agents against a diverse range of unpredictable opponents fosters cooperation without complex hardcoded rules. This decentralized reinforcement learning approach allows LLM agents to use in-context learning to adapt their behavior in real-time. This method provides a scalable and computationally efficient blueprint for enterprise multi-agent deployments, circumventing the need for specialized scaffolding and addressing the challenge of multi-agent systems often conflicting.",
-        "link": "https://venturebeat.com/orchestration/google-finds-that-ai-agents-learn-to-cooperate-when-trained-against"
+        "category": "Societal Impact & Regulation",
+        "title": "Social Media Addiction Trial Nears End as Societal Verdict Rendered",
+        "summary": "Closing arguments have commenced in a landmark social media addiction trial that placed online behavior under intense scrutiny. The article suggests that, in many respects, society has already formed its verdict on the issue. This trial highlights ongoing concerns about the impact of social media on users, bringing legal and public attention to the responsibilities of online platforms and potentially influencing future regulatory discussions.",
+        "link": "https://www.nytimes.com/2026/03/12/technology/social-media-addiction-society-verdict.html"
     },
     {
-        "category": "AI Ethics & Online Safety",
-        "title": "Parents Fight for Online Safety Against AI Chatbots",
-        "summary": "A new wave of grieving parents is advocating for enhanced online safety measures, specifically blaming AI chatbots for contributing to their children's deaths. These parents are joining an existing movement that has previously pushed for better protections against social media's harmful effects. The push highlights growing concerns over the ethical implications of AI, the need for robust safeguards in digital interactions, and the urgent demand for accountability from tech companies developing these powerful tools.",
-        "link": "https://www.nytimes.com/2026/03/10/technology/ai-social-media-child-safety-parents.html"
+        "category": "AI Ethics & Privacy",
+        "title": "AI Chatbots Seeking Health Records Raise Privacy and Risk Concerns",
+        "summary": "Following rivals like Amazon and OpenAI, Microsoft is upgrading its artificially intelligent assistant to track users' health records. While this integration offers potential benefits, significant risks must be considered regarding privacy and data security. The trend of AI chatbots accessing sensitive personal health information prompts careful deliberation for users and regulators about the implications of such powerful AI systems handling highly private data.",
+        "link": "https://www.nytimes.com/2026/03/12/technology/personaltech/microsoft-copilot-health-ai-chatbots.html"
     },
     {
-        "category": "AI Industry Consolidation",
-        "title": "Meta Acquires Moltbook, Social Network for AI Bots",
-        "summary": "Meta has acquired Moltbook, a social network exclusively designed for AI bots. Matt Schlicht, Moltbook\u2019s creator, who previously fueled Silicon Valley's interest in artificial intelligence agents, will be joining Meta's Superintelligence Lab. This acquisition underscores Meta's deepening commitment to AI, particularly in the domain of AI agents and their potential for social interaction, and signals a strategic move to integrate specialized AI talent and platforms into its broader AI initiatives.",
-        "link": "https://www.nytimes.com/2026/03/10/technology/meta-moltbook-social-ai-bots.html"
-    },
-    {
-        "category": "AI Ethics & Platform Security",
-        "title": "YouTube Launches Deepfake Reporting Tool for Public Figures",
-        "summary": "YouTube has introduced a new tool enabling public figures to report fake videos that use deceptive images of real people, commonly known as deepfakes. This initiative comes amid increasing pressure on social media companies to combat the spread of such manipulative content. The tool aims to provide public figures with a direct mechanism to address identity theft and misinformation, reinforcing platform responsibility in safeguarding against AI-generated malicious content.",
-        "link": "https://www.nytimes.com/2026/03/10/technology/youtube-deepfakes-detection-tool.html"
-    },
-    {
-        "category": "AI Funding & Valuation",
-        "title": "Former Meta AI Chief's Startup AMI Labs Valued at $3.5B",
-        "summary": "Advanced Machine Intelligence Labs (AMI Labs), a startup co-founded by former Meta AI chief Yann LeCun and other ex-Meta researchers, has achieved a valuation of $3.5 billion. The company has successfully raised over $1 billion from investors. This substantial funding and high valuation reflect strong investor confidence in the vision and expertise of its founders, highlighting the intense competition and significant capital flowing into AI research and development led by top industry talent.",
-        "link": "https://www.nytimes.com/2026/03/10/technology/ami-labs-yann-lecun-funding.html"
-    },
-    {
-        "category": "AI in Software Development",
-        "title": "Axiom, a $1.6B Startup, Aims to Fix AI-Written Code Bugs",
-        "summary": "A tiny Silicon Valley startup named Axiom, now valued at $1.6 billion, is developing AI systems specifically designed to identify and correct mistakes in code written by other AI. This addresses the emerging challenge of AI-generated code often containing bugs. Axiom's focus on building AI to check for errors suggests a new frontier in software development, where AI not only writes code but also ensures its quality and reliability, streamlining the development process.",
-        "link": "https://www.nytimes.com/2026/03/12/technology/axiom-ai-code-funding.html"
-    },
-    {
-        "category": "AI & Future of Work",
-        "title": "AI Agents Reshape Computer Programming Landscape",
-        "summary": "In the era of AI agents, the nature of computer programming is undergoing a profound transformation, with many Silicon Valley programmers now 'barely programming.' This shift, described as 'deeply, deeply weird,' suggests the end of computer programming as it's traditionally known. AI agents are increasingly automating coding tasks, redefining the roles and methods of human programmers and potentially leading to a new paradigm in software development and labor markets.",
+        "category": "AI & Labor Market",
+        "title": "AI Agents Transform Computer Programming, Shifting Developer Roles",
+        "summary": "The era of AI agents is profoundly altering the landscape of computer programming, with many Silicon Valley programmers now engaged in tasks far removed from traditional coding. Instead of direct programming, their work is described as \"deeply, deeply weird,\" suggesting a fundamental shift in daily responsibilities. This evolution indicates that AI is redefining the very nature of software development, potentially leading to new roles and skill sets for programmers.",
         "link": "https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html"
     },
     {
-        "category": "AI & Global Tech Race",
-        "title": "China's DeepSeek AI Impresses Despite Chip Constraints",
-        "summary": "DeepSeek AI, a Chinese startup, is drawing significant attention in Silicon Valley for developing high-performing AI models cost-effectively. Remarkably, the company achieved this without relying on the most advanced chips, a constraint often faced by Chinese tech firms due to trade restrictions. Experts are calling DeepSeek's models 'amazing and impressive,' underscoring China's innovation capability in AI despite hardware limitations and intensifying the global tech race.",
+        "category": "Global AI & Competition",
+        "title": "China's DeepSeek AI Impresses Silicon Valley Despite Less Advanced Chips",
+        "summary": "China's DeepSeek AI model is receiving praise from Silicon Valley, described as \"amazing and impressive,\" despite being trained without the most advanced chips. The Chinese upstart claims to have developed high-performing AI models cost-effectively. This achievement highlights China's growing capabilities in artificial intelligence and its potential to compete effectively in the global AI landscape, even with technological constraints on hardware.",
         "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology"
     },
     {
-        "category": "AI & Biotech Investment",
-        "title": "Reid Hoffman Funds AI Cancer Research Startup Manas AI",
-        "summary": "LinkedIn co-founder Reid Hoffman has raised $24.6 million for Manas AI, a new startup focused on AI-driven cancer research. He is collaborating with Siddhartha Mukherjee, author of 'The Emperor of All Maladies,' on this venture. This significant investment highlights the growing trend of leveraging artificial intelligence to accelerate drug discovery and medical breakthroughs, particularly in critical areas like cancer treatment, attracting prominent tech investors and scientific minds.",
+        "category": "AI in Healthcare & Investment",
+        "title": "Reid Hoffman Raises $24.6M for AI Cancer-Research Startup Manas AI",
+        "summary": "LinkedIn co-founder Reid Hoffman has raised $24.6 million for his new venture, Manas AI, a startup focused on AI-driven cancer research. He co-founded the company with Siddhartha Mukherjee, author of \"The Emperor of All Maladies.\" This significant investment highlights the growing application of artificial intelligence in drug discovery and medical research, particularly in high-stakes fields like oncology, attracting notable figures and substantial capital from the tech sector.",
         "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology"
     },
     {
         "category": "Tech Economy & AI Investment",
-        "title": "Meta to Soar AI Spending to $60-65 Billion",
-        "summary": "Meta, the social media giant, plans to significantly increase its spending on artificial intelligence and massive data centers, projecting expenditures between $60 billion and $65 billion. This substantial investment is the latest indicator of accelerating capital deployment by tech companies into AI infrastructure and research. The move underscores Meta's commitment to advancing its AI capabilities and scaling its underlying hardware, reflecting the competitive nature of the AI race.",
+        "title": "Meta Plans Soaring AI and Data Center Spending, Up to $65 Billion",
+        "summary": "Meta, the social-media giant, plans to significantly increase its spending to between $60 billion and $65 billion. This substantial investment is primarily directed towards artificial intelligence initiatives and the expansion of its massive data center infrastructure. The move signals an accelerating trend among tech companies to pour vast resources into AI development, highlighting the strategic importance and intense competition in the race for AI supremacy and the underlying hardware.",
         "link": "https://www.wsj.com/articles/meta-spending-ai-facebook-data-centers-9452a88f?mod=rss_Technology"
     },
     {
-        "category": "Tech Economy & Industry Trends",
-        "title": "US Battery Industry Faces 'Brutal Times' and Downturn",
-        "summary": "The US battery industry, once a rapidly expanding sector with numerous startups and substantial funding, is now experiencing 'brutal times' and a downturn in 2026. This stark shift indicates a cooling period for an industry that just a few years ago saw an 'infinite number of companies popping up' with new chemistries and massive investment rounds. The current slump reflects challenges that have tempered previous optimism and rapid growth.",
-        "link": "https://www.technologyreview.com/2026/03/12/1134197/us-battery-industry/"
+        "category": "AI Hardware Innovation",
+        "title": "Future AI Chips Could Utilize Glass Substrates for Enhanced Performance",
+        "summary": "Human-made glass, an ancient material, is now poised to become a key component in next-generation AI chips for data centers. Absolics, a South Korean company, plans to begin commercial production this year of special glass panels designed to make computing hardware more powerful. This innovation suggests a significant shift in chip manufacturing materials, potentially leading to more advanced and efficient AI processors essential for the world's largest data centers.",
+        "link": "https://www.technologyreview.com/2026/03/13/1134230/future-ai-chips-could-be-built-on-glass/"
     },
     {
-        "category": "AI Innovation & Market Trends (China)",
-        "title": "China Sees 'Gold Rush' in OpenClaw AI Craze",
-        "summary": "China is experiencing an 'OpenClaw AI craze,' with 'hustlers cashing in' on the new open-source AI tool that can autonomously take over devices and complete tasks. Software engineer Feng Qingyang exemplifies this, having started tinkering with OpenClaw and quickly finding success. This phenomenon signals a 'gold rush' mentality around powerful, accessible AI tools in China, highlighting rapid experimentation and entrepreneurial activity in the country's AI landscape.",
-        "link": "https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/"
-    },
-    {
-        "category": "AI & Geopolitical Conflict",
-        "title": "AI Transforms Iran Conflict into 'Theater'",
-        "summary": "AI is increasingly shaping the Iran conflict, turning it into 'theater' as AI models like Claude assist the US military in strategic decisions, including target identification. The use of online intelligence dashboards for conflict monitoring, even prompting public viewing suggestions, illustrates a shift in how conflicts are perceived and managed. This suggests AI's evolving role in military strategy and information warfare, potentially influencing both operational outcomes and public perception of geopolitical events.",
-        "link": "https://www.technologyreview.com/2026/03/09/1134063/how-ai-is-turning-the-iran-conflict-into-theater/"
+        "category": "AI in Defense & Ethics",
+        "title": "US Military May Use AI Chatbots for Targeting Recommendations",
+        "summary": "A Defense Department official has revealed that the US military might employ generative AI systems to rank target lists and suggest which targets to strike first. These recommendations would be subject to human vetting. The disclosure comes as the Pentagon faces scrutiny over recent strikes, and raises important questions about the ethical implications and accountability of integrating AI chatbots into critical military targeting decisions.",
+        "link": "https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/"
     }
 ];
