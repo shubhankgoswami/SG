@@ -1,152 +1,146 @@
 window.NEWS_DATA = [
     {
-        "category": "Defense Tech",
-        "title": "US Army Awards Anduril $20B Contract",
-        "summary": "The U.S. Army announced a significant single enterprise contract worth up to $20 billion with Anduril. This substantial agreement consolidates over 120 separate procurement actions into one, streamlining the acquisition process for military technology. The move signifies a major investment by the Army in advanced defense solutions and highlights Anduril's growing role in national security technology, reflecting a push for enterprise-wide tech integration.",
-        "link": "https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/"
+        "category": "AI Breakthroughs",
+        "title": "Nvidia GTC 2026 Keynote to Outline Future of AI and Computing",
+        "summary": "Nvidia's GTC 2026 event features CEO Jensen Huang's keynote, expected to unveil new products, partnerships, and the company's vision for computing and AI. GTC is Nvidia's flagship annual conference, serving as a key platform for the chipmaker to showcase its advancements. Huang's address will emphasize Nvidia's pivotal role in the future trajectory of computing and artificial intelligence development.",
+        "link": "https://techcrunch.com/2026/03/16/nvidia-gtc-how-to-watch-jensen-huang-2026-keynote/"
     },
     {
-        "category": "Automotive Industry Shift",
-        "title": "Honda Axes US EV Lineup, Raises Future Concerns",
-        "summary": "Honda has made a significant decision to discontinue its three electric vehicle models designated for the U.S. market. This move is expected to have widespread repercussions, extending far beyond North America. Critics suggest this action could severely hinder Honda's ability to compete effectively in the future electric vehicle landscape, signaling a retreat from a crucial and rapidly evolving segment of the automotive industry.",
-        "link": "https://techcrunch.com/2026/03/14/honda-is-killing-its-evs-and-any-chance-of-competing-in-the-future/"
+        "category": "Tech Economy",
+        "title": "Walmart-backed PhonePe Halts IPO Amid Global Market Tensions",
+        "summary": "Walmart-backed PhonePe has postponed its planned Initial Public Offering (IPO), attributing the delay to global tensions that are unsettling financial markets. This decision defers a significant liquidity event for key investors, including Tiger Global and Microsoft. The move highlights how geopolitical factors are impacting capital market activities and investment timelines within the tech sector.",
+        "link": "https://techcrunch.com/2026/03/16/walmart-backed-phonepe-shelves-ipo-as-global-tensions-rattle-markets/"
     },
     {
-        "category": "Tech Layoffs",
-        "title": "Meta Reportedly Considering 20% Staff Cuts",
-        "summary": "Meta is reportedly evaluating a round of layoffs that could impact as much as 20% of its workforce. These potential staff reductions are being considered as a strategy to help the Facebook parent company offset its substantial expenditures on AI infrastructure. The move aims to mitigate costs associated with aggressive AI-related acquisitions and extensive hiring within the artificial intelligence sector, indicating a focus on financial efficiency.",
-        "link": "https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/"
+        "category": "AI Development",
+        "title": "ByteDance Pauses Global Launch of Seedance 2.0 Video Generator",
+        "summary": "ByteDance has reportedly delayed the global launch of its Seedance 2.0 video generator. The company is pausing the rollout as its engineers and legal teams work to mitigate potential future legal challenges. This development highlights the growing regulatory and legal scrutiny faced by advanced AI content generation tools from major tech players.",
+        "link": "https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/"
     },
     {
-        "category": "AI Ecosystem Expansion",
-        "title": "ChatGPT Adds Major App Integrations",
-        "summary": "ChatGPT has introduced new app integrations, significantly expanding its utility for users. Customers can now directly leverage popular services such as DoorDash, Spotify, Uber, Canva, Figma, and Expedia within the ChatGPT interface. This development allows for seamless interaction with various platforms, transforming ChatGPT into a more comprehensive and versatile tool for everyday tasks, content creation, and travel planning, broadening its appeal and functionality.",
-        "link": "https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/"
+        "category": "AI Ethics & Safety",
+        "title": "AI Psychosis Cases Linked to Mass Casualty Risks, Warns Lawyer",
+        "summary": "A lawyer representing individuals in AI psychosis cases is cautioning about potential mass casualty risks associated with AI chatbots. While AI chatbots have been linked to suicides for years, this lawyer notes their increasing appearance in mass casualty incidents. The warning emphasizes that AI technology is advancing more rapidly than adequate safety measures and safeguards.",
+        "link": "https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/"
     },
     {
-        "category": "AI Development Strategy",
-        "title": "Musk's xAI Revamps AI Coding Tool Effort",
-        "summary": "Elon Musk's AI lab, xAI, is reportedly 'starting over again, again' in its endeavor to build an AI coding tool. The company is revamping its efforts, indicated by the addition of two new executives joining from Cursor. This suggests a significant strategic pivot and an acknowledgement that previous approaches to developing the AI coding solution 'were not built right the first time,' highlighting the iterative nature of advanced AI development.",
-        "link": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/"
+        "category": "AI Economy",
+        "title": "Google & Accel India Accelerator Selects Deep-Tech AI Startups, Shun 'Wrappers'",
+        "summary": "Google and Accel India's accelerator program selected five startups for its Atoms cohort, specifically avoiding \"AI wrappers.\" This selection comes after reviewing over 4,000 applications, with approximately 70% of AI startup pitches tied to India identified as \"wrappers.\" The focus indicates a preference for deeper, more foundational AI innovation over superficial applications.",
+        "link": "https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/"
     },
     {
-        "category": "AI Safety & Ethics",
-        "title": "Lawyer Warns of AI Mass Casualty Risks",
-        "summary": "A lawyer involved in AI psychosis cases has issued a stark warning regarding the potential for mass casualty risks associated with AI chatbots. The technology has been linked to suicides for several years, and now, the lawyer reports its appearance in mass casualty incidents. This highlights a critical concern that AI technology is advancing faster than the necessary safeguards can be implemented, posing significant societal dangers.",
-        "link": "https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/"
+        "category": "AI Misinformation",
+        "title": "Viral 'Virtual Fly' Brain Upload Debunked as AI Hype",
+        "summary": "Viral posts claiming a \"virtual embodied fly\" uploaded to a computer spread across X, fueled by AI hype accounts. Videos from Eon Systems, a company working towards \"digital human intelligence,\" were misinterpreted. The article clarifies that these posts did not represent an actual fly brain upload, highlighting the ongoing issue of misinformation and exaggerated claims within the AI space.",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/894587/fly-brain-computer-upload/"
     },
     {
-        "category": "Tech Immigration Policy",
-        "title": "$100K H-1B Fee Causes Widespread Chaos",
-        "summary": "The Trump administration's executive order to increase the H-1B visa fee to $100,000 has resulted in immediate and widespread chaos. Thousands of workers attempting to renew their visas overseas found themselves stranded abroad, with details regarding who would be affected only emerging post-implementation. This policy has led to significant problems for tech workers and the broader immigration system, impacting global talent mobility.",
-        "link": "https://www.theverge.com/policy/894537/h1b-fee-increase-trump-teacher-shortage-tech-workers/"
+        "category": "AI Ethics & Policy",
+        "title": "OpenAI's Adult Mode for ChatGPT to Support 'Smutty' Text, Not Pornographic Images",
+        "summary": "OpenAI's forthcoming \"adult mode\" for ChatGPT is anticipated to support \"smutty\" text conversations upon its launch, as opposed to generating pornographic content. An unnamed OpenAI spokesperson described the feature as enabling written erotica, but clarified it would not extend to image, voice, or video generation capabilities. This policy reveals OpenAI's approach to content moderation for its delayed adult offerings.",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/895130/openai-chatgpt-adult-mode-text-smut-written-erotica/"
     },
     {
-        "category": "Enterprise AI Security",
-        "title": "NanoClaw and Docker Partner for Secure AI Agents",
-        "summary": "NanoClaw, an open-source AI agent platform, has partnered with Docker to allow teams to run AI agents within Docker Sandboxes. This collaboration aims to address a major hurdle for enterprise AI adoption: safely enabling agents to interact with live data and systems without risk to the host machine or other workloads. It ensures agents can operate across business systems securely, mitigating potential damage and increasing trust in AI deployments.",
+        "category": "Legacy Tech",
+        "title": "COBOL: A Widespread Programming Language Proving 'Dangerously Difficult to Remove'",
+        "summary": "COBOL, described as the most widely adopted computer language in history, is now presenting a host of problems for organizations. The article characterizes it as dangerously difficult to remove, despite its prevalence. This legacy technology issue poses a significant challenge for maintaining and modernizing critical systems globally, due to its deep integration and complexity.",
+        "link": "https://www.wired.com/story/cobol-is-the-asbestos-of-programming-languages/"
+    },
+    {
+        "category": "Finance & Tech",
+        "title": "Wall Street Embraces Prediction Markets Despite Regulatory Battles",
+        "summary": "Despite ongoing legal disputes regarding the regulation of prediction markets, financial institutions are actively embracing this industry. This trend indicates Wall Street's willingness to integrate emerging, yet legally contentious, forecasting mechanisms into their operations. The embrace by financial entities highlights the perceived value of prediction markets even amidst an uncertain regulatory landscape.",
+        "link": "https://www.wired.com/story/prediction-markets-find-a-welcome-on-wall-street/"
+    },
+    {
+        "category": "AI Ethics & Safety",
+        "title": "Models Recruited to Be Faces of AI Scams, Warns WIRED",
+        "summary": "Job listings for \"AI face models\" are appearing in Telegram channels, with women applying for these roles likely being used to create fraudulent content. These AI-generated faces are then used to dupe victims out of money, according to a WIRED review of dozens of channels. This development exposes a disturbing new vector for AI-driven scams and ethical concerns.",
+        "link": "https://www.wired.com/story/models-are-applying-to-be-the-face-of-ai-scams/"
+    },
+    {
+        "category": "AI Strategy",
+        "title": "AI Agents Force Rethink of Digital Engagement Metrics for Businesses",
+        "summary": "Digital businesses must rethink \"Audience Engagement Optimization\" (AEO) as AI-powered software agents increasingly navigate the web for users. The traditional assumption that website activity reflects human choice is eroding. While data like clicks and time on page remains accurate, its underlying meaning is changing, impacting growth strategies, marketing budgets, and product decisions. This shift is already influencing how leaders interpret digital metrics.",
+        "link": "https://venturebeat.com/technology/rethinking-aeo-when-software-agents-navigate-the-web-on-behalf-of-users/"
+    },
+    {
+        "category": "AI Implementation",
+        "title": "Enterprises Advised to Address Cultural Gaps to Fix AI Project Failures",
+        "summary": "Reports on high AI project failure rates highlight a need for cultural, not just technical, improvements in enterprises. Common issues include engineering teams building models product managers cannot use, data scientists creating prototypes operations teams struggle to maintain, and AI applications remaining unused because end-users weren't involved in defining \"useful.\" Successful organizations prioritize aligning AI development with user needs.",
+        "link": "https://venturebeat.com/technology/fixing-ai-failure-three-changes-enterprises-should-make-now/"
+    },
+    {
+        "category": "AI Infrastructure",
+        "title": "NanoClaw and Docker Partner for Secure Enterprise AI Agent Deployment",
+        "summary": "NanoClaw, an open-source AI agent platform, is partnering with Docker to enable running AI agents within Docker Sandboxes. This collaboration aims to resolve a major obstacle for enterprise adoption: securely allowing agents to operate across systems without exposing the host machine or other workloads to damage. The initiative signals a shift towards production-ready, secure AI agent deployment.",
         "link": "https://venturebeat.com/infrastructure/nanoclaw-and-docker-partner-to-make-sandboxes-the-safest-way-for-enterprises/"
     },
     {
-        "category": "AI Software Engineering",
-        "title": "Random Labs Unveils 'Swarm-Native' Coding Agent",
-        "summary": "Y Combinator-backed Random Labs has launched Slate V1, an autonomous coding agent described as the industry\u2019s first 'swarm native' tool. Designed to execute massively parallel and complex engineering tasks, Slate V1 addresses the 'systems problem' bottleneck in AI development. It utilizes a dynamic pruning algorithm to maintain context in large codebases while scaling output to enterprise complexity, promising enhanced developer productivity and long-horizon task execution.",
+        "category": "AI Breakthroughs",
+        "title": "Random Labs Launches 'Swarm-Native' Coding Agent Slate V1",
+        "summary": "Random Labs, a Y Combinator-backed startup, has launched Slate V1, described as the industry's first \"swarm-native\" autonomous coding agent. Designed to tackle complex, massively parallel engineering tasks, Slate V1 addresses the \"systems problem\" bottleneck in AI development. It utilizes a \"dynamic pruning algorithm\" to maintain context in large codebases while scaling output to enterprise complexity, promising enhanced productivity.",
         "link": "https://venturebeat.com/orchestration/y-combinator-backed-random-labs-launches-slate-v1-claiming-the-first-swarm/"
     },
     {
-        "category": "AI Infrastructure Insight",
-        "title": "Vector Search Critical for AI Agent Success",
-        "summary": "Contrary to earlier beliefs that large language models with large context windows would diminish the need for vector databases, production evidence now suggests AI agents make vector search even more critical. Companies like Qdrant are seeing significant growth, reflecting that the retrieval problem did not shrink with agents but became more complex. Vector search remains essential infrastructure for the agentic AI world, vital for efficient data retrieval.",
+        "category": "AI Infrastructure",
+        "title": "AI Agents Bolster Need for Vector Search, Contradicting Prior Assumptions",
+        "summary": "Contrary to prior assumptions that large language models with expanded context windows would render purpose-built vector search obsolete, new production evidence suggests AI agents actually increase the need for it. Qdrant, an open-source vector search company, recently secured a $50 million Series B funding, affirming that the retrieval problem has scaled with agents, making vector databases more critical for managing agentic memory.",
         "link": "https://venturebeat.com/data/agents-dont-replace-vector-search-they-make-it-harder-to-get-right/"
     },
     {
-        "category": "Advanced AI Models",
-        "title": "Nvidia Releases Nemotron 3 Super Hybrid AI Model",
-        "summary": "Nvidia has released Nemotron 3 Super, a 120-billion-parameter hybrid model with open weights, designed to address the high token volume generated by multi-agent systems. This model combines state-space models, transformers, and a novel 'Latent' mixture-of-experts design. It aims to provide specialized depth for agentic workflows without the typical bloat, offering cost-effective and commercially usable reasoning for enterprise tasks, enhancing throughput and efficiency.",
-        "link": "https://venturebeat.com/technology/nvidias-new-open-weights-nemotron-3-super-combines-three-different/"
+        "category": "AI Infrastructure",
+        "title": "FriendliAI Proposes Running Inference on Idle GPUs to Boost Efficiency",
+        "summary": "FriendliAI, founded by Byung-Gon Chun, proposes utilizing idle GPU clusters for running inference, rather than letting them sit dark. This approach aims to optimize token throughput and allows for revenue splitting with operators, addressing lost margins from unused capacity. The company, building on continuous batching research foundational to vLLM, offers a novel solution for efficient machine learning model execution at scale.",
+        "link": "https://venturebeat.com/infrastructure/the-team-behind-continuous-batching-says-your-idle-gpus-should-be-running/"
     },
     {
-        "category": "Enterprise AI Integration",
-        "title": "Anthropic Claude Integrates with Excel, PowerPoint",
-        "summary": "Anthropic has upgraded its Claude AI model with new capabilities for Microsoft Excel and PowerPoint, allowing shared context across these applications. This strategic expansion into the enterprise footprint enables reusable workflows for Mac and Windows users on paid Claude plans. The add-ins can be accessed via a Claude account or existing LLM gateways, offering flexibility for enterprise cloud and compliance setups, and challenging Microsoft\u2019s Copilot Cowork.",
-        "link": "https://venturebeat.com/orchestration/anthropic-gives-claude-shared-context-across-microsoft-excel-and-powerpoint/"
-    },
-    {
-        "category": "Multimodal AI Infrastructure",
-        "title": "Google Launches Gemini Embedding 2 with Multimodal Support",
-        "summary": "Google has launched Gemini Embedding 2, a significant evolution in AI embeddings, now available in public preview. This new model natively integrates text, images, video, audio, and documents into a single numerical space, unlike previous text-restricted models. This advancement can reduce latency by up to 70% for some customers and lower overall costs for enterprises utilizing AI models powered by their own data, speeding up enterprise data stacks.",
-        "link": "https://venturebeat.com/data/googles-gemini-embedding-2-arrives-with-native-multimodal-support-to-cut/"
-    },
-    {
-        "category": "Geopolitical Tech Risk",
-        "title": "US Tech Giants in Persian Gulf Face Iranian Threats",
-        "summary": "U.S. tech giants, including Amazon and Google, who struck deals in the Persian Gulf to finance AI development, are now facing threats. Iran has reportedly threatened attacks against the companies\u2019 infrastructure in the region. This development highlights increasing geopolitical risks for major tech firms operating in strategic international zones, particularly concerning critical AI infrastructure investments, and could impact regional stability and tech expansion.",
-        "link": "https://www.nytimes.com/2026/03/13/technology/amazon-google-persian-gulf-war.html"
-    },
-    {
-        "category": "AI Development Challenges",
-        "title": "Meta Delays New AI Model Rollout Over Performance",
-        "summary": "Meta has reportedly delayed the rollout of its new AI model, 'Avocado,' due to performance concerns. This setback comes despite the tech giant spending billions to remain at the forefront of artificial intelligence development. The delay indicates challenges in achieving desired performance benchmarks even for companies investing heavily in cutting-edge AI technologies, impacting their competitive timeline and the broader AI landscape.",
-        "link": "https://www.nytimes.com/2026/03/12/technology/meta-avocado-ai-model-delayed.html"
-    },
-    {
-        "category": "AI Privacy Concerns",
-        "title": "AI Chatbots Seek Health Data Access: Tread Carefully",
-        "summary": "Following rivals like Amazon and OpenAI, Microsoft is upgrading its artificially intelligent assistant, Copilot, to track users' health records. While this offers potential benefits, the article warns of significant risks that users need to consider carefully. The trend of AI chatbots seeking access to sensitive health data raises critical privacy and ethical questions regarding personal information security and the responsible deployment of AI in personal health.",
-        "link": "https://www.nytimes.com/2026/03/12/technology/personaltech/microsoft-copilot-health-ai-chatbots.html"
-    },
-    {
-        "category": "AI Ethical & Security Risks",
-        "title": "AI in Warfare and Identity Theft Concerns Mount",
-        "summary": "Concerns are rising over AI's role in warfare, with questions about accountability when attacks kill civilians or miss targets. A podcast discusses whether humans or AI systems are to blame for mistakes in such scenarios. Additionally, the article highlights risks like Grammarly's alleged identity theft, underscoring the expanding ethical and security challenges posed by AI's rapid advancements and their potential impact on individuals and global conflicts.",
-        "link": "https://www.nytimes.com/2026/03/13/podcasts/ai-goes-to-war-is-ai-brain-fry-real-how-grammarly-stole-caseys-identity.html"
-    },
-    {
-        "category": "Tech-Politics & Finance",
-        "title": "Trump Admin to Receive $10B TikTok Fee",
-        "summary": "The Trump administration is reportedly set to collect a substantial $10 billion fee from new investors, including Oracle, involved in the TikTok deal. This large sum highlights the White House's increasingly aggressive and unusual methods of inserting itself into corporate deal-making. This significant financial transaction underscores the blurred lines between technology, commerce, and political influence, potentially setting a precedent for future government intervention in major tech acquisitions.",
+        "category": "Tech Policy",
+        "title": "TikTok Investors Face $10 Billion Fee to Trump Administration",
+        "summary": "TikTok investors are reportedly poised to pay a substantial $10 billion fee to the Trump administration. This considerable payment illustrates the White House's assertive and unconventional involvement in corporate deal-making. The imposition of such a large fee signifies a notable instance of governmental influence impacting foreign-owned tech companies operating within the U.S. market.",
         "link": "https://www.nytimes.com/2026/03/13/business/trump-tiktok-10-billion-fee.html"
     },
     {
-        "category": "Future of Programming",
-        "title": "Coding After Coders: The End of Programming as We Know It",
-        "summary": "In the current era of AI agents, many programmers in Silicon Valley are finding themselves barely programming, with their roles shifting dramatically. The article suggests this new reality is 'deeply, deeply weird,' indicating a fundamental change in the nature of computer programming. This trend points to a future where AI agents take on more core coding tasks, redefining human roles in software development and potentially reshaping the entire tech workforce.",
+        "category": "Geopolitics & Tech",
+        "title": "US Tech Giants in Persian Gulf Now Targets Amid Iran Threats",
+        "summary": "U.S. tech giants like Amazon and Google, which struck deals in the Persian Gulf to fund AI development, are now facing threats. Iran has reportedly threatened attacks against these companies' infrastructure in the region. This development underscores the geopolitical risks associated with expanding tech operations into sensitive areas and the potential for infrastructure to become a target amid regional conflicts.",
+        "link": "https://www.nytimes.com/2026/03/13/technology/amazon-google-persian-gulf-war.html"
+    },
+    {
+        "category": "AI Ethics & Safety",
+        "title": "Military AI Use Raises Accountability Questions in Targeting Decisions",
+        "summary": "The use of AI in military targeting raises critical questions about accountability, particularly concerning civilian casualties. A key concern is determining whether errors in attacks are attributable to human decision-making or AI systems. This highlights the ethical and operational challenges of integrating AI into warfare, emphasizing the need for clarity on responsibility when AI systems are involved in lethal operations.",
+        "link": "https://www.nytimes.com/2026/03/13/podcasts/ai-goes-to-war-is-ai-brain-fry-real-how-grammarly-stole-caseys-identity.html"
+    },
+    {
+        "category": "AI Development",
+        "title": "Meta Delays New AI Model Rollout Citing Performance Concerns",
+        "summary": "Meta has postponed the rollout of a new AI model, reportedly due to performance concerns. This delay comes despite the tech giant investing billions in artificial intelligence development, aiming to remain at the forefront of the field. The setback suggests that even leading companies face considerable hurdles in bringing advanced AI models to market effectively and reliably.",
+        "link": "https://www.nytimes.com/2026/03/12/technology/meta-avocado-ai-model-delayed.html"
+    },
+    {
+        "category": "AI Ethics & Safety",
+        "title": "AI Chatbots Seek Health Records, Raising Privacy Concerns",
+        "summary": "Microsoft is reportedly upgrading its AI assistant, following Amazon and OpenAI, to track users' health records. While this integration offers potential benefits, it also raises significant risks concerning data privacy and security. Users are cautioned to consider these implications carefully before allowing AI chatbots access to sensitive health information, highlighting the complex trade-offs in health-focused AI adoption.",
+        "link": "https://www.nytimes.com/2026/03/12/technology/personaltech/microsoft-copilot-health-ai-chatbots.html"
+    },
+    {
+        "category": "AI Development",
+        "title": "Axiom, a $1.6B Startup, Aims to Fix Buggy AI-Written Code",
+        "summary": "Axiom, a Silicon Valley startup valued at $1.6 billion, is developing AI systems designed to check for and fix mistakes in AI-written code. This initiative addresses a significant challenge as artificial intelligence increasingly generates programming code that often contains bugs. Axiom's solution aims to improve the reliability and quality of AI-assisted software development by automating code review and error correction.",
+        "link": "https://www.nytimes.com/2026/03/12/technology/axiom-ai-code-funding.html"
+    },
+    {
+        "category": "AI Impact on Jobs",
+        "title": "AI Agents Fundamentally Reshaping Computer Programming Roles",
+        "summary": "The era of AI agents is fundamentally reshaping computer programming, with many Silicon Valley programmers now performing tasks described as \"deeply, deeply weird\" rather than traditional coding. This shift suggests a transformation in the role of developers, where AI systems increasingly handle core programming functions. The article implies a significant redefinition of what it means to be a programmer in the age of advanced artificial intelligence.",
         "link": "https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html"
     },
     {
-        "category": "Global AI Competition",
-        "title": "China's DeepSeek AI Impresses, Achieves High Performance Cheaply",
-        "summary": "DeepSeek AI, a Chinese upstart, is drawing significant attention in Silicon Valley for its 'amazing and impressive' high-performing AI models. Remarkably, the company claims to have trained these models cheaply, without utilizing the most advanced chips. This achievement underscores China's growing capability in AI development and its ability to innovate efficiently despite potential hardware limitations, intensifying global competition and reshaping perceptions of AI development requirements.",
-        "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology"
-    },
-    {
-        "category": "AI Investment Strategy",
-        "title": "Meta Plans Massive AI, Data Center Spending Surge",
-        "summary": "Meta plans to spend between $60 billion and $65 billion on artificial intelligence and massive data centers. This substantial investment is the latest indicator of accelerating investments into AI by major tech companies. It underscores Meta's commitment to pushing the boundaries of AI capabilities and supporting the immense infrastructure required for next-generation AI development, solidifying its position in the AI race despite previous layoff considerations.",
-        "link": "https://www.wsj.com/articles/meta-spending-ai-facebook-data-centers-9452a88f?mod=rss_Technology"
-    },
-    {
-        "category": "Industrial AI Applications",
-        "title": "Physical AI Drives Manufacturing's Next Advantage",
-        "summary": "Physical AI is emerging as the next significant advantage for the manufacturing sector, moving beyond traditional automation to drive efficiency. This approach allows manufacturing leaders to navigate challenges like labor constraints, rising complexity, and pressure for faster innovation, all while maintaining safety, quality, and trust. It represents the next phase in leveraging AI to enhance, validate, and streamline product design and operations in the real world, promising substantial industry transformation.",
-        "link": "https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/"
-    },
-    {
-        "category": "AI in Defense",
-        "title": "US Military May Use AI for Targeting Decisions",
-        "summary": "A Defense Department official has disclosed that the U.S. military might employ generative AI systems to rank targets and recommend strike priorities, with human oversight. This revelation about AI chatbots in military targeting comes amid scrutiny over previous strikes. It highlights the Pentagon's exploration of AI to augment decision-making in warfare, emphasizing the role of human vetting as a crucial safeguard in the deployment of advanced military AI systems.",
-        "link": "https://www.technologyreview.com/2026/03/13/1134278/the-download-how-ai-is-used-for-military-targeting-and-the-pentagons-war-on-claude/"
-    },
-    {
-        "category": "AI Adoption Trends",
-        "title": "China's OpenClaw AI Craze Fuels Entrepreneurship",
-        "summary": "In China, 'hustlers are cashing in' on the OpenClaw AI craze, an open-source tool that can autonomously control devices and complete tasks. Software engineers like Feng Qingyang are quickly launching companies based on this popular technology. This trend highlights a rapid, grassroots adoption of AI in China, demonstrating how new AI tools are empowering entrepreneurial ventures and creating economic opportunities at a fast pace, showcasing a dynamic AI ecosystem.",
-        "link": "https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/"
-    },
-    {
-        "category": "Green Tech Economy",
-        "title": "US Battery Industry Faces 'Brutal Times' Downturn",
-        "summary": "The U.S. battery industry, which experienced a boom just a few years ago with numerous new companies and significant funding, is now facing 'brutal times' in 2026. This downturn indicates a significant shift in market conditions, with many startups that once promised innovative chemistries now struggling. The situation marks a challenging period for a sector crucial to green technology and renewable energy, impacting national economic and environmental goals.",
-        "link": "https://www.technologyreview.com/2026/03/12/1134197/us-battery-industry/"
+        "category": "AI Breakthroughs",
+        "title": "China's DeepSeek AI Achieves High Performance with Less Advanced Chips",
+        "summary": "China's DeepSeek AI is gaining attention for reportedly training high-performing AI models cost-effectively, even without using the most advanced chips. This achievement by the Chinese upstart is described as \"amazing and impressive\" by some in Silicon Valley. DeepSeek's success demonstrates significant progress in AI development under potentially resource-constrained conditions, indicating a notable advancement in the global AI landscape.",
+        "link": "https://www.wsj.com/articles/deepseek-ai-china-tech-stocks-explained-ee6cc80e?mod=rss_Technology"
     }
 ];
