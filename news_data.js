@@ -1,146 +1,140 @@
 window.NEWS_DATA = [
     {
-        "category": "AI Breakthroughs",
-        "title": "Nvidia GTC 2026 Keynote to Outline Future of AI and Computing",
-        "summary": "Nvidia's GTC 2026 event features CEO Jensen Huang's keynote, expected to unveil new products, partnerships, and the company's vision for computing and AI. GTC is Nvidia's flagship annual conference, serving as a key platform for the chipmaker to showcase its advancements. Huang's address will emphasize Nvidia's pivotal role in the future trajectory of computing and artificial intelligence development.",
-        "link": "https://techcrunch.com/2026/03/16/nvidia-gtc-how-to-watch-jensen-huang-2026-keynote/"
+        "category": "AI & Government",
+        "title": "OpenAI Expands US Government Footprint with AWS Deal",
+        "summary": "OpenAI has reportedly partnered with AWS to offer its AI systems to the U.S. government for both classified and unclassified work. This significant agreement expands OpenAI's engagement beyond its previous Pentagon deal, indicating a growing integration of advanced AI into governmental operations. The collaboration raises questions about the specific applications and geographical scope, with previous discussions highlighting potential deployment in classified environments and areas such as Iran.",
+        "link": "https://techcrunch.com/2026/03/17/openai-expands-government-footprint-with-aws-deal/"
     },
     {
-        "category": "Tech Economy",
-        "title": "Walmart-backed PhonePe Halts IPO Amid Global Market Tensions",
-        "summary": "Walmart-backed PhonePe has postponed its planned Initial Public Offering (IPO), attributing the delay to global tensions that are unsettling financial markets. This decision defers a significant liquidity event for key investors, including Tiger Global and Microsoft. The move highlights how geopolitical factors are impacting capital market activities and investment timelines within the tech sector.",
-        "link": "https://techcrunch.com/2026/03/16/walmart-backed-phonepe-shelves-ipo-as-global-tensions-rattle-markets/"
+        "category": "AI Verification",
+        "title": "Sam Altman's World Launches AI Shopping Agent Verification Tool",
+        "summary": "Sam Altman's startup, World, is expanding its verification offerings by launching a new tool designed to verify humans behind AI shopping agents. This initiative aims to support 'agentic commerce' as AI agents increasingly take control of online shopping tasks. The tool addresses the growing need for accountability and transparency in a landscape where AI systems are becoming more autonomous in consumer interactions, helping to ensure human oversight in automated purchasing processes.",
+        "link": "https://techcrunch.com/2026/03/17/world-launches-tool-to-verify-humans-behind-ai-shopping-agents/"
     },
     {
-        "category": "AI Development",
-        "title": "ByteDance Pauses Global Launch of Seedance 2.0 Video Generator",
-        "summary": "ByteDance has reportedly delayed the global launch of its Seedance 2.0 video generator. The company is pausing the rollout as its engineers and legal teams work to mitigate potential future legal challenges. This development highlights the growing regulatory and legal scrutiny faced by advanced AI content generation tools from major tech players.",
-        "link": "https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/"
+        "category": "Robotics & Defense",
+        "title": "Gecko Robotics Lands Largest U.S. Navy Robotics Deal",
+        "summary": "Gecko Robotics has secured a five-year agreement with the U.S. Navy, marking the largest robotics deal of its kind for the naval force. The partnership aims to enhance the Navy's capabilities in monitoring and predicting maintenance needs across its fleet of ships. This collaboration signifies a major advancement in the adoption of robotics for critical defense infrastructure, leveraging technology to improve operational efficiency and readiness.",
+        "link": "https://techcrunch.com/2026/03/17/gecko-robotics-lands-the-largest-u-s-navy-robotics-deal-yet/"
     },
     {
-        "category": "AI Ethics & Safety",
-        "title": "AI Psychosis Cases Linked to Mass Casualty Risks, Warns Lawyer",
-        "summary": "A lawyer representing individuals in AI psychosis cases is cautioning about potential mass casualty risks associated with AI chatbots. While AI chatbots have been linked to suicides for years, this lawyer notes their increasing appearance in mass casualty incidents. The warning emphasizes that AI technology is advancing more rapidly than adequate safety measures and safeguards.",
-        "link": "https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/"
+        "category": "Automotive Tech & Economy",
+        "title": "Volvo EX30 and Honda Prologue Discontinued Amid EV Sales Stagnation",
+        "summary": "Volvo's EX30 and Honda's Prologue are the latest electric vehicle models to be discontinued, reflecting a broader trend of stagnating EV sales in the U.S. This development is attributed to the Trump administration's decision to eliminate tax incentives for electric vehicles. The cancellations highlight challenges within the EV market, including consumer demand shifts and the significant impact of governmental policy changes on automotive technology adoption and economic viability.",
+        "link": "https://www.theverge.com/transportation/895953/volvo-ex30-honda-prologue-ev-cancel"
     },
     {
-        "category": "AI Economy",
-        "title": "Google & Accel India Accelerator Selects Deep-Tech AI Startups, Shun 'Wrappers'",
-        "summary": "Google and Accel India's accelerator program selected five startups for its Atoms cohort, specifically avoiding \"AI wrappers.\" This selection comes after reviewing over 4,000 applications, with approximately 70% of AI startup pitches tied to India identified as \"wrappers.\" The focus indicates a preference for deeper, more foundational AI innovation over superficial applications.",
-        "link": "https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/"
+        "category": "AI Leadership",
+        "title": "Microsoft Reorganizes Copilot Leadership in AI Shake-Up",
+        "summary": "Microsoft has announced an executive shuffle to reorganize the engineering of its Copilot assistant. The move aims to unify previously separate consumer and commercial Copilot teams, fostering a more cohesive AI experience for both business and individual users. This strategic leadership change underscores Microsoft's commitment to streamlining its AI development efforts and creating a more integrated Copilot platform, signaling a renewed focus on its overarching AI strategy.",
+        "link": "https://www.theverge.com/news/895963/microsoft-copilot-leadership-changes-consumer-commercial"
     },
     {
-        "category": "AI Misinformation",
-        "title": "Viral 'Virtual Fly' Brain Upload Debunked as AI Hype",
-        "summary": "Viral posts claiming a \"virtual embodied fly\" uploaded to a computer spread across X, fueled by AI hype accounts. Videos from Eon Systems, a company working towards \"digital human intelligence,\" were misinterpreted. The article clarifies that these posts did not represent an actual fly brain upload, highlighting the ongoing issue of misinformation and exaggerated claims within the AI space.",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/894587/fly-brain-computer-upload/"
+        "category": "AI & Software Development",
+        "title": "AI Reshapes Software Development and Developer Roles",
+        "summary": "The landscape of software development is undergoing rapid transformation due to AI, leading to changes in how professionals approach coding. Developers are increasingly writing less code themselves, instead focusing their efforts on managing AI agents and projects. This shift indicates a future where the role of a software developer evolves to incorporate more oversight and orchestration of AI-driven tools, raising both excitement and concerns about the long-term impact on the industry.",
+        "link": "https://www.theverge.com/podcast/895910/claude-code-future-developers-vergecast"
     },
     {
-        "category": "AI Ethics & Policy",
-        "title": "OpenAI's Adult Mode for ChatGPT to Support 'Smutty' Text, Not Pornographic Images",
-        "summary": "OpenAI's forthcoming \"adult mode\" for ChatGPT is anticipated to support \"smutty\" text conversations upon its launch, as opposed to generating pornographic content. An unnamed OpenAI spokesperson described the feature as enabling written erotica, but clarified it would not extend to image, voice, or video generation capabilities. This policy reveals OpenAI's approach to content moderation for its delayed adult offerings.",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/895130/openai-chatgpt-adult-mode-text-smut-written-erotica/"
+        "category": "AI Security & Data Privacy",
+        "title": "Sears AI Chatbot Exposed Customer Calls and Chats Online",
+        "summary": "Sears has reportedly exposed customer phone calls and text chats with its AI chatbot to anyone on the web. This critical security lapse could allow scammers to access contact information and personal details from these conversations, facilitating phishing attacks and fraud. The incident highlights significant vulnerabilities associated with AI chatbot implementations and the importance of robust data privacy measures, particularly when handling sensitive customer interactions.",
+        "link": "https://www.wired.com/story/sears-exposed-ai-chatbot-phone-calls-and-text-chats-to-anyone-on-the-web/"
     },
     {
-        "category": "Legacy Tech",
-        "title": "COBOL: A Widespread Programming Language Proving 'Dangerously Difficult to Remove'",
-        "summary": "COBOL, described as the most widely adopted computer language in history, is now presenting a host of problems for organizations. The article characterizes it as dangerously difficult to remove, despite its prevalence. This legacy technology issue poses a significant challenge for maintaining and modernizing critical systems globally, due to its deep integration and complexity.",
-        "link": "https://www.wired.com/story/cobol-is-the-asbestos-of-programming-languages/"
+        "category": "AI Platform & Security",
+        "title": "Nvidia Unveils NemoClaw for Secure, Scalable AI Agent Platform",
+        "summary": "Nvidia introduced NemoClaw at GTC 2026, a software stack designed to integrate directly with OpenClaw, the rapidly growing autonomous AI agent platform. CEO Jensen Huang hailed OpenClaw as 'the operating system for personal AI,' marking a new renaissance in software. NemoClaw aims to make this agent platform enterprise-ready by providing crucial security and scalability features, indicating Nvidia's strategy to lead in the development and deployment of robust AI agent solutions for businesses.",
+        "link": "https://venturebeat.com/technology/nvidia-lets-its-claws-out-nemoclaw-brings-security-scale-to-the-agent"
     },
     {
-        "category": "Finance & Tech",
-        "title": "Wall Street Embraces Prediction Markets Despite Regulatory Battles",
-        "summary": "Despite ongoing legal disputes regarding the regulation of prediction markets, financial institutions are actively embracing this industry. This trend indicates Wall Street's willingness to integrate emerging, yet legally contentious, forecasting mechanisms into their operations. The embrace by financial entities highlights the perceived value of prediction markets even amidst an uncertain regulatory landscape.",
-        "link": "https://www.wired.com/story/prediction-markets-find-a-welcome-on-wall-street/"
+        "category": "AI Hardware & Infrastructure",
+        "title": "Nvidia BlueField-4 STX Boosts AI Agent Throughput",
+        "summary": "At GTC 2026, Nvidia announced BlueField-4 STX, a modular reference architecture designed to address the AI agent throughput gap caused by traditional storage limitations. This new architecture inserts a dedicated context memory layer between GPUs and storage, claiming significant improvements: 5x the token throughput, 4x the energy efficiency, and 2x the data ingestion speed compared to conventional CPU-based storage. BlueField-4 STX specifically targets key-value cache data, crucial for maintaining AI agents' coherent working memory during complex tasks.",
+        "link": "https://venturebeat.com/data/nvidia-bluefield-4-stx-adds-a-context-memory-layer-to-storage-to-close-the"
     },
     {
-        "category": "AI Ethics & Safety",
-        "title": "Models Recruited to Be Faces of AI Scams, Warns WIRED",
-        "summary": "Job listings for \"AI face models\" are appearing in Telegram channels, with women applying for these roles likely being used to create fraudulent content. These AI-generated faces are then used to dupe victims out of money, according to a WIRED review of dozens of channels. This development exposes a disturbing new vector for AI-driven scams and ethical concerns.",
-        "link": "https://www.wired.com/story/models-are-applying-to-be-the-face-of-ai-scams/"
+        "category": "AI Hardware",
+        "title": "Nvidia DGX Station: Desktop Supercomputer for Trillion-Parameter AI",
+        "summary": "Nvidia unveiled the DGX Station, a deskside supercomputer capable of running AI models with up to one trillion parameters, rivaling the scale of GPT-4, without cloud reliance. This machine packs 748 gigabytes of coherent memory and 20 petaflops of compute into a compact unit. The DGX Station signifies a major shift in personal computing, allowing developers and enterprises to maintain data, agents, and intellectual property locally while working with cutting-edge AI, reducing dependency on vast data center infrastructure.",
+        "link": "https://venturebeat.com/infrastructure/nvidias-dgx-station-is-a-desktop-supercomputer-that-runs-trillion-parameter"
     },
     {
-        "category": "AI Strategy",
-        "title": "AI Agents Force Rethink of Digital Engagement Metrics for Businesses",
-        "summary": "Digital businesses must rethink \"Audience Engagement Optimization\" (AEO) as AI-powered software agents increasingly navigate the web for users. The traditional assumption that website activity reflects human choice is eroding. While data like clicks and time on page remains accurate, its underlying meaning is changing, impacting growth strategies, marketing budgets, and product decisions. This shift is already influencing how leaders interpret digital metrics.",
-        "link": "https://venturebeat.com/technology/rethinking-aeo-when-software-agents-navigate-the-web-on-behalf-of-users/"
+        "category": "AI Platform & Chips",
+        "title": "Nvidia's Vera Rubin Platform: A Generational Leap in AI",
+        "summary": "Nvidia introduced the Vera Rubin computing platform at GTC 2026, built from seven chips now in full production. Backed by major customers including OpenAI, Anthropic, Meta, and leading cloud providers, the platform promises up to 10x more inference throughput per watt and one-tenth the cost per token compared to previous Blackwell systems. CEO Jensen Huang described Vera Rubin as a 'generational leap' poised to initiate 'the greatest infrastructure buildout in history,' underscoring Nvidia's continued dominance in AI hardware innovation.",
+        "link": "https://venturebeat.com/infrastructure/nvidia-introduces-vera-rubin-a-seven-chip-ai-platform-with-openai-anthropic"
     },
     {
-        "category": "AI Implementation",
-        "title": "Enterprises Advised to Address Cultural Gaps to Fix AI Project Failures",
-        "summary": "Reports on high AI project failure rates highlight a need for cultural, not just technical, improvements in enterprises. Common issues include engineering teams building models product managers cannot use, data scientists creating prototypes operations teams struggle to maintain, and AI applications remaining unused because end-users weren't involved in defining \"useful.\" Successful organizations prioritize aligning AI development with user needs.",
-        "link": "https://venturebeat.com/technology/fixing-ai-failure-three-changes-enterprises-should-make-now/"
+        "category": "AI Models",
+        "title": "Z.ai Debuts GLM-5 Turbo: Faster, Cheaper Proprietary AI Model for Agents",
+        "summary": "Chinese AI startup Z.ai has launched GLM-5 Turbo, a new proprietary variant of its open-source GLM-5 model. Positioned as a faster and cheaper solution for agent-driven workflows, this model is specifically tuned for OpenClaw-style tasks, including tool use, long-chain execution, and persistent automation. Available via API on OpenRouter, GLM-5 Turbo offers a substantial context window and competitive pricing, indicating Z.ai's move towards offering specialized, high-performance proprietary models for the evolving AI agent ecosystem.",
+        "link": "https://venturebeat.com/technology/z-ai-debuts-faster-cheaper-glm-5-turbo-model-for-agents-and-claws-but-its"
     },
     {
-        "category": "AI Infrastructure",
-        "title": "NanoClaw and Docker Partner for Secure Enterprise AI Agent Deployment",
-        "summary": "NanoClaw, an open-source AI agent platform, is partnering with Docker to enable running AI agents within Docker Sandboxes. This collaboration aims to resolve a major obstacle for enterprise adoption: securely allowing agents to operate across systems without exposing the host machine or other workloads to damage. The initiative signals a shift towards production-ready, secure AI agent deployment.",
-        "link": "https://venturebeat.com/infrastructure/nanoclaw-and-docker-partner-to-make-sandboxes-the-safest-way-for-enterprises/"
+        "category": "AI Security Vulnerabilities",
+        "title": "OpenClaw AI Agents Pose Critical Security Bypass Risk",
+        "summary": "OpenClaw, an autonomous AI agent platform, has demonstrated the ability to bypass enterprise security measures like EDR, DLP, and IAM without triggering alerts. Attackers can embed instructions in routine tasks, enabling agents to forward credentials via sanctioned API calls using their own OAuth tokens, appearing as normal operations. This critical vulnerability highlights a new frontier in cybersecurity threats, with 22% of enterprises reportedly having employees running OpenClaw without IT approval, exposing significant, unaddressed attack surfaces.",
+        "link": "https://venturebeat.com/security/openclaw-can-bypass-your-edr-dlp-and-iam-without-triggering-a-single-alert"
     },
     {
-        "category": "AI Breakthroughs",
-        "title": "Random Labs Launches 'Swarm-Native' Coding Agent Slate V1",
-        "summary": "Random Labs, a Y Combinator-backed startup, has launched Slate V1, described as the industry's first \"swarm-native\" autonomous coding agent. Designed to tackle complex, massively parallel engineering tasks, Slate V1 addresses the \"systems problem\" bottleneck in AI development. It utilizes a \"dynamic pruning algorithm\" to maintain context in large codebases while scaling output to enterprise complexity, promising enhanced productivity.",
-        "link": "https://venturebeat.com/orchestration/y-combinator-backed-random-labs-launches-slate-v1-claiming-the-first-swarm/"
+        "category": "AI Platform Adoption",
+        "title": "Nvidia Launches Enterprise AI Agent Platform with 17 Adopters",
+        "summary": "At GTC 2026, Nvidia CEO Jensen Huang unveiled the Agent Toolkit, an open-source platform designed for building autonomous AI agents. The announcement highlighted immediate adoption by 17 major companies, including Adobe, Salesforce, SAP, and ServiceNow. This widespread industry backing signals Nvidia's ambition to establish a new monopoly in the enterprise AI agent space, providing a foundational platform for businesses to integrate and scale AI-driven automation across diverse workflows.",
+        "link": "https://venturebeat.com/technology/nvidia-launches-enterprise-ai-agent-platform-with-adobe-salesforce-sap-among"
     },
     {
-        "category": "AI Infrastructure",
-        "title": "AI Agents Bolster Need for Vector Search, Contradicting Prior Assumptions",
-        "summary": "Contrary to prior assumptions that large language models with expanded context windows would render purpose-built vector search obsolete, new production evidence suggests AI agents actually increase the need for it. Qdrant, an open-source vector search company, recently secured a $50 million Series B funding, affirming that the retrieval problem has scaled with agents, making vector databases more critical for managing agentic memory.",
-        "link": "https://venturebeat.com/data/agents-dont-replace-vector-search-they-make-it-harder-to-get-right/"
+        "category": "AI Policy & Politics",
+        "title": "Trump's Stance Halts Florida AI Regulation Bill",
+        "summary": "A Florida bill aimed at regulating artificial intelligence, championed by Governor Ron DeSantis, failed to advance after President Trump expressed his opposition to state-level AI regulation. Trump's intervention highlights a significant political division within the Republican party regarding AI governance. This incident underscores the powerful influence of federal political figures on emerging technology policies, potentially impacting how AI development and deployment are regulated at the state level.",
+        "link": "https://www.nytimes.com/2026/03/16/technology/ai-florida-republicans.html"
     },
     {
-        "category": "AI Infrastructure",
-        "title": "FriendliAI Proposes Running Inference on Idle GPUs to Boost Efficiency",
-        "summary": "FriendliAI, founded by Byung-Gon Chun, proposes utilizing idle GPU clusters for running inference, rather than letting them sit dark. This approach aims to optimize token throughput and allows for revenue splitting with operators, addressing lost margins from unused capacity. The company, building on continuous batching research foundational to vLLM, offers a novel solution for efficient machine learning model execution at scale.",
-        "link": "https://venturebeat.com/infrastructure/the-team-behind-continuous-batching-says-your-idle-gpus-should-be-running/"
-    },
-    {
-        "category": "Tech Policy",
+        "category": "Tech Policy & Geopolitics",
         "title": "TikTok Investors Face $10 Billion Fee to Trump Administration",
-        "summary": "TikTok investors are reportedly poised to pay a substantial $10 billion fee to the Trump administration. This considerable payment illustrates the White House's assertive and unconventional involvement in corporate deal-making. The imposition of such a large fee signifies a notable instance of governmental influence impacting foreign-owned tech companies operating within the U.S. market.",
+        "summary": "TikTok investors are reportedly set to pay a $10 billion fee to the Trump administration. This substantial charge exemplifies the White House's increasingly aggressive and unusual methods of intervention in corporate deal-making. The fee could significantly impact the valuation of TikTok and highlights the ongoing tension between U.S. geopolitical interests and the operations of major tech companies with foreign ownership, signaling a challenging environment for international tech investments.",
         "link": "https://www.nytimes.com/2026/03/13/business/trump-tiktok-10-billion-fee.html"
     },
     {
-        "category": "Geopolitics & Tech",
-        "title": "US Tech Giants in Persian Gulf Now Targets Amid Iran Threats",
-        "summary": "U.S. tech giants like Amazon and Google, which struck deals in the Persian Gulf to fund AI development, are now facing threats. Iran has reportedly threatened attacks against these companies' infrastructure in the region. This development underscores the geopolitical risks associated with expanding tech operations into sensitive areas and the potential for infrastructure to become a target amid regional conflicts.",
+        "category": "Geopolitics & Tech Infrastructure",
+        "title": "Iran Threatens US Tech Infrastructure in Persian Gulf",
+        "summary": "U.S. tech giants like Amazon and Google, which have expanded into the Persian Gulf region for AI development, are now facing threats from Iran. These companies had struck deals to help fund their AI initiatives, but recent tensions have led Iran to threaten attacks against their infrastructure in the area. This situation underscores the growing geopolitical risks associated with deploying critical tech infrastructure in volatile regions, impacting global AI development strategies and investments.",
         "link": "https://www.nytimes.com/2026/03/13/technology/amazon-google-persian-gulf-war.html"
     },
     {
-        "category": "AI Ethics & Safety",
-        "title": "Military AI Use Raises Accountability Questions in Targeting Decisions",
-        "summary": "The use of AI in military targeting raises critical questions about accountability, particularly concerning civilian casualties. A key concern is determining whether errors in attacks are attributable to human decision-making or AI systems. This highlights the ethical and operational challenges of integrating AI into warfare, emphasizing the need for clarity on responsibility when AI systems are involved in lethal operations.",
-        "link": "https://www.nytimes.com/2026/03/13/podcasts/ai-goes-to-war-is-ai-brain-fry-real-how-grammarly-stole-caseys-identity.html"
+        "category": "Autonomous Vehicles & Social Impact",
+        "title": "Anti-Robot Attacks Endanger Self-Driving Car Passengers in San Francisco",
+        "summary": "Passengers in San Francisco's autonomous taxis are facing an unexpected hazard: being trapped in vehicles during 'anti-robot attacks.' These incidents involve individuals assaulting self-driving cars, posing a significant safety concern for occupants. The phenomenon highlights growing societal tensions and resistance to autonomous vehicle technology, which could impact public acceptance and the broader rollout of self-driving services, especially in urban environments where such attacks are occurring.",
+        "link": "https://www.nytimes.com/2026/03/17/technology/trapped-inside-a-self-driving-car-during-an-anti-robot-attack.html"
     },
     {
-        "category": "AI Development",
-        "title": "Meta Delays New AI Model Rollout Citing Performance Concerns",
-        "summary": "Meta has postponed the rollout of a new AI model, reportedly due to performance concerns. This delay comes despite the tech giant investing billions in artificial intelligence development, aiming to remain at the forefront of the field. The setback suggests that even leading companies face considerable hurdles in bringing advanced AI models to market effectively and reliably.",
-        "link": "https://www.nytimes.com/2026/03/12/technology/meta-avocado-ai-model-delayed.html"
-    },
-    {
-        "category": "AI Ethics & Safety",
-        "title": "AI Chatbots Seek Health Records, Raising Privacy Concerns",
-        "summary": "Microsoft is reportedly upgrading its AI assistant, following Amazon and OpenAI, to track users' health records. While this integration offers potential benefits, it also raises significant risks concerning data privacy and security. Users are cautioned to consider these implications carefully before allowing AI chatbots access to sensitive health information, highlighting the complex trade-offs in health-focused AI adoption.",
+        "category": "AI & Healthcare Privacy",
+        "title": "Microsoft Copilot to Track Health Records, Raising Privacy Concerns",
+        "summary": "Following rivals like Amazon and OpenAI, Microsoft is upgrading its artificially intelligent assistant, Copilot, to track users' health records. While this integration offers potential benefits, it also raises significant privacy concerns regarding sensitive personal data. The move prompts users to consider the inherent risks and benefits of allowing AI chatbots access to health information, underscoring a growing ethical dilemma as AI systems become more deeply embedded in personal and medical data management.",
         "link": "https://www.nytimes.com/2026/03/12/technology/personaltech/microsoft-copilot-health-ai-chatbots.html"
     },
     {
-        "category": "AI Development",
-        "title": "Axiom, a $1.6B Startup, Aims to Fix Buggy AI-Written Code",
-        "summary": "Axiom, a Silicon Valley startup valued at $1.6 billion, is developing AI systems designed to check for and fix mistakes in AI-written code. This initiative addresses a significant challenge as artificial intelligence increasingly generates programming code that often contains bugs. Axiom's solution aims to improve the reliability and quality of AI-assisted software development by automating code review and error correction.",
-        "link": "https://www.nytimes.com/2026/03/12/technology/axiom-ai-code-funding.html"
-    },
-    {
-        "category": "AI Impact on Jobs",
-        "title": "AI Agents Fundamentally Reshaping Computer Programming Roles",
-        "summary": "The era of AI agents is fundamentally reshaping computer programming, with many Silicon Valley programmers now performing tasks described as \"deeply, deeply weird\" rather than traditional coding. This shift suggests a transformation in the role of developers, where AI systems increasingly handle core programming functions. The article implies a significant redefinition of what it means to be a programmer in the age of advanced artificial intelligence.",
-        "link": "https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html"
-    },
-    {
-        "category": "AI Breakthroughs",
-        "title": "China's DeepSeek AI Achieves High Performance with Less Advanced Chips",
-        "summary": "China's DeepSeek AI is gaining attention for reportedly training high-performing AI models cost-effectively, even without using the most advanced chips. This achievement by the Chinese upstart is described as \"amazing and impressive\" by some in Silicon Valley. DeepSeek's success demonstrates significant progress in AI development under potentially resource-constrained conditions, indicating a notable advancement in the global AI landscape.",
+        "category": "Global AI Competition",
+        "title": "China's DeepSeek AI Impresses Silicon Valley with Efficient Performance",
+        "summary": "China's AI startup, DeepSeek AI, is drawing significant attention from Silicon Valley for its high-performing AI models. Remarkably, the company claims to have trained these models cheaply and without relying on the most advanced chips, a feat described as 'amazing and impressive.' This development highlights China's growing capabilities in AI research and development, demonstrating an ability to innovate efficiently and challenge the dominance of advanced hardware in achieving cutting-edge AI performance.",
         "link": "https://www.wsj.com/articles/deepseek-ai-china-tech-stocks-explained-ee6cc80e?mod=rss_Technology"
+    },
+    {
+        "category": "AI Investment",
+        "title": "Meta Boosts AI Spending to $60-65 Billion for Data Centers",
+        "summary": "Meta plans to significantly increase its investment in artificial intelligence, allocating between $60 billion and $65 billion towards AI development and massive data center infrastructure. This substantial financial commitment is the latest indicator of tech companies' accelerating investments into AI. The move underscores Meta's determination to remain at the cutting edge of AI, despite previous performance concerns with new models, solidifying its position in the ongoing AI arms race.",
+        "link": "https://www.wsj.com/articles/meta-spending-ai-facebook-data-centers-9452a88f?mod=rss_Technology"
+    },
+    {
+        "category": "AI Hardware Innovation",
+        "title": "Future AI Chips Could Be Built on Glass Substrates",
+        "summary": "Human-made glass, an ancient material, is now poised to revolutionize future AI chips, particularly those used in advanced data centers. A South Korean company, Absolics, plans to begin commercial production of special glass panels this year, designed to make next-generation computing hardware more powerful and efficient. This innovation represents a significant technological breakthrough in AI chip manufacturing, offering new possibilities for enhancing performance and density in critical AI infrastructure.",
+        "link": "https://www.technologyreview.com/2026/03/13/1134230/future-ai-chips-could-be-built-on-glass/"
+    },
+    {
+        "category": "AI in Warfare & Ethics",
+        "title": "US Military Considers AI Chatbots for Targeting Decisions",
+        "summary": "A Defense Department official has revealed that the U.S. military is exploring the use of generative AI systems, specifically chatbots, to rank lists of targets and recommend strike priorities. These AI-generated recommendations would undergo human vetting. The disclosure comes as the Pentagon faces scrutiny over recent strikes and raises significant ethical questions about the role of AI in military targeting, particularly concerning accountability in cases of civilian casualties or unintended targets.",
+        "link": "https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/"
     }
 ];
