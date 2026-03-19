@@ -1,152 +1,152 @@
 window.NEWS_DATA = [
     {
-        "category": "AI Industry Consolidation",
-        "title": "Microsoft Integrates Cove AI Team",
-        "summary": "AI collaboration startup Cove is shutting down after its team joined Microsoft. This strategic acquisition signifies Microsoft's continued effort to bolster its AI capabilities and talent pool. Cove's service will cease on April 1, with customer data slated for deletion. The move highlights the trend of larger tech companies absorbing specialized AI startups, either for their technology or their engineering expertise, thereby shaping the competitive landscape of the AI sector.",
-        "link": "https://techcrunch.com/2026/03/18/microsoft-hires-the-team-of-sequioa-backed-ai-collaboration-platform-cove/"
+        "category": "Tech Economy & Privacy",
+        "title": "Cloaked Secures $375M, Expands to Enterprise Privacy",
+        "summary": "Consumer-focused privacy company Cloaked has successfully raised $375 million in a funding round, comprising both equity and growth capital. This significant investment is earmarked for the company's strategic expansion beyond its traditional consumer base into the enterprise market. The move signals Cloaked's ambition to address a broader spectrum of privacy needs, leveraging its established solutions to cater to organizational requirements in a rapidly evolving data privacy landscape.",
+        "link": "https://techcrunch.com/2026/03/19/consumer-focused-privacy-company-cloaked-raises-375m-as-it-expands-to-enterprise/"
     },
     {
-        "category": "Cybersecurity",
-        "title": "Fintech Firm Marquis Reports Massive Data Breach",
-        "summary": "Fintech company Marquis is informing over 672,000 individuals that their personal and financial data, including Social Security numbers, were stolen in a ransomware attack. This significant data breach underscores persistent cybersecurity vulnerabilities within the financial technology sector, raising concerns about consumer data protection. Affected individuals are being notified, highlighting the ongoing threat posed by sophisticated hacking operations targeting sensitive personal information.",
-        "link": "https://techcrunch.com/2026/03/18/marquis-says-over-672000-people-had-personal-and-financial-data-stolen-in-ransomware-attack/"
+        "category": "Autonomous Vehicles & Regulation",
+        "title": "Tesla FSD Faces Recall as Feds Intensify Probe",
+        "summary": "The National Highway Traffic Safety Administration (NHTSA) has escalated its investigation into Tesla's Full Self-Driving (FSD) system, reportedly placing the software on the cusp of a recall. The upgraded probe stems from findings that Tesla's driving software struggles in low-visibility conditions. A \"degradation detection\" system is supposed to alert drivers to take over when vehicle cameras are obscured, but its effectiveness is under intense scrutiny, raising serious safety concerns for the autonomous technology.",
+        "link": "https://www.theverge.com/transportation/897303/tesla-full-self-driving-nhtsa-probe-march-2026"
     },
     {
-        "category": "Geopolitical Cyber Warfare",
-        "title": "Russian Hackers Deploy Advanced iPhone Espionage Tools",
-        "summary": "A suspected Russian government hacking group has been caught targeting Ukrainians with advanced iPhone hacking tools, identified as DarkSword. These tools are designed for espionage, potentially to steal cryptocurrency, and can compromise devices running iOS 18 simply by visiting infected websites. This discovery highlights the escalation of state-sponsored cyber warfare, showcasing sophisticated techniques used to exploit mobile device vulnerabilities for intelligence gathering and financial disruption in conflict zones.",
-        "link": "https://techcrunch.com/2026/03/18/russians-caught-stealing-personal-data-from-ukrainians-with-new-advanced-iphone-hacking-tools/"
+        "category": "Autonomous Vehicles & Tech Economy",
+        "title": "Uber and Rivian Partner on $1.25B Robotaxi Deal",
+        "summary": "Uber and Rivian are joining forces in a deal worth up to $1.25 billion to deploy 50,000 fully autonomous robotaxis over several decades. Uber will make an initial $300 million investment, with the remaining capital contingent on Rivian meeting specific autonomy milestones through 2031. This partnership will see Rivian providing its R2 SUVs, marking a significant strategic move in the rapidly evolving autonomous transportation sector for both companies.",
+        "link": "https://www.theverge.com/transportation/897105/uber-rivian-robotaxi-investment-deal"
     },
     {
-        "category": "AI Governance & National Security",
-        "title": "DOD Labels Anthropic a National Security Risk",
-        "summary": "The Defense Department has labeled AI firm Anthropic an \"unacceptable risk to national security\" and a supply-chain risk. The DOD's concerns stem from fears that Anthropic might \"attempt to disable its technology\" during \"warfighting operations,\" questioning the company's reliability as a \"trusted partner.\" This decision reveals growing government scrutiny over the control and potential political neutrality of advanced AI technologies, especially when integrated into critical defense infrastructure, raising questions about AI ethics in military applications.",
-        "link": "https://techcrunch.com/2026/03/18/dod-says-anthropics-red-lines-make-it-an-unacceptable-risk-to-national-security/"
+        "category": "Global Shifts & Supply Chain",
+        "title": "$1.1B Deal Aims to Reshore Critical Minerals Refining",
+        "summary": "Critical minerals startup Nth Cycle is embarking on a $1.1 billion initiative to localize nickel refining processes within the U.S. and Europe. This ambitious deal is driven by Nth Cycle's modular approach, which seeks to make domestic and European refining practices economically viable and less reliant on overseas supply chains. The project highlights a growing global effort to enhance supply chain security and reduce dependence on foreign sources for essential industrial resources.",
+        "link": "https://techcrunch.com/2026/03/19/inside-a-1-1b-deal-to-reshore-critical-minerals-refining/"
     },
     {
-        "category": "Enterprise AI Competition",
-        "title": "Mistral AI Challenges Cloud Giants with Forge Platform",
-        "summary": "Mistral AI has launched Forge, an enterprise platform enabling companies to build, customize, and continuously improve AI models using their own proprietary data. This strategic move directly positions Mistral against hyperscale cloud providers in the competitive enterprise AI market. Alongside Forge, Mistral also released its Mistral Small 4 model, unveiled Leanstral (an open-source code agent), and joined Nvidia's Nemotron Coalition, signaling aggressive expansion and a focus on open frontier models.",
-        "link": "https://techcrunch.com/2026/03/17/mistral-bets-on-build-your-own-ai-as-it-takes-on-openai-anthropic-in-the-enterprise/"
+        "category": "AI Breakthroughs & Creative Tech",
+        "title": "Adobe Firefly Enables Custom AI Image Generation",
+        "summary": "Adobe is launching customizable AI image generators, known as Firefly Custom Models, now available in public beta. This new capability allows creators and brands to train an AI model using their own proprietary assets, ensuring generated images consistently adhere to a specific aesthetic. The tool aims to mimic distinct artistic styles and character designs, offering a powerful solution for maintaining brand consistency across various visual content while leveraging advanced generative AI.",
+        "link": "https://www.theverge.com/tech/897243/adobe-firefly-ai-custom-models-image-public-beta"
     },
     {
-        "category": "Cybersecurity Update",
-        "title": "Apple Deploys First Background Security Update",
-        "summary": "Apple has released its first-ever \"background security improvement\" for iPhones, iPads, and Macs. This update is designed to fix a vulnerability in the Safari browser running its latest software. The implementation of background security updates marks a new approach by Apple to enhance device security, allowing critical fixes to be deployed seamlessly without requiring user interaction or device restarts, aiming to address vulnerabilities more rapidly and efficiently.",
-        "link": "https://techcrunch.com/2026/03/17/apple-rolls-out-first-background-security-update-for-iphones-ipads-and-macs-to-fix-safari-bug/"
+        "category": "AI, Health Tech & Privacy",
+        "title": "Fitbit AI Coach to Access Medical Records",
+        "summary": "Google is enabling Fitbit's AI health coach with the capability to access and read users' medical records. This move positions Google alongside rivals like Amazon, OpenAI, and Microsoft, all betting on users' willingness to share sensitive health data in exchange for personalized virtual assistance. The integration aims to enhance the AI coach's ability to provide tailored health guidance, while also raising critical discussions about data privacy and the security of medical information within AI systems.",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/897250/fitbits-ai-health-coach-reads-medical-records"
     },
     {
-        "category": "Automotive Industry Trends",
-        "title": "EV Market Faces Significant Pullback and Delays",
-        "summary": "The auto industry's ambitious electric vehicle goals are encountering substantial setbacks, with demand slowing down amidst various obstacles. The market faces cancellations and delays, particularly exacerbated by policy changes like the elimination of federal EV tax credits and bulldozed emissions rules under a new administration. Tariffs are also taking a toll, contributing to a broader reassessment of the rapid transition to electric vehicles and potentially shifting focus towards hybrid models.",
-        "link": "https://www.theverge.com/transportation/896559/ev-cancellation-delay-hybrid-china/"
+        "category": "Data Privacy & Government Surveillance",
+        "title": "FBI Confirms Purchase of Americans' Location Data Without Warrants",
+        "summary": "FBI director Kash Patel has confirmed that the agency is purchasing commercially available location data, enabling it to track individuals' movements without a warrant. This data acquisition differs from information obtained directly from cellphone providers, circumventing traditional legal access requirements. Patel stated the practice is consistent with constitutional and legal frameworks, but the revelation raises significant concerns about privacy, civil liberties, and the scope of government surveillance capabilities.",
+        "link": "https://www.theverge.com/news/897145/kash-patel-ron-wyden-fbi-location-data-no-warrant"
     },
     {
-        "category": "AI Graphics Innovation",
-        "title": "Nvidia's DLSS 5 Sparks Gamer Controversy",
-        "summary": "Nvidia has introduced DLSS 5, a \"3D guided neural rendering model\" capable of changing game lighting and materials in real-time. Despite being intended to enhance future game visuals, the technology has generated significant controversy among gamers, with many expressing dissatisfaction and creating memes about \"yassified\" characters in demos. This highlights a divergence between Nvidia's vision for AI-powered graphics and the preferences of its gaming community, questioning the extent of AI alteration in creative content.",
-        "link": "https://www.theverge.com/games/896518/nvidia-dlss-5-ai-3d-rendering/"
+        "category": "AI & Cybersecurity",
+        "title": "Signal Founder to Encrypt Meta AI Communications",
+        "summary": "Moxie Marlinspike, the creator of the encrypted messaging app Signal, is integrating the technology behind his encrypted AI chatbot, Confer, into Meta AI. This strategic move aims to enhance the privacy and security of AI conversations for millions of Meta AI users. Marlinspike's involvement suggests a significant step towards bolstering data protection within large-scale AI platforms, addressing growing concerns about the confidentiality of user interactions with artificial intelligence.",
+        "link": "https://www.wired.com/story/signals-creator-is-helping-encrypt-meta-ai/"
     },
     {
-        "category": "Electric Vehicle Launch",
-        "title": "BMW Revives i3 with New Four-Door EV",
-        "summary": "BMW is introducing a new i3, a four-door electric vehicle, as part of its next wave of EVs following the iX3 SUV. This new model leverages a completely redesigned and substantially more efficient EV platform. The return of the i3 nameplate signifies BMW's continued commitment to expanding its electric vehicle lineup using its advanced Neue Klasse architecture, aiming to offer diverse EV options to the market beyond SUVs.",
-        "link": "https://www.theverge.com/transportation/895265/bmw-i3-neue-klasse-ev-price-specs/"
+        "category": "AI Ethics & Regulation",
+        "title": "Legal Battle Begins to Hold AI Firms Accountable for Child Deaths",
+        "summary": "Following a series of suicides allegedly linked to AI chatbots, legal action is being pursued to hold companies like OpenAI accountable. A lawyer is actively working to establish legal precedents for liability in cases where AI interactions are implicated in tragic outcomes involving children. This emerging legal challenge underscores the urgent need for greater ethical frameworks, safety measures, and regulatory oversight in the development and deployment of advanced AI technologies.",
+        "link": "https://www.wired.com/story/how-ai-chatbots-drove-families-to-the-brink-and-the-lawyer-fighting-back/"
     },
     {
-        "category": "Enterprise AI Management",
-        "title": "Microsoft Fabric IQ Tackles Enterprise AI Hallucination",
-        "summary": "Enterprise AI agents are facing a problem of \"hallucination driven by fragmented context\" where agents built on different platforms lack a shared understanding of business operations. Microsoft aims to fix this with a significant expansion of Fabric IQ, its semantic intelligence layer. Fabric IQ's enhanced business ontology provides a common understanding of business definitions across multi-agent systems, preventing decision breakdowns caused by diverging interpretations and improving the reliability of enterprise AI.",
-        "link": "https://venturebeat.com/data/enterprise-ai-agents-keep-operating-from-different-versions-of-reality/"
+        "category": "AI Breakthroughs & Global Competition",
+        "title": "Xiaomi's MiMo-V2-Pro LLM Rivals GPT-5.2 at Fraction of Cost",
+        "summary": "Chinese electronics and car manufacturer Xiaomi has launched MiMo-V2-Pro, a 1-trillion parameter foundation model achieving benchmarks comparable to OpenAI's GPT-5.2 and Anthropic's Opus 4.6, but at approximately one-sixth to one-seventh of the cost via its proprietary API. Led by DeepSeek R1 veteran Fuli Luo, this release is characterized as a 'quiet ambush' in the global AI landscape, with plans to open-source a variant once models achieve sufficient stability.",
+        "link": "https://venturebeat.com/technology/xiaomi-stuns-with-new-mimo-v2-pro-llm-nearing-gpt-5-2-opus-4-6-performance-at-a-fraction-of-the-cost"
     },
     {
-        "category": "AI Model Architecture Breakthrough",
-        "title": "Mamba 3 Surpasses Transformer Architecture in Open Source",
-        "summary": "Open-source Mamba 3 has arrived, demonstrating superior performance over the Transformer neural network architecture, which has underpinned most generative AI models since 2017. Mamba 3 offers nearly 4% improved language modeling and reduced latency. While Transformers are computationally intensive with quadratic compute demands, Mamba seeks to alleviate this burden. Its development, included in hybrid Mamba-Transformer models, signals a significant advancement in efficiency and scalability for large-scale AI inference, pushing the boundaries of generative AI.",
-        "link": "https://venturebeat.com/technology/open-source-mamba-3-arrives-to-surpass-transformer-architecture-with-nearly/"
+        "category": "AI Breakthroughs",
+        "title": "MiniMax M2.7 Introduces 'Self-Evolving' AI Model",
+        "summary": "Chinese AI startup MiniMax has unveiled M2.7, a new proprietary large language model (LLM) that demonstrates 'self-evolving' capabilities. Designed to power AI agents and integrate with third-party tools, M2.7 is able to build, monitor, and optimize its own reinforcement learning harnesses. This breakthrough signifies a shift towards recursive self-improvement in AI development, with the model capable of performing 30-50% of reinforcement learning research workflow, pushing the boundaries of autonomous AI agent development.",
+        "link": "https://venturebeat.com/technology/new-minimax-m2-7-proprietary-ai-model-is-self-evolving-and-can-perform-30-50"
     },
     {
-        "category": "AI Security & Identity",
-        "title": "Enterprise AI Faces Critical Authorization Problem",
-        "summary": "The rapid adoption of agentic AI in enterprises introduces a critical authorization problem: determining whose identity an AI agent uses when interacting with systems like CRMs or databases. This challenge revolves around defining the agent's authority, which directly translates into its authorization and access permissions. Experts warn that a lack of clarity in identity frameworks for AI agents could lead to significant security vulnerabilities, highlighting a new frontier in cybersecurity as machine identities multiply within organizations.",
-        "link": "https://venturebeat.com/security/the-authorization-problem-that-could-break-enterprise-ai/"
+        "category": "AI & Enterprise Tech",
+        "title": "Microsoft Fabric IQ Tackles Enterprise AI 'Hallucinations'",
+        "summary": "Microsoft has significantly expanded Fabric IQ, its semantic intelligence layer, to address the challenge of enterprise AI agents operating from fragmented understandings of business operations. In 2026, multi-agent systems often suffer from 'hallucinations' due to different platforms and teams having divergent definitions of core business entities like customers or orders. Fabric IQ's enhanced business ontology aims to provide a unified context, ensuring agents share a common operational reality and preventing decision breakdowns.",
+        "link": "https://venturebeat.com/data/enterprise-ai-agents-keep-operating-from-different-versions-of-reality"
     },
     {
-        "category": "AI Platform Security",
-        "title": "Nvidia Integrates Security into Agentic AI Platform NemoClaw",
-        "summary": "Nvidia has unveiled NemoClaw, a software stack for the OpenClaw autonomous AI agent platform, aiming to bring security and scale to what CEO Jensen Huang calls the \"operating system for personal AI.\" Notably, this is the first major AI platform release where security shipped at launch, with five security vendors already offering protection. This proactive approach addresses the escalating threat of agentic AI as a top attack vector, though governance gaps still need to be addressed in securing these technologies.",
-        "link": "https://venturebeat.com/technology/nvidia-lets-its-claws-out-nemoclaw-brings-security-scale-to-the-agent/"
+        "category": "AI Breakthroughs & Architecture",
+        "title": "Mamba 3 Surpasses Transformer Architecture",
+        "summary": "The open-source Mamba 3 architecture has arrived, demonstrating superior performance over the dominant Transformer architecture in language modeling, with nearly 4% improvement and reduced latency. While Transformers underpinned the generative AI era, their quadratic compute and linear memory demands make large-scale inference costly. Mamba, first introduced in 2023, addresses these inefficiencies, offering a more computationally efficient alternative that could significantly reduce the expense and complexity of deploying large AI models.",
+        "link": "https://venturebeat.com/technology/open-source-mamba-3-arrives-to-surpass-transformer-architecture-with-nearly"
     },
     {
-        "category": "AI Optimization",
-        "title": "Nvidia Achieves 20x LLM Memory Reduction",
-        "summary": "Nvidia researchers have developed KV Cache Transform Coding (KVTC), a new technique that dramatically reduces large language models' memory needs for conversation history by up to 20 times, without altering model weights. By applying media compression concepts, KVTC shrinks the key-value cache, lowering GPU memory demands and speeding up time-to-first-token by up to 8x. This breakthrough significantly reduces GPU memory costs and latency for enterprise AI applications relying on agents and long contexts, improving efficiency for multi-turn conversations.",
-        "link": "https://venturebeat.com/orchestration/nvidia-shrinks-llm-memory-20x-without-changing-model-weights/"
+        "category": "AI & Enterprise Tech",
+        "title": "Mistral AI Launches Forge to Challenge Cloud Giants",
+        "summary": "Mistral AI has launched Forge, an enterprise model training platform designed to help organizations build, customize, and continuously improve AI models using their own proprietary data. This move positions the French AI lab as a direct competitor to hyperscale cloud providers in the enterprise AI market. The announcement follows a busy week for Mistral, which also released its Mistral Small 4 model, unveiled Leanstral, and joined the Nvidia Nemotron Coalition to co-develop open frontier base models.",
+        "link": "https://venturebeat.com/infrastructure/mistral-ai-launches-forge-to-help-companies-build-proprietary-ai-models"
     },
     {
-        "category": "Defense Tech Economy",
-        "title": "Silicon Valley's Defense Tech Investments Pay Off",
-        "summary": "After years of criticism and financial risks, Silicon Valley companies like Palantir and Anthropic are seeing rewards from their significant investments in defense technology. This trend highlights a growing symbiosis between the tech industry and national security, as advanced technologies like AI become increasingly crucial for military applications. The profitability now being realized in defense tech signals a shift in investment priorities and potentially closer ties between innovation hubs and governmental defense agencies.",
+        "category": "AI & Cybersecurity",
+        "title": "Enterprise AI Faces Authorization Crisis",
+        "summary": "The proliferation of AI agents in the enterprise is revealing a critical authorization problem: defining whose identity and authority an agent operates under when interacting with company systems. As AI agents log into CRMs, pull database records, and send emails, understanding their precise access rights becomes paramount. Experts from Corridor and 1Password highlight that a lack of clarity on agent identity and authorization frameworks could lead to security vulnerabilities and break down enterprise AI operations.",
+        "link": "https://venturebeat.com/security/the-authorization-problem-that-could-break-enterprise-ai"
+    },
+    {
+        "category": "AI & Infrastructure",
+        "title": "Nvidia Unleashes NemoClaw for Secure AI Agent Platform",
+        "summary": "Nvidia has unveiled NemoClaw, a software stack designed to integrate directly with and enhance OpenClaw, the autonomous AI agent platform. Nvidia CEO Jensen Huang declared OpenClaw the \"operating system for personal AI,\" marking a new software renaissance. NemoClaw aims to make OpenClaw enterprise-ready by providing crucial security and scalability features, enabling companies to leverage this rapidly growing open-source project for robust, secure, and large-scale AI agent deployments.",
+        "link": "https://venturebeat.com/technology/nvidia-lets-its-claws-out-nemoclaw-brings-security-scale-to-the-agent"
+    },
+    {
+        "category": "Tech Economy & Defense",
+        "title": "Silicon Valley's Defense Tech Bets Yield Returns",
+        "summary": "After enduring years of criticism and financial risk, Silicon Valley's investments in defense technology are now generating substantial rewards. Companies like Palantir and Anthropic, alongside smaller startups, are seeing their strategic bets in the defense sector pay off. This shift highlights a growing trend of technology firms engaging more deeply with military applications, transforming defense capabilities while also proving a lucrative venture for the industry.",
         "link": "https://www.nytimes.com/2026/03/18/technology/silicon-valley-war-defense-tech.html"
     },
     {
-        "category": "Scientific Breakthrough",
-        "title": "Quantum Cryptography Pioneers Win Turing Award",
-        "summary": "Charles Bennett and Gilles Brassard have been awarded the Turing Award for their groundbreaking invention of quantum cryptography in the 1980s. Their work created a new type of encryption that is theoretically impregnable, laying foundational principles for future secure communication. This prestigious recognition underscores the long-term impact of their research on cybersecurity and information theory, paving the way for advancements in protecting digital assets against increasingly sophisticated threats.",
-        "link": "https://www.nytimes.com/2026/03/18/technology/turing-award-winners-quantum-cryptography.html"
+        "category": "AI, National Security & Global Shifts",
+        "title": "U.S. Labels Anthropic an 'Unacceptable' National Security Risk",
+        "summary": "The U.S. government has officially declared AI startup Anthropic an 'unacceptable' national security risk in a recent legal filing. The designation stems from government doubts regarding Anthropic's reliability as a 'trusted partner' in wartime scenarios, leading to its classification as a supply chain risk. This move signals heightened scrutiny of AI companies' geopolitical alignments and data handling practices, particularly those with significant defense implications.",
+        "link": "https://www.nytimes.com/2026/03/17/technology/anthropic-pentagon-national-security-risk.html"
     },
     {
-        "category": "Geopolitical Tech Regulation",
-        "title": "China Intensifies Scrutiny of Meta's Manus Acquisition",
-        "summary": "China is increasing its scrutiny of Meta's acquisition of Manus, a Singapore-based company with Chinese origins. This intensified review comes as President Trump prepares for a visit to Beijing, signaling potential geopolitical tensions influencing tech M&A. The move highlights China's growing assertiveness in regulating cross-border tech deals, especially those involving companies with ties to the country, reflecting broader concerns about data sovereignty and strategic technology control.",
+        "category": "Global Shifts & M&A",
+        "title": "China Escalates Scrutiny of Meta's Manus Acquisition",
+        "summary": "China is intensifying its scrutiny over Meta's acquisition of Manus, a Singapore-based company with Chinese origins. This increased oversight appears to be part of a broader crackdown on individuals connected to the deal, coinciding with President Trump's upcoming visit to Beijing. The move underscores rising geopolitical tensions impacting global tech mergers and acquisitions, particularly when companies have ties to both U.S. and Chinese interests.",
         "link": "https://www.nytimes.com/2026/03/17/technology/china-scrutiny-meta-manus.html"
     },
     {
-        "category": "AI & Defense Strategy",
-        "title": "Google Benefits from AI Rivals' Pentagon Issues",
-        "summary": "Google is strategically benefiting from controversies surrounding its AI competitors' relationships with the Defense Department. While companies like Anthropic face scrutiny over national security risks, Google has been actively rebuilding its relationship with the Pentagon. This positioning allows the tech giant to sidestep competitors' challenges and potentially secure more defense contracts, indicating a strategic advantage in the high-stakes sector of AI applications for government and military use.",
+        "category": "AI, Tech Economy & National Security",
+        "title": "Silicon Valley Rallies Support for Embattled Anthropic",
+        "summary": "Silicon Valley companies are quietly rallying behind Anthropic, the AI startup recently designated an 'unacceptable' national security risk by the U.S. government. While tech firms have been hesitant to directly challenge Trump administration officials publicly regarding their contract dispute with Anthropic, behind-the-scenes support is being mustered. This industry response highlights the complexities of navigating geopolitical tensions and regulatory pressures in the rapidly evolving defense and AI sectors.",
+        "link": "https://www.nytimes.com/2026/03/18/technology/silicon-valley-anthropic-pentagon.html"
+    },
+    {
+        "category": "AI, Tech Economy & National Security",
+        "title": "Google Benefits as AI Rivals Vie for Pentagon Favor",
+        "summary": "Google is strategically positioned to benefit significantly as its AI rivals contend for contracts and favor with the Pentagon. The tech giant has been diligently rebuilding its relationship with the Defense Department, allowing it to sidestep controversies currently plaguing competitors. This advantageous position allows Google to capitalize on the increasing demand for AI solutions in defense, while others face scrutiny over national security implications and ethical concerns.",
         "link": "https://www.nytimes.com/2026/03/18/technology/google-ai-pentagon.html"
     },
     {
-        "category": "Tech Regulation & Fintech",
-        "title": "Arizona Files Criminal Charges Against Prediction Site Kalshi",
-        "summary": "Arizona has filed criminal charges against Kalshi, accusing the prediction market site of operating an \"illegal gambling business.\" This marks the state's first-ever criminal charges against such a platform, significantly escalating the ongoing legal battle between state regulators and the prediction market industry. The Commodity Futures Trading Commission (CFTC) also faces challenges in policing insider trading within these markets, further complicating the regulatory landscape for platforms that claim to not be beholden to traditional gambling laws.",
-        "link": "https://www.nytimes.com/2026/03/17/technology/arizona-criminal-charges-kalshi.html"
+        "category": "AI Breakthroughs & Global Competition",
+        "title": "Silicon Valley Praises China's DeepSeek AI Breakthrough",
+        "summary": "Silicon Valley is reportedly 'raving' about DeepSeek, a new made-in-China AI model that has garnered praise for its impressive performance. What makes DeepSeek particularly notable is its achievement of high-performing AI capabilities despite being trained without the most advanced chips. This development underscores China's growing prowess in AI, demonstrating innovation in optimizing models under hardware constraints and intensifying global competition in artificial intelligence.",
+        "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology"
     },
     {
-        "category": "AI & Misinformation",
-        "title": "Netanyahu's 'Proof of Life' Video Underscores AI Misinformation Threat",
-        "summary": "Israeli Prime Minister Netanyahu posted an unusual \"proof of life\" video, directly addressing recent AI-generated disinformation. This event serves as the latest demonstration of how artificial intelligence is undermining trust in digital media, even authentic footage. The incident highlights the growing challenge posed by sophisticated AI tools in discerning reality from fabrication, forcing public figures to take extraordinary measures to validate their communications amidst a rapidly evolving landscape of synthetic media.",
-        "link": "https://www.nytimes.com/2026/03/17/technology/netanyahu-ai-video-iran-israel.html"
-    },
-    {
-        "category": "Global AI Competition",
-        "title": "China's DeepSeek AI Impresses Despite Chip Limitations",
-        "summary": "China's AI upstart DeepSeek AI is drawing praise for its high-performing models, which were reportedly trained cheaply and without relying on the most advanced chips. Silicon Valley observers describe DeepSeek as \"amazing and impressive,\" underscoring significant progress in Chinese AI capabilities. This development suggests China's ability to innovate efficiently and compete in the global AI race, potentially reducing reliance on high-end hardware and challenging the dominance of Western AI models.",
-        "link": "https://www.wsj.com/articles/deepseek-ai-china-tech-stocks-explained-ee6cc80e?mod=rss_Technology"
-    },
-    {
-        "category": "AI & Health Tech Investment",
+        "category": "AI, Health Tech & Tech Economy",
         "title": "Reid Hoffman Backs AI Cancer Research with $24.6M",
-        "summary": "LinkedIn co-founder Reid Hoffman has raised $24.6 million for Manas AI, his new cancer-research startup. The venture, co-founded with Siddhartha Mukherjee, author of \"The Emperor of All Maladies,\" aims to leverage artificial intelligence for drug discovery. This significant investment highlights the growing confidence and capital flowing into AI applications within the health technology sector, specifically targeting complex challenges like cancer research and development.",
+        "summary": "LinkedIn co-founder Reid Hoffman has raised $24.6 million for Manas AI, a new startup focused on AI-driven cancer research. Hoffman is co-founding the venture with Siddhartha Mukherjee, author of \"The Emperor of All Maladies.\" This significant investment highlights the increasing interest and capital flowing into the application of artificial intelligence for drug discovery and medical advancements, particularly in complex fields like oncology, signaling potential for accelerated breakthroughs.",
         "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology"
     },
     {
-        "category": "Tech Giant AI Investment",
-        "title": "Meta Announces Massive AI and Data Center Spending",
-        "summary": "Meta plans to significantly increase its spending to between $60 billion and $65 billion on artificial intelligence and massive data center infrastructure. This substantial investment is the latest indication of major tech companies accelerating their financial commitments to AI development. The allocation of such vast resources underscores Meta's strategic focus on strengthening its AI capabilities and expanding its foundational infrastructure to support future advancements in the field.",
+        "category": "Tech Economy & AI Infrastructure",
+        "title": "Meta Plans Massive AI & Data Center Spending Spree",
+        "summary": "Meta plans to dramatically increase its spending, projecting between $60 billion and $65 billion on artificial intelligence and massive data center expansion. This substantial investment is the latest indicator of accelerated spending across tech companies in the AI sector. The move reflects Meta's commitment to scaling its AI capabilities and supporting the immense computational demands of future AI developments and services, cementing its position in the ongoing AI arms race.",
         "link": "https://www.wsj.com/articles/meta-spending-ai-facebook-data-centers-9452a88f?mod=rss_Technology"
     },
     {
-        "category": "AI & Defense Strategy",
-        "title": "Pentagon Plans AI Training on Classified Data",
-        "summary": "The Pentagon is reportedly planning to establish secure environments where generative AI companies can train military-specific versions of their models on classified data. This initiative represents a significant step beyond current practices, where AI models are already used in classified settings for tasks like analyzing targets in Iran. Allowing models to train directly on classified information aims to enhance military AI capabilities, but also raises complex questions regarding security protocols and the implications of AI access to sensitive national defense intelligence.",
-        "link": "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/"
-    },
-    {
-        "category": "AI & Geopolitical Application",
-        "title": "OpenAI's Tech Potential in Iran Military Operations",
-        "summary": "Following its controversial agreement with the Pentagon, questions persist about where OpenAI\u2019s technology could specifically be deployed, including in Iran. The US military is exploring the use of generative AI systems for critical defense applications, such as ranking targets and recommending strike priorities. This potential integration of OpenAI's AI into military targeting decisions highlights the ethical complexities and geopolitical implications of advanced AI in warfare, underscoring the ongoing debate around AI's role in national security.",
-        "link": "https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/"
+        "category": "Quantum Tech & Health Innovation",
+        "title": "$5M Prize Fuels Quantum Computing for Healthcare",
+        "summary": "A substantial $5 million prize has been announced, challenging researchers to demonstrate that quantum computers can effectively solve complex healthcare problems. This significant incentive aims to accelerate the application of quantum computing capabilities to medical challenges. The initiative is set against the backdrop of ongoing advancements in quantum hardware, such as a quantum computer built from atoms and light at the UK's National Quantum Computing Centre, pushing the boundaries of computational health solutions.",
+        "link": "https://www.technologyreview.com/2026/03/19/1134409/a-5-million-prize-await-proof-that-quantum-computers-can-solve-health-care-problems/"
     }
 ];
