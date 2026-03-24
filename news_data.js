@@ -1,134 +1,152 @@
 window.NEWS_DATA = [
     {
-        "category": "AI Regulation & Geopolitics",
-        "title": "Warren Alleges Pentagon Retaliation Against Anthropic",
-        "summary": "Senator Elizabeth Warren (D-MA) has accused the Pentagon of \"retaliation\" for labeling AI lab Anthropic a \"supply chain risk.\" In a letter to Defense Secretary Pete Hegseth, Warren suggested the DoD could have simply terminated its contract instead, implying punitive action beyond a standard contract dispute. This highlights growing scrutiny and potential political tensions surrounding AI companies' involvement with government defense contracts and the implications of such designations.",
-        "link": "https://techcrunch.com/2026/03/23/elizabeth-warren-anthropic-pentagon-defense-supply-chain-risk-retaliation/"
+        "category": "Tech Economy",
+        "title": "Epic Games Cuts 1,000 Jobs Amid Fortnite Decline",
+        "summary": "Epic Games has announced a layoff of 1,000 employees, attributing the decision to a decrease in Fortnite engagement. The company also implemented a price increase for V-Bucks, its in-game currency. This move reflects challenges in the gaming sector, particularly for established titles, as companies adjust to evolving user bases and economic pressures.",
+        "link": "https://techcrunch.com/2026/03/24/epic-games-cuts-1000-jobs-says-fortnite-engagement-is-down/"
     },
     {
-        "category": "Cybersecurity & Geopolitics",
-        "title": "Iranian Hackers Leverage Telegram for Malware Attacks",
-        "summary": "The FBI reports that hackers affiliated with Iran's government are utilizing Telegram in sophisticated malware operations. These attacks are specifically targeting dissidents, opposition groups, and journalists who express views against the Iranian regime, aiming to steal their data. This update underscores the evolving methods of state-sponsored cyber espionage and the platforms being exploited for such activities, posing significant risks to individuals critical of the regime.",
-        "link": "https://techcrunch.com/2026/03/23/fbi-says-iranian-hackers-are-using-telegram-to-steal-data-in-malware-attacks/"
+        "category": "Digital Advertising",
+        "title": "Apple Maps to Integrate Ads This Summer",
+        "summary": "Apple Maps will introduce advertisements this summer in the U.S. and Canada. The ads may appear at the top of search results and in a new \"Suggested Places\" list. This initiative is part of a broader expansion of Apple's business offerings, with a new suite of services launching on April 14, marking a significant monetization push for the platform.",
+        "link": "https://techcrunch.com/2026/03/24/apple-maps-ads-apple-business/"
     },
     {
-        "category": "AI Infrastructure & Energy",
-        "title": "OpenAI Nears Power Deal with Helion Fusion",
-        "summary": "Helion, a fusion energy startup backed by Sam Altman, is reportedly in negotiations with OpenAI. The potential deal involves Helion selling 12.5% of its future power output to the AI research company. This highlights OpenAI's strategic interest in securing significant, potentially clean, energy sources for its compute-intensive AI operations, underscoring the massive energy demands associated with advanced AI development and the search for sustainable, scalable power solutions.",
-        "link": "https://techcrunch.com/2026/03/23/sam-altman-backed-fusion-startup-helion-in-talks-with-openai/"
+        "category": "Cybersecurity Regulation",
+        "title": "FCC Bans Import of Foreign-Made Consumer Routers",
+        "summary": "The FCC has implemented a ban on the import of all new, foreign-made consumer routers. According to FCC head Brendan Carr, this decision is based on cited security risks associated with these devices. This regulatory action signals a significant shift in U.S. policy aimed at bolstering national cybersecurity by restricting potentially vulnerable hardware.",
+        "link": "https://techcrunch.com/2026/03/24/fcc-bans-import-of-new-consumer-routers-made-overseas-citing-security-risks/"
     },
     {
-        "category": "AI Development & Geopolitics",
-        "title": "Cursor Reveals Coding Model Built on Chinese AI",
-        "summary": "Cursor has acknowledged that its new coding model was developed using Moonshot AI's Kimi, a Chinese model. This admission highlights potential complexities and sensitivities, especially given the current geopolitical climate surrounding technology development. The decision to build on a foreign-developed AI model raises questions about supply chain dependencies, intellectual property, and strategic implications for AI companies navigating international relations and competitive landscapes.",
-        "link": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/"
+        "category": "Digital Advertising",
+        "title": "TikTok Introduces More Disruptive Ad Formats",
+        "summary": "TikTok is rolling out new, potentially more disruptive advertising formats. One such format involves displaying another brand's logo alongside TikTok's on the launch page when users first open the application. This change indicates a move towards more prominent and integrated advertising within the user experience.",
+        "link": "https://techcrunch.com/2026/03/24/tiktok-ads-are-about-to-get-a-tad-more-disruptive/"
     },
     {
-        "category": "Semiconductor & AI Infrastructure",
-        "title": "Musk Announces Terafab Chip Plant in Austin",
-        "summary": "Elon Musk revealed plans to construct a Terafab plant in Austin, Texas, to be jointly operated by Tesla and SpaceX. The facility aims to produce chips at scale for robotics, artificial intelligence, and space-based data centers across Musk's various ventures. This initiative reflects broader industry concerns about chip supply chain capabilities and Musk's ambition to vertically integrate critical component manufacturing for his companies' advanced technological needs.",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/898722/musk-terafab-chip-plant/"
+        "category": "AI Funding & Development",
+        "title": "Mirage Secures $75M for AI Video Editing App",
+        "summary": "Mirage, the company behind the AI video editing application Captions, has successfully raised $75 million in growth financing. The investment comes from General Catalyst's Customer Value Fund (CVF) and is earmarked to further the development of models for its AI video editing app. This funding highlights continued investor confidence in AI-driven creative tools.",
+        "link": "https://techcrunch.com/2026/03/24/mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions/"
     },
     {
-        "category": "AI & Defense",
-        "title": "Project Maven: Pentagon's AI Initiative Gains Believers",
-        "summary": "Project Maven, an early AI initiative within the Pentagon, initially faced skepticism. However, many of its early doubters have now become \"true believers,\" indicating a significant shift in acceptance and trust in AI capabilities within the defense sector. This evolution suggests increasing integration of AI into military operations and strategic planning, potentially reshaping future warfare paradigms and defense technology procurement.",
-        "link": "https://www.wired.com/story/project-maven-katrina-manson-book-excerpt/"
+        "category": "AI Applications",
+        "title": "Snapchat Introduces 'AI Clips' for Photo-to-Video Conversion",
+        "summary": "Snapchat has launched a new \"AI Clips\" Lens format that converts a single photo into a five-second video. This feature allows both experienced and new developers to create and publish a Lens from a simple prompt within minutes, eliminating the need for external tools. It leverages AI to simplify video creation on the platform.",
+        "link": "https://techcrunch.com/2026/03/24/snapchats-new-ai-clips-lens-format-turns-photos-into-five-second-videos/"
     },
     {
-        "category": "AI Infrastructure & Energy",
-        "title": "Europe's Power Grids Strained by AI Data Center Boom",
-        "summary": "The escalating AI race is intensifying pressure on European power grids as data center developers queue up for connections. This surge in demand is forcing network operators to explore novel methods for increasing grid capacity to accommodate AI infrastructure growth. The situation underscores the significant energy demands of artificial intelligence, highlighting a critical infrastructure challenge that could impact the pace and location of future AI development in Europe.",
-        "link": "https://www.wired.com/story/europe-squeeze-power-energy-grid-ai-data-center/"
+        "category": "Autonomous Vehicles",
+        "title": "Zoox Expands Robotaxi Testing to Austin and Miami",
+        "summary": "Amazon-owned Zoox is expanding its robotaxi operations to Austin and Miami. After nearly two years of testing in these two cities, the company states it is nearing the point of offering public rides. This expansion marks a significant step towards wider deployment of its autonomous vehicle technology in major urban environments.",
+        "link": "https://techcrunch.com/2026/03/24/zoox-brings-its-robotaxis-to-austin-and-miami/"
     },
     {
-        "category": "Global Economy & Geopolitics",
-        "title": "Airlines Brace for Oil Crisis Amid Iran War",
-        "summary": "Experts warn that the airline industry is proactively preparing for an oil crisis, described as an \"economic canary in the coal mine\" for the global economy. This preparation comes as the ongoing war in Iran has reportedly doubled oil prices, leading to belt-tightening measures within the airline sector. The situation signals potential widespread economic repercussions stemming from geopolitical conflicts impacting vital resources.",
-        "link": "https://www.wired.com/story/united-airlines-jet-fuel-alarm-economy/"
+        "category": "Tech Regulation & Legal",
+        "title": "Meta Faces Juries Over Kids' Safety Allegations",
+        "summary": "Meta is currently facing two juries deliberating on cases concerning children's safety, which could significantly impact the company or uphold the current legal status for tech platforms. In New Mexico, a jury recently heard closing arguments in a trial where Meta is accused of facilitating harm. These trials represent a critical juncture in the ongoing effort to impose changes or penalties on social media companies regarding youth welfare.",
+        "link": "https://www.theverge.com/policy/899494/meta-new-mexico-los-angeles-kids-safety-jury-trial"
     },
     {
-        "category": "AI Safety & Development",
-        "title": "Autonomous AI Agents Pose New Risk Challenges",
-        "summary": "Developing autonomous AI agents capable of taking actions without human confirmation introduces fundamental engineering challenges beyond traditional chatbots. Experts are concerned about scenarios like an agent autonomously approving a significant vendor contract due to a typo. This highlights the critical need for robust testing and engineering approaches that account for the potential for autonomous systems to make impactful, unreviewed decisions, shifting the paradigm from helpful assistants to something akin to employees.",
-        "link": "https://venturebeat.com/orchestration/testing-autonomous-agents-or-how-i-learned-to-stop-worrying-and-embrace"
+        "category": "AI Agent Capabilities",
+        "title": "Anthropic's Claude Gains Autonomous PC Control",
+        "summary": "Anthropic has updated its Claude AI to autonomously perform tasks within its Code and Cowork tools by directly controlling a user's computer. This new capability allows Claude to open files, utilize web browsers and applications, and run developer tools without requiring prior setup, even when the user is away from their machine.",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/899430/anthropic-claude-code-cowork-ai-control-computer"
     },
     {
-        "category": "AI Breakthroughs & Investment",
-        "title": "AI Advances in Understanding the Physical World",
-        "summary": "Large language models (LLMs) are encountering limitations in domains requiring physical world understanding, such as robotics, autonomous driving, and manufacturing, due to their lack of grounding in physical causality. This constraint is driving significant investor interest in \"world models,\" with AMI Labs and World Labs each securing approximately $1 billion in seed funding. The focus is now on developing AI that can reliably predict the physical consequences of real-world actions, overcoming LLMs' abstract knowledge processing limitations.",
-        "link": "https://venturebeat.com/technology/three-ways-ai-is-learning-to-understand-the-physical-world/"
+        "category": "Tech Economy",
+        "title": "Ayaneo Halts Gaming Handheld Sales Due to Soaring Costs",
+        "summary": "Ayaneo has suspended preorders for its $1,999 Next 2 Windows gaming handheld, citing that selling the device is no longer sustainable due to the skyrocketing price of digital storage. The company stated that the overall cost to build the handheld now nearly doubles its original set price, making continued sales unprofitable.",
+        "link": "https://www.theverge.com/games/899357/ayaneo-windows-gaming-handheld-sustainable-ram"
     },
     {
-        "category": "AI Evaluation & Benchmarking",
-        "title": "Scale AI Unveils Real-World Voice AI Benchmark",
-        "summary": "Scale AI has launched \"Voice Showdown,\" a global, preference-based arena designed to benchmark voice AI through real human interaction. This initiative addresses the inadequacy of current voice AI benchmarks, which largely rely on synthetic speech, English-only prompts, and scripted test sets, failing to capture natural conversation. The new platform aims to provide more realistic evaluations of advanced voice models from major labs like OpenAI, Google DeepMind, Anthropic, and xAI, with initial results proving \"humbling\" for some.",
-        "link": "https://venturebeat.com/data/scale-ai-launches-voice-showdown-the-first-real-world-benchmark-for-voice-ai"
-    },
-    {
-        "category": "AI Model Development",
-        "title": "Mistral Small 4 Integrates Reasoning, Vision, Coding",
-        "summary": "Mistral has released Small 4, an open-source AI model that consolidates reasoning, multimodal tasks, and agentic coding capabilities into a single model. This update aims to simplify enterprise AI stacks by offering adjustable reasoning levels, shorter outputs, lower latency, and cheaper tokens compared to competitors like Qwen and Claude Haiku. Available under an Apache 2.0 license, Small 4 updates Mistral Small 3.2, released in June 2025, emphasizing cost-effective and comprehensive AI solutions.",
-        "link": "https://venturebeat.com/technology/mistrals-small-4-consolidates-reasoning-vision-and-coding-into-one-model-at"
-    },
-    {
-        "category": "AI & Workplace Trends",
-        "title": "Tech Workers Maximize AI Use, Driving Up Costs",
-        "summary": "Tech companies are observing a trend where employees are \"tokenmaxxing,\" competing on leaderboards to demonstrate high levels of AI usage. This intense adoption is leading to substantial AI-related expenditures for these companies. The practice highlights both the enthusiastic integration of AI into daily workflows and the financial implications of widespread, potentially unoptimized, AI resource consumption within organizations.",
-        "link": "https://www.nytimes.com/2026/03/20/technology/tokenmaxxing-ai-agents.html"
-    },
-    {
-        "category": "AI Policy & Regulation",
-        "title": "White House Unveils Federal AI Policy",
-        "summary": "The Trump administration has released new federal guidelines for AI legislation, aiming to prevent a patchwork of state-level laws. The policy recommends safeguards for children and consumer protections regarding energy costs associated with AI. This move signifies a federal effort to establish a unified regulatory framework for AI, seeking to balance innovation with critical social and economic considerations across the nation.",
+        "category": "AI Regulation",
+        "title": "White House Aims to Block State AI Laws with New Policy",
+        "summary": "The Trump administration has released new guidelines for federal legislation on artificial intelligence, intending to preempt state-level AI laws. The policy recommends safeguards for children and consumer protections regarding energy costs. This move seeks to establish a unified national approach to AI regulation, potentially limiting disparate state initiatives.",
         "link": "https://www.nytimes.com/2026/03/20/us/politics/white-house-unveils-ai-policy-aimed-at-blocking-state-laws.html"
     },
     {
-        "category": "Tech Economy & Legal",
-        "title": "Jury Finds Musk Liable for Twitter Investor Losses",
-        "summary": "A jury has found Elon Musk responsible for some losses incurred by Twitter investors. This verdict represents a rare legal setback for Musk, who investors claimed had attempted to depress the social media company's share price to renegotiate his original $44 billion acquisition offer. The ruling could have implications for corporate governance and the responsibilities of bidders in high-profile mergers and acquisitions.",
-        "link": "https://www.nytimes.com/2026/03/20/technology/elon-musk-twitter-shareholders-verdict.html"
+        "category": "Future of Work",
+        "title": "AI Revitalizes the Role of the Generalist in the Workplace",
+        "summary": "AI is transforming the workplace by empowering generalists to succeed in tasks outside their core expertise, challenging the traditional \"master of none\" stereotype. Previously, cross-functional work often stalled awaiting specialists or resulted in improvised solutions. Anthropic's research indicates AI enables engineers to become more \"full-stack,\" making competent decisions across various domains, thereby increasing the value of generalists in the modern work environment.",
+        "link": "https://venturebeat.com/technology/you-thought-the-generalist-was-dead-in-the-vibe-work-era-theyre-more"
     },
     {
-        "category": "Geopolitics & Supply Chain",
-        "title": "Super Micro Executives Indicted for China Export Violations",
-        "summary": "U.S. prosecutors have accused three individuals, including a co-founder of Silicon Valley server maker Super Micro, of violating export laws by diverting servers equipped with Nvidia AI chips to China. This indictment underscores ongoing geopolitical tensions and stringent export controls on advanced technology, particularly AI hardware. It highlights the significant legal and strategic risks associated with the unauthorized transfer of sensitive tech components to rival nations.",
-        "link": "https://www.nytimes.com/2026/03/19/technology/super-micro-servers-china-indicted.html"
+        "category": "AI Agent Risks & Testing",
+        "title": "The Critical Need for Robust Autonomous AI Agent Testing",
+        "summary": "The industry is moving beyond simple \"ChatGPT wrappers\" to autonomous agents capable of taking actions without human confirmation, presenting new challenges for system engineering. The core concern is not basic model accuracy, but the risk of agents autonomously executing high-impact tasks, like approving large contracts, due to configuration errors. This signifies a shift from helpful assistants to AI systems requiring comprehensive, action-oriented testing protocols distinct from traditional chatbot evaluation.",
+        "link": "https://venturebeat.com/orchestration/testing-autonomous-agents-or-how-i-learned-to-stop-worrying-and-embrace"
     },
     {
-        "category": "AI Investment & Tech Economy",
-        "title": "Bezos Seeks $100 Billion AI Transformation Fund",
-        "summary": "Jeff Bezos is reportedly in discussions to raise a colossal $100 billion fund aimed at transforming companies through artificial intelligence. This new fund would operate in parallel with Project Prometheus, the Amazon founder\u2019s existing AI startup. This potential venture signals an unprecedented level of private capital dedicated to AI integration and innovation across various industries, further accelerating the AI-driven reshape of the global economy.",
-        "link": "https://www.nytimes.com/2026/03/19/technology/jeff-bezos-ai-fund-project-prometheus.html"
+        "category": "AI Adoption & Costs",
+        "title": "Tech Workers Maximize AI Use, Driving Up Costs",
+        "summary": "At several companies, employees are engaging in a competitive trend of maximizing their AI usage, often tracked on leaderboards. This enthusiasm for AI tools is leading to substantial expenses for organizations. The practice, dubbed \"tokenmaxxing,\" highlights both the rapid adoption of AI in the workplace and the associated financial implications as companies grapple with scaling AI consumption.",
+        "link": "https://www.nytimes.com/2026/03/20/technology/tokenmaxxing-ai-agents.html"
     },
     {
-        "category": "AI Breakthroughs & Geopolitics",
-        "title": "DeepSeek AI Praised Despite Less Advanced Chips",
-        "summary": "Silicon Valley is expressing strong admiration for DeepSeek, a Chinese-made AI model described as \"amazing and impressive.\" Notably, DeepSeek achieved high performance despite not utilizing the most advanced chips, challenging conventional wisdom in AI development. This breakthrough suggests potential for innovation in chip-constrained environments and highlights China's growing capabilities in the AI landscape, even amid technological export restrictions.",
-        "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology"
+        "category": "AI Ethics & Safety",
+        "title": "OpenAI Acknowledges Microsoft Risks in AI-Fueled Delusions",
+        "summary": "Stanford researchers analyzed transcripts from chatbot users experiencing AI-fueled delusions, investigating the underlying causes. OpenAI has also acknowledged risks related to Microsoft. This highlights growing concerns about the psychological impact of AI on users and the ethical considerations for large tech companies in AI development and deployment.",
+        "link": "https://www.technologyreview.com/2026/03/24/1134540/the-download-tracing-ai-fueled-delusions-openai-warns-microsoft-risks/"
     },
     {
-        "category": "AI Infrastructure & Investment",
-        "title": "Meta Plans Major AI and Data Center Spending Hike",
-        "summary": "Meta is set to significantly increase its spending, planning investments between $60 billion and $65 billion, primarily on AI development and massive data centers. This surge in expenditure signals Meta's accelerated commitment to artificial intelligence, reflecting the broader trend of tech giants pouring substantial capital into AI infrastructure to maintain competitiveness. The scale of investment underscores the ongoing AI arms race and its profound impact on corporate spending strategies.",
-        "link": "https://www.wsj.com/articles/meta-spending-ai-facebook-data-centers-9452a88f?mod=rss_Technology"
-    },
-    {
-        "category": "AI Breakthroughs & Development",
+        "category": "AI Research & Development",
         "title": "OpenAI Pursues Fully Automated AI Researcher",
-        "summary": "OpenAI is dedicating significant resources to a new grand challenge: developing an \"AI researcher.\" This fully automated, agent-based system aims to independently tackle large, complex problems. The initiative signifies a strategic refocusing of OpenAI's research efforts toward creating highly autonomous AI capable of advanced problem-solving, potentially revolutionizing the pace and nature of scientific and technological discovery.",
+        "summary": "OpenAI is dedicating significant resources to a new grand challenge: developing an \"AI researcher.\" This fully automated, agent-based system is envisioned to independently tackle large, complex problems. The initiative represents a major refocusing of OpenAI's research efforts towards creating highly autonomous AI capable of conducting extensive research tasks without direct human intervention.",
         "link": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/"
     },
     {
-        "category": "Quantum Computing & Healthcare",
-        "title": "Quantum Computing's Healthcare Potential Tested",
-        "summary": "A $5 million prize has been offered for demonstrating how quantum computers can solve healthcare problems, aiming to accelerate practical applications beyond theoretical capabilities. This challenge, set at the UK's National Quantum Computing Centre, underscores the ongoing effort to transition quantum computing from advanced research into tangible solutions for real-world issues. The initiative could significantly drive innovation in medical problem-solving.",
-        "link": "https://www.technologyreview.com/2026/03/19/1134409/a-5-million-prize-await s-proof-that-quantum-computers-can-solve-health-care-problems/"
+        "category": "Quantum Computing",
+        "title": "$5M Prize Challenges Quantum Computing for Healthcare",
+        "summary": "A $5 million prize has been established to incentivize and validate whether quantum computers can effectively solve healthcare problems. Researchers are developing quantum computers, such as one built from atoms and light at the UK's National Quantum Computing Centre, to tackle complex health applications. This initiative aims to accelerate the demonstration of practical quantum computing benefits in the healthcare sector.",
+        "link": "https://www.technologyreview.com/2026/03/19/1134409/a-5-million-prize-awaits-proof-that-quantum-computers-can-solve-health-care-problems/"
     },
     {
-        "category": "AI & Defense Policy",
-        "title": "Pentagon Plans AI Training on Classified Data",
-        "summary": "A defense official has revealed the Pentagon's plans to establish secure environments where generative AI companies can train military-specific versions of their models using classified data. This initiative marks a significant step towards integrating advanced AI capabilities into national defense, allowing for the development of more specialized and effective military AI applications while managing the inherent security risks associated with sensitive information.",
-        "link": "https://www.technologyreview.com/2026/03/18/1134371/the-download-the-pentagons-new-ai-plans-and-next-gen-nuclear-reactors/"
+        "category": "Tech Investment",
+        "title": "Meta Plans Massive $60B-$65B AI & Data Center Investment",
+        "summary": "Meta plans to invest between $60 billion and $65 billion, primarily in artificial intelligence and a massive data center. This substantial expenditure signals accelerating investments into AI by major tech companies, positioning Meta for future growth in AI capabilities and infrastructure.",
+        "link": "https://www.wsj.com/articles/meta-spending-ai-facebook-data-centers-9452a88f?mod=rss_Technology"
+    },
+    {
+        "category": "Geopolitics & Tech Trade",
+        "title": "Super Micro Executives Indicted for Export Violations",
+        "summary": "U.S. prosecutors have charged three individuals, including a co-founder of Silicon Valley server maker Super Micro, with breaking export laws. The men are accused of diverting servers containing Nvidia AI chips to China. This indictment highlights escalating concerns over technology transfer to China and efforts to enforce export controls on critical AI hardware.",
+        "link": "https://www.nytimes.com/2026/03/19/technology/super-micro-servers-china-indicted.html"
+    },
+    {
+        "category": "Global AI Development",
+        "title": "China's DeepSeek AI Achieves High Performance on Budget",
+        "summary": "China's DeepSeek AI is gaining attention in Silicon Valley for training high-performing AI models cost-effectively, without relying on the most advanced chips. Praised as \"amazing and impressive,\" this capability suggests an ability to innovate within hardware constraints and provides a strategic advantage for China in global AI development and competition.",
+        "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology"
+    },
+    {
+        "category": "AI & Healthcare Investment",
+        "title": "Reid Hoffman Backs AI Cancer Research Startup with $24.6M",
+        "summary": "LinkedIn co-founder Reid Hoffman has raised $24.6 million for his new AI cancer-research startup, Manas AI. He is launching the venture with Siddhartha Mukherjee, author of \"The Emperor of All Maladies.\" This significant investment highlights the growing trend of leveraging artificial intelligence for breakthroughs in healthcare and drug discovery, aiming to accelerate medical advancements.",
+        "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology"
+    },
+    {
+        "category": "AI Agent Development",
+        "title": "Ai2 Unveils MolmoWeb Open-Weight Visual Web Agent",
+        "summary": "Ai2 has released MolmoWeb, an open-weight visual web agent available in 4 billion and 8 billion parameter sizes. This offering includes the full training data, MolmoWebMix, which comprises 30,000 human task trajectories across over 1,100 websites, 590,000 individual subtask demonstrations, and 2.2 million screenshot queries, allowing for auditing and reproduction. This provides engineers with a transparent alternative to closed APIs or untransparent open-weight frameworks.",
+        "link": "https://venturebeat.com/data/ai2-releases-molmoweb-an-open-weight-visual-web-agent-with-30k-human-task"
+    },
+    {
+        "category": "AI Agent Orchestration",
+        "title": "ByteDance Launches Open-Source AI Agent Orchestrator DeerFlow 2.0",
+        "summary": "ByteDance has released DeerFlow 2.0, an open-source \"SuperAgent harness\" designed to orchestrate multiple AI sub-agents for complex, long-horizon tasks lasting minutes or hours. Available under the permissive MIT License for commercial use, it aims for autonomous execution in tasks like deep research, report generation, web page building, and AI-generated video production. This framework is gaining significant attention within the machine learning community for its potential in enterprise AI.",
+        "link": "https://venturebeat.com/orchestration/what-is-deerflow-and-what-should-enterprises-know-about-this-new-local-ai"
+    },
+    {
+        "category": "AI Infrastructure",
+        "title": "Liquid Cooling Reveals Storage Gaps in AI Systems",
+        "summary": "The advent of liquid-cooled AI systems is highlighting the inefficiencies of traditional storage architectures. While GPUs and CPUs adopt liquid cooling, storage components still rely on airflow, creating an operationally inefficient hybrid cooling setup. Solidigm's Hardeep Singh explains that maintaining two separate, expensive cooling infrastructures for different components creates a \"worst-of-both-world's\" scenario, indicating a need for holistic liquid cooling solutions across all AI infrastructure components for optimal performance and cost-efficiency.",
+        "link": "https://venturebeat.com/infrastructure/liquid-cooled-ai-systems-expose-the-limits-of-traditional-storage"
+    },
+    {
+        "category": "AI & Labor Market",
+        "title": "Companies Accused of 'AI-Washing' Layoffs",
+        "summary": "The article discusses the phenomenon of companies citing AI as a reason for layoffs, suggesting that the underlying causes may be more complex than simply technological displacement. This concept of \"AI-washing\" layoffs raises questions about transparency in corporate restructuring and the true impact of AI on the labor market, potentially masking other economic or strategic motivations behind job cuts.",
+        "link": "https://www.nytimes.com/2026/03/20/podcasts/hardfork-ai-washing-tokenmaxxing.html"
     }
 ];
