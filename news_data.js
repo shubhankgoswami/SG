@@ -1,140 +1,152 @@
 window.NEWS_DATA = [
     {
-        "category": "Drone Technology",
-        "title": "Brinc Unveils Police Response Drone",
-        "summary": "Brinc, a startup by a former Thiel fellow, launched its newest 911 response drone this week. The company aims to expand its prominence in the public safety industry, asserting its new drone can replace traditional police helicopters. This development signifies an advancement in drone capabilities for emergency services, potentially offering an alternative for rapid response and surveillance, and marks an effort by Brinc to solidify its position in the public safety sector.",
-        "link": "https://techcrunch.com/2026/03/24/a-former-thiel-fellows-startup-just-launched-a-drone-it-says-can-replace-police-helicopters/"
+        "category": "AI Investment",
+        "title": "Physical Intelligence Nears $1B Funding, Doubles Valuation",
+        "summary": "Physical Intelligence is reportedly in discussions to raise $1 billion in new funding. This potential deal would effectively double the company's valuation of $5.6 billion, achieved just four months prior. The substantial investment underscores growing investor confidence in the company's trajectory and its contributions to the AI sector, marking a significant valuation increase in a short period.",
+        "link": "https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/"
     },
     {
-        "category": "Robotics & AI",
-        "title": "Amazon Acquires Humanoid Robot Startup",
-        "summary": "Amazon has acquired Fauna Robotics, a startup specializing in kid-size humanoid robots. This marks the second robotics startup acquisition for Amazon this month, signaling a significant push into advanced robotics. The move suggests Amazon's deepening commitment to integrating robotics into its operations, potentially for applications in logistics, consumer services, or even innovative new product lines involving human-like interaction, leveraging advanced AI and mechanical design capabilities.",
-        "link": "https://techcrunch.com/2026/03/24/amazon-just-bought-a-startup-making-kid-size-humanoid-robots/"
+        "category": "AI Economy",
+        "title": "SoftBank's $40B Loan Signals Potential 2026 OpenAI IPO",
+        "summary": "SoftBank has secured a 12-month, unsecured loan of $40 billion from Wall Street giants JPMorgan and Goldman Sachs. This significant financial move by the Japanese conglomerate is seen as a strong indicator pointing towards a potential Initial Public Offering (IPO) for OpenAI in 2026. The substantial credit line suggests strategic preparations for major financial events in the AI sector.",
+        "link": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/"
     },
     {
-        "category": "Venture Capital & AI",
-        "title": "Kleiner Perkins Secures $3.5B for AI Investment",
-        "summary": "Venture capital firm Kleiner Perkins has secured $3.5 billion in fresh capital, with a strategic focus on investing heavily in artificial intelligence. This significant fundraise includes $1 billion earmarked for early-stage startups and $2.5 billion dedicated to late-stage growth businesses. The substantial commitment underscores the firm's belief in the transformative potential of AI, positioning it to be a major financial driver in the ongoing development and scaling of AI technologies across various sectors, from inception to market maturity.",
-        "link": "https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/"
+        "category": "Global Tech Supply Chain",
+        "title": "SK hynix US IPO Aims to End Memory Shortage",
+        "summary": "Memory chip giant SK hynix is considering a potential U.S. listing, which could raise between $10 billion and $14 billion. This capital injection is intended to fund the construction of additional memory chip manufacturing capacity. The move could encourage other companies to increase production and help alleviate the ongoing 'RAMmageddon' memory shortage, a critical issue for the broader tech industry, especially AI.",
+        "link": "https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/"
     },
     {
-        "category": "Legal & Regulatory",
-        "title": "Meta Fined $375M for Child Safety Misconduct",
-        "summary": "A New Mexico jury found Meta willfully violated state law by misleading users about the safety of its products and engaging in an unconscionable trade practice. The company faces a $375 million penalty for these violations, with the jury awarding the maximum of $5,000 per violation for 37,500 violations across two counts. This verdict represents a significant legal defeat for Meta in child safety litigation, potentially influencing similar ongoing cases across the country against the social media giant.",
-        "link": "https://www.theverge.com/policy/899910/meta-new-mexico-jury-verdict"
+        "category": "Autonomous Vehicles",
+        "title": "Waymo Robotaxi Ridership Soars Tenfold",
+        "summary": "Waymo has experienced a dramatic increase in its autonomous robotaxi service, with weekly paid trips growing tenfold in less than two years. This substantial surge in ridership highlights accelerated adoption and expansion of Waymo's self-driving technology. The trend suggests increasing consumer trust and operational efficiency for the company's autonomous vehicle deployments, indicating significant progress in the robotaxi market.",
+        "link": "https://techcrunch.com/2026/03/27/waymo-skyrocketing-ridership-in-one-chart/"
     },
     {
-        "category": "Automotive Tech",
-        "title": "Sony Honda Discontinues Afeela EV Line",
-        "summary": "Sony Honda Mobility (SHM) has announced the discontinuation of its Afeela electric sedan, including the $90,000 Afeela 1 and an unnamed SUV concept. This decision stems from adjustments to slower EV demand and policy pullbacks. In a statement, SHM determined there was not sustained market interest. The move highlights challenges in the competitive electric vehicle market, forcing even major joint ventures to reassess their product strategies and investment priorities amidst evolving consumer preferences and regulatory environments.",
-        "link": "https://www.theverge.com/tech/900219/sony-honda-afeela-discontinue-cancel-refund"
+        "category": "Cybersecurity & Geopolitics",
+        "title": "European Commission Confirms Cyberattack, Data Breach Claim",
+        "summary": "The European Union's leading executive body, the European Commission, has confirmed it suffered a cyberattack. This confirmation follows claims by hackers that they successfully stole a significant amount of data from the Commission's cloud storage. The incident represents a serious security breach for a major international institution, raising concerns about data integrity and cybersecurity defenses at a geopolitical level.",
+        "link": "https://techcrunch.com/2026/03/27/european-commission-confirms-cyberattack-after-hackers-claim-data-breach/"
     },
     {
-        "category": "Social Media & Monetization",
-        "title": "Meta Integrates Affiliate Shopping Links",
-        "summary": "Meta is rolling out new commerce features on Instagram and Facebook, embedding shopping links directly into posts. This move aims to streamline affiliate content, essentially cutting out third-party 'link in bio' tools. On Facebook, content creators will be able to link their existing affiliate accounts. This strategy signals Meta's intensified focus on enabling creators to monetize content directly on its platforms, fostering an ecosystem where shopping is seamlessly integrated into the user experience for greater revenue generation.",
-        "link": "https://www.theverge.com/news/899717/meta-instagram-facebook-affiliate-shopping-links-reels"
+        "category": "EV Investment & Collaboration",
+        "title": "Volkswagen Invests Another $1B in Rivian",
+        "summary": "Volkswagen has provided an additional $1 billion investment to electric vehicle manufacturer Rivian. This new capital injection reinforces the ongoing collaboration between the two companies. Their joint venture is structured to integrate Rivian's advanced technology into Volkswagen's electric vehicle offerings, indicating a strategic alliance aimed at leveraging Rivian's innovations for broader EV market penetration.",
+        "link": "https://techcrunch.com/2026/03/27/rivian-gets-another-1b-from-volkswagen/"
     },
     {
-        "category": "Space Technology",
-        "title": "NASA Proposes $20 Billion Moon Base",
-        "summary": "NASA Administrator Jared Isaacman announced ambitious plans for a $20 billion lunar base, aiming to establish an 'enduring presence' on the Moon. Revealed during NASA's Ignition event, this initiative is part of broader goals, which also include launching a nuclear-powered spacecraft to Mars. The significant investment underscores a renewed focus on long-term lunar habitation and deep-space exploration, marking a pivotal moment in the agency's strategy for human expansion beyond Earth and its orbital environment.",
-        "link": "https://www.theverge.com/science/899891/nasa-moon-base-mars-nuclear-power-jared-isaacman"
+        "category": "Cybersecurity & Geopolitics",
+        "title": "Pro-Iranian Hackers Claim FBI Director Email Breach",
+        "summary": "Handala, a pro-Iranian hacking group, which allegedly operates on behalf of Iran\u2019s government, has claimed to have breached the personal email account of FBI director Kash Patel. The group published emails it asserted were obtained from Patel's Gmail account. This alleged cybersecurity incident targets a high-profile U.S. official, underscoring persistent state-sponsored hacking threats and their potential geopolitical implications.",
+        "link": "https://techcrunch.com/2026/03/27/iranian-hackers-claim-breach-of-fbi-director-kash-patels-personal-email-account/"
     },
     {
-        "category": "AI Product Strategy",
-        "title": "OpenAI Shuts Down Sora Video Service",
-        "summary": "OpenAI has announced it is \"saying goodbye to Sora,\" its video generation tool that was launched at the end of 2024. This shutdown occurs just months after the company centered a massive licensing deal with Disney around the service. OpenAI boss Sam Altman reportedly informed staff of the move. The discontinuation of Sora signifies a strategic shift for the AI developer concerning its video generation offerings, despite previous significant partnerships and the model's recent introduction.",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt"
+        "category": "AI Development Shift",
+        "title": "OpenAI Abruptly Scraps Sora Video Generation Projects",
+        "summary": "OpenAI made a sudden strategic reversal, announcing it would scrap its Sora video-generation app and reverse plans for integrating video generation into ChatGPT. Additionally, the company is winding down a $1 billion deal with Disney and shuffling a high-level executive role. This abrupt shift suggests significant internal reevaluation of its video generation strategy, impacting major product initiatives and partnerships in the competitive AI landscape.",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition/"
     },
     {
-        "category": "Semiconductor Industry",
-        "title": "Arm to Produce Its Own CPUs for First Time",
-        "summary": "Arm has confirmed rumors that it will produce its own computer chips, marking a significant departure from its long-standing business model of solely licensing chip designs. CEO Rene Haas explains this strategic shift, asserting the market's need for their new CPU and addressing concerns that this move might alienate the numerous chipmakers who currently license Arm's designs. This decision could reshape the competitive landscape in the semiconductor industry, particularly for AI data centers, where Arm aims to offer its own silicon.",
-        "link": "https://www.wired.com/story/arms-ceo-insists-the-market-needs-his-new-cpu-it-could-piss-everyone-off/"
+        "category": "AI Infrastructure & Environment",
+        "title": "AI Data Centers Spur Global Energy & Community Conflicts",
+        "summary": "The expansion of massive, energy-intensive data centers, which form the physical backbone of AI ambitions, is sparking widespread controversies. These facilities, filled with power-hungry servers, are leading to conflicts globally over their impact on local power grids, utility bills, surrounding communities, and the environment. The rush for AI infrastructure highlights critical challenges in balancing technological advancement with resource sustainability and local concerns.",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy/"
     },
     {
-        "category": "AI & Geopolitics",
-        "title": "Judge Questions Pentagon's Anthropic Scrutiny",
-        "summary": "During a recent hearing, a district court judge voiced concerns about the Department of Defense\u2019s motivations for labeling Claude AI developer Anthropic as a supply-chain risk. The judge questioned what was perceived as the Pentagon's 'attempt to cripple' Anthropic. This judicial skepticism highlights growing tensions and scrutiny regarding the interplay between national security interests and the rapid development of advanced AI technologies, particularly concerning the potential for government intervention in the private AI sector and its implications for innovation.",
-        "link": "https://www.wired.com/story/pentagons-attempt-to-cripple-anthropic-is-troublesome-judge-says/"
+        "category": "AI Performance Breakthrough",
+        "title": "IndexCache Boosts Long-Context AI Inference Speed",
+        "summary": "Researchers have developed IndexCache, a new sparse attention optimizer that significantly speeds up inference on long-context AI models. This technique cuts up to 75% of redundant computation in sparse attention models, achieving up to 1.82x faster time-to-first-token and 1.48x faster generation throughput for 200,000 tokens. Applicable to DeepSeek and GLM families, it promises faster user experiences and reduced costs for enterprise-scale AI.",
+        "link": "https://venturebeat.com/technology/indexcache-a-new-sparse-attention-optimizer-delivers-1-82x-faster-inference/"
     },
     {
-        "category": "AI Agents & Autonomy",
-        "title": "Anthropic's Claude Gains Mac Control",
-        "summary": "Anthropic has launched the most ambitious consumer AI agent to date, giving its Claude chatbot the ability to directly control a user's Mac. This update, available as a research preview for paying subscribers, transforms Claude from a conversational assistant into a remote digital operator capable of clicking buttons, opening applications, typing into fields, and navigating software on the user's behalf. Integrated into Claude Cowork and Claude Code, this development signifies an escalation in the race to build AI agents that can perform real-world tasks autonomously.",
-        "link": "https://venturebeat.com/technology/anthropics-claude-can-now-control-your-mac-escalating-the-fight-to-build-ai"
+        "category": "Enterprise AI Performance",
+        "title": "Intercom's Fin Apex 1.0 Outperforms Frontier AI in Customer Service",
+        "summary": "Intercom, a customer service platform, has launched Fin Apex 1.0, a purpose-built AI model designed to enhance customer support. The company claims Fin Apex 1.0 outperforms leading frontier models like OpenAI's GPT-5.4 and Anthropic's Claude Opus 4.5 and Sonnet 4.6 in customer service resolutions. Benchmarks show a 73.1% resolution rate, exceeding rivals by roughly two percentage points, demonstrating the effectiveness of specialized AI for enterprise applications.",
+        "link": "https://venturebeat.com/technology/intercoms-new-post-trained-fin-apex-1-0-beats-gpt-5-4-and-claude-sonnet-4-6/"
     },
     {
-        "category": "AI Infrastructure",
-        "title": "Cloudflare Launches Faster AI Agent Execution",
-        "summary": "Cloudflare has introduced Dynamic Workers, an open beta lightweight, isolate-based sandboxing system designed to transform enterprise deployment of AI agents. The company claims Dynamic Workers start in milliseconds, use only a few megabytes of memory, and can run on the same machine as the request that created it. Compared with traditional Linux containers, Cloudflare states this makes Dynamic Workers roughly 100 times faster to start and between 10 to 100 times more memory efficient for running AI agent code.",
-        "link": "https://venturebeat.com/infrastructure/cloudflares-new-dynamic-workers-ditch-containers-to-run-ai-agent-code-100x"
+        "category": "Open-Source AI",
+        "title": "Mistral AI Releases Free Text-to-Speech Model, Challenges ElevenLabs",
+        "summary": "Mistral AI has introduced a new text-to-speech model, asserting its performance surpasses that of ElevenLabs, a key player in the enterprise voice AI market. Significantly, Mistral AI is providing the weights for this model for free, intensifying competition in a market that reached $22 billion globally in 2026. This move challenges established voice AI providers like ElevenLabs, IBM, Google Cloud, and OpenAI.",
+        "link": "https://venturebeat.com/orchestration/mistral-ai-just-released-a-text-to-speech-model-it-says-beats-elevenlabs-and/"
     },
     {
-        "category": "AI Deployment Challenges",
-        "title": "Overcoming AI Agent Deployment Hurdles",
-        "summary": "Deploying AI agents reliably in production environments is proving more challenging than anticipated, with fragmented data, unclear workflows, and high escalation rates impeding progress. Experts identify three key disciplines for successful deployment: data virtualization to bypass data lake delays; agent dashboards and KPIs for effective management; and tightly bounded use-case loops for high autonomy. These practices have enabled agents to handle up to 80-90% of tasks in simpler scenarios, with further tuning potentially supporting autonomous resolution in at least half of use cases.",
-        "link": "https://venturebeat.com/orchestration/the-three-disciplines-separating-ai-agent-demos-from-real-world-deployment"
+        "category": "Enterprise AI Strategy",
+        "title": "Enterprise AI Shifts to Pragmatic Governance and ROI",
+        "summary": "After years of flashy demos, enterprise technology leaders are adopting a more pragmatic approach to AI in 2026. The focus is now on consequential work, prioritizing governance, orchestration, and iteration, alongside integrating AI agents into existing systems. This shift emphasizes accelerating productivity, improving delivery, and achieving measurable business results, moving beyond prototypes to production-ready agentic systems that demonstrate clear ROI.",
+        "link": "https://venturebeat.com/orchestration/the-consequential-ai-work-that-actually-moves-the-needle-for-enterprises/"
     },
     {
-        "category": "AI Research & Open Source",
-        "title": "Ai2 Unveils MolmoWeb Visual Web Agent",
-        "summary": "Ai2 has released MolmoWeb, an open-weight visual web agent available in 4 billion and 8 billion parameter sizes. This offers a new option for engineers, providing a trained model with a full training stack and dataset, unlike previous closed APIs or open-weight frameworks without trained models. The accompanying MolmoWebMix dataset includes 30,000 human task trajectories across over 1,100 websites, 590,000 individual subtask demonstrations, and 2.2 million screenshot queries, facilitating auditing and reproduction of the agent's capabilities.",
-        "link": "https://venturebeat.com/data/ai2-releases-molmoweb-an-open-weight-visual-web-agent-with-30k-human-task"
+        "category": "AI Efficiency Breakthrough",
+        "title": "Google's TurboQuant Boosts AI Memory, Cuts Costs",
+        "summary": "Google Research has introduced TurboQuant, a software-only algorithm suite designed to address the Key-Value (KV) cache bottleneck in Large Language Models. TurboQuant provides extreme KV cache compression, enabling an average 6x reduction in KV memory usage. This innovation speeds up AI memory by 8x and slashes costs by 50% or more, critical for processing massive documents and intricate conversations in long-context LLMs.",
+        "link": "https://venturebeat.com/infrastructure/googles-new-turboquant-algorithm-speeds-up-ai-memory-8x-cutting-costs-by-50/"
     },
     {
-        "category": "AI Infrastructure",
-        "title": "Hybrid Cooling Limits AI Storage",
-        "summary": "The shift to liquid cooling in AI infrastructure, primarily for GPUs and CPUs, has exposed limitations in traditional storage architecture, which still relies on airflow. This creates an operationally inefficient hybrid cooling approach, requiring maintenance of two separate, expensive cooling infrastructures. Experts warn that this structural liability means organizations absorb the costs of both liquid and air cooling systems, potentially being exposed to 'worst-of-both-world' problems, highlighting a critical need for fully integrated liquid-cooled storage for optimal AI deployments.",
-        "link": "https://venturebeat.com/infrastructure/liquid-cooled-ai-systems-expose-the-limits-of-traditional-storage"
+        "category": "Enterprise AI Data Solutions",
+        "title": "Oracle Unifies AI Data Stack for Enterprise Agents",
+        "summary": "Oracle has unveiled new agentic AI capabilities for its Oracle AI Database, addressing a critical failure point where AI agents built across disparate data stores struggle with stale context. The core of this release is the Unified Memory Core, a single ACID-transactional engine that converges vector, relational, graph, and lakehouse data. This architecture aims to provide enterprise agents with a consistent and current \"single version of truth,\" enhancing production-scale AI deployments.",
+        "link": "https://venturebeat.com/data/oracle-converges-the-ai-data-stack-to-give-enterprise-agents-a-single/"
     },
     {
-        "category": "AI Agent Orchestration",
-        "title": "ByteDance Launches DeerFlow 2.0 AI Orchestrator",
-        "summary": "ByteDance, the Chinese tech giant behind TikTok, has released DeerFlow 2.0, an open-source AI agent orchestrator under the permissive MIT License. This 'SuperAgent harness' is designed to manage multiple AI sub-agents to autonomously complete complex, multi-hour tasks. DeerFlow 2.0 is geared towards high-complexity, long-horizon tasks such as deep research into industry trends, generating comprehensive reports, building functional web pages, and producing AI-generated videos, offering enterprises a powerful, commercially usable framework for autonomous AI operations.",
-        "link": "https://venturebeat.com/orchestration/what-is-deerflow-and-what-should-enterprises-know-about-this-new-local-ai"
+        "category": "AI Agent Memory",
+        "title": "xMemory Technique Enhances AI Agent Long-Term Memory",
+        "summary": "Researchers have developed xMemory, a new technique that organizes conversations into a searchable hierarchy of semantic themes to improve long-term, multi-session LLM agent deployments. This approach addresses the limitations of standard RAG pipelines. Experiments show xMemory improves answer quality and long-range reasoning across LLMs while significantly cutting inference costs, reducing token usage from over 9,000 to approximately 4,700 tokens per query on certain tasks for reliable, context-aware AI assistants.",
+        "link": "https://venturebeat.com/orchestration/how-xmemory-cuts-token-costs-and-context-bloat-in-ai-agents/"
     },
     {
-        "category": "Tech Economy & Gaming",
-        "title": "Epic Games Lays Off 1,000 Amid Fortnite Slump",
-        "summary": "Epic Games has laid off over 1,000 employees, representing approximately 20 percent of the video game company's workforce. A spokeswoman confirmed the significant job cuts, citing a slump in its popular game, Fortnite. This move underscores ongoing economic pressures within the tech and gaming sectors, where even major players like Epic Games are adjusting their workforce and operational strategies in response to market performance and changing consumer engagement with their core products.",
-        "link": "https://www.nytimes.com/2026/03/24/business/epic-games-layoffs-fortnite.html"
+        "category": "AI Policy & Legal",
+        "title": "Judge Halts Pentagon's 'Supply Chain Risk' Label for Anthropic",
+        "summary": "A judge has issued a decision to stay the Pentagon's classification of artificial intelligence company Anthropic as a \"supply chain risk.\" This ruling marks an early victory for Anthropic in its contentious legal dispute with the Department of Defense. The injunction temporarily prevents the Pentagon's labeling, signaling significant implications for the relationship between AI developers and government procurement, and potentially for future regulatory oversight.",
+        "link": "https://www.nytimes.com/2026/03/26/technology/anthropic-pentagon-risk-injunction.html/"
     },
     {
-        "category": "AI Adoption & Workforce",
-        "title": "Tech Workers 'Tokenmaxxing' AI Use",
-        "summary": "A trend has emerged in a number of companies where tech employees are actively competing on leaderboards to demonstrate their maximum usage of Artificial Intelligence tools. This phenomenon, which involves 'tokenmaxxing,' indicates a rapid and widespread adoption of AI in daily workflows. However, this intensive AI utilization by workers is simultaneously leading to significant and accumulating costs for the companies, highlighting a new challenge in managing AI integration and expenditure in corporate environments.",
-        "link": "https://www.nytimes.com/2026/03/20/technology/tokenmaxxing-ai-agents.html"
+        "category": "Global Supply Chain Crisis",
+        "title": "Helium Shortage Impacts Chip Industry Amid Iran Conflict",
+        "summary": "A critical helium shortage is threatening the chip industry, with one-third of the global supply offline due to the ongoing conflict in Iran. Gas companies are actively working to reassure critical AI chip makers that there will be no disruptions to their helium supply. This invisible bottleneck highlights how geopolitical events can severely impact essential raw materials, posing significant challenges for the production of advanced AI chips.",
+        "link": "https://www.nytimes.com/2026/03/27/business/helium-chips-iran-war.html/"
+    },
+    {
+        "category": "Crypto & Sanctions Compliance",
+        "title": "Binance Accused of Missing Clues in Iran Sanctions Breach",
+        "summary": "Binance, the world's largest cryptocurrency exchange, is facing scrutiny after investigators discovered accounts that moved $1.7 billion to entities linked to Iran. It's alleged that the clues regarding these illicit transactions were clearly visible for over a year. The incident places Binance under fire for apparent failures in sanctions compliance, highlighting systemic challenges in regulating cryptocurrency flows and enforcing international financial restrictions.",
+        "link": "https://www.nytimes.com/2026/03/26/technology/binance-iran-us-sanctions.html/"
+    },
+    {
+        "category": "Social Media Regulation & Law",
+        "title": "Landmark Verdict: Meta & YouTube Found Guilty of Addictive Products",
+        "summary": "In a landmark legal case, a jury has found Meta and YouTube guilty, ruling that their products were designed to be addictive. This verdict carries significant implications for social media companies, potentially reshaping how they design and operate their platforms. Experts suggest this outcome could lead to substantial changes across the tech industry, influencing future product development and regulatory oversight concerning user engagement and well-being.",
+        "link": "https://www.nytimes.com/video/technology/100000010801833/why-the-verdict-against-meta-and-youtube-could-change-social-media.html/"
+    },
+    {
+        "category": "Defense Tech Investment",
+        "title": "Shield AI Secures $2 Billion for Military Drones",
+        "summary": "Shield AI, a startup specializing in autonomous military technology and drones, has successfully raised $2 billion. The company also plans to acquire a maker of simulation software, reflecting a strategic expansion. This substantial funding round underscores soaring interest and investment in next-generation defense technologies, signaling a major push for advanced AI-driven solutions in the military sector.",
+        "link": "https://www.nytimes.com/2026/03/26/business/dealbook/shield-ai-drones-aechelon-fund-raising.html/"
     },
     {
         "category": "Global AI Competition",
-        "title": "China's DeepSeek AI Challenges Dominance",
-        "summary": "DeepSeek AI, a Chinese upstart, claims to have developed high-performing AI models cost-effectively, without relying on the most advanced chips. This achievement is garnering significant attention, with Silicon Valley experts calling the model 'amazing and impressive.' This development signals China's growing prowess in AI, demonstrating an ability to innovate efficiently despite potential hardware limitations, and intensifying global competition in the artificial intelligence sector as nations vie for technological leadership.",
-        "link": "https://www.wsj.com/articles/deepseek-ai-china-tech-stocks-explained-ee6cc80e?mod=rss_Technology"
+        "title": "China's DeepSeek AI Impresses Despite Chip Constraints",
+        "summary": "China's DeepSeek AI has garnered significant attention in Silicon Valley, being described as \"amazing and impressive.\" The Chinese upstart claims to have trained its high-performing AI models cost-effectively without relying on the most advanced chips. This achievement highlights China's growing capabilities in artificial intelligence development and signals a competitive edge, potentially bypassing conventional hardware requirements in the global AI race.",
+        "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology/"
     },
     {
-        "category": "AI & Biotech Investment",
-        "title": "Reid Hoffman Backs AI Cancer Research",
-        "summary": "LinkedIn co-founder Reid Hoffman is spearheading Manas AI, a new startup focused on AI cancer research, having successfully raised $24.6 million. Hoffman is partnering with Siddhartha Mukherjee, author of 'The Emperor of All Maladies,' for this venture. This significant investment highlights the growing confidence and capital flowing into the application of artificial intelligence to complex biomedical challenges, particularly in drug discovery and therapeutic development for diseases like cancer, potentially accelerating breakthroughs in the field.",
-        "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology"
+        "category": "AI Infrastructure Investment",
+        "title": "Meta Allocates Up to $65B for AI, Data Centers",
+        "summary": "Meta plans to significantly increase its spending, allocating between $60 billion and $65 billion, primarily driven by massive investments in artificial intelligence and data center infrastructure. This expenditure is the latest indication of accelerating investments by major tech companies into AI capabilities. The move underscores Meta's commitment to advancing its AI initiatives and building the necessary physical foundation to support its ambitious technological goals.",
+        "link": "https://www.wsj.com/articles/meta-spending-ai-facebook-data-centers-9452a88f?mod=rss_Technology/"
     },
     {
-        "category": "Tech Giant Investments",
-        "title": "Meta Boosts AI & Data Center Spending",
-        "summary": "Meta plans to increase its spending significantly, projecting between $60 billion and $65 billion, primarily driven by massive investments in artificial intelligence and data center infrastructure. This substantial capital allocation is the latest indicator of accelerating investments into AI by major tech companies. The commitment underscores Meta's strategy to bolster its AI capabilities and expand the underlying infrastructure required to support its advanced AI initiatives and future product developments across its platforms, marking a pivotal expenditure for the company.",
-        "link": "https://www.wsj.com/articles/meta-spending-ai-facebook-data-centers-9452a88f?mod=rss_Technology"
+        "category": "AI in Healthcare",
+        "title": "Reid Hoffman Backs AI Cancer Research Startup Manas AI",
+        "summary": "LinkedIn co-founder Reid Hoffman has raised $24.6 million for his new AI cancer-research startup, Manas AI. He is co-founding the venture with Siddhartha Mukherjee, author of \"The Emperor of All Maladies.\" This significant seed funding targets the application of artificial intelligence to drug discovery, specifically within oncology, marking a notable investment by a prominent tech figure into the intersection of AI and healthcare innovation.",
+        "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology/"
     },
     {
-        "category": "AI & Geopolitics",
-        "title": "AI in Military & Geopolitical Conflict",
-        "summary": "The intersection of AI and geopolitics is intensifying, with reports of Anthropic and the Pentagon clashing over how to weaponize Anthropic\u2019s Claude AI model. Concurrently, OpenAI reportedly secured an 'opportunistic and sloppy' deal with the Pentagon. This environment has seen users abandoning ChatGPT in droves and significant public protests against AI. This indicates a heightened focus on the military applications of AI and the ethical, strategic, and political implications of AI development in a global power context, leading to growing tensions.",
-        "link": "https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/"
-    },
-    {
-        "category": "AI Research & Development",
-        "title": "OpenAI Aims for Fully Automated AI Researcher",
-        "summary": "OpenAI is refocusing its research efforts and committing significant resources to a new grand challenge: building an AI researcher. The goal is a fully automated, agent-based system capable of independently tackling large, complex problems. This initiative represents a major strategic pivot for the San Francisco firm, indicating a deeper push into creating highly autonomous AI systems that can conduct research and problem-solve without constant human oversight, potentially accelerating scientific and technological advancements across various domains.",
-        "link": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/"
+        "category": "Tech Industry Pivot",
+        "title": "Battery Company SES AI Pivots to AI Development",
+        "summary": "SES AI, a Massachusetts-based battery company, is undergoing a strategic pivot towards artificial intelligence. CEO Qichao Hu candidly states that \"almost every Western battery company has either died or is going to die,\" indicating a challenging industry landscape. This shift signals a broader trend of companies recognizing the necessity or opportunity to reorient their core business towards AI, seeking new avenues for growth and survival in a rapidly evolving tech environment.",
+        "link": "https://www.technologyreview.com/2026/03/25/1134657/battery-company-ai-pivot-ses/"
     }
 ];
