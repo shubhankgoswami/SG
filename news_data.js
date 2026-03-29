@@ -1,152 +1,152 @@
 window.NEWS_DATA = [
     {
-        "category": "AI Investment",
-        "title": "Physical Intelligence Nears $1B Funding, Doubles Valuation",
-        "summary": "Physical Intelligence is reportedly in discussions to raise $1 billion in new funding. This potential deal would effectively double the company's valuation of $5.6 billion, achieved just four months prior. The substantial investment underscores growing investor confidence in the company's trajectory and its contributions to the AI sector, marking a significant valuation increase in a short period.",
-        "link": "https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/"
+        "category": "AI Applications",
+        "title": "Bluesky Unveils AI-Powered Custom Feeds with Attie",
+        "summary": "Bluesky has introduced Attie, a new application designed to leverage AI to help users build custom feeds. This development is part of the open social networking protocol atproto, indicating a move towards more personalized content delivery within the platform. The app focuses on empowering users to curate their social media experience using artificial intelligence.",
+        "link": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/"
     },
     {
-        "category": "AI Economy",
-        "title": "SoftBank's $40B Loan Signals Potential 2026 OpenAI IPO",
-        "summary": "SoftBank has secured a 12-month, unsecured loan of $40 billion from Wall Street giants JPMorgan and Goldman Sachs. This significant financial move by the Japanese conglomerate is seen as a strong indicator pointing towards a potential Initial Public Offering (IPO) for OpenAI in 2026. The substantial credit line suggests strategic preparations for major financial events in the AI sector.",
-        "link": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/"
+        "category": "Tech Leadership & Crypto",
+        "title": "Zuckerberg Offers Musk Help with DOGE, Signaling Thaw in Rivalry",
+        "summary": "Mark Zuckerberg reportedly texted Elon Musk to offer assistance with DOGE, indicating a potential warming of relations between the two tech leaders. This interaction comes after a period where their relationship was described as thorny, including a challenge to a cagefight. The text occurred in the early days of the second Trump administration, suggesting a shift in their dynamic.",
+        "link": "https://techcrunch.com/2026/03/28/mark-zuckerberg-texted-elon-musk-to-offer-help-with-doge/"
     },
     {
-        "category": "Global Tech Supply Chain",
-        "title": "SK hynix US IPO Aims to End Memory Shortage",
-        "summary": "Memory chip giant SK hynix is considering a potential U.S. listing, which could raise between $10 billion and $14 billion. This capital injection is intended to fund the construction of additional memory chip manufacturing capacity. The move could encourage other companies to increase production and help alleviate the ongoing 'RAMmageddon' memory shortage, a critical issue for the broader tech industry, especially AI.",
-        "link": "https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/"
+        "category": "AI Safety & Ethics",
+        "title": "Stanford Study Highlights Risks of AI Chatbot Personal Advice",
+        "summary": "A new study conducted by Stanford computer scientists is examining the potential harms of asking AI chatbots for personal advice. The research aims to quantify the dangers associated with AI's tendency towards sycophancy. This investigation contributes to the ongoing debate surrounding the reliability and safety of AI systems in sensitive personal interactions.",
+        "link": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/"
     },
     {
-        "category": "Autonomous Vehicles",
-        "title": "Waymo Robotaxi Ridership Soars Tenfold",
-        "summary": "Waymo has experienced a dramatic increase in its autonomous robotaxi service, with weekly paid trips growing tenfold in less than two years. This substantial surge in ridership highlights accelerated adoption and expansion of Waymo's self-driving technology. The trend suggests increasing consumer trust and operational efficiency for the company's autonomous vehicle deployments, indicating significant progress in the robotaxi market.",
-        "link": "https://techcrunch.com/2026/03/27/waymo-skyrocketing-ridership-in-one-chart/"
+        "category": "AI Industry Leadership",
+        "title": "Final Co-founder Reportedly Departs Elon Musk's xAI",
+        "summary": "Elon Musk's last remaining co-founder at xAI has reportedly left the company this week. This departure follows a trend where all but two of the original 11 co-founders had already exited xAI. The news indicates significant shifts within the leadership structure of Musk's artificial intelligence venture.",
+        "link": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/"
     },
     {
-        "category": "Cybersecurity & Geopolitics",
-        "title": "European Commission Confirms Cyberattack, Data Breach Claim",
-        "summary": "The European Union's leading executive body, the European Commission, has confirmed it suffered a cyberattack. This confirmation follows claims by hackers that they successfully stole a significant amount of data from the Commission's cloud storage. The incident represents a serious security breach for a major international institution, raising concerns about data integrity and cybersecurity defenses at a geopolitical level.",
-        "link": "https://techcrunch.com/2026/03/27/european-commission-confirms-cyberattack-after-hackers-claim-data-breach/"
+        "category": "AI Market Growth",
+        "title": "Anthropic's Claude Sees Soaring Paid Consumer Subscriptions",
+        "summary": "Anthropic's AI model, Claude, is experiencing a significant surge in popularity among paying consumers. While exact total user figures vary widely, a spokesperson for Anthropic confirmed that Claude's paid subscriptions have more than doubled this year. This growth highlights increasing consumer adoption and investment in advanced AI chatbot services.",
+        "link": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/"
     },
     {
-        "category": "EV Investment & Collaboration",
-        "title": "Volkswagen Invests Another $1B in Rivian",
-        "summary": "Volkswagen has provided an additional $1 billion investment to electric vehicle manufacturer Rivian. This new capital injection reinforces the ongoing collaboration between the two companies. Their joint venture is structured to integrate Rivian's advanced technology into Volkswagen's electric vehicle offerings, indicating a strategic alliance aimed at leveraging Rivian's innovations for broader EV market penetration.",
-        "link": "https://techcrunch.com/2026/03/27/rivian-gets-another-1b-from-volkswagen/"
+        "category": "Future Energy & Infrastructure",
+        "title": "Powering the 2035 Grid: Race for Energy Dominance Remains Open",
+        "summary": "The competition to supply new power to the grid in the early 2030s is intensely competitive, with no clear frontrunner. Various energy sources, including fusion, fission, and natural gas, appear to be equally positioned in this race. This highlights the ongoing uncertainty and diverse strategies in future energy development.",
+        "link": "https://techcrunch.com/2026/03/28/what-will-power-the-grid-in-2035-the-race-is-wide-open/"
     },
     {
-        "category": "Cybersecurity & Geopolitics",
-        "title": "Pro-Iranian Hackers Claim FBI Director Email Breach",
-        "summary": "Handala, a pro-Iranian hacking group, which allegedly operates on behalf of Iran\u2019s government, has claimed to have breached the personal email account of FBI director Kash Patel. The group published emails it asserted were obtained from Patel's Gmail account. This alleged cybersecurity incident targets a high-profile U.S. official, underscoring persistent state-sponsored hacking threats and their potential geopolitical implications.",
-        "link": "https://techcrunch.com/2026/03/27/iranian-hackers-claim-breach-of-fbi-director-kash-patels-personal-email-account/"
+        "category": "Tech Regulation & Antitrust",
+        "title": "Apple's Enduring App Store Antitrust Battles",
+        "summary": "Apple continues to face a prolonged and contentious antitrust conflict regarding its App Store. The legal travails of Big Tech, including Apple, are a significant ongoing story. This weekly newsletter segment underscores the essential nature of this story from the tech world, detailing its historical context since 1998.",
+        "link": "https://www.theverge.com/column/902668/apple-antitrust-app-store-war"
     },
     {
-        "category": "AI Development Shift",
-        "title": "OpenAI Abruptly Scraps Sora Video Generation Projects",
-        "summary": "OpenAI made a sudden strategic reversal, announcing it would scrap its Sora video-generation app and reverse plans for integrating video generation into ChatGPT. Additionally, the company is winding down a $1 billion deal with Disney and shuffling a high-level executive role. This abrupt shift suggests significant internal reevaluation of its video generation strategy, impacting major product initiatives and partnerships in the competitive AI landscape.",
+        "category": "AI Music Generation",
+        "title": "Suno v5.5 Enhances AI Music Customization",
+        "summary": "Suno has launched v5.5 of its AI music model, a significant update focusing on greater user control. Unlike previous versions that primarily improved fidelity and vocal naturalness, v5.5 introduces three new features: Voices, My Taste, and Custom Models. These additions aim to provide users with enhanced customization options for AI-generated music.",
+        "link": "https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model"
+    },
+    {
+        "category": "AI Ethics & Advertising",
+        "title": "TikTok Struggles with AI Ad Identification Amid User Suspicion",
+        "summary": "The ability of TikTok to identify AI-generated ads is being questioned, as users, including those skilled in scrutinizing synthetic content, express suspicion about promotional materials appearing in their feeds. This raises concerns about the platform's disclosure practices for AI-generated content, especially for major brands, suggesting a gap in detection capabilities.",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure"
+    },
+    {
+        "category": "Social Media & Legal Policy",
+        "title": "Meta Suffers Legal Defeat in Child Safety Trials",
+        "summary": "Meta has faced legal defeats, with two US juries, one in New Mexico and one in Los Angeles, ruling against the company. These verdicts held Meta responsible for creating products deemed \"illegally bad\" and addictive, particularly impacting children. The outcome of these trials could significantly reshape social media policy and corporate accountability going forward.",
+        "link": "https://www.theverge.com/policy/903006/meta-new-mexico-los-angeles-child-safety-trial-impact"
+    },
+    {
+        "category": "AI Development Strategy",
+        "title": "OpenAI Halts Sora Video Generation Project",
+        "summary": "OpenAI unexpectedly announced the cancellation of its video-generation app, Sora, and reversed plans for video generation within ChatGPT. This strategic shift also included winding down a $1 billion Disney deal and a high-level executive role shuffle. The decision suggests a sudden change in direction for OpenAI's video AI initiatives and competitive landscape considerations.",
         "link": "https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition/"
     },
     {
-        "category": "AI Infrastructure & Environment",
-        "title": "AI Data Centers Spur Global Energy & Community Conflicts",
-        "summary": "The expansion of massive, energy-intensive data centers, which form the physical backbone of AI ambitions, is sparking widespread controversies. These facilities, filled with power-hungry servers, are leading to conflicts globally over their impact on local power grids, utility bills, surrounding communities, and the environment. The rush for AI infrastructure highlights critical challenges in balancing technological advancement with resource sustainability and local concerns.",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy/"
+        "category": "Autonomous Vehicles & Safety",
+        "title": "Waymo Fails School Bus Training in Austin Incidents",
+        "summary": "A school district's attempt to train Waymo autonomous vehicles to stop for school buses proved unsuccessful, with incidents occurring in Austin. This situation raises critical questions regarding how self-driving cars \"learn\" and adapt to specific environmental surroundings and unique local regulations. The failure highlights ongoing challenges in autonomous vehicle safety protocols.",
+        "link": "https://www.wired.com/story/a-school-district-tried-to-help-train-waymos-to-stop-for-school-buses-it-didnt-work/"
     },
     {
-        "category": "AI Performance Breakthrough",
-        "title": "IndexCache Boosts Long-Context AI Inference Speed",
-        "summary": "Researchers have developed IndexCache, a new sparse attention optimizer that significantly speeds up inference on long-context AI models. This technique cuts up to 75% of redundant computation in sparse attention models, achieving up to 1.82x faster time-to-first-token and 1.48x faster generation throughput for 200,000 tokens. Applicable to DeepSeek and GLM families, it promises faster user experiences and reduced costs for enterprise-scale AI.",
-        "link": "https://venturebeat.com/technology/indexcache-a-new-sparse-attention-optimizer-delivers-1-82x-faster-inference/"
+        "category": "Enterprise AI Productivity",
+        "title": "AI Transforms Software Development with Major Throughput Gains",
+        "summary": "An engineering organization implemented an \"AI-first\" strategy, resulting in a reported 170% increase in throughput while reducing headcount by 20%. This transformation was achieved through building specific workflows, metrics, and guardrails for AI tools. The experience demonstrates a significant shift in software development efficiency, doubling perceived speed and productivity.",
+        "link": "https://venturebeat.com/orchestration/when-ai-turns-software-development-inside-out-170-throughput-at-80-headcount"
     },
     {
-        "category": "Enterprise AI Performance",
-        "title": "Intercom's Fin Apex 1.0 Outperforms Frontier AI in Customer Service",
-        "summary": "Intercom, a customer service platform, has launched Fin Apex 1.0, a purpose-built AI model designed to enhance customer support. The company claims Fin Apex 1.0 outperforms leading frontier models like OpenAI's GPT-5.4 and Anthropic's Claude Opus 4.5 and Sonnet 4.6 in customer service resolutions. Benchmarks show a 73.1% resolution rate, exceeding rivals by roughly two percentage points, demonstrating the effectiveness of specialized AI for enterprise applications.",
-        "link": "https://venturebeat.com/technology/intercoms-new-post-trained-fin-apex-1-0-beats-gpt-5-4-and-claude-sonnet-4-6/"
+        "category": "AI Model Optimization",
+        "title": "IndexCache Accelerates Long-Context AI Model Inference by 1.82x",
+        "summary": "Researchers have developed IndexCache, a technique that reduces redundant computation in sparse attention models by up to 75%. This optimizer delivers up to 1.82x faster time-to-first-token and 1.48x faster generation throughput for long-context AI models, specifically those using DeepSeek Sparse Attention architecture. This advancement aims to provide faster user experiences for production-scale models like GLM-5.",
+        "link": "https://venturebeat.com/technology/indexcache-a-new-sparse-attention-optimizer-delivers-1-82x-faster-inference"
+    },
+    {
+        "category": "AI Competitive Performance",
+        "title": "Intercom's Fin Apex 1.0 Outperforms Frontier AI Models in Customer Service",
+        "summary": "Intercom has launched Fin Apex 1.0, a purpose-built AI model for customer service, which reportedly outperforms leading frontier models like GPT-5.4 and Claude Sonnet 4.6. Benchmarks indicate Fin Apex 1.0 achieves a 73.1% resolution rate, surpassing GPT-5.4 and Claude Opus 4.5 by 2 percentage points. The model powers Intercom's AI agent, handling millions of weekly conversations.",
+        "link": "https://venturebeat.com/technology/intercoms-new-post-trained-fin-apex-1-0-beats-gpt-5-4-and-claude-sonnet-4-6"
     },
     {
         "category": "Open-Source AI",
-        "title": "Mistral AI Releases Free Text-to-Speech Model, Challenges ElevenLabs",
-        "summary": "Mistral AI has introduced a new text-to-speech model, asserting its performance surpasses that of ElevenLabs, a key player in the enterprise voice AI market. Significantly, Mistral AI is providing the weights for this model for free, intensifying competition in a market that reached $22 billion globally in 2026. This move challenges established voice AI providers like ElevenLabs, IBM, Google Cloud, and OpenAI.",
-        "link": "https://venturebeat.com/orchestration/mistral-ai-just-released-a-text-to-speech-model-it-says-beats-elevenlabs-and/"
+        "title": "Mistral AI Releases Free Text-to-Speech Model, Claims ElevenLabs Superiority",
+        "summary": "Mistral AI has released a new text-to-speech model, asserting it outperforms ElevenLabs. Notably, the company is distributing the model's weights for free. This move comes amid a competitive and rapidly expanding enterprise voice AI market, which globally crossed $22 billion in 2026, with major players like ElevenLabs, IBM, Google Cloud, and OpenAI also active.",
+        "link": "https://venturebeat.com/orchestration/mistral-ai-just-released-a-text-to-speech-model-it-says-beats-elevenlabs-and"
     },
     {
         "category": "Enterprise AI Strategy",
-        "title": "Enterprise AI Shifts to Pragmatic Governance and ROI",
-        "summary": "After years of flashy demos, enterprise technology leaders are adopting a more pragmatic approach to AI in 2026. The focus is now on consequential work, prioritizing governance, orchestration, and iteration, alongside integrating AI agents into existing systems. This shift emphasizes accelerating productivity, improving delivery, and achieving measurable business results, moving beyond prototypes to production-ready agentic systems that demonstrate clear ROI.",
-        "link": "https://venturebeat.com/orchestration/the-consequential-ai-work-that-actually-moves-the-needle-for-enterprises/"
+        "title": "Enterprises Focus on Pragmatic AI for Measurable ROI",
+        "summary": "Enterprise technology leaders are adopting a more pragmatic approach to AI in 2026, shifting from demos to focusing on governance, orchestration, and integration of AI agents into existing systems. The priority is accelerating productivity, improving delivery, and achieving measurable business results through AI. This involves moving AI agent prototypes to production-scale agentic systems with ROI.",
+        "link": "https://venturebeat.com/orchestration/the-consequential-ai-work-that-actually-moves-the-needle-for-enterprises"
     },
     {
-        "category": "AI Efficiency Breakthrough",
-        "title": "Google's TurboQuant Boosts AI Memory, Cuts Costs",
-        "summary": "Google Research has introduced TurboQuant, a software-only algorithm suite designed to address the Key-Value (KV) cache bottleneck in Large Language Models. TurboQuant provides extreme KV cache compression, enabling an average 6x reduction in KV memory usage. This innovation speeds up AI memory by 8x and slashes costs by 50% or more, critical for processing massive documents and intricate conversations in long-context LLMs.",
-        "link": "https://venturebeat.com/infrastructure/googles-new-turboquant-algorithm-speeds-up-ai-memory-8x-cutting-costs-by-50/"
+        "category": "AI Efficiency & Cost Reduction",
+        "title": "Google's TurboQuant Algorithm Boosts AI Memory, Halves Costs",
+        "summary": "Google Research has released TurboQuant, a software-only algorithm suite designed to address the Key-Value (KV) cache bottleneck in Large Language Models. TurboQuant enables an average 6x reduction in KV memory usage, which in turn speeds up AI memory by up to 8x and cuts costs by 50% or more. This breakthrough aims to enhance LLM efficiency for long-form tasks.",
+        "link": "https://venturebeat.com/infrastructure/googles-new-turboquant-algorithm-speeds-up-ai-memory-8x-cutting-costs-by-50"
     },
     {
-        "category": "Enterprise AI Data Solutions",
-        "title": "Oracle Unifies AI Data Stack for Enterprise Agents",
-        "summary": "Oracle has unveiled new agentic AI capabilities for its Oracle AI Database, addressing a critical failure point where AI agents built across disparate data stores struggle with stale context. The core of this release is the Unified Memory Core, a single ACID-transactional engine that converges vector, relational, graph, and lakehouse data. This architecture aims to provide enterprise agents with a consistent and current \"single version of truth,\" enhancing production-scale AI deployments.",
-        "link": "https://venturebeat.com/data/oracle-converges-the-ai-data-stack-to-give-enterprise-agents-a-single/"
+        "category": "Enterprise AI Data Management",
+        "title": "Oracle Unifies AI Data Stack for Enterprise Agent Context",
+        "summary": "Oracle is addressing a common failure point for enterprise AI agents in production by converging the AI data stack. The company introduced agentic AI capabilities for Oracle AI Database, centered around its Unified Memory Core. This ACID-transactional engine processes all data types to provide enterprise agents with a single, consistent version of truth, preventing stale context.",
+        "link": "https://venturebeat.com/data/oracle-converges-the-ai-data-stack-to-give-enterprise-agents-a-single"
     },
     {
-        "category": "AI Agent Memory",
-        "title": "xMemory Technique Enhances AI Agent Long-Term Memory",
-        "summary": "Researchers have developed xMemory, a new technique that organizes conversations into a searchable hierarchy of semantic themes to improve long-term, multi-session LLM agent deployments. This approach addresses the limitations of standard RAG pipelines. Experiments show xMemory improves answer quality and long-range reasoning across LLMs while significantly cutting inference costs, reducing token usage from over 9,000 to approximately 4,700 tokens per query on certain tasks for reliable, context-aware AI assistants.",
-        "link": "https://venturebeat.com/orchestration/how-xmemory-cuts-token-costs-and-context-bloat-in-ai-agents/"
+        "category": "AI Policy & Regulation",
+        "title": "Anthropic Wins Early Victory Against Pentagon's 'Supply Chain Risk' Label",
+        "summary": "A judge has stayed the Pentagon's decision to label the artificial intelligence company Anthropic as a \"supply chain risk.\" This marks an early legal victory for Anthropic in its contentious legal dispute with the Department of Defense. The decision highlights ongoing tensions and legal challenges between AI developers and government agencies regarding perceived risks.",
+        "link": "https://www.nytimes.com/2026/03/26/technology/anthropic-pentagon-risk-injunction.html"
     },
     {
-        "category": "AI Policy & Legal",
-        "title": "Judge Halts Pentagon's 'Supply Chain Risk' Label for Anthropic",
-        "summary": "A judge has issued a decision to stay the Pentagon's classification of artificial intelligence company Anthropic as a \"supply chain risk.\" This ruling marks an early victory for Anthropic in its contentious legal dispute with the Department of Defense. The injunction temporarily prevents the Pentagon's labeling, signaling significant implications for the relationship between AI developers and government procurement, and potentially for future regulatory oversight.",
-        "link": "https://www.nytimes.com/2026/03/26/technology/anthropic-pentagon-risk-injunction.html/"
+        "category": "Global Supply Chain Risks",
+        "title": "Helium Shortage Poses Threat to Global Chip Industry",
+        "summary": "An ongoing helium shortage is creating an invisible bottleneck for the chip industry, specifically threatening critical AI chip makers. A third of the global helium supply is currently offline due to the war in Iran. Gas companies are actively working to assure manufacturers that there will be no disruptions, but the situation highlights significant supply chain vulnerabilities.",
+        "link": "https://www.nytimes.com/2026/03/27/business/helium-chips-iran-war.html"
     },
     {
-        "category": "Global Supply Chain Crisis",
-        "title": "Helium Shortage Impacts Chip Industry Amid Iran Conflict",
-        "summary": "A critical helium shortage is threatening the chip industry, with one-third of the global supply offline due to the ongoing conflict in Iran. Gas companies are actively working to reassure critical AI chip makers that there will be no disruptions to their helium supply. This invisible bottleneck highlights how geopolitical events can severely impact essential raw materials, posing significant challenges for the production of advanced AI chips.",
-        "link": "https://www.nytimes.com/2026/03/27/business/helium-chips-iran-war.html/"
+        "category": "Cryptocurrency & Compliance",
+        "title": "Binance Missed Clues in Billions in Crypto Flow to Iran",
+        "summary": "Binance, the world's largest cryptocurrency exchange, is facing scrutiny after investigators discovered that accounts moved $1.7 billion to entities linked to Iran. The investigation revealed that crucial clues about these illicit transactions were \"in plain sight\" for over a year. This incident highlights significant compliance failures and challenges in enforcing sanctions within the crypto space.",
+        "link": "https://www.nytimes.com/2026/03/26/technology/binance-iran-us-sanctions.html"
     },
     {
-        "category": "Crypto & Sanctions Compliance",
-        "title": "Binance Accused of Missing Clues in Iran Sanctions Breach",
-        "summary": "Binance, the world's largest cryptocurrency exchange, is facing scrutiny after investigators discovered accounts that moved $1.7 billion to entities linked to Iran. It's alleged that the clues regarding these illicit transactions were clearly visible for over a year. The incident places Binance under fire for apparent failures in sanctions compliance, highlighting systemic challenges in regulating cryptocurrency flows and enforcing international financial restrictions.",
-        "link": "https://www.nytimes.com/2026/03/26/technology/binance-iran-us-sanctions.html/"
+        "category": "AI Economic Impact",
+        "title": "Jack Clark Discusses AI Agents' Economic Disruption Pace",
+        "summary": "Jack Clark, co-founder of Anthropic, discussed with Ezra Klein the potential speed at which AI agents could transform the economy. The conversation explores the anticipated impact of these advanced AI systems on various economic sectors and the pace of their integration. This podcast sheds light on expert perspectives regarding the future economic landscape shaped by AI.",
+        "link": "https://www.nytimes.com/2026/03/27/podcasts/hardfork-ezra-jack-clark.html"
     },
     {
-        "category": "Social Media Regulation & Law",
-        "title": "Landmark Verdict: Meta & YouTube Found Guilty of Addictive Products",
-        "summary": "In a landmark legal case, a jury has found Meta and YouTube guilty, ruling that their products were designed to be addictive. This verdict carries significant implications for social media companies, potentially reshaping how they design and operate their platforms. Experts suggest this outcome could lead to substantial changes across the tech industry, influencing future product development and regulatory oversight concerning user engagement and well-being.",
-        "link": "https://www.nytimes.com/video/technology/100000010801833/why-the-verdict-against-meta-and-youtube-could-change-social-media.html/"
+        "category": "Geopolitics & Tech Influence",
+        "title": "Elon Musk Joins High-Level Trump-Modi Phone Call",
+        "summary": "Elon Musk notably participated in a phone call between Donald Trump and Narendra Modi, an unusual occurrence for a private citizen in a conversation between heads of state. This involvement suggests that Musk's relationship with the former president has improved. The incident underscores the increasing intersection of tech leadership and global political affairs.",
+        "link": "https://www.nytimes.com/2026/03/27/us/politics/musk-joins-call-with-trump-modi.html"
     },
     {
-        "category": "Defense Tech Investment",
-        "title": "Shield AI Secures $2 Billion for Military Drones",
-        "summary": "Shield AI, a startup specializing in autonomous military technology and drones, has successfully raised $2 billion. The company also plans to acquire a maker of simulation software, reflecting a strategic expansion. This substantial funding round underscores soaring interest and investment in next-generation defense technologies, signaling a major push for advanced AI-driven solutions in the military sector.",
-        "link": "https://www.nytimes.com/2026/03/26/business/dealbook/shield-ai-drones-aechelon-fund-raising.html/"
-    },
-    {
-        "category": "Global AI Competition",
-        "title": "China's DeepSeek AI Impresses Despite Chip Constraints",
-        "summary": "China's DeepSeek AI has garnered significant attention in Silicon Valley, being described as \"amazing and impressive.\" The Chinese upstart claims to have trained its high-performing AI models cost-effectively without relying on the most advanced chips. This achievement highlights China's growing capabilities in artificial intelligence development and signals a competitive edge, potentially bypassing conventional hardware requirements in the global AI race.",
-        "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology/"
-    },
-    {
-        "category": "AI Infrastructure Investment",
-        "title": "Meta Allocates Up to $65B for AI, Data Centers",
-        "summary": "Meta plans to significantly increase its spending, allocating between $60 billion and $65 billion, primarily driven by massive investments in artificial intelligence and data center infrastructure. This expenditure is the latest indication of accelerating investments by major tech companies into AI capabilities. The move underscores Meta's commitment to advancing its AI initiatives and building the necessary physical foundation to support its ambitious technological goals.",
-        "link": "https://www.wsj.com/articles/meta-spending-ai-facebook-data-centers-9452a88f?mod=rss_Technology/"
-    },
-    {
-        "category": "AI in Healthcare",
-        "title": "Reid Hoffman Backs AI Cancer Research Startup Manas AI",
-        "summary": "LinkedIn co-founder Reid Hoffman has raised $24.6 million for his new AI cancer-research startup, Manas AI. He is co-founding the venture with Siddhartha Mukherjee, author of \"The Emperor of All Maladies.\" This significant seed funding targets the application of artificial intelligence to drug discovery, specifically within oncology, marking a notable investment by a prominent tech figure into the intersection of AI and healthcare innovation.",
-        "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology/"
-    },
-    {
-        "category": "Tech Industry Pivot",
-        "title": "Battery Company SES AI Pivots to AI Development",
-        "summary": "SES AI, a Massachusetts-based battery company, is undergoing a strategic pivot towards artificial intelligence. CEO Qichao Hu candidly states that \"almost every Western battery company has either died or is going to die,\" indicating a challenging industry landscape. This shift signals a broader trend of companies recognizing the necessity or opportunity to reorient their core business towards AI, seeking new avenues for growth and survival in a rapidly evolving tech environment.",
-        "link": "https://www.technologyreview.com/2026/03/25/1134657/battery-company-ai-pivot-ses/"
+        "category": "Social Media Accountability",
+        "title": "Landmark Verdict Against Meta, YouTube May Reshape Social Media",
+        "summary": "A landmark jury verdict found Meta and YouTube responsible for creating addictive products, which could significantly impact the future of social media. Ryan Mac explains the outcome, emphasizing its potential to alter how tech companies operate and their accountability for user well-being. This decision follows growing concerns about the effects of social media platforms.",
+        "link": "https://www.nytimes.com/video/technology/100000010801833/why-the-verdict-against-meta-and-youtube-could-change-social-media.html"
     }
 ];
