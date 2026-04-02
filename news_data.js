@@ -1,152 +1,152 @@
 window.NEWS_DATA = [
     {
-        "category": "AI Hardware",
-        "title": "Nothing Eyes AI Smart Glasses and Earbuds",
-        "summary": "Nothing is reportedly developing smart glasses and earbuds integrated with AI capabilities. The glasses are expected to feature cameras, microphones, and speakers, designed to connect to smartphones and the cloud for processing AI queries. This move indicates Nothing's potential expansion into the burgeoning market of AI-powered wearable devices, aiming to leverage advanced processing for enhanced user interactions and functionalities through a connected ecosystem.",
-        "link": "https://techcrunch.com/2026/04/01/nothings-ai-devices-plan-reportedly-contains-smart-glasses-and-earbuds/"
+        "category": "AI Breakthroughs",
+        "title": "Microsoft Unveils Three New AI Models, Intensifying Competition",
+        "summary": "Microsoft launched three new in-house foundational AI models: MAI-Transcribe-1 for speech transcription, MAI-Voice-1 for voice generation, and MAI-Image-2 for image creation. These releases signal Microsoft's concrete intent to directly compete with OpenAI, Google, and other frontier labs in model development, moving beyond just distribution. The models are immediately available through Microsoft Foundry.",
+        "link": "https://venturebeat.com/technology/microsoft-launches-3-new-ai-models-in-direct-shot-at-openai-and-google"
     },
     {
-        "category": "AI Cybersecurity",
-        "title": "Mercor Suffers Cyberattack Via Open-Source LiteLLM",
-        "summary": "AI recruiting startup Mercor confirmed a security incident following an extortion hacking crew's claim of data theft. The cyberattack is reportedly linked to a compromise of the open-source LiteLLM project, a critical dependency for Mercor. This incident highlights the growing security risks associated with open-source dependencies in AI development, potentially exposing sensitive company and user data through supply chain vulnerabilities.",
-        "link": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/"
-    },
-    {
-        "category": "AI Investment",
-        "title": "OpenAI Secures $3B in Massive $122B Fundraise",
-        "summary": "OpenAI, currently a private company, has successfully raised $3 billion from retail investors as part of a larger $122 billion funding round. This significant capital infusion, reportedly led by major tech players like Amazon, Nvidia, and SoftBank, values the leading AI laboratory at an impressive $852 billion, signaling robust investor confidence as the company reportedly moves closer towards a potential initial public offering.",
-        "link": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/"
-    },
-    {
-        "category": "AI Market Trends",
-        "title": "AI Seed Startups See Soaring Valuations",
-        "summary": "AI seed-stage startups are increasingly attracting higher valuations, indicating a notable trend in the tech investment landscape. Recent data from the Y Combinator cohort reveals many such startups are commanding valuations around $40 million. This surge in investment capital, however, is accompanied by heightened expectations for performance and growth, reflecting both investor optimism and increased pressure on emerging AI companies.",
-        "link": "https://techcrunch.com/2026/03/31/its-not-your-imagination-ai-seed-startups-are-commanding-higher-valuations/"
-    },
-    {
-        "category": "Tech Regulation",
-        "title": "Meta Faces Accountability for Teen Harm",
-        "summary": "Meta is confronting legal accountability for its platforms' impact on teens, facing thousands of additional court cases. In response to mounting concerns about children\u2019s online safety, Congress has proposed numerous bills, though some of these legislative efforts have drawn significant criticism. This development underscores increasing pressure on social media giants regarding user well-being and the ongoing debate over digital platform regulation.",
-        "link": "https://techcrunch.com/2026/03/31/meta-was-finally-held-accountable-for-harming-teens-now-what/"
-    },
-    {
-        "category": "Autonomous Vehicle Safety",
-        "title": "Baidu Robotaxis Freeze, Cause City Chaos",
-        "summary": "Robotaxis operated by Chinese tech giant Baidu experienced a widespread freeze in a major city, leading to significant disruption. Reports from Wuhan police confirmed multiple incidents of Baidu's Apollo Go robotaxis stopping mid-street, trapping passengers, stranding vehicles on highways, and contributing to at least one accident in congested traffic, raising concerns about autonomous vehicle reliability and public safety.",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/905012/baidu-apollo-robotaxi-freeze-china/"
-    },
-    {
-        "category": "AI Integration",
-        "title": "ChatGPT Arrives on Apple CarPlay",
-        "summary": "ChatGPT is now accessible on Apple\u2019s CarPlay platform, enabling users to interact with the AI chatbot directly from their vehicle dashboards. This integration requires iOS 26.4 or newer and the latest ChatGPT app version, leveraging Apple's recently added support for \"voice-based conversational apps\" in CarPlay. This allows for voice-activated AI functionalities, enhancing in-car connectivity and information access for users.",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt/"
-    },
-    {
-        "category": "Critical Cybersecurity",
-        "title": "Major Internet Library Compromised by Trojan",
-        "summary": "Hackers compromised `axios`, JavaScript's most popular HTTP client library with over 100 million weekly downloads, by stealing an npm access token from its lead maintainer. This enabled them to publish two malicious versions containing a cross-platform remote access trojan targeting macOS, Windows, and Linux. Although live for only three hours, the attack affected an estimated 80% of cloud and code environments, with over 135 systems confirmed compromised.",
-        "link": "https://venturebeat.com/security/axios-npm-supply-chain-attack-rat-maintainer-token-2026"
-    },
-    {
-        "category": "AI Research Breakthrough",
-        "title": "Meta Boosts LLM Code Review Accuracy to 93%",
-        "summary": "Meta researchers introduced \"semi-formal reasoning,\" a structured prompting technique significantly improving large language models (LLMs) for code review, with accuracy reaching 93% in some instances. This method addresses the overhead of dynamic execution sandboxes by forcing AI agents to systematically gather evidence, trace execution paths, and derive formal conclusions via a logical certificate. This enhances execution-free reasoning, reducing unsupported guesses and hallucinations in repository-scale tasks like bug detection and patch verification.",
+        "category": "AI Innovation",
+        "title": "Meta's New Prompting Technique Boosts LLM Code Review Accuracy to 93%",
+        "summary": "Meta researchers introduced 'semi-formal reasoning,' a structured prompting technique designed to improve LLM accuracy in code review and repository-scale tasks. By requiring AI agents to complete a logical certificate that explicitly states premises, traces execution paths, and derives formal conclusions, the method forces systematic evidence gathering. This approach helps overcome the limitations of execution-free reasoning, which often leads to hallucinations, and can boost accuracy for tasks like bug detection to 93% in some cases.",
         "link": "https://venturebeat.com/orchestration/metas-new-structured-prompting-technique-makes-llms-significantly-better-at"
     },
     {
-        "category": "AI & Cybersecurity Solutions",
-        "title": "RSAC 2026: AI SOC Tools Launched Amidst Security Gaps",
-        "summary": "At RSA Conference 2026, major cybersecurity firms CrowdStrike, Cisco, and Palo Alto Networks unveiled agentic Security Operations Center (SOC) tools, despite a persistent \"agent behavioral baseline gap.\" CrowdStrike noted adversary breakout times have dropped to 27 seconds, while 85% of enterprises are piloting AI agents. With over 1,800 distinct AI applications generating massive security data, these new tools aim to combat threats, yet the baseline gap remains a challenge for human-speed workflows.",
-        "link": "https://venturebeat.com/security/rsac-2026-agentic-soc-agent-telemetry-security-gap"
+        "category": "Global AI Race",
+        "title": "China's DeepSeek AI Impresses Silicon Valley Despite Less Advanced Chips",
+        "summary": "Chinese AI upstart DeepSeek is garnering significant attention and praise within Silicon Valley for its high-performing AI models. The company claims to have trained these models cheaply, notably without relying on the most advanced chips. This achievement is being called \u201camazing and impressive,\u201d highlighting China's progress in AI development even amidst potential hardware limitations.",
+        "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology"
     },
     {
-        "category": "AI Security Risk",
-        "title": "OpenClaw AI Agents Lack Enterprise Kill Switch",
-        "summary": "The AI agent, OpenClaw, reportedly has 500,000 active instances but lacks an enterprise kill switch, posing significant security risks. Etay Maor of Cato Networks highlighted that the industry grants AI agents autonomy without adhering to zero trust or least privilege principles. Evidence surfaced on BreachForums where root shell access to a U.K. CEO\u2019s OpenClaw instance was advertised, demonstrating a critical vulnerability in AI agent deployment.",
-        "link": "https://venturebeat.com/security/openclaw-500000-instances-no-enterprise-kill-switch"
+        "category": "Enterprise AI",
+        "title": "Intuit's AI Agents Achieve 85% Repeat Usage by Integrating Human Expertise",
+        "summary": "Intuit successfully deployed AI agents to 3 million customers, achieving an 85% repeat usage rate. The key to this success, according to the company's EVP and GM Marianna Tessel, is the combination of artificial intelligence with human intelligence (AI-HI). This hybrid approach provides customers with enhanced confidence and trust, delivering better results than AI chatbots alone, and addressing a 'massive ask' from users who value human involvement.",
+        "link": "https://venturebeat.com/orchestration/intuits-ai-agents-hit-85-repeat-usage-the-secret-was-keeping-humans-involved"
     },
     {
-        "category": "Enterprise AI Adoption",
-        "title": "Slackbot Gets Major AI Overhaul with 30 New Features",
-        "summary": "Slack has rolled out over 30 new AI-powered capabilities for Slackbot, marking its most comprehensive update since Salesforce acquired it for $27.7 billion. These enhancements aim to transform the workplace messaging platform, integrating advanced AI functionalities into its personal agent. This extensive overhaul signifies Slack's strategic push to leverage artificial intelligence for improved productivity and user experience within enterprise environments.",
-        "link": "https://venturebeat.com/orchestration/slack-adds-30-ai-features-to-slackbot-its-most-ambitious-update-since-the"
-    },
-    {
-        "category": "AI Development Security",
-        "title": "Anthropic's Claude Code Source Code Leaked",
-        "summary": "Anthropic's Claude Code AI product appears to have had its TypeScript codebase leaked due to an inadvertently included 59.8 MB JavaScript source map file in version 2.1.88 of the `@anthropic-ai/claude-code` package. Discovered and broadcasted on X, the 512,000-line codebase was mirrored and analyzed, revealing internal workings of the \"agentic AI harness.\" This incident poses a significant security and intellectual property concern for Anthropic.",
-        "link": "https://venturebeat.com/technology/claude-codes-source-code-appears-to-have-leaked-heres-what-we-know"
-    },
-    {
-        "category": "Enterprise AI Workflow",
-        "title": "PromptQL Creates AI-Native Workspace for Secure Context",
-        "summary": "PromptQL, a spin-off from the GraphQL unicorn Hasura, is introducing an AI-native workspace designed to transform casual team communications from platforms like Slack or Teams into secure, real-time context for AI agents. This innovation addresses the challenge of AI agents lacking necessary data access and context, which often leads to \"hallucinations.\" PromptQL aims to empower agents by providing a reliable foundation for enterprise AI without repetitive re-explaining.",
-        "link": "https://venturebeat.com/data/imagine-if-your-teams-or-slack-messages-automatically-turned-into-secure"
-    },
-    {
-        "category": "Geopolitics & Internet",
-        "title": "Russia Escalates Internet Restrictions Amidst Evasion Efforts",
-        "summary": "Russia is heavily investing in internet censorship technology to impose tighter online limits, leading to an ongoing \"cat-and-mouse game\" with its citizens. As the Kremlin expands its control over digital information, Russians are actively seeking and developing new methods to circumvent these restrictions and maintain access to unregulated online content, highlighting a significant global shift in internet freedom and state control.",
-        "link": "https://www.nytimes.com/2026/03/31/world/europe/russia-internet-restrictions.html"
-    },
-    {
-        "category": "AI Regulatory Landscape",
-        "title": "States Advance AI Regulation Despite Federal Opposition",
-        "summary": "States, including California and Utah, are moving forward with implementing artificial intelligence regulations, directly defying President Trump's order for them to cease such efforts. This development signifies a growing trend of state-level initiatives to establish guardrails for AI technology, focusing on areas like safety and privacy, even amidst federal attempts to halt these independent regulatory actions.",
-        "link": "https://www.nytimes.com/2026/03/30/technology/trump-states-ai-gavin-newsom-california.html"
-    },
-    {
-        "category": "State AI Regulation",
-        "title": "California Mandates AI Safety and Privacy Guardrails",
-        "summary": "California's Governor Gavin Newsom has issued an executive order establishing safety and privacy guardrails for artificial intelligence companies that contract with the state. This directive aims to regulate AI deployment and usage within state operations, ensuring responsible development and application of the technology. The order signifies a proactive step by California to address potential risks and establish a robust framework for AI governance.",
-        "link": "https://www.nytimes.com/2026/03/30/technology/california-ai-executive-order.html"
-    },
-    {
-        "category": "Crypto Regulation",
-        "title": "SEC Shifts to Crypto-Friendly Policies Under Trump",
-        "summary": "Under the Trump administration, financial regulators at the Securities and Exchange Commission (SEC) have adopted a more accommodating stance towards cryptocurrency. This marks a significant pivot, moving from previous adversarial positions to drafting policies considered \"crypto-friendly.\" The shift signals a new, \"cozier phase\" in the relationship between the SEC and the crypto industry, potentially fostering increased innovation and legitimacy in the digital asset space.",
-        "link": "https://www.nytimes.com/2026/03/30/technology/sec-crypto-friendly-rules.html"
-    },
-    {
-        "category": "Global AI Competition",
-        "title": "China's DeepSeek AI Achieves Performance on Lean Hardware",
-        "summary": "China's DeepSeek AI, an emerging player, claims to have trained high-performing artificial intelligence models effectively, notably without utilizing the most advanced chips. This achievement suggests a significant breakthrough in optimizing AI development with more accessible hardware, potentially reshaping the global competitive landscape for AI innovation and reducing reliance on high-end, often restricted, semiconductor technology.",
-        "link": "https://www.wsj.com/articles/deepseek-ai-china-tech-stocks-explained-ee6cc80e?mod=rss_Technology"
-    },
-    {
-        "category": "AI & Healthcare Investment",
-        "title": "Reid Hoffman Backs AI Cancer Research with $24.6M",
-        "summary": "LinkedIn co-founder Reid Hoffman has raised $24.6 million for his new AI cancer-research startup, Manas AI. Collaborating with Siddhartha Mukherjee, author of \"The Emperor of All Maladies,\" the venture aims to leverage artificial intelligence for drug discovery and advancements in oncology. This substantial investment from a prominent tech figure highlights the increasing focus and capital flowing into AI applications within the critical healthcare sector.",
-        "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology"
-    },
-    {
-        "category": "Big Tech AI Investment",
-        "title": "Meta Allocates $60B-$65B for AI & Data Centers",
-        "summary": "Meta plans a substantial increase in spending, allocating between $60 billion and $65 billion towards artificial intelligence initiatives and the construction of massive data centers. This significant investment underscores the accelerating trend among major tech companies to pour resources into AI development and infrastructure. The move signals Meta's commitment to advancing its AI capabilities and expanding its foundational digital presence.",
-        "link": "https://www.wsj.com/articles/meta-spending-ai-facebook-data-centers-9452a88f?mod=rss_Technology"
-    },
-    {
-        "category": "AI & Future of Work",
-        "title": "Gig Workers Train Humanoid Robots from Home",
-        "summary": "A new gig economy trend sees workers training humanoid robots from their homes, contributing to advancements in AI. For example, Zeus, a medical student in Nigeria, records himself performing tasks with his iPhone strapped to his forehead to generate data for robot learning. This innovative approach to data collection highlights the global reach and evolving nature of AI development and the gig workforce's role in it.",
+        "category": "AI & Labor",
+        "title": "Gig Workers Training Humanoid Robots from Home",
+        "summary": "A new gig economy trend sees individuals, such as a medical student in Nigeria named Zeus, training humanoid robots from their homes. These workers strap iPhones to their foreheads to record themselves performing tasks, which then provides data for training the robots. This development signifies an evolving model for AI and robotics development, leveraging remote human input for complex task learning.",
         "link": "https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/"
     },
     {
-        "category": "AI Development Strategy",
-        "title": "AI Customization Becomes Critical for Domain-Specific Gains",
-        "summary": "The artificial intelligence industry is observing a plateau in monumental performance leaps from general large language models (LLMs), shifting focus towards customization as an architectural imperative. While general LLMs yield incremental gains, domain-specialized intelligence, where models are fused with an organization\u2019s unique data, continues to deliver significant, \"step-function\" improvements. This trend emphasizes the growing importance of tailored AI solutions for specific industry applications.",
-        "link": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/"
+        "category": "AI Investment",
+        "title": "Reid Hoffman Launches AI Cancer Research Startup with $24.6 Million",
+        "summary": "LinkedIn co-founder Reid Hoffman has raised $24.6 million to launch Manas AI, a new startup focused on AI cancer research. He is collaborating with Siddhartha Mukherjee, author of \u201cThe Emperor of All Maladies.\u201d This significant investment signals a growing trend of leveraging AI for medical breakthroughs, particularly in challenging fields like cancer research and drug discovery.",
+        "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology"
     },
     {
-        "category": "AI Evaluation Methodologies",
-        "title": "Call for New AI Benchmarks Beyond Human Comparison",
-        "summary": "Traditional artificial intelligence benchmarks, which primarily evaluate machines against human performance in isolated tasks like chess or coding, are considered \"broken.\" This long-standing framing, while seductive, may no longer accurately reflect or drive AI progress. Experts are advocating for new evaluation methodologies that move beyond simple human-outperformance comparisons to better assess the complex capabilities and limitations of advanced AI models and applications.",
-        "link": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/"
+        "category": "AI Security",
+        "title": "Anthropic's Claude Code Leak Prompts Enterprise Security Warnings",
+        "summary": "Following the accidental exposure of 512,000 lines of unobfuscated TypeScript from Anthropic's @anthropic-ai/claude-code npm package, enterprise security leaders are advised to take immediate action. The leak, caused by a human packaging error, exposed critical internal details including the complete permission model, bash security validators, and unreleased feature flags. Although no customer data or model weights were involved, containment has failed, necessitating urgent security audits for enterprises using AI coding agents.",
+        "link": "https://venturebeat.com/security/claude-code-512000-line-source-leak-attack-paths-audit-security-leaders"
     },
     {
-        "category": "AI & Government Relations",
-        "title": "Pentagon's Anthropic Blacklisting Temporarily Blocked",
-        "summary": "A California judge has temporarily blocked the Pentagon's attempt to label Anthropic as a supply chain risk, effectively preventing government agencies from being ordered to stop using its AI. This legal development represents a setback for the Pentagon's \"culture war tactic\" against the AI firm, highlighting the complexities and legal challenges involved in government oversight and classification of major artificial intelligence providers.",
+        "category": "Enterprise AI Governance",
+        "title": "KiloClaw Addresses 'Shadow AI' Crisis for Enterprises",
+        "summary": "As generative AI becomes a workplace staple, enterprises face a 'shadow AI' crisis where employees deploy autonomous agents on personal infrastructure. Kilo has launched KiloClaw for Organizations and KiloClaw Chat, a suite of tools designed to provide enterprise-grade governance over these personal AI agents. This initiative aims to formalize the unsanctioned use of AI, making it easier and more accessible while maintaining security and control.",
+        "link": "https://venturebeat.com/orchestration/the-end-of-shadow-ai-at-enterprises-kilo-launches-kiloclaw-for-organizations"
+    },
+    {
+        "category": "AI Policy & Regulation",
+        "title": "Pentagon's 'Culture War' Tactic Against Anthropic Backfires",
+        "summary": "A California judge temporarily blocked the Pentagon from labeling Anthropic a supply chain risk, overturning an order for government agencies to cease using its AI. This development is the latest in a month-long dispute, highlighting growing friction between government entities and major AI developers. The ruling indicates that the Pentagon's 'culture war' tactic against the AI company has proven ineffective.",
         "link": "https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/"
+    },
+    {
+        "category": "Cybersecurity Trends",
+        "title": "AI-Driven SOC Tools Introduced as Adversary Breakout Times Shrink",
+        "summary": "At RSA Conference 2026, CrowdStrike, Cisco, and Palo Alto Networks launched agentic Security Operations Center (SOC) tools, reflecting the urgent need for faster threat response. The fastest recorded adversary breakout time has dropped to 27 seconds, with an average of 29 minutes. With over 1,800 distinct AI applications running on enterprise endpoints, generating vast detection data, these new AI-driven tools aim to enhance defense capabilities against rapidly evolving threats.",
+        "link": "https://venturebeat.com/security/rsac-2026-agentic-soc-agent-telemetry-security-gap"
+    },
+    {
+        "category": "Tech Economy",
+        "title": "Q1 Startup Funding Shatters Records, Driven by AI Mega-Deals",
+        "summary": "Startup funding in Q1 2026 shattered all previous records, with AI companies alone hauling in $297 billion. This unprecedented quarterly fundraise was largely fueled by four mega-deals into OpenAI, Anthropic, xAI, and Waymo. The robust investment in these artificial intelligence giants indicates a generally hot market and an accelerating boom across the AI sector, underscoring its pivotal role in current economic growth.",
+        "link": "https://techcrunch.com/2026/04/01/startup-funding-shatters-all-records-in-q1/"
+    },
+    {
+        "category": "Tech Economy",
+        "title": "Elon Musk's SpaceX Files for Public Offering",
+        "summary": "Elon Musk\u2019s rocket and satellite company, SpaceX, has filed to go public. This move sets the stage for what is anticipated to be a generational wealth event and one of the largest initial public offerings (IPOs) ever. The filing signals a major milestone for the aerospace and satellite internet giant, potentially opening up significant investment opportunities.",
+        "link": "https://www.nytimes.com/2026/04/01/technology/spacex-ipo-elon-musk.html"
+    },
+    {
+        "category": "AI Infrastructure",
+        "title": "Meta Plans to Spend Up to $65 Billion on AI and Data Centers",
+        "summary": "Meta plans to significantly increase its investment in artificial intelligence, projecting spending between $60 billion and $65 billion. A substantial portion of this capital is earmarked for massive data centers, including the upcoming Hyperion AI data center which will be powered by 10 new natural gas plants. This surge in spending is the latest indication of tech companies' accelerating investments into AI infrastructure.",
+        "link": "https://www.wsj.com/articles/meta-spending-ai-facebook-data-centers-9452a88f?mod=rss_Technology"
+    },
+    {
+        "category": "Creator Economy",
+        "title": "Beehiiv Expands into Podcasting with No Revenue Cut, Targets Patreon",
+        "summary": "Beehiiv is expanding its platform to include podcasting, directly aiming to compete with rivals like Patreon and Substack. A key strategy for convincing creators to switch is Beehiiv's commitment to not taking a cut of creators' revenue. This move positions Beehiiv as an attractive alternative for podcasters and content creators seeking to maximize their earnings.",
+        "link": "https://techcrunch.com/2026/04/02/beehiiv-expands-into-podcasts-taking-aim-at-patreon-substack-newsletters/"
+    },
+    {
+        "category": "Crypto Security",
+        "title": "Drift DeFi Platform Suspends Operations After Multi-Million Dollar Hack",
+        "summary": "The decentralized finance (DeFi) platform Drift has suspended deposits and withdrawals following a major cryptocurrency hack. Blockchain trackers estimate the theft to be in the hundreds of millions of dollars, making it on track to be the largest crypto theft recorded in 2026 so far. The incident underscores ongoing security vulnerabilities within the DeFi sector.",
+        "link": "https://techcrunch.com/2026/04/01/de-fi-platform-drift-suspends-deposits-and-withdrawals-after-millions-in-crypto-stolen-in-hack/"
+    },
+    {
+        "category": "Cybersecurity",
+        "title": "Axios NPM Package Compromised in Widespread Supply Chain Attack",
+        "summary": "Hackers compromised the axios npm package, the most popular HTTP client library in JavaScript, by stealing a maintainer's access token. They published two poisoned versions installing a cross-platform remote access trojan targeting macOS, Windows, and Linux. Live for three hours, the malicious releases impacted approximately 80% of cloud and code environments, from React front-ends to CI/CD pipelines, with infections detected within 89 seconds of release, affecting at least 135 systems among customers.",
+        "link": "https://venturebeat.com/security/axios-npm-supply-chain-attack-rat-maintainer-token-2026"
+    },
+    {
+        "category": "Autonomous Vehicles",
+        "title": "Baidu Robotaxis Paralyzed by 'System Failure' in China",
+        "summary": "Baidu's robotaxi service in China experienced a 'system failure,' leading to the paralysis of its autonomous vehicles. The incident resulted in passengers being trapped inside the robotaxis for up to two hours. This event highlights significant operational challenges and reliability concerns for major players in the burgeoning autonomous vehicle industry.",
+        "link": "https://techcrunch.com/2026/04/01/system-failure-paralyzes-baidu-robotaxis-in-china/"
+    },
+    {
+        "category": "Global Economy & Energy",
+        "title": "Soaring Gas Prices Drive Demand for Used EVs Amid Iran War",
+        "summary": "Gas prices are soaring, partly due to the ongoing Iran war and the shipping crisis at the Strait of Hormuz. This global economic ripple effect has led to increased demand for used electric vehicles (EVs). Dealerships are reportedly busier as consumers seek alternatives to gas-guzzling vehicles in response to rising fuel costs, indicating a significant shift in consumer behavior.",
+        "link": "https://www.wired.com/story/one-solution-to-the-gas-price-spike-used-evs/"
+    },
+    {
+        "category": "Internet Regulation",
+        "title": "Europe Advocates for Safer, Less Addictive Internet for Children",
+        "summary": "The European Union and its national capitals are actively pushing for a gentler internet environment, specifically targeting social media platforms and algorithms to make them less addictive and safer for children. This initiative represents a significant regulatory effort to protect younger users online, addressing growing concerns about the impact of digital platforms on youth well-being.",
+        "link": "https://www.nytimes.com/2026/04/02/world/europe/european-union-social-media-internet-regulation-children.html"
+    },
+    {
+        "category": "Tech & Government",
+        "title": "Canada Reviews Amazon Contracts Amid Quebec Layoffs",
+        "summary": "Canada has issued a warning to Amazon.com, stating that it is reviewing business ties with Amazon's cloud-computing unit. This action follows Amazon's decision to shut down its warehouses in Quebec, which resulted in the layoff of 1,700 workers. The review signifies potential governmental repercussions for companies that make significant employment decisions affecting local economies.",
+        "link": "https://www.wsj.com/articles/canada-to-review-amazon-contracts-after-quebec-layoffs-d458ea66?mod=rss_Technology"
+    },
+    {
+        "category": "US Policy",
+        "title": "Supreme Court Appears Skeptical of Trump's Birthright Citizenship Ban",
+        "summary": "The Supreme Court heard arguments in Trump v. Barbara, a case challenging President Donald Trump's 2025 executive order to ban birthright citizenship. Justices appeared skeptical of the administration's arguments, though the very act of the court taking up birthright citizenship demonstrates the increasing ground nativist viewpoints have gained since Trump's initial term. The case centers on interpretations of the 14th Amendment.",
+        "link": "https://www.theverge.com/policy/905649/trump-supreme-court-birthright-citizenship-scotus-arguments"
+    },
+    {
+        "category": "Space Exploration",
+        "title": "NASA Launches Artemis II Mission, Sending Astronauts Toward the Moon",
+        "summary": "NASA's Artemis II mission successfully launched, sending four astronauts toward the Moon for the first time in over 50 years. This flight is part of the broader Artemis program, which aims to return humans to the lunar surface as early as 2028. The mission will test hardware and systems as the Orion capsule carries astronauts around the Moon before returning to Earth in 10 days.",
+        "link": "https://www.theverge.com/science/904458/nasa-artemis-ii-mission-moon-astronauts"
+    },
+    {
+        "category": "Health Tech",
+        "title": "New Brain Implant Aims to Restore Movement for Stroke Patients",
+        "summary": "Epia Neuro is developing a new brain-computer interface designed to help stroke patients recover movement in their hands. The implant will include a motorized glove, aiming to rewire patients' brains and facilitate neurorehabilitation. This innovative technology represents a significant step forward in therapeutic solutions for neurological damage.",
+        "link": "https://www.wired.com/story/a-new-implant-aims-to-rewire-the-brain-to-help-stroke-patients/"
+    },
+    {
+        "category": "AI & Workforce",
+        "title": "AI Reshapes White-Collar Work in Silicon Valley",
+        "summary": "Artificial intelligence is profoundly affecting the nature of white-collar work within Silicon Valley itself, demonstrating how the tech industry's own predictions about AI's impact are materializing among its workforce. Tech employees are now experiencing firsthand the shifts in job roles, responsibilities, and operational efficiencies brought about by AI. This trend signals a broader transformation for professional sectors globally.",
+        "link": "https://www.nytimes.com/2026/04/02/technology/ai-silicon-valley-tech-work.html"
+    },
+    {
+        "category": "AI Business Models",
+        "title": "AI Enables Two Brothers to Build $1.8 Billion Company with Minimal Staff",
+        "summary": "Artificial intelligence has enabled two brothers to build a $1.8 billion company with minimal employees. By leveraging AI to automate numerous corporate tasks, the company achieved super efficiency. This case study exemplifies how AI is fundamentally changing business models, allowing lean operations to scale dramatically and create significant value, albeit sometimes leading to a 'lonely' work environment due to reduced human interaction.",
+        "link": "https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html"
     }
 ];
