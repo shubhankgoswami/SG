@@ -1,152 +1,152 @@
 window.NEWS_DATA = [
     {
-        "category": "AI & Tech Economy",
-        "title": "Anthropic Dominates Private Markets as SpaceX IPO Looms",
-        "summary": "The secondary market for private shares is exceptionally active, with Anthropic emerging as the hottest trade. Concurrently, OpenAI is reportedly losing ground in private valuations. Rainmaker Securities President Glen Anderson suggests that SpaceX's anticipated Initial Public Offering (IPO) is poised to significantly reshape the entire landscape for private market participants, indicating a major shift in investment focus and valuation dynamics within leading AI and space technology companies.",
+        "category": "AI Regulation & Policy",
+        "title": "Anthropic Curbs Third-Party AI Agent Usage for Claude Subscribers",
+        "summary": "Anthropic is implementing new policies for Claude Code subscribers, requiring extra payment for usage with OpenClaw and other third-party tools starting April 4, 2026. This change means subscribers to Claude Pro or Max plans can no longer use their existing subscription limits for these integrations. Anthropic cited the strain on its compute and engineering resources and a desire to serve a wide user base reliably as reasons for the policy adjustment. This shift aims to manage demand while ensuring service stability, making it more expensive for users relying on external AI agents with Claude models.",
+        "link": "https://venturebeat.com/technology/anthropic-cuts-off-the-ability-to-use-claude-subscriptions-with-openclaw-and"
+    },
+    {
+        "category": "Tech Market Dynamics",
+        "title": "Anthropic Hot in Private Markets as SpaceX IPO Looms",
+        "summary": "The secondary market for private shares is exceptionally active, with Anthropic currently seen as the most sought-after trade. This surge in interest for Anthropic contrasts with OpenAI, which is reportedly losing ground in private market activity. The landscape for private share trading is anticipated to undergo significant reshaping with the impending initial public offering (IPO) of SpaceX. This major event is poised to influence market dynamics for all participants, potentially shifting focus and investment away from other high-demand private companies like Anthropic.",
         "link": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/"
     },
     {
-        "category": "AI Strategic Growth",
-        "title": "Anthropic Acquires Biotech AI Startup Coefficient Bio for $400M",
-        "summary": "Anthropic has reportedly purchased stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according to reports from The Information and Eric Newcomer. This acquisition signals Anthropic's strategic expansion into the intersection of biotechnology and artificial intelligence. The move could allow Anthropic to integrate Coefficient Bio's specialized AI expertise to enhance its own capabilities in areas related to biological research or applications, leveraging the synergy between AI and life sciences.",
+        "category": "Automotive Tech & Economy",
+        "title": "Tesla's Texas Factory Workforce Shrinks 22% Amid Sales Decline",
+        "summary": "Tesla's factory workforce in Texas reportedly decreased by 22% in 2025, with the headcount falling from 21,191 to 16,506 workers. This significant reduction occurred as the company experienced its second consecutive year of declining sales. The workforce contraction suggests potential challenges for Tesla in maintaining its growth trajectory and operational scale, reflecting broader market pressures or internal adjustments in response to softening demand. This indicates a notable shift in the company's employment strategy and performance.",
+        "link": "https://techcrunch.com/2026/04/03/teslas-texas-factory-workforce-reportedly-shrunk-22-in-2025/"
+    },
+    {
+        "category": "AI Leadership & Strategy",
+        "title": "OpenAI Announces Executive Reorganization and Departures",
+        "summary": "OpenAI has revealed an executive shuffle, including a new role for COO Brad Lightcap, who will now lead 'special projects' within the company. Concurrently, OpenAI's Chief Marketing Officer, Kate Rouch, is departing to focus on her cancer recovery, with the intention to return once her health permits. These leadership changes signal an internal restructuring as OpenAI navigates its strategic initiatives and adapts its executive team for future endeavors, impacting key operational and marketing functions.",
+        "link": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/"
+    },
+    {
+        "category": "AI M&A",
+        "title": "Anthropic Buys Biotech AI Startup Coefficient Bio for $400M",
+        "summary": "Anthropic has reportedly acquired Coefficient Bio, a stealth biotech AI startup, in a deal valued at $400 million, paid entirely in stock. This acquisition, reported by The Information and Eric Newcomer, signifies Anthropic's expansion into the intersection of artificial intelligence and biotechnology. The move could enhance Anthropic's capabilities in areas requiring advanced AI for biological research and development, indicating a strategic diversification beyond general-purpose AI models into specialized, high-growth sectors.",
         "link": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/"
     },
     {
-        "category": "AI Policy & Influence",
-        "title": "Anthropic Establishes New PAC to Advance AI Policy Agenda",
-        "summary": "Anthropic is increasing its political engagement by forming a new Political Action Committee (PAC). With the midterms approaching, this group is positioned to financially support candidates who align with and champion the AI company's specific policy agenda. This move highlights a growing trend of major AI firms actively participating in political discourse and attempting to shape future legislation and regulation that could impact their development and deployment of artificial intelligence.",
-        "link": "https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/"
+        "category": "Global Tech & Social Impact",
+        "title": "Lebanon Adopts Digital Wallets for Aid Amid Displacement Crisis",
+        "summary": "With one million people displaced and a severe erosion of trust in traditional institutions, Lebanon is increasingly relying on digital wallets to distribute aid. These digital solutions are becoming crucial channels, enabling direct connections between diaspora donors and communities in need on the ground. This shift underscores the role of technology in humanitarian efforts, offering a more transparent and direct method for aid delivery in crisis-affected regions where conventional systems are struggling or unreliable, thereby addressing critical societal needs.",
+        "link": "https://www.wired.com/story/with-one-million-displaced-lebanon-turns-to-digital-wallets-for-aid/"
     },
     {
-        "category": "AI Product Strategy",
-        "title": "Anthropic Restricts Claude Subscriptions for Third-Party AI Agents",
-        "summary": "Anthropic has implemented new policy changes, making it significantly more expensive for subscribers to use third-party AI agents, such as OpenClaw, with their Claude AI subscriptions. Starting April 4th, users will no longer be able to utilize their Claude subscription limits for these external harnesses. Anthropic cited the strain such usage placed on its compute and engineering resources and its desire to reliably serve a wide number of users as reasons for the policy adjustment.",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban"
+        "category": "National Security & Cybersecurity",
+        "title": "Syrian Government Accounts Hacked, Exposing Security Failures",
+        "summary": "A hack in March that hijacked Syrian government accounts initially appeared chaotic but ultimately exposed significant systemic security failures within the state. This incident revealed that the Syrian government is struggling with even the most fundamental layers of cybersecurity, indicating a profound weakness in its digital defenses. The breach highlights a critical national security vulnerability, demonstrating a state's inability to protect sensitive information and systems from cyber threats, which can have far-reaching implications for governance and stability.",
+        "link": "https://www.wired.com/story/inside-the-hack-that-exposed-syrias-security-failures/"
     },
     {
-        "category": "AI Leadership Changes",
-        "title": "OpenAI Announces Executive Shuffle Amid AGI Head's Medical Leave",
-        "summary": "OpenAI is undergoing significant leadership restructuring. COO Brad Lightcap is transitioning to a new role to lead 'special projects.' Concurrently, Fidji Simo, the company's CEO of AGI deployment, is taking a medical leave of absence for 'several weeks.' Additionally, CMO Kate Rouch will be stepping away from the company to focus on cancer recovery, with plans to return when her health permits. These changes mark a notable executive shuffle within the prominent AI developer.",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence"
-    },
-    {
-        "category": "AI Infrastructure & Environment",
-        "title": "Big Tech Bets on Natural Gas Plants for AI Data Centers",
-        "summary": "Meta, Microsoft, and Google are making substantial investments in new natural gas power plants to meet the immense energy demands of their rapidly expanding AI data centers. This strategic move to secure power for AI infrastructure raises significant environmental questions and concerns about potential long-term repercussions. The reliance on fossil fuels for AI's energy-intensive operations highlights a complex challenge at the intersection of technological advancement and sustainable practices.",
-        "link": "https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/"
-    },
-    {
-        "category": "AI Societal Impact",
-        "title": "Public Prefers Amazon Warehouses Over Data Centers",
-        "summary": "A new poll reveals that local communities would rather have an Amazon warehouse in their backyard than a data center. This sentiment underscores a contentious and unresolved public debate surrounding the local impact of data centers. The findings suggest growing community concerns regarding factors such as noise, environmental footprint, or aesthetic appeal associated with large-scale data infrastructure, posing challenges for tech companies seeking to expand their physical footprint.",
-        "link": "https://techcrunch.com/2026/04/03/people-would-rather-have-an-amazon-warehouse-in-their-backyard-than-a-data-center/"
-    },
-    {
-        "category": "AI Security Incident",
-        "title": "Claude Code Leak Leads to Malware-Laced Repositories",
-        "summary": "Following the accidental exposure of Anthropic's Claude Code source map file on March 31, which revealed 512,000 lines of unobfuscated TypeScript, hackers are now reportedly posting the leaked code with additional malware. The breach, attributed to a packaging error, exposed critical internal details including permission models and unreleased feature flags. Security leaders are advised to audit AI coding agents and take immediate action, as containment of the widespread mirror repositories has failed.",
+        "category": "AI Cybersecurity Threats",
+        "title": "Hackers Distribute Claude Code Leak with Embedded Malware",
+        "summary": "Hackers are reportedly circulating the leaked Claude Code, but with the added threat of bonus malware. This development highlights a significant cybersecurity risk, as malicious actors are exploiting the code leak to distribute harmful software. The FBI has also stated that a recent hack of its wiretap tools poses a national security risk, and Cisco's source code was stolen in an ongoing supply chain hacking campaign. These incidents collectively emphasize the escalating and multifaceted nature of cyber threats.",
         "link": "https://www.wired.com/story/security-news-this-week-hackers-are-posting-the-claude-code-leak-with-bonus-malware/"
     },
     {
-        "category": "AI Supply Chain Security",
-        "title": "Meta Pauses Mercor Work After AI Industry Data Breach",
-        "summary": "Meta has temporarily halted its collaboration with Mercor, a prominent data vendor, following a security incident that potentially compromised sensitive AI industry secrets. Major AI laboratories are currently investigating the breach, which could have exposed crucial data related to how these companies train their artificial intelligence models. This pause highlights significant concerns about supply chain vulnerabilities within the AI ecosystem and the risk of exposure of proprietary model development methodologies.",
-        "link": "https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/"
+        "category": "Cybersecurity Standards",
+        "title": "OCSF Emerges as Standard for Security Data Language",
+        "summary": "The Open Cybersecurity Schema Framework (OCSF) is gaining traction as a shared language for security data, addressing a long-standing need in the industry. It provides a common method for vendors, enterprises, and practitioners to represent security events, findings, objects, and context. This standardization reduces the effort required for rewriting field names and custom parsers, allowing security teams to dedicate more time to correlating detections, running analytics, and developing workflows that function across diverse products. OCSF aims to streamline security operations in a fragmented market.",
+        "link": "https://venturebeat.com/security/ocsf-explained-the-shared-data-language-security-teams-have-been-missing"
     },
     {
-        "category": "AI Development Innovation",
-        "title": "Karpathy Unveils LLM Knowledge Base to Bypass RAG Limitations",
-        "summary": "Andrej Karpathy, former Director of AI at Tesla and OpenAI co-founder, has shared an innovative 'LLM Knowledge Base' architecture designed to bypass traditional Retrieval-Augmented Generation (RAG) methods. This approach utilizes a persistent, AI-maintained markdown library to manage research topics, effectively solving the core issue of 'stateless' AI development and context-limit resets. By preserving architectural nuances and project context, Karpathy's method aims to significantly improve efficiency and reduce token expenditure in AI development sessions.",
-        "link": "https://venturebeat.com/data/karpathy-shares-llm-knowledge-base-architecture-that-bypasses-rag-with-an/"
+        "category": "AI Architecture & Development",
+        "title": "Karpathy Develops LLM Knowledge Base to Bypass RAG Limitations",
+        "summary": "Andrej Karpathy has introduced an \"LLM Knowledge Base\" architecture designed to manage research topics, effectively bypassing traditional Retrieval Augmented Generation (RAG) methods. This approach involves building a persistent, AI-maintained markdown library that evolves over time, solving the issue of \"stateless\" AI development and the dreaded context-limit reset. For AI developers, this means avoiding the need to reconstruct context for the AI after hitting usage limits or ending sessions, thereby preserving architectural nuances and reducing token expenditure and time spent re-establishing context.",
+        "link": "https://venturebeat.com/data/karpathy-shares-llm-knowledge-base-architecture-that-bypasses-rag-with-an"
     },
     {
-        "category": "Enterprise AI Adoption",
-        "title": "Nvidia Launches Enterprise AI Agent Platform with 17 Adopters",
-        "summary": "Nvidia CEO Jensen Huang unveiled the Agent Toolkit, an open-source platform specifically designed for building autonomous AI agents, during his GTC keynote. The launch was accompanied by the announcement that 17 major companies, including industry giants like Adobe, Salesforce, and SAP, are already adopting the platform. This move signifies Nvidia's push to become a central enabler for enterprise-grade AI agent development, extending its dominance beyond just hardware to comprehensive AI software ecosystems.",
-        "link": "https://venturebeat.com/technology/nvidia-launches-enterprise-ai-agent-platform-with-adobe-salesforce-sap-among/"
+        "category": "Enterprise AI Platforms",
+        "title": "Nvidia Launches Enterprise AI Agent Toolkit at GTC 2026",
+        "summary": "At GTC 2026, Nvidia CEO Jensen Huang unveiled the Agent Toolkit, an open-source platform designed for building autonomous AI agents. This new platform marks Nvidia's ambition for industry dominance in enterprise AI. Notably, 17 major companies have already adopted it, including Adobe, Salesforce, SAP, ServiceNow, Siemens, CrowdStrike, Atlassian, Cadence, Synopsys, and IQVIA. The toolkit's widespread adoption by such diverse industry leaders signals a significant step in the proliferation and practical application of AI agents across various enterprise functions and sectors.",
+        "link": "https://venturebeat.com/technology/nvidia-launches-enterprise-ai-agent-platform-with-adobe-salesforce-sap-among"
     },
     {
-        "category": "AI Model Competition",
-        "title": "Microsoft Unveils Three New In-House AI Models",
-        "summary": "Microsoft has launched three new foundational AI models developed entirely in-house: MAI-Transcribe-1 for speech transcription, MAI-Voice-1 for voice generation, and the upgraded MAI-Image-2 for image creation. These models are now available through Microsoft Foundry. This move marks Microsoft's most direct declaration yet of its intent to compete head-on with leading AI developers like OpenAI and Google in foundational model development, rather than solely focusing on distribution, showcasing its significant investment in proprietary AI innovation.",
-        "link": "https://venturebeat.com/technology/microsoft-launches-3-new-ai-models-in-direct-shot-at-openai-and-google/"
+        "category": "AI Model Development",
+        "title": "Microsoft Introduces Three In-House Foundational AI Models",
+        "summary": "Microsoft has launched three new foundational AI models developed entirely in-house, directly challenging OpenAI and Google in model development. These models include MAI-Transcribe-1 for speech transcription, MAI-Voice-1 for voice generation, and an upgraded image creator, MAI-Image-2. Available immediately through Foundry, this move is the most concrete evidence of Microsoft's intent to compete beyond just AI distribution, establishing itself as a significant player in frontier model development. It marks a strategic shift to bolster its proprietary AI capabilities against leading competitors.",
+        "link": "https://venturebeat.com/technology/microsoft-launches-3-new-ai-models-in-direct-shot-at-openai-and-google"
     },
     {
         "category": "Open-Source AI",
-        "title": "Arcee Releases Trinity-Large-Thinking Under Apache 2.0 License",
-        "summary": "San Francisco-based lab Arcee has released AI Trinity-Large-Thinking, a powerful 399-billion parameter text-only reasoning model under the highly permissive Apache 2.0 license. This makes it a rare U.S.-made, openly available AI model that enterprises can download and fully customize for commercial usage. The release signals a significant contribution to the open-source AI ecosystem, providing developers and companies with a robust, flexible, and unencumbered foundation for specialized AI applications, contrasting a recent trend of Chinese labs pivoting back to proprietary models.",
-        "link": "https://venturebeat.com/technology/arcees-new-open-source-trinity-large-thinking-is-the-rare-powerful-u-s-made/"
+        "title": "Arcee Releases Powerful U.S.-Made Open-Source AI Model",
+        "summary": "San Francisco-based lab Arcee has released AI Trinity-Large-Thinking, a 399-billion parameter text-only reasoning model under the permissive Apache 2.0 license. This license allows for full customizability and commercial usage, from indie developers to large enterprises, setting it apart in the evolving landscape of open-source AI. This release provides a powerful, U.S.-originated open-weight model, addressing a gap as some Chinese labs pivot back to proprietary models. It represents a significant contribution to the open-source AI community and enterprise adoption.",
+        "link": "https://venturebeat.com/technology/arcees-new-open-source-trinity-large-thinking-is-the-rare-powerful-u-s-made"
     },
     {
         "category": "Open-Source AI Licensing",
-        "title": "Google Releases Gemma 4 with Permissive Apache 2.0 License",
-        "summary": "Google DeepMind has released its newest open model family, Gemma 4, under the standard Apache 2.0 license. This change eliminates the usage restrictions and terms that could previously be updated at will, which characterized earlier Gemma versions. The adoption of Apache 2.0, consistent with other open-weight models from Mistral and Qwen, removes legal friction and compliance concerns for enterprises, enabling broader commercial deployment and redistribution without custom clauses or 'Harmful Use' carve-outs.",
-        "link": "https://venturebeat.com/technology/google-releases-gemma-4-under-apache-2-0-and-that-license-change-may-matter/"
+        "title": "Google Releases Gemma 4 Under Permissive Apache 2.0 License",
+        "summary": "Google DeepMind has launched Gemma 4, its newest open model family, under a standard Apache 2.0 license, a significant change from previous versions. This move eliminates the friction enterprises faced with Gemma's custom license, which included usage restrictions and mutable terms. The Apache 2.0 license, shared by models like Qwen and Mistral, removes custom clauses, \"Harmful Use\" carve-outs, and restrictions on redistribution or commercial deployment. This shift is expected to significantly ease legal review and compliance for enterprise teams evaluating open-weight models.",
+        "link": "https://venturebeat.com/technology/google-releases-gemma-4-under-apache-2-0-and-that-license-change-may-matter"
     },
     {
-        "category": "Tech Industry Influence",
-        "title": "Musk Mandates Grok Subscription for SpaceX IPO Advisers",
-        "summary": "Elon Musk is reportedly requiring Wall Street firms to purchase subscriptions to his artificial intelligence chatbot, Grok, if they wish to serve as advisers for the highly anticipated SpaceX Initial Public Offering (IPO). This demand effectively leverages a major financial event to boost adoption of his AI product, highlighting Musk's unconventional tactics and considerable influence over both the tech and finance industries, creating a unique prerequisite for participating in one of history's largest IPOs.",
+        "category": "Tech IPOs & Executive Influence",
+        "title": "SpaceX IPO: Musk Demands Grok Subscriptions from Advising Banks",
+        "summary": "Elon Musk is reportedly requiring Wall Street firms to purchase subscriptions to his A.I. chatbot, Grok, if they wish to advise on the upcoming SpaceX initial public offering (IPO). This condition for participation in one of history's largest IPOs highlights Musk's unique approach to leveraging his other ventures. The demand intertwines financial advisory roles with support for his AI projects, potentially influencing which major banks can participate and underscoring the unconventional dynamics surrounding a high-profile technology IPO.",
         "link": "https://www.nytimes.com/2026/04/03/business/spacex-ipo-grok-elon-musk.html"
     },
     {
-        "category": "AI Impact on Work & Business",
-        "title": "AI Reshapes Silicon Valley Work; Fuels Billion-Dollar Lean Startups",
-        "summary": "Artificial intelligence is profoundly changing the nature of white-collar work within Silicon Valley, providing a tangible glimpse into the future of labor predicted by the tech industry. This transformation is not only affecting existing roles but also enabling unprecedented efficiencies, exemplified by a $1.8 billion company successfully built by just two employees leveraging AI for numerous corporate tasks. This signifies a shift towards highly automated and leaner business models, potentially leading to increased productivity but also raising questions about job displacement and the future workforce.",
-        "link": "https://www.nytimes.com/2026/04/02/technology/ai-silicon-valley-tech-work.html"
+        "category": "AI Public Relations & Strategy",
+        "title": "OpenAI Acquires 'TBPN' Streaming Show to Reshape AI Narrative",
+        "summary": "OpenAI has acquired the streaming show \"TBPN,\" stating the deal's objective is to \"create a space for a real, constructive conversation about the changes A.I. creates.\" This acquisition marks a strategic move by OpenAI to directly influence the public discourse surrounding artificial intelligence. By gaining control over a media platform, OpenAI aims to shape the narrative around AI's impact, fostering more nuanced discussions and potentially addressing concerns or misinformation about its technology and its broader societal implications.",
+        "link": "https://www.nytimes.com/2026/04/02/technology/openai-buys-tbpn.html"
+    },
+    {
+        "category": "Tech Regulation & Child Safety",
+        "title": "Europe Advances \"Gentler Internet\" Regulations for Children",
+        "summary": "The European Union and its member states are actively pursuing initiatives to create a \"gentler internet\" for children, focusing on making social media and algorithms less addictive and safer. This push for stricter regulation aims to mitigate the harmful impacts of digital platforms on younger users. The efforts from national capitals and the EU indicate a concerted legislative approach to protect children online, potentially leading to significant changes in how social media platforms design their services and algorithms for European users.",
+        "link": "https://www.nytimes.com/2026/04/02/world/europe/european-union-social-media-internet-regulation-children.html"
     },
     {
         "category": "Global AI Competition",
-        "title": "China's DeepSeek AI Impresses Silicon Valley with Cost-Efficient Models",
-        "summary": "DeepSeek AI, a Chinese upstart, is garnering significant attention in Silicon Valley for its ability to train high-performing artificial intelligence models cost-effectively, even without using the most advanced chips. Described as 'amazing and impressive,' DeepSeek's achievements challenge conventional wisdom about the necessary infrastructure for cutting-edge AI development. This innovation underscores China's growing prowess in the global AI landscape and its potential to democratize access to powerful AI models through alternative hardware and training strategies.",
+        "title": "China's DeepSeek AI Impresses Silicon Valley Despite Chip Constraints",
+        "summary": "DeepSeek AI, a Chinese upstart, is drawing significant attention in Silicon Valley for developing high-performing AI models cost-effectively, even without using the most advanced chips. Described as \"amazing and impressive,\" DeepSeek's achievement suggests that cutting-edge AI development is not solely reliant on access to top-tier hardware. This capability positions China as a formidable competitor in the global AI landscape, potentially altering assumptions about resource requirements for training powerful AI models and fostering new strategies for AI innovation amidst geopolitical tech competition.",
         "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology"
     },
     {
-        "category": "AI for Social Impact",
-        "title": "Reid Hoffman Raises $24.6M for AI Cancer Research Startup Manas AI",
-        "summary": "LinkedIn co-founder Reid Hoffman has successfully raised $24.6 million for his new startup, Manas AI, which is dedicated to cancer research utilizing artificial intelligence. Hoffman is collaborating with Siddhartha Mukherjee, the acclaimed author of 'The Emperor of All Maladies,' on this venture. This significant investment highlights the growing application of AI in critical healthcare sectors, particularly in drug discovery and disease research, aiming to accelerate breakthroughs in challenging medical fields like oncology.",
+        "category": "AI Healthcare Investment",
+        "title": "Reid Hoffman Raises $24.6M for AI Cancer-Research Startup Manas AI",
+        "summary": "LinkedIn co-founder Reid Hoffman has successfully raised $24.6 million for his new AI cancer-research startup, Manas AI. He co-founded the venture with Siddhartha Mukherjee, author of \"The Emperor of All Maladies.\" This significant investment highlights the growing confidence in applying artificial intelligence to complex medical challenges like cancer research. The involvement of such prominent figures signals a serious commitment to leveraging AI for drug discovery and healthcare advancements, potentially accelerating breakthroughs in combating the disease through innovative technological approaches.",
         "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology"
     },
     {
-        "category": "AI Investment & Infrastructure",
-        "title": "Meta to Inject $60-65 Billion into AI and Data Centers",
-        "summary": "Meta plans to significantly ramp up its spending, allocating between $60 billion and $65 billion towards artificial intelligence and the expansion of its massive data center infrastructure. This substantial investment is the latest indication of the accelerating capital expenditure by tech companies into AI development and supporting hardware. Meta's commitment underscores the industry-wide race to build and scale AI capabilities, requiring immense computational power and physical infrastructure to maintain competitive edge.",
+        "category": "Tech Giant AI Investment",
+        "title": "Meta Boosts AI Spending to $60-65 Billion for Data Centers",
+        "summary": "Meta plans to increase its spending significantly, projecting between $60 billion and $65 billion, primarily on artificial intelligence initiatives and massive data center infrastructure. This substantial investment is the latest indication of the accelerating capital expenditure by tech companies into AI development and deployment. For Meta, this commitment underscores its strategic pivot towards AI as a core driver for future growth, necessitating vast computational resources and physical infrastructure to support its ambitious AI projects across its social media platforms and metaverse ambitions.",
         "link": "https://www.wsj.com/articles/meta-spending-ai-facebook-data-centers-9452a88f?mod=rss_Technology"
     },
     {
-        "category": "Future of Work & AI Training",
-        "title": "Gig Workers Training Humanoid Robots from Home",
-        "summary": "A new facet of the gig economy is emerging where individuals are employed to train humanoid robots from their homes. For instance, a medical student in Nigeria, Zeus, records his movements with an iPhone strapped to his forehead, acting as a human data source for these robots. This method of data collection highlights the innovative, and sometimes unconventional, approaches being used to teach complex human-like behaviors to advanced AI systems, representing a novel intersection of AI and remote work.",
+        "category": "Tech Policy & Labor Relations",
+        "title": "Canada Reviews Amazon Contracts Following Quebec Layoffs",
+        "summary": "Canada has issued a warning to Amazon.com, stating it will review its business ties with Amazon's cloud-computing unit. This action follows Amazon's decision to close its warehouses in Quebec, resulting in the layoff of 1,700 workers. The government's intervention signals potential regulatory scrutiny and economic repercussions for Amazon in Canada, linking corporate labor decisions to broader government contracts. This development highlights increasing governmental oversight of large tech companies' operational impacts and employment practices.",
+        "link": "https://www.wsj.com/articles/canada-to-review-amazon-contracts-after-quebec-layoffs-d458ea66?mod=rss_Technology"
+    },
+    {
+        "category": "Future Tech & Space Infrastructure",
+        "title": "SpaceX Files to Launch One Million Data Centers into Orbit",
+        "summary": "SpaceX has filed an application with the US Federal Communications Commission to deploy up to one million data centers into Earth\u2019s orbit. This ambitious proposal outlines a futuristic vision for space infrastructure, potentially revolutionizing data storage and processing capabilities. The initiative suggests a long-term strategy for distributed computing beyond terrestrial constraints, though the MIT Technology Review notes that four key requirements would need to be addressed for such a concept to become viable. This filing marks a significant step in exploring orbital data solutions.",
+        "link": "https://www.technologyreview.com/2026/04/03/1135073/four-things-wed-need-to-put-data-centers-in-space/"
+    },
+    {
+        "category": "AI & Future of Work",
+        "title": "Gig Workers Remotely Train Humanoid Robots for AI Data",
+        "summary": "Gig workers are being employed to train humanoid robots from their homes, contributing to AI data. An example includes a medical student in Nigeria who straps an iPhone to his forehead to record himself performing movements, effectively acting as a data source for robot training. This innovative approach to data collection highlights the global reach of the gig economy and the evolving methods for preparing AI systems for real-world interactions. It underscores how human actions are meticulously captured to teach robots complex tasks and behaviors.",
         "link": "https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/"
     },
     {
-        "category": "AI Development Strategy",
+        "category": "AI Strategy & Development",
         "title": "AI Model Customization Becomes Architectural Imperative",
-        "summary": "The early era of massive 10x jumps in large language model (LLM) reasoning and coding capabilities has given way to incremental gains. Consequently, shifting to AI model customization is now considered an architectural imperative. True step-function improvements are increasingly observed in domain-specialized intelligence, where models are fused with an organization's specific data. This indicates a strategic pivot in AI development, emphasizing tailored solutions over generic, large-scale model advancements to achieve significant performance enhancements.",
+        "summary": "While general large language models (LLMs) now show incremental performance gains, domain-specialized intelligence continues to deliver significant step-function improvements. This shift emphasizes that fusing a model with an organization\u2019s unique data and processes is becoming an architectural imperative. Customization, rather than relying solely on generalized models, is crucial for achieving true advancements and maximizing AI's value. This indicates a strategic evolution in AI development, moving towards tailored solutions that are deeply integrated with specific business contexts for enhanced performance.",
         "link": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/"
     },
     {
-        "category": "AI in Healthcare",
-        "title": "Proliferation of AI Health Tools Raises Efficacy Questions",
-        "summary": "The last few months have seen a surge in AI health tools, with major players like Microsoft and Amazon launching medical chatbots and LLM-based health features. Microsoft introduced Copilot Health for medical record queries, while Amazon made Health AI more broadly available. Despite clear demand, the proliferation of these tools raises critical questions about their actual effectiveness and reliability in providing accurate and trustworthy health information or assistance to users.",
-        "link": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/"
-    },
-    {
-        "category": "AI & Government Policy",
-        "title": "Pentagon's 'Culture War' Tactic Against Anthropic Backfires",
-        "summary": "A California judge has issued a temporary block against the Pentagon's attempt to label Anthropic as a supply chain risk, overturning an order that aimed to stop government agencies from using its AI. This development marks a setback for the Pentagon's month-long 'culture war' tactic against the AI company. The ruling suggests a potential overreach or miscalculation by the government in its efforts to regulate or influence the use of advanced AI technologies by federal entities.",
-        "link": "https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/"
-    },
-    {
-        "category": "Global Economic Shifts",
-        "title": "War in Iran Drives Soaring Fuel and Potential Plastic Prices",
-        "summary": "The ongoing war in Iran, which has led to the closure of the Strait of Hormuz, is causing significant global economic ripple effects, most notably soaring fossil-fuel prices. Gasoline prices have already topped an average of $4 a gallon. Looking ahead, further consequences are anticipated, with plastic prices potentially being the next to experience a surge due to their reliance on petroleum as a raw material, indicating broad and severe impacts across various industries.",
-        "link": "https://www.technologyreview.com/2026/04/02/1135045/plastic-economic-effects/"
-    },
-    {
-        "category": "Automotive & Labor",
-        "title": "Tesla's Texas Factory Workforce Shrinks 22% in 2025",
-        "summary": "Tesla's workforce at its Texas factory reportedly experienced a significant 22% reduction in 2025, with the headcount falling from 21,191 to 16,506 workers. This substantial decrease in employment comes as the automotive giant grappled with its second consecutive year of declining sales. The workforce reduction highlights operational adjustments and challenges faced by Tesla amid changing market conditions and its recent sales performance.",
-        "link": "https://techcrunch.com/2026/04/03/teslas-texas-factory-workforce-reportedly-shrunk-22-in-2025/"
+        "category": "AI Evaluation & Ethics",
+        "title": "Experts Argue Current AI Benchmarks Are Inadequate",
+        "summary": "For decades, AI evaluation has focused on whether machines surpass human performance in specific tasks, from chess to coding. However, this framing, which compares AI against individual humans on isolated problems, is increasingly seen as inadequate. Experts argue that current AI benchmarks are \"broken\" and fail to capture the nuances of real-world AI capabilities and limitations. This critique suggests a need for new methodologies to assess AI, moving beyond simple human-versus-machine comparisons to better understand and measure its true efficacy and potential societal impact.",
+        "link": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/"
     }
 ];
