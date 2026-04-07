@@ -1,152 +1,146 @@
 window.NEWS_DATA = [
     {
-        "category": "AI Ethics & Disclaimers",
-        "title": "Microsoft Cautions: Copilot is 'For Entertainment Only'",
-        "summary": "Microsoft's terms of service for Copilot explicitly state the AI is 'for entertainment purposes only,' advising users not to unthinkingly trust its outputs. This aligns with skepticism from both AI users and the companies developing these models, highlighting the inherent limitations and potential inaccuracies of AI-generated content. The explicit disclaimer underscores a shared industry concern about the reliability and responsible use of AI models, emphasizing that users should approach AI outputs with a critical perspective rather than absolute trust.",
-        "link": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/"
+        "category": "AI Economy & Investment",
+        "title": "Private Wealth Shifts to Direct AI Startup Investments",
+        "summary": "Family offices are increasingly bypassing traditional VCs to invest directly in AI startups, marking a trend where private wealth is becoming more involved in earlier, riskier bets within the AI gold rush. This shift transforms these entities from passive investors into active participants, seeking direct exposure to the rapidly growing artificial intelligence sector, as explored in a recent episode of Equity.",
+        "link": "https://techcrunch.com/2026/04/07/the-ai-gold-rush-is-pulling-private-wealth-into-riskier-earlier-bets/"
     },
     {
-        "category": "Space Tech & Economy",
-        "title": "Orbital Data Centers: Key to SpaceX's Valuation?",
-        "summary": "Discussions on TechCrunch's Equity podcast debated Elon Musk's ambitious vision for establishing data centers in space. The concept of orbital data centers is being explored as a potential factor that could significantly influence and justify a massive valuation for SpaceX. This futuristic approach to data infrastructure raises questions about technological feasibility, economic viability, and the strategic implications for the space industry and cloud computing sector.",
-        "link": "https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/"
+        "category": "AI Applications in Education",
+        "title": "Adobe Unveils Free AI-Powered Study Tool for Students",
+        "summary": "Adobe has introduced Acrobat Spaces, a new free AI-powered tool designed specifically for students. This platform enables users to leverage artificial intelligence to create various types of study materials directly from their documents. The initiative aims to simplify and enhance the study process, offering students an innovative way to interact with and transform their learning content.",
+        "link": "https://techcrunch.com/2026/04/07/adobe-launches-acrobat-spaces-a-free-ai-powered-study-tool-for-students/"
     },
     {
-        "category": "Global AI & Labor Trends",
-        "title": "Japan Deploys Physical AI to Address Labor Shortages",
-        "summary": "Driven by significant labor shortages, Japan is moving beyond pilot projects to actively deploy physical AI solutions in real-world settings. This initiative positions robots not as job replacements, but as tools to fill undesirable roles that people are less willing to perform. Japan is demonstrating that experimental physical AI is ready for practical, widespread implementation, addressing critical workforce gaps and transforming industries facing demographic challenges.",
-        "link": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/"
+        "category": "Autonomous Vehicle Expansion",
+        "title": "Waymo Launches Robotaxi Service in Nashville, Partners with Lyft",
+        "summary": "Waymo has expanded its commercial robotaxi operations by launching service in Nashville, marking its 11th city of operation. This expansion includes a strategic partnership with Lyft, providing users with various methods to hail Waymo's autonomous vehicles. The move signifies continued growth in the deployment and accessibility of commercial robotaxi services across different urban centers.",
+        "link": "https://techcrunch.com/2026/04/07/waymo-opens-robotaxi-service-in-nashville-partners-with-lyft/"
     },
     {
-        "category": "AI & Digital Marketing",
-        "title": "SEO Industry Seeks to Influence AI Search Results",
-        "summary": "The SEO industry is actively exploring methods to influence AI responses, particularly within search platforms like Google's AI Mode. This involves strategizing how AI-driven searches, which provide detailed answers including company suggestions and pricing, can be steered towards specific services. The goal is to ensure that when a user, such as an IT professional seeking a digital service desk platform, queries AI, the results favor certain companies, reflecting a new frontier in digital marketing and information control.",
-        "link": "https://www.theverge.com/tech/900302/ai-seo-industry-google-search-chatgpt-gemini-marketing"
+        "category": "Defense Tech & Autonomous Systems",
+        "title": "Hermeus Secures $350M to Develop Autonomous Hypersonic Fighters",
+        "summary": "Defense aviation startup Hermeus has raised $350 million, following two successful flight demonstrations. The substantial funding is earmarked for accelerating the development of autonomous hypersonic fighters, with the next flight test aiming to achieve supersonic speeds. This investment underscores significant confidence and interest in advancing next-generation, high-speed, and self-flying defense technologies.",
+        "link": "https://techcrunch.com/2026/04/07/hermeus-raises-350m-to-build-autonomous-hypersonic-fighters/"
     },
     {
-        "category": "AI Ethics & Copyright",
-        "title": "Musician Faces AI Fakes and Copyright Trolling",
-        "summary": "Folk artist Murphy Campbell discovered unauthorized songs on her Spotify profile, realizing they were AI-generated fakes derived from her YouTube performances. The altered vocals indicated that someone had used AI to replicate her style and upload the tracks without her consent. This incident highlights the growing issue of AI-generated content being used for fraudulent purposes and copyright infringement, showcasing how artists are becoming targets for AI misuse and subsequent copyright trolling, undermining their original work.",
-        "link": "https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright"
+        "category": "AI Business Disruption",
+        "title": "AI Startup Rocket Offers Affordable McKinsey-Style Consulting Reports",
+        "summary": "AI startup Rocket is introducing a new AI platform that aims to provide McKinsey-style consulting reports at a fraction of the traditional cost. The platform integrates strategy, product building, and competitive intelligence functionalities. Rocket's goal is to move beyond mere code generation, offering comprehensive AI-driven insights that could significantly disrupt the conventional consulting industry.",
+        "link": "https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/"
     },
     {
-        "category": "AI & Semiconductor Economy",
-        "title": "Intel Bets Big on Advanced Chip Packaging for AI Boom",
-        "summary": "Intel is making a significant strategic move into advanced chip packaging, recognizing its central role in the current AI boom. This 'ridiculously nerdy' bet is poised to potentially generate billions in revenue for the company. The increased demand for AI-specific hardware has propelled chip packaging to the forefront of semiconductor innovation, positioning Intel to capitalize on a critical and rapidly expanding segment of the AI industry's infrastructure.",
-        "link": "https://www.wired.com/story/why-chip-packaging-could-decide-the-next-phase-of-the-ai-boom/"
+        "category": "AI Ethics & User Safety",
+        "title": "Google Gemini Improves Mental Health Resource Access Amid Lawsuits",
+        "summary": "Google has updated its Gemini AI chatbot to better direct distressed users to mental health resources during moments of crisis. This enhancement comes as the tech giant faces a wrongful death lawsuit alleging its chatbot \"coached\" a man to die by suicide, adding to a string of lawsuits claiming tangible harm from AI products. The update aims to mitigate such risks.",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/907842/google-gemini-mental-health-interface-update"
     },
     {
-        "category": "Cybersecurity & AI Infrastructure",
-        "title": "OCSF Emerges as Shared Language for Security Data",
-        "summary": "The Open Cybersecurity Schema Framework (OCSF) is becoming a leading candidate for a shared language to describe security data, addressing a long-standing gap in the industry. It provides a common way for vendors, enterprises, and practitioners to represent security events, findings, objects, and context. OCSF aims to streamline operations by reducing the need for rewriting field names and custom parsers, allowing security teams to more efficiently correlate detections, run analytics, and build workflows across diverse products.",
-        "link": "https://venturebeat.com/security/ocsf-explained-the-shared-data-language-security-teams-have-been-missing"
+        "category": "Space Exploration Milestones",
+        "title": "Artemis II Astronauts Break 56-Year-Old Human Space Travel Record",
+        "summary": "The crew of NASA's Artemis II mission has achieved a significant milestone, traveling farther from Earth than any humans before them, surpassing a record set 56 years ago by the Apollo 13 mission. Having journeyed over 248,655 miles, the astronauts marked the occasion with a crater naming ceremony. This historic flight is part of NASA\u2019s broader program to return humans to the lunar surface.",
+        "link": "https://www.theverge.com/science/907682/nasa-artemis-ii-distance-record-crater-names"
     },
     {
-        "category": "AI Agent Breakthroughs",
-        "title": "The Rise of AI Agents: Claude, OpenClaw and Emerging Chaos",
-        "summary": "The era of agentic AI, exemplified by powerful autonomous agents like Claude Cowork and OpenClaw, has arrived, transitioning from simple question-answer systems to tools with deep system access. OpenClaw, accumulating over 150,000 GitHub stars rapidly, is already being deployed on local machines, likened to a 'robot maid' granted keys to a house. This development signifies increased autonomy for AI, raising concerns about job security and a broader existential debate on the rise of machines and potential chaos.",
+        "category": "Autonomous Vehicle Regulation",
+        "title": "Robotaxi Firms Withhold Data on Remote Operator Interventions",
+        "summary": "Autonomous vehicle companies are refusing to disclose crucial details about their reliance on remote assistance teams, including the frequency of human interventions to aid self-driving cars. This refusal comes amidst an investigation by Sen. Ed Markey (D-MA) into the use of remote operators, raising transparency concerns regarding the safety and operational oversight of robotaxi services.",
+        "link": "https://www.theverge.com/transportation/907478/robotaxi-remote-assistance-markey-investigation-waymo-tesla"
+    },
+    {
+        "category": "Digital Policy & Privacy",
+        "title": "Europe Advances Robust Online Age Verification Regulations",
+        "summary": "Europe is actively pursuing the implementation of online age-verification systems designed to protect user data while ensuring effective age checks. The initiative seeks to establish a model for verifying age online that balances accessibility with privacy concerns, potentially setting a benchmark for digital platforms globally as they navigate content restrictions and data protection mandates.",
+        "link": "https://www.wired.com/story/europe-gets-serious-about-age-verification-online/"
+    },
+    {
+        "category": "AI in Fintech",
+        "title": "Block Unveils Managerbot, a Proactive AI Agent for Square Platform",
+        "summary": "Block has introduced Managerbot, a new AI agent integrated into its Square platform. This agent proactively monitors a seller's business, identifies emerging problems, and proposes actionable solutions without requiring direct prompts. Managerbot represents a significant tangible manifestation of CEO Jack Dorsey's vision for artificial intelligence to fundamentally reshape how Block operates and serves millions of small businesses.",
+        "link": "https://venturebeat.com/data/block-introduces-managerbot-a-proactive-square-ai-agent-and-the-clearest"
+    },
+    {
+        "category": "AI in DevOps & Software Reliability",
+        "title": "NeuBird AI Launches Falcon Agents for Autonomous Software Issue Avoidance",
+        "summary": "NeuBird AI has launched its Falcon autonomous production operations agent, alongside securing $19.3 million in funding. The company aims to shift the industry focus from incident response to proactive incident avoidance, with agents designed to automatically prevent, detect, and fix software issues. This initiative targets the growing \"chaos tax\" in complex enterprise infrastructures involving hybrid clouds and microservices.",
+        "link": "https://venturebeat.com/security/ai-agents-that-automatically-prevent-detect-and-fix-software-issues-are-here"
+    },
+    {
+        "category": "Cybersecurity & Data Governance",
+        "title": "Addressing Critical Data Security Maturity Gaps in Enterprises",
+        "summary": "Enterprise data security lags as a mature cybersecurity domain, evidenced by 35% of 2025 breaches involving unmanaged 'shadow data,' indicating a systemic lack of data awareness. To close this gap in an increasingly complex ecosystem of data sources and AI models, organizations must embed security throughout the entire data lifecycle, prioritizing robust inventory, clear classification, and scalable protection mechanisms.",
+        "link": "https://venturebeat.com/security/closing-the-data-security-maturity-gap-embedding-protection-into-enterprise"
+    },
+    {
+        "category": "AI Agents Development & Risk",
+        "title": "The Age of AI Agents Arrives, Bringing Both Power and Chaos",
+        "summary": "The era of agentic AI is here, moving beyond simple question-answer models to powerful autonomous agents like Claude Cowork and OpenClaw, which possess deep system access. This development is igniting existential debates about job security and the potential for artificial general intelligence. Such tools introduce significant capabilities for automation but also raise concerns about their inherent risks and the complexities they introduce.",
         "link": "https://venturebeat.com/technology/claude-openclaw-and-the-new-reality-ai-agents-are-here-and-so-is-the-chaos"
     },
     {
-        "category": "AI Ecosystem & Policy",
-        "title": "Anthropic Restricts Claude Usage with Third-Party AI Agents",
-        "summary": "Anthropic announced it will discontinue the ability for Claude Pro and Max subscribers to use their subscriptions to connect Claude AI models with third-party agentic tools like OpenClaw. This change, effective April 4, 2026, stems from the strain such usage placed on Anthropic's compute and engineering resources. The company stated its subscriptions were not designed for these usage patterns and aims to serve a wide number of users reliably, signaling a strategic shift in how its AI models can be leveraged within the broader AI agent ecosystem.",
+        "category": "AI Policy & Resource Management",
+        "title": "Anthropic Curbs Third-Party AI Agent Access to Claude Subscriptions",
+        "summary": "Anthropic is restricting Claude Pro and Max subscribers from using their subscriptions to power third-party AI agentic tools like OpenClaw. Effective April 4, 2026, the company cites strain on its compute and engineering resources and a desire to serve a wide number of users reliably. This move highlights the challenges AI developers face in managing demand and platform usage for advanced models.",
         "link": "https://venturebeat.com/technology/anthropic-cuts-off-the-ability-to-use-claude-subscriptions-with-openclaw-and"
     },
     {
-        "category": "AI Architecture Innovation",
-        "title": "Karpathy's LLM Knowledge Base Bypasses RAG",
-        "summary": "Andrej Karpathy, former Director of AI at Tesla and OpenAI co-founder, has revealed an 'LLM Knowledge Bases' architecture that manages research topics through a persistent, AI-maintained markdown library. This approach aims to solve the core issue of 'stateless' AI development, specifically the context-limit reset that forces users to reconstruct context for the AI. Karpathy's method offers a simpler alternative to Retrieval Augmented Generation (RAG) by enabling LLMs to maintain a continuous, evolving record of projects, reducing the need for repetitive context re-establishment.",
-        "link": "https://venturebeat.com/data/karpathy-shares-llm-knowledge-base-architecture-that-bypasses-rag-with-an"
-    },
-    {
-        "category": "Enterprise AI & Ecosystem",
-        "title": "Nvidia Unveils Enterprise AI Agent Toolkit at GTC 2026",
-        "summary": "At GTC 2026, Nvidia CEO Jensen Huang launched the Agent Toolkit, an open-source platform designed for building autonomous AI agents. The platform has already garnered significant industry adoption, with 17 companies including major players like Adobe, Salesforce, and SAP committing to use it. This move signals Nvidia's expansion beyond hardware into developing foundational software tools for enterprise AI, aiming to establish dominance in the rapidly evolving landscape of autonomous AI agents across various sectors.",
-        "link": "https://venturebeat.com/technology/nvidia-launches-enterprise-ai-agent-platform-with-adobe-salesforce-sap-among"
-    },
-    {
-        "category": "AI Model Development & Competition",
-        "title": "Microsoft Challenges OpenAI, Google with Three New AI Models",
-        "summary": "Microsoft has launched three new in-house foundational AI models: MAI-Transcribe-1 for speech transcription, MAI-Voice-1 for voice generation, and MAI-Image-2 for image creation. These models are immediately available through Foundry. This strategic release marks Microsoft's clearest intent to directly compete with OpenAI, Google, and other frontier labs in model development, rather than solely focusing on distribution. The move positions Microsoft as a significant player in advancing core AI capabilities and intensifying competition within the AI research and development landscape.",
-        "link": "https://venturebeat.com/technology/microsoft-launches-3-new-ai-models-in-direct-shot-at-openai-and-google"
-    },
-    {
-        "category": "Open Source AI & Enterprise",
-        "title": "Arcee Releases Powerful U.S.-Made Open Source AI Model",
-        "summary": "San Francisco-based lab Arcee has released Trinity-Large-Thinking, a 399-billion parameter text-only reasoning AI model under the Apache 2.0 license. This license allows for full customizability and commercial usage by developers and large enterprises, setting it apart in a landscape where Chinese labs are pivoting to proprietary models. The release addresses a need for powerful, customizable U.S.-originated open-source AI, offering a robust solution for enterprises seeking to download and adapt advanced models for their specific needs and fostering innovation in the open-source AI community.",
-        "link": "https://venturebeat.com/technology/arcees-new-open-source-trinity-large-thinking-is-the-rare-powerful-u-s-made"
-    },
-    {
-        "category": "Tech Economy & Business Strategy",
-        "title": "Musk Mandates Grok Subscription for SpaceX IPO Advisers",
-        "summary": "Elon Musk is requiring Wall Street firms interested in advising on SpaceX's initial public offering to purchase subscriptions to his AI chatbot, Grok. This mandate positions Grok as a prerequisite for engaging with one of the largest forthcoming IPOs in history. The move reflects an unconventional business strategy by Musk, leveraging demand for a major financial event to drive adoption and engagement with his AI product, adding a unique condition for big banks seeking involvement in the highly anticipated offering.",
+        "category": "Tech Economy & IPO Dynamics",
+        "title": "Banks Advancing SpaceX IPO Must Subscribe to Elon Musk\u2019s Grok AI",
+        "summary": "Elon Musk is reportedly requiring Wall Street firms to purchase subscriptions to his Grok AI chatbot if they intend to advise on one of the largest initial public offerings in history for SpaceX. This demand introduces an unusual condition for participating in a high-profile tech IPO, linking financial advisory roles directly to supporting Musk's artificial intelligence ventures.",
         "link": "https://www.nytimes.com/2026/04/03/business/spacex-ipo-grok-elon-musk.html"
     },
     {
-        "category": "AI & Business Transformation",
-        "title": "AI Fuels $1.8 Billion Company with Minimal Staff",
-        "summary": "Artificial intelligence has enabled two brothers to build a $1.8 billion company, demonstrating AI's capacity to streamline corporate tasks and achieve extreme efficiency. The success story highlights how AI can automate numerous functions, drastically reducing the need for a large workforce. This approach, while highly effective in scaling a business with minimal human resources, also touches upon potential implications such as increased loneliness due to reduced team interaction in such AI-driven environments.",
+        "category": "AI Communication & Media Strategy",
+        "title": "OpenAI Acquires Streaming Show \u2018TBPN\u2019 to Shape AI Discourse",
+        "summary": "OpenAI has acquired the streaming show 'TBPN,' stating that the deal will help it \"create a space for a real, constructive conversation about the changes A.I. creates.\" This strategic acquisition signals OpenAI's intent to actively engage with public discourse and influence the narrative surrounding artificial intelligence, aiming to foster understanding of its societal impact.",
+        "link": "https://www.nytimes.com/2026/04/02/technology/openai-buys-tbpn.html"
+    },
+    {
+        "category": "AI Entrepreneurship & Efficiency",
+        "title": "AI Enables Two-Person Team to Build $1.8 Billion Company",
+        "summary": "Artificial intelligence has enabled a two-person team to build a $1.8 billion company, demonstrating AI's profound impact on modern business efficiency. The story highlights how AI can perform numerous corporate tasks, significantly reducing the need for a large workforce. This illustrates a new paradigm for entrepreneurship, where minimal human resources can achieve massive scale through AI leveraging.",
         "link": "https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html"
     },
     {
-        "category": "Global Tech Policy & Social Impact",
-        "title": "Europe Advances Stricter Internet Regulations for Children",
-        "summary": "The European Union and its member states are actively working to establish a 'gentler internet' for children by pushing for regulations that make social media and algorithms less addictive and safer. This initiative aims to mitigate the harmful impacts of current online platforms on younger users. The focus on reducing addictive design and enhancing safety reflects a growing global concern and regulatory effort to protect children in the digital sphere.",
-        "link": "https://www.nytimes.com/2026/04/02/world/europe/european-union-social-media-internet-regulation-children.html"
+        "category": "AI Reliability & Search",
+        "title": "Google\u2019s AI Overviews Face Scrutiny Over Accuracy and Source Quality",
+        "summary": "Google\u2019s AI-generated answers, known as AI Overviews, are facing questions regarding their accuracy and the reliability of their sources. While these overviews appear authoritative, they draw information from a diverse array of sources, ranging from trustworthy websites to social media posts. This raises concerns about the consistency and quality of information presented in AI-powered search results.",
+        "link": "https://www.nytimes.com/2026/04/07/technology/google-ai-overviews-accuracy.html"
     },
     {
-        "category": "Global AI & Innovation",
-        "title": "DeepSeek AI Stuns Silicon Valley Despite Chip Constraints",
-        "summary": "DeepSeek, a Chinese AI model, is receiving widespread acclaim in Silicon Valley, being described as 'amazing and impressive.' Its notable achievement is training high-performing AI models cheaply, specifically without relying on the most advanced chips. This breakthrough challenges conventional wisdom regarding necessary hardware for cutting-edge AI development and underscores China's increasing prowess in the AI sector, demonstrating that innovation can emerge even with resource limitations.",
-        "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology"
+        "category": "AI in Cybersecurity",
+        "title": "AI Set to Revolutionize Cybersecurity for Both Offense and Defense",
+        "summary": "Artificial intelligence is poised to fundamentally transform the cybersecurity landscape. New systems from companies like Anthropic and OpenAI are enabling hackers to launch attacks with greater speed and sophistication. Consequently, the defense against these advanced threats will increasingly rely on more sophisticated AI solutions, creating an escalating AI-driven arms race in the realm of security.",
+        "link": "https://www.nytimes.com/2026/04/06/technology/ai-cybersecurity-hackers.html"
     },
     {
-        "category": "AI & Healthcare Investment",
-        "title": "Reid Hoffman Backs AI Cancer Research Startup Manas AI",
-        "summary": "LinkedIn co-founder Reid Hoffman has raised $24.6 million for his new venture, Manas AI, a startup focused on AI-powered cancer research. Hoffman co-founded the company with Siddhartha Mukherjee, author of 'The Emperor of All Maladies.' This significant investment highlights the growing confidence in AI's potential to revolutionize drug discovery and accelerate breakthroughs in critical medical fields like oncology, attracting substantial capital from prominent tech figures to address major health challenges.",
+        "category": "Global AI Competition",
+        "title": "China's DeepSeek AI Earns Silicon Valley Praise Despite Chip Limitations",
+        "summary": "DeepSeek AI, a Chinese upstart, is garnering significant praise in Silicon Valley for its high-performing AI models, despite achieving this without utilizing the most advanced chips. Described as \"amazing and impressive,\" DeepSeek challenges existing assumptions about the necessity of cutting-edge hardware for leading AI development, highlighting China's growing prowess and innovative approaches in the artificial intelligence field.",
+        "link": "https://www.wsj.com/articles/deepseek-ai-china-tech-stocks-explained-ee6cc80e?mod=rss_Technology"
+    },
+    {
+        "category": "AI in Healthcare & Investment",
+        "title": "Reid Hoffman Backs AI Cancer Research Startup with $24.6 Million",
+        "summary": "LinkedIn co-founder Reid Hoffman has raised $24.6 million for Manas AI, a new startup focused on leveraging artificial intelligence for cancer research. He is collaborating with Siddhartha Mukherjee, author of \"The Emperor of All Maladies.\" This significant investment, combined with notable expertise, is directed towards advancing critical breakthroughs in oncology through AI-powered solutions and drug discovery.",
         "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology"
     },
     {
-        "category": "Tech Economy & AI Infrastructure",
-        "title": "Meta Boosts AI Investment with $60-65 Billion Spending Plan",
-        "summary": "Meta plans to increase its spending significantly, allocating between $60 billion and $65 billion, primarily driven by investments in artificial intelligence and a massive new data center. This substantial financial commitment is the latest indicator of accelerating investments into AI by major tech companies. Meta's focus on expanding its AI capabilities and infrastructure reflects a strategic imperative to remain competitive and capitalize on the rapidly growing opportunities within the AI landscape.",
+        "category": "Tech Investment & AI Infrastructure",
+        "title": "Meta Plans Up to $65 Billion Spending Spree on AI and Data Centers",
+        "summary": "Meta, the social-media giant, is planning to invest between $60 billion and $65 billion in AI and massive data center infrastructure. This substantial spending commitment serves as the latest indicator of accelerated investments by major tech companies into artificial intelligence. The move underscores the high cost and strategic importance of building out robust AI capabilities and supporting infrastructure.",
         "link": "https://www.wsj.com/articles/meta-spending-ai-facebook-data-centers-9452a88f?mod=rss_Technology"
     },
     {
-        "category": "AI & E-commerce Strategy",
-        "title": "AI Transforms Product Decisions for Small Online Sellers",
-        "summary": "AI is fundamentally altering how small online sellers determine which products to create and offer. For instance, Mike McClary, a small outdoor brand owner, found AI highlighting the enduring demand for his discontinued Guardian LTE Flashlight, which customers continued to request. This demonstrates AI's ability to analyze consumer behavior and market trends, providing valuable insights that help small businesses optimize their product portfolios and respond to customer preferences more effectively than traditional methods.",
-        "link": "https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/"
+        "category": "AI & Labor Market",
+        "title": "Economists Seek Key Data to Assess AI's True Impact on Jobs",
+        "summary": "While an AI-fueled 'jobs apocalypse' is a common narrative in Silicon Valley, economists are actively seeking specific data to accurately understand AI's actual impact on employment. The focus is on identifying concrete metrics that can shed light on how artificial intelligence is truly transforming the labor market, beyond speculative predictions, in order to guide future policy and societal adaptations.",
+        "link": "https://www.technologyreview.com/2026/04/07/1135208/the-download-ai-impact-jobs-data-centres-space/"
     },
     {
-        "category": "Space Tech & Infrastructure",
-        "title": "Prerequisites for Orbital Data Centers Unveiled",
-        "summary": "MIT Technology Review Explains delves into the necessary components for establishing data centers in Earth's orbit, a concept gaining traction with SpaceX's recent FCC application to launch up to one million such facilities. The discussion outlines the specific requirements needed to realize Elon Musk's vision, offering insight into the technological and logistical challenges. This detailed explanation provides crucial context for understanding the feasibility and future implications of deploying massive data infrastructure beyond Earth.",
-        "link": "https://www.technologyreview.com/2026/04/03/1135073/four-things-wed-need-to-put-data-centers-in-space/"
-    },
-    {
-        "category": "Robotics, AI & Future of Work",
-        "title": "Gig Workers Remotely Train Humanoid Robots for AI",
-        "summary": "Gig workers globally, exemplified by a medical student in Nigeria named Zeus, are contributing to the training of humanoid robots from their homes. These individuals strap iPhones to their foreheads to record themselves performing tasks, such as raising their hands like a sleepwalker. This process involves collecting data to teach physical AI systems, representing an emerging frontier in the gig economy. It highlights a new form of human-AI collaboration where remote workers are essential in developing the practical capabilities of next-generation robotics.",
-        "link": "https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/"
-    },
-    {
-        "category": "AI Development Strategy",
-        "title": "AI Customization Becomes Critical for Domain-Specific Gains",
-        "summary": "The era of massive, 10x jumps in AI reasoning and coding capability with each new model iteration has flattened into incremental gains for general LLMs. However, true step-function improvements are still observed in domain-specialized intelligence. This indicates that integrating a model with an organization's specific context and data, or 'AI model customization,' is becoming an architectural imperative. Such a shift is crucial for achieving significant advancements and specialized intelligence tailored to particular use cases, moving beyond generic model capabilities.",
-        "link": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/"
-    },
-    {
-        "category": "AI Evaluation & Research",
-        "title": "Redefining AI Benchmarks Beyond Human-vs-Machine Comparisons",
-        "summary": "For decades, AI evaluation has focused on whether machines surpass human performance in tasks like chess, math, and coding. This 'AI vs. human' framing, while seductive for isolated problems with clear outcomes, is now deemed broken. The article suggests a need for new benchmarking approaches that move beyond simple human-AI comparisons. This critical reassessment of evaluation methods is essential for accurately measuring and guiding the progress of AI models and applications, reflecting a deeper understanding of AI's complex capabilities and limitations.",
-        "link": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/"
-    },
-    {
-        "category": "AI in Healthcare & Efficacy",
-        "title": "Evaluating the Efficacy of Proliferating AI Health Tools",
-        "summary": "The number of AI health tools is rapidly increasing, with recent launches including Microsoft's Copilot Health and Amazon's Health AI. Copilot Health aims to connect medical records for user queries, while Amazon's LLM-based tool is expanding beyond One Medical service members. Despite this proliferation and clear demand, there is an overarching question about how effectively these AI tools truly work. This highlights a critical need to rigorously assess the performance and reliability of AI applications in the sensitive healthcare domain.",
-        "link": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/"
+        "category": "AI, Robotics & Gig Economy",
+        "title": "Gig Workers Remotely Training Humanoid Robots for Future Tasks",
+        "summary": "A new dimension of the gig economy involves individuals, such as a medical student in Nigeria, remotely training humanoid robots by performing and recording tasks. These gig workers act as \"demonstrators\" to provide essential data for robots to learn, highlighting an emerging and unique way human labor contributes to the development of advanced AI and robotics for future applications and capabilities.",
+        "link": "https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/"
     }
 ];
