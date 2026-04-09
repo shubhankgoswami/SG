@@ -1,152 +1,152 @@
 window.NEWS_DATA = [
     {
-        "category": "AI Productivity",
-        "title": "Atlassian Integrates Visual AI & Third-Party Agents in Confluence",
-        "summary": "Confluence users can now leverage new visual asset creation capabilities within the software, alongside new third-party AI agents working with Lovable, Replit, and Gamma. These integrations aim to expand Confluence's AI functionality, offering advanced tools for content generation and automation directly within the enterprise collaboration platform. This move signifies Atlassian's strategic push to embed more AI-driven features into its products, enhancing user experience and productivity in collaborative work environments.",
-        "link": "https://techcrunch.com/2026/04/08/atlassian-confluence-visual-ai-tools-agents/"
+        "category": "Space & Defense Tech",
+        "title": "SpaceX Alum Builds 'Fighter Jet for Orbit'",
+        "summary": "A founder, previously instrumental in developing SpaceX's most powerful rocket engine, is now creating a 'fighter jet for orbit.' His new company, Portal, recently raised $50 million to develop a novel high-power rocket engine. This innovation is touted as a potential game-changer for the U.S. military, suggesting significant advancements in aerospace and defense capabilities. The focus is on a new type of rocket engine that could transform orbital operations and military applications.",
+        "link": "https://techcrunch.com/2026/04/09/portal-raises-50-million-to-build-a-new-kind-of-high-power-rocket-engine/"
     },
     {
-        "category": "Social Media AI",
-        "title": "X Enhances Platform with Grok-Powered AI Translations & Photo Editing",
-        "summary": "X is implementing new features, including automatic translation and photo editing, powered by Grok, the company's flagship AI model. This integration aims to improve user experience by providing instant language translation for posts and enabling in-app photo enhancements directly on the platform. The move signifies X's strategy to leverage its proprietary AI technology to add practical utilities and enhance content interaction, making the platform more accessible and versatile for its global user base.",
-        "link": "https://techcrunch.com/2026/04/08/x-is-rolling-out-automatic-translation-and-photo-editing-powered-by-grok/"
+        "category": "Advanced Materials & Geopolitics",
+        "title": "Plasma Reactors Challenge China's Rare Earth Dominance",
+        "summary": "Radify Metals is developing innovative 'sci-fi plasma reactors' designed to process a variety of metals, promising a pollution-free method. This technological advancement could significantly disrupt China's current dominance in the rare earth elements market. By offering a cleaner and potentially more accessible way to extract and refine these critical materials, Radify's technology holds the potential to reshape global supply chains and enhance resource independence for other nations, impacting strategic industries.",
+        "link": "https://techcrunch.com/2026/04/09/radifys-sci-fi-plasma-reactors-could-break-chinas-dominance-of-rare-earth-elements/"
     },
     {
-        "category": "AI Productivity",
-        "title": "Google Debuts Offline AI Dictation App, Challenges Rivals",
-        "summary": "Google has released a new dictation application designed for offline use, utilizing its Gemma AI models. This app aims to provide robust voice-to-text functionality without requiring an internet connection, directly competing with existing solutions like Wispr Flow. The strategic focus on offline capability underscores a move to enhance accessibility and privacy for users needing dictation services in diverse environments, further broadening Google's AI product portfolio with a practical, local-first solution.",
-        "link": "https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/"
+        "category": "Software Development & Platform Control",
+        "title": "Microsoft Locks WireGuard Developer Account, Halting Updates",
+        "summary": "The lead developer of WireGuard, a widely used open-source VPN, is unable to distribute software updates after Microsoft reportedly locked his account without prior notification. This incident marks the second time a high-profile developer has claimed Microsoft blocked their ability to push updates to users due to account access issues. The situation raises concerns within the open-source community regarding platform control, developer autonomy, and the potential impact on software security and maintenance for millions of users.",
+        "link": "https://techcrunch.com/2026/04/08/wireguard-vpn-developer-cant-ship-software-updates-after-microsoft-locks-account/"
     },
     {
-        "category": "AI Startups",
-        "title": "Tiny Startup Arcee Gains Traction with Open Source LLM",
-        "summary": "Arcee, a small 26-person U.S. startup, has developed a high-performing, massive open source Large Language Model (LLM). This model is reportedly gaining popularity among OpenClaw users, indicating significant adoption and positive reception within the open-source AI community. The success of a small team in creating a competitive LLM highlights the potential for innovation from smaller players in the rapidly evolving AI landscape, challenging larger incumbents with accessible and powerful AI solutions.",
-        "link": "https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/"
+        "category": "AI Accessibility",
+        "title": "Poke Simplifies AI Agent Use via Text Messaging",
+        "summary": "Poke is introducing a new platform that allows everyday users to interact with AI agents simply by sending a text message. This innovation aims to democratize access to AI agent capabilities by handling complex setups, app installations, and technical expertise requirements. Users can leverage AI agents for various tasks and automations without needing specialized knowledge, making advanced AI functionalities more readily available and integrated into daily communication.",
+        "link": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/"
     },
     {
-        "category": "AI Cybersecurity Collaboration",
-        "title": "Anthropic Leads Cross-Industry AI Cybersecurity Initiative with Mythos Preview",
-        "summary": "Anthropic's Project Glasswing is a sweeping cybersecurity initiative pairing an unreleased frontier AI model, Claude Mythos Preview, with a coalition of twelve major technology and finance companies, including Amazon Web Services, Apple, Broadcom, Cisco, CrowdStrike, Google, JPMorganChase, the Linux Foundation, and Microsoft. Anthropic states this powerful model is too dangerous for public release. The project aims to find and patch software vulnerabilities across critical infrastructure before adversaries can exploit them, highlighting an industry-wide effort to secure AI development and deployment defensively.",
-        "link": "https://venturebeat.com/technology/anthropic-says-its-most-powerful-ai-cyber-model-is-too-dangerous-to-release"
+        "category": "AI & Marketing Tech",
+        "title": "Canva Bolsters AI and Marketing Automation with Dual Acquisitions",
+        "summary": "Canva has announced the acquisition of Simtheory and Ortto, strategically enhancing its capabilities in artificial intelligence and marketing automation. The company stated that these acquisitions will add significant strengths in agentic AI, data infrastructure, marketing automation, and customer engagement. This move underscores Canva's commitment to expanding its AI-driven offerings and solidifying its position in the creative and marketing technology sectors, aiming to provide more sophisticated tools for its user base.",
+        "link": "https://techcrunch.com/2026/04/08/canva-doubles-down-on-ai-and-marketing-automation-with-simtheory-ortto-acquisitions/"
     },
     {
-        "category": "AI Business Productivity",
-        "title": "Block Launches Managerbot: Proactive AI Agent for Square Businesses",
-        "summary": "Block has introduced Managerbot, a new AI agent integrated into the Square platform, designed to proactively monitor seller businesses. This agent identifies emerging problems and proposes actionable solutions without requiring direct queries from the seller. This launch represents a significant realization of CEO Jack Dorsey's vision for AI to fundamentally transform Block's operations and product offerings for millions of small businesses, marking a departure from reactive chatbot assistants and a move towards autonomous business management.",
-        "link": "https://venturebeat.com/data/block-introduces-managerbot-a-proactive-square-ai-agent-and-the-clearest"
+        "category": "AI Investment Strategy",
+        "title": "AWS Defends Dual Investment in Anthropic and OpenAI",
+        "summary": "The head of Amazon Web Services (AWS) addressed the company's strategy of investing billions in both Anthropic and OpenAI, clarifying that this approach does not present an unacceptable conflict. He explained that AWS maintains an ingrained culture of managing competition, a necessity given that the cloud giant frequently competes with its own partners. This stance highlights AWS's operational philosophy regarding strategic investments in leading AI firms, balancing collaboration with competitive dynamics in the rapidly evolving AI landscape.",
+        "link": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/"
     },
     {
-        "category": "Open Source AI Breakthrough",
-        "title": "Z.ai Releases GLM-5.1 Open Source LLM Capable of 8-Hour Autonomous Work",
-        "summary": "Chinese AI startup Z.ai (Zhupai AI) has released GLM-5.1, a powerful open source Large Language Model (LLM), under a permissive MIT License for commercial use on Hugging Face. This model is designed for up to eight hours of autonomous work on single tasks, signifying a shift towards 'agentic engineering.' GLM-5.1 reportedly outperforms models like Opus 4.6 and GPT-5.4 on SWE-Bench Pro, indicating China's potential resurgence in open source AI development with high-performing, commercially viable models.",
-        "link": "https://venturebeat.com/technology/ai-joins-the-8-hour-work-day-as-glm-ships-5-1-open-source-llm-beating-opus-4"
+        "category": "Space Internet",
+        "title": "Amazon's Starlink Rival, Leo, Reschedules Commercial Launch",
+        "summary": "Amazon CEO Andy Jassy announced that the company's space-internet service, now named Leo (formerly Project Kuiper), will achieve \"proper commercial availability in mid-2026.\" This updates the previous timeline, which had anticipated an \"enterprise preview\" by the end of 2025, the service's original launch target. Leo aims to compete with SpaceX's Starlink, signaling Amazon's continued commitment to developing global satellite internet infrastructure and intensifying competition in the nascent space connectivity market.",
+        "link": "https://www.theverge.com/tech/909122/amazons-starlink-competitor-leo-gets-a-new-date"
     },
     {
-        "category": "International AI Competition",
-        "title": "China's DeepSeek AI Praised for High Performance with Less Advanced Chips",
-        "summary": "China's DeepSeek AI model is receiving significant praise in Silicon Valley, described as 'amazing and impressive,' despite its development using less-advanced chips. The Chinese startup claims to have trained high-performing AI models cheaply without needing the most advanced hardware. This achievement suggests a breakthrough in optimizing AI performance with more accessible resources, potentially reducing development barriers and challenging the chip dominance of other nations. This signals China's growing prowess and innovative approaches in the global AI landscape.",
-        "link": "https://www.wsj.com/articles/deepseek-ai-china-tech-stocks-explained-ee6cc80e?mod=rss_Technology"
+        "category": "Generative AI & Creator Tools",
+        "title": "YouTube Shorts Introduces Easy Self-Deepfaking Feature",
+        "summary": "YouTube Shorts is rolling out a new AI-powered feature that allows creators to easily and realistically clone themselves on camera. This launch, previously hinted at, reflects YouTube's complex relationship with AI-generated content. While providing more generative capabilities to creators, the platform continues to contend with challenges such as AI \"slop,\" deepfake scams, and impersonations. The new tool highlights the evolving landscape of digital content creation and the dual nature of advanced AI technologies.",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/909104/youtube-shorts-make-ai-avatar"
     },
     {
-        "category": "AI & Labor / AI Development",
-        "title": "Gig Workers Train Humanoid Robots, AI Benchmarks Improve",
-        "summary": "Two significant AI trends are emerging: gig workers are being employed remotely to train humanoid robots, exemplifying a new labor model leveraging global talent for advanced robotics. For instance, a medical student in Nigeria is engaged in this work from home. Concurrently, efforts are underway to develop better AI benchmarks, refining evaluation methods for AI performance. These insights highlight both the evolving human-AI collaboration in robotics and the ongoing push for more accurate and comprehensive AI assessment.",
-        "link": "https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/"
+        "category": "AI Policy & Regulation",
+        "title": "OpenAI's Economic Proposals Face Scrutiny in Washington",
+        "summary": "OpenAI has presented economic proposals, drawing attention and reactions from policymakers in Washington D.C. The article discusses the ongoing dialogue between the leading AI company and federal regulators, signaling the increasing focus on the economic implications and societal impact of artificial intelligence. This engagement highlights the complex relationship between rapidly advancing technology and the need for governmental understanding and potential regulatory frameworks to guide its development and deployment.",
+        "link": "https://www.theverge.com/column/908880/openai-made-economic-proposals-heres-what-dc-thinks-of-them"
     },
     {
-        "category": "VC & AI Investment",
-        "title": "Eclipse Launches $1.3B Fund for 'Physical AI' Startups",
-        "summary": "Venture Capital firm Eclipse has announced a new $1.3 billion fund dedicated to investing in and incubating 'physical AI' startups. A portion of this substantial capital will be allocated not just to backing, but also to actively building new companies in this specialized AI sector. This significant investment signals strong confidence in the growth potential of AI applications that interact with the physical world, driving innovation in robotics, automation, and industrial AI across various industries.",
-        "link": "https://techcrunch.com/2026/04/07/vc-eclipse-has-a-new-1-3b-to-back-and-build-physical-ai-startups/"
+        "category": "AI Hardware & Privacy",
+        "title": "Ex-Apple Engineers Launch Privacy-Focused AI Wearable",
+        "summary": "Two former Apple Vision Pro developers have introduced a new AI wearable device designed to prioritize user privacy. Resembling an iPod Shuffle, the gadget only activates its listening function when physically tapped by the user. The creators aim to succeed in the crowded AI gadget market by addressing privacy concerns, a common stumbling block for other AI devices. This development signals a focus on user control and data security within the emerging field of intelligent personal hardware.",
+        "link": "https://www.wired.com/story/this-ai-button-wearable-from-ex-apple-engineers-looks-like-an-ipod-shuffle/"
     },
     {
-        "category": "AI Infrastructure Investment",
-        "title": "Nvidia-Backed Firmus Achieves $5.5B Valuation for AI Data Centers",
-        "summary": "Firmus, an Asia-based provider of AI data centers and nicknamed 'Southgate', has reached a $5.5 billion valuation after securing $1.35 billion in funding within a six-month period. Backed by Nvidia, Firmus is a significant player in building specialized infrastructure vital for artificial intelligence. This rapid increase in valuation and funding underscores the intense demand for robust data center capabilities to support the expanding AI industry, particularly in the Asian market.",
-        "link": "https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/"
+        "category": "AI Agents & AGI",
+        "title": "The Age of AI Agents Arrives, Bringing Both Power and Peril",
+        "summary": "The era of agentic AI is now upon us, marking a significant shift from simple question-answer chatbots to powerful autonomous systems. The advent of tools like Claude Cowork and OpenClaw, which has garnered substantial GitHub stars and is deployed with deep system access, intensifies fears of reaching artificial general intelligence (AGI). These agents can take autonomous actions, managing files and data like a personal robot, highlighting a new reality where AI systems increasingly operate independently, prompting existential debates on job security and the rise of machines.",
+        "link": "https://venturebeat.com/infrastructure/claude-openclaw-and-the-new-reality-ai-agents-are-here-and-so-is-the-chaos"
     },
     {
-        "category": "Semiconductor Manufacturing",
-        "title": "Intel Joins Elon Musk\u2019s Terafab Chip Manufacturing Project",
-        "summary": "Intel has partnered with SpaceX and Tesla to collaborate on Elon Musk's Terafab chips project. This initiative aims to establish a new U.S. semiconductor factory in Texas, signaling a significant push for domestic chip manufacturing capabilities. While the specific scope of Intel's contributions remains unclear, its involvement highlights a major industry collaboration to bolster semiconductor production and reduce reliance on overseas manufacturing, aligning with national security and economic goals.",
-        "link": "https://techcrunch.com/2026/04/07/intel-signs-on-to-elon-musks-terafab-chips-project/"
+        "category": "Meta AI Strategy",
+        "title": "Meta Unveils Proprietary AI Model Muse Spark, Shifts from Llama Focus",
+        "summary": "Meta has launched Muse Spark, a new proprietary AI model, marking its first release since the formation of its Superintelligence Labs in summer 2025. This move signifies a strategic shift for Meta, which previously gained a following with its open-source Llama LLM series. The change comes after Llama 4 received mixed reviews and admissions of benchmark inconsistencies. Muse Spark, while outperforming previous Meta models, reportedly lags rivals in coding ability, indicating Meta's renewed focus on internal AI development following a restructuring of its AI operations.",
+        "link": "https://venturebeat.com/technology/goodbye-llama-meta-launches-new-proprietary-ai-model-muse-spark-first-since"
     },
     {
-        "category": "AI Infrastructure",
-        "title": "Amazon S3 Files Provides Native File System for AI Agents, Solving Data Access Issues",
-        "summary": "Amazon has launched S3 Files, a solution enabling AI agents to directly mount any S3 bucket into their local environment with a single command. This innovation addresses the long-standing challenge of integrating enterprise data from object storage (S3) with AI agents that inherently require file system access. By eliminating the need for separate file system layers and duplicated data, S3 Files prevents multi-agent pipeline breaks, streamlining data access for AI tools like Kiro and Claude Code.",
-        "link": "https://venturebeat.com/data/amazon-s3-files-gives-ai-agents-a-native-file-system-workspace-ending-the"
-    },
-    {
-        "category": "AI Infrastructure",
-        "title": "AI-RAN Redefines Enterprise Edge Intelligence and Autonomy",
-        "summary": "AI-RAN (Artificial Intelligence Radio Area Networks) transforms wireless infrastructure into an active computational layer, functioning as a sensor, compute fabric, and control plane for physical operations. This shift extends 5G and 6G networks into enterprises, enabling new types of 'physical AI' and autonomy use cases in sectors like manufacturing, logistics, healthcare, and smart infrastructure. Leaders from Booz Allen and Cerberus Operations Supply Chain Fund highlight AI-RAN's promise for hosting edge inference and enabling advanced AI applications.",
-        "link": "https://venturebeat.com/infrastructure/ai-ran-is-redefining-enterprise-edge-intelligence-and-autonomy"
-    },
-    {
-        "category": "AI Infrastructure Investment",
-        "title": "Meta Boosts AI Investment with $60-65B for Data Centers",
-        "summary": "Meta plans to increase its spending to between $60 billion and $65 billion, primarily driven by massive investments in AI and the development of large data centers. This significant capital allocation is the latest indicator of tech companies' accelerating commitment to artificial intelligence infrastructure. The move underscores the intense competition and escalating financial requirements for building the computational foundations necessary for advanced AI research and deployment, solidifying Meta's position in the AI race.",
-        "link": "https://www.wsj.com/articles/meta-spending-ai-facebook-data-centers-9452a88f?mod=rss_Technology"
-    },
-    {
-        "category": "AI Business Strategy",
-        "title": "LLM-Referred Traffic Boasts 30-40% Conversion, Enterprises Lag in Optimization",
-        "summary": "Digital discovery is shifting from human-centric search to AI agents as primary information consumers, necessitating a new paradigm called Answer Engine Optimization (AEO) or Generative Engine Optimization (GEO). LLM-referred traffic exhibits a high conversion rate of 30-40%, yet most enterprises are not optimizing their content for AI systems. Success now depends on whether content is understood, selected, and cited by AI, signifying that traditional SEO models are insufficient and businesses must adapt to this agent-first data interpretation to capture value.",
+        "category": "AI & Digital Marketing",
+        "title": "Enterprises Neglect LLM Optimization as AI-Referred Traffic Soars",
+        "summary": "A new paradigm, Answer Engine Optimization (AEO) or Generative Engine Optimization (GEO), is emerging as AI agents become primary consumers of information, moving beyond traditional human search models. LLM-referred traffic is converting at a high rate of 30-40%, yet most enterprises are not optimizing for it. Unlike traditional SEO focused on keywords and clicks, AEO defines success by whether content is understood, selected, and cited by AI systems. This signals a critical need for businesses to adapt their digital strategies to remain relevant in an AI-dominated discovery landscape.",
         "link": "https://venturebeat.com/technology/llm-referred-traffic-converts-at-30-40-and-most-enterprises-arent-optimizing"
     },
     {
-        "category": "Enterprise AI Adoption",
-        "title": "MassMutual & Mass General Brigham Achieve Production AI Results",
-        "summary": "MassMutual and Mass General Brigham successfully transitioned their AI pilot programs into production, addressing common enterprise AI challenges. MassMutual reported concrete benefits, including 30% developer productivity gains, IT help desk resolution times reduced from 11 minutes to one, and customer service calls cut from 15 minutes to one or two. Their success stemmed from clearly defining metrics and establishing strong feedback loops, demonstrating how discipline in AI implementation can yield significant operational efficiencies and value across an organization.",
-        "link": "https://venturebeat.com/orchestration/how-massmutual-and-mass-general-brigham-turned-ai-pilot-sprawl-into"
+        "category": "AI Agent Development",
+        "title": "Memento-Skills Enables AI Agents to Self-Rewrite Without Retraining",
+        "summary": "Researchers have developed Memento-Skills, a novel framework addressing a significant challenge in deploying autonomous AI agents: enabling them to adapt to environmental changes without retraining their underlying large language models. This framework functions as an evolving external memory, allowing agents to progressively enhance their capabilities by developing and updating skills autonomously based on feedback. Memento-Skills adds continual learning to existing AI agent offerings, such as OpenClaw and Claude Code, thereby improving adaptability and reducing the need for extensive model retraining in dynamic environments.",
+        "link": "https://venturebeat.com/orchestration/new-framework-lets-ai-agents-rewrite-their-own-skills-without-retraining-the"
     },
     {
-        "category": "AI Ethics & Accuracy",
-        "title": "Google's AI Overviews: Accuracy Concerns Raised",
-        "summary": "Google\u2019s AI-generated overviews, while appearing authoritative, are drawing from a broad array of sources including both trustworthy sites and less reliable platforms like Facebook posts. This reliance on varied sources raises questions about the consistent accuracy and factual integrity of the AI-summarized answers. The issue highlights a critical challenge for AI models in discerning reliable information, potentially impacting the trustworthiness of search results and user confidence in AI-powered summarization.",
+        "category": "Fintech & AI Automation",
+        "title": "Block Unveils Managerbot, Proactive AI Agent for Square Businesses",
+        "summary": "Block has launched Managerbot, an AI agent embedded within the Square platform, designed to proactively monitor seller businesses. This new tool identifies emerging problems and suggests actionable solutions without requiring direct queries from the seller, representing a significant advancement over Square's previous reactive AI assistant. Managerbot serves as a tangible validation of CEO Jack Dorsey's vision for AI to fundamentally reshape Block's operations, product development, and service delivery to millions of small businesses.",
+        "link": "https://venturebeat.com/data/block-introduces-managerbot-a-proactive-square-ai-agent-and-the-clearest"
+    },
+    {
+        "category": "AI Infrastructure & Cloud",
+        "title": "Amazon S3 Files Unifies AI Agent Access to Object Storage",
+        "summary": "Amazon has introduced S3 Files, a solution addressing the challenge of AI agents accessing enterprise data stored in object storage systems like Amazon S3. Traditionally, AI agents operating on file systems faced issues with S3's API-based object access, leading to duplicated data and broken multi-agent pipelines. S3 Files allows any S3 bucket to be directly mounted into an agent\u2019s local environment with a single command, eliminating the need for data migration. This innovation enables agents to natively interact with S3 data using standard file system tools, improving efficiency.",
+        "link": "https://venturebeat.com/data/amazon-s3-files-gives-ai-agents-a-native-file-system-workspace-ending-the"
+    },
+    {
+        "category": "AI Safety & Cybersecurity",
+        "title": "Anthropic Withholds Powerful AI Cyber Model, Launches Project Glasswing",
+        "summary": "Anthropic has deemed its most powerful AI cyber model, Claude Mythos Preview, too dangerous for public release. Instead, the company initiated Project Glasswing, a comprehensive cybersecurity program. This initiative partners the unreleased frontier AI model with a coalition of twelve major technology and finance companies, including AWS, Apple, Google, Microsoft, and JPMorganChase. The goal is to proactively identify and patch software vulnerabilities across critical global infrastructure before they can be exploited by adversaries, highlighting the increasing concerns over AI's dual-use potential in cybersecurity.",
+        "link": "https://venturebeat.com/technology/anthropic-says-its-most-powerful-ai-cyber-model-is-too-dangerous-to-release"
+    },
+    {
+        "category": "AI & Information Integrity",
+        "title": "Google\u2019s AI Overviews: Accuracy Concerns Despite Authoritative Appearance",
+        "summary": "Google's AI-generated overviews, while appearing authoritative, draw information from a wide range of sources, including both trustworthy sites and less reliable platforms like Facebook posts. This diverse sourcing raises questions about the overall accuracy of these AI responses. The issue underscores the challenges in maintaining information integrity within AI-powered search results, as the systems synthesize data from varied origins, potentially presenting unverified content alongside established facts to users seeking reliable answers.",
         "link": "https://www.nytimes.com/2026/04/07/technology/google-ai-overviews-accuracy.html"
     },
     {
         "category": "AI & Software Development",
-        "title": "AI Generates Code Overload, Companies Struggle to Manage",
-        "summary": "The rapid advancement of AI has led to a significant 'code overload,' creating a glut of generated code that companies are now scrambling to manage. This phenomenon suggests that while AI can accelerate code production, it also introduces challenges in terms of quality control, integration, and overall code lifecycle management. The issue points to a new bottleneck in software development where human oversight and infrastructure are struggling to keep pace with AI's generative capabilities.",
+        "title": "AI-Generated Code Leads to Industry Overload",
+        "summary": "Artificial intelligence has reportedly created a significant 'code overload' within the software development industry. Companies are now grappling with a glut of AI-generated code, indicating a new challenge stemming from increased AI-driven productivity. This phenomenon suggests that while AI can rapidly produce code, managing and integrating this output effectively presents a growing hurdle, potentially leading to bottlenecks and new demands on engineering resources as firms scramble to deal with the sheer volume.",
         "link": "https://www.nytimes.com/2026/04/06/technology/ai-code-overload.html"
     },
     {
-        "category": "AI & Labor Market",
-        "title": "New Data Emerging on AI's Real Impact on Jobs",
-        "summary": "Economists are beginning to provide specific data that could illuminate AI's actual impact on jobs, moving beyond the prevalent 'AI-fueled jobs apocalypse' narrative in Silicon Valley. This signals a more nuanced and data-driven understanding of how artificial intelligence is shaping the labor market. The emerging analysis aims to offer clearer insights into job displacement, creation, and transformation influenced by AI technologies, providing a more grounded perspective on future workforce dynamics.",
-        "link": "https://www.technologyreview.com/2026/04/07/1135208/the-download-ai-impact-jobs-data-centres-space/"
+        "category": "AI & Society",
+        "title": "Gen Z's AI Sentiment Declines Despite High Usage",
+        "summary": "A recent Gallup study reveals that while half of Generation Z utilizes artificial intelligence, their sentiments towards it are souring. The research indicates that young adults have become less hopeful and increasingly angry regarding AI. This shift in perception among a demographic often considered digitally native suggests growing anxieties or disillusionment with the technology, despite its widespread adoption. The findings highlight the evolving social and emotional landscape surrounding AI's integration into daily life, particularly among younger generations.",
+        "link": "https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html"
     },
     {
-        "category": "AI Investment & Health Tech",
-        "title": "Reid Hoffman Raises $24.6M for AI Cancer-Research Startup Manas AI",
-        "summary": "LinkedIn co-founder Reid Hoffman has raised $24.6 million for his new AI-driven cancer research startup, Manas AI. The venture is co-founded with Siddhartha Mukherjee, author of 'The Emperor of All Maladies.' This significant investment highlights the growing application of artificial intelligence in drug discovery and medical research, specifically targeting complex diseases like cancer, and signals substantial venture capital interest in the health tech sector's potential to drive scientific breakthroughs.",
+        "category": "AI Regulation & Defense",
+        "title": "Anthropic Faces Setback in Pentagon 'Supply Chain Risk' Battle",
+        "summary": "A federal court has denied Anthropic's motion to lift its 'supply chain risk' label, marking a setback for the AI startup. This ruling is part of an ongoing legal battle with the Defense Department concerning the use of AI in warfare. The Pentagon's designation implies significant concerns about potential vulnerabilities or foreign influence within Anthropic's AI systems. This development highlights the intensifying scrutiny and regulatory challenges faced by AI companies, particularly when their technology has implications for national security and military applications.",
+        "link": "https://www.nytimes.com/2026/04/08/technology/anthropic-pentagon-risk-circuit-court.html"
+    },
+    {
+        "category": "AI & Cybersecurity",
+        "title": "AI Set to Revolutionize Cybersecurity Landscape",
+        "summary": "Artificial intelligence is poised to fundamentally transform the field of cybersecurity. New systems from leading AI companies like Anthropic and OpenAI are enabling hackers to execute attacks with significantly increased speed and sophistication. In response, the defense against these advanced threats is increasingly reliant on more AI, creating an escalating technological arms race. This dynamic suggests that AI will both amplify cyberattack capabilities and become an indispensable tool for developing robust defensive strategies in the evolving digital threat landscape.",
+        "link": "https://www.nytimes.com/2026/04/06/technology/ai-cybersecurity-hackers.html"
+    },
+    {
+        "category": "Global AI Competition",
+        "title": "China's DeepSeek AI Impresses Silicon Valley with Cost-Effective Models",
+        "summary": "DeepSeek AI, a Chinese upstart, is garnering significant attention and praise from Silicon Valley for its high-performing AI models. What makes DeepSeek particularly impressive is its claim to have trained these models cheaply, crucially without relying on the most advanced chips. This achievement challenges conventional wisdom regarding AI development and hardware requirements. The company's ability to deliver powerful AI with less advanced technology signals a potential shift in the global AI race, demonstrating innovative approaches to efficiency and resource utilization.",
+        "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology"
+    },
+    {
+        "category": "AI & Healthcare",
+        "title": "Reid Hoffman Backs AI Cancer Research Startup with $24.6M",
+        "summary": "LinkedIn co-founder Reid Hoffman has raised $24.6 million for his new AI cancer-research startup, Manas AI. He is launching the venture alongside Siddhartha Mukherjee, author of \"The Emperor of All Maladies.\" This significant funding underscores growing investor confidence in leveraging artificial intelligence for breakthroughs in drug discovery and medical research, specifically targeting cancer. The involvement of prominent tech and scientific figures highlights the interdisciplinary effort to accelerate advancements in personalized medicine and healthcare innovation.",
         "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology"
     },
     {
-        "category": "Geopolitical Cybersecurity & Economy",
-        "title": "Iran Conflict Escalates Cyber Threats, Endangers Water & Fuel Supplies",
-        "summary": "U.S. agencies warn that Iranian hackers have escalated tactics, targeting American critical infrastructure, including energy and water systems, in response to ongoing U.S.-Israel tensions. Concurrently, the conflict has increased the vulnerability of desalination plants supplying water across the Middle East. The potential closure of the Strait of Hormuz is also driving soaring fossil-fuel prices, with gasoline already topping $4 a gallon, threatening to impact the plastic industry. These developments highlight the severe and interconnected geopolitical, cybersecurity, and economic ramifications of the regional instability.",
-        "link": "https://techcrunch.com/2026/04/07/iranian-hackers-are-targeting-american-critical-infrastructure-u-s-agencies-warn/"
-    },
-    {
-        "category": "Cybersecurity Ethics & Social Issue",
-        "title": "Men Acquiring Hacking Tools for Nonconsensual Abuse",
-        "summary": "Reports reveal a disturbing trend where men are purchasing hacking tools, including spyware, for use against women and girls. These tools facilitate the sharing of thousands of nonconsensual images in Telegram groups, alongside engaging in doxing and sexual abuse. The easy availability and misuse of such technologies highlight a severe and growing ethical and legal crisis in digital privacy and personal security, with profound social implications concerning online harassment and exploitation.",
-        "link": "https://www.wired.com/story/men-are-buying-hacking-tools-to-use-against-their-wives-and-friends/"
-    },
-    {
-        "category": "Tech Economy & IPOs",
-        "title": "Musk Mandates Grok Subscription for Banks Advising SpaceX IPO",
-        "summary": "Elon Musk is reportedly requiring Wall Street firms interested in advising on SpaceX's initial public offering (IPO) to purchase subscriptions to his AI chatbot, Grok. This unusual mandate links access to one of the largest potential IPOs in history with the adoption of Musk's AI product. The move highlights an unconventional strategy to leverage high-demand financial opportunities to drive adoption and market presence for his other ventures, showcasing a unique intersection of finance and AI promotion.",
-        "link": "https://www.nytimes.com/2026/04/03/business/spacex-ipo-grok-elon-musk.html"
-    },
-    {
-        "category": "Space Infrastructure",
-        "title": "SpaceX's Ambition: Prerequisites for Orbital Data Centers Explored",
-        "summary": "Following SpaceX's FCC application to launch up to one million data centers into Earth\u2019s orbit, this piece outlines the complex requirements for successfully establishing such infrastructure in space. While specific details on the four prerequisites are not provided, the article highlights the significant technical, logistical, and regulatory challenges involved in realizing this ambitious undertaking. It underscores a futuristic vision for computing infrastructure, driven by demand for enhanced performance, energy efficiency, and global accessibility.",
-        "link": "https://www.technologyreview.com/2026/04/03/1135073/four-things-wed-need-to-put-data-centers-in-space/"
+        "category": "Meta AI Investment",
+        "title": "Meta to Dramatically Increase AI and Data Center Spending",
+        "summary": "Meta, the social media giant, plans to significantly increase its spending, projecting between $60 billion and $65 billion for investments in AI and massive data center infrastructure. This substantial commitment serves as the latest indication of an accelerating trend among tech companies to pour vast resources into artificial intelligence development. The expenditure highlights Meta's strategic focus on building robust foundational capabilities necessary to support its ambitious AI initiatives and competitive position in the evolving technological landscape.",
+        "link": "https://www.wsj.com/articles/meta-spending-ai-facebook-data-centers-9452a88f?mod=rss_Technology"
     }
 ];
