@@ -1,152 +1,152 @@
 window.NEWS_DATA = [
     {
-        "category": "Space & Defense Tech",
-        "title": "SpaceX Alum Builds 'Fighter Jet for Orbit'",
-        "summary": "A founder, previously instrumental in developing SpaceX's most powerful rocket engine, is now creating a 'fighter jet for orbit.' His new company, Portal, recently raised $50 million to develop a novel high-power rocket engine. This innovation is touted as a potential game-changer for the U.S. military, suggesting significant advancements in aerospace and defense capabilities. The focus is on a new type of rocket engine that could transform orbital operations and military applications.",
-        "link": "https://techcrunch.com/2026/04/09/portal-raises-50-million-to-build-a-new-kind-of-high-power-rocket-engine/"
+        "category": "AI Hardware",
+        "title": "Snap Boosts AI Glasses Development with Qualcomm Partnership",
+        "summary": "Snap is advancing its augmented reality glasses, Spectacles, through a new multi-year strategic agreement with Qualcomm. This partnership will power Snap's upcoming consumer AR glasses with Snapdragon XR chips, aiming for a launch this year. Snap has been developing smart glasses for a decade, with previous models like its camera-equipped Spectacles. The collaboration signals significant movement in the long-teased next version of its AI-powered eyewear.",
+        "link": "https://techcrunch.com/2026/04/10/snap-gets-closer-to-releasing-new-ai-glasses-after-years-long-hiatus/"
     },
     {
-        "category": "Advanced Materials & Geopolitics",
-        "title": "Plasma Reactors Challenge China's Rare Earth Dominance",
-        "summary": "Radify Metals is developing innovative 'sci-fi plasma reactors' designed to process a variety of metals, promising a pollution-free method. This technological advancement could significantly disrupt China's current dominance in the rare earth elements market. By offering a cleaner and potentially more accessible way to extract and refine these critical materials, Radify's technology holds the potential to reshape global supply chains and enhance resource independence for other nations, impacting strategic industries.",
-        "link": "https://techcrunch.com/2026/04/09/radifys-sci-fi-plasma-reactors-could-break-chinas-dominance-of-rare-earth-elements/"
+        "category": "AI Regulation & Ethics",
+        "title": "Florida AG Launches OpenAI Probe Over FSU Shooting Link",
+        "summary": "Florida Attorney General James Uthmeier has initiated an investigation into OpenAI, citing concerns over potential harm to minors, national security threats, and an alleged connection to a shooting at Florida State University last year. ChatGPT was reportedly used to plan the attack, which resulted in two deaths and five injuries. The family of one victim has indicated plans to sue OpenAI. Uthmeier also expresses worries about OpenAI's data and technology potentially falling into adversarial hands, such as the Chinese Communist Party.",
+        "link": "https://techcrunch.com/2026/04/09/florida-ag-to-probe-openai-alleging-possible-connection-to-fsu-shooting/"
     },
     {
-        "category": "Software Development & Platform Control",
-        "title": "Microsoft Locks WireGuard Developer Account, Halting Updates",
-        "summary": "The lead developer of WireGuard, a widely used open-source VPN, is unable to distribute software updates after Microsoft reportedly locked his account without prior notification. This incident marks the second time a high-profile developer has claimed Microsoft blocked their ability to push updates to users due to account access issues. The situation raises concerns within the open-source community regarding platform control, developer autonomy, and the potential impact on software security and maintenance for millions of users.",
-        "link": "https://techcrunch.com/2026/04/08/wireguard-vpn-developer-cant-ship-software-updates-after-microsoft-locks-account/"
+        "category": "AI Business Models",
+        "title": "OpenAI Unveils $100/Month ChatGPT Pro Plan",
+        "summary": "OpenAI has introduced a new $100 per month \"Pro\" subscription plan for ChatGPT, bridging the previous gap between its $20 per month Plus plan and an existing $200 per month Pro tier. This new offering provides \"5x more\" usage limits for its Codex coding tool compared to the Plus subscription, targeting power users and developers who require longer, high-effort coding sessions. The move aims to attract more developers and \"vibe coders\" to OpenAI's platform amidst increasing competition.",
+        "link": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/"
     },
     {
-        "category": "AI Accessibility",
-        "title": "Poke Simplifies AI Agent Use via Text Messaging",
-        "summary": "Poke is introducing a new platform that allows everyday users to interact with AI agents simply by sending a text message. This innovation aims to democratize access to AI agent capabilities by handling complex setups, app installations, and technical expertise requirements. Users can leverage AI agents for various tasks and automations without needing specialized knowledge, making advanced AI functionalities more readily available and integrated into daily communication.",
-        "link": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/"
+        "category": "AI Market Adoption",
+        "title": "Meta AI App Soars to Top 5 After Muse Spark Launch",
+        "summary": "The Meta AI app has climbed significantly on the App Store, reaching the No. 5 spot after the launch of Meta AI's new Muse Spark model. Prior to this, the app was ranked No. 57. This rapid ascent indicates strong user adoption and interest in Meta's latest AI offering. The new proprietary AI model, Muse Spark, is the first from Meta's Superintelligence Labs and has garnered attention despite reportedly lagging rivals in coding ability.",
+        "link": "https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/"
     },
     {
-        "category": "AI & Marketing Tech",
-        "title": "Canva Bolsters AI and Marketing Automation with Dual Acquisitions",
-        "summary": "Canva has announced the acquisition of Simtheory and Ortto, strategically enhancing its capabilities in artificial intelligence and marketing automation. The company stated that these acquisitions will add significant strengths in agentic AI, data infrastructure, marketing automation, and customer engagement. This move underscores Canva's commitment to expanding its AI-driven offerings and solidifying its position in the creative and marketing technology sectors, aiming to provide more sophisticated tools for its user base.",
-        "link": "https://techcrunch.com/2026/04/08/canva-doubles-down-on-ai-and-marketing-automation-with-simtheory-ortto-acquisitions/"
+        "category": "Societal Impact of AI",
+        "title": "Gen Z Expresses Growing Disillusionment with AI, Gallup Study Finds",
+        "summary": "A new Gallup report, based on responses from nearly 1,600 US individuals aged 14 to 29, reveals a growing disillusionment with AI among Gen Z. While half of young adults use AI, their feelings are souring, with many expressing less hope and more anger. The study suggests that the initial hype is wearing off as AI becomes more integrated into daily life, including school and work, despite Gen Z's continued usage of the technology.",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/909687/gen-z-doesnt-like-ai-gallup"
     },
     {
-        "category": "AI Investment Strategy",
-        "title": "AWS Defends Dual Investment in Anthropic and OpenAI",
-        "summary": "The head of Amazon Web Services (AWS) addressed the company's strategy of investing billions in both Anthropic and OpenAI, clarifying that this approach does not present an unacceptable conflict. He explained that AWS maintains an ingrained culture of managing competition, a necessity given that the cloud giant frequently competes with its own partners. This stance highlights AWS's operational philosophy regarding strategic investments in leading AI firms, balancing collaboration with competitive dynamics in the rapidly evolving AI landscape.",
-        "link": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/"
+        "category": "AI User Experience",
+        "title": "Microsoft Reduces Copilot Integration in Windows 11 Apps",
+        "summary": "Microsoft is beginning to remove \"unnecessary\" Copilot buttons from its Windows 11 applications. In the latest Notepad app for Windows Insiders, the Copilot button has been replaced by a \"writing tools\" menu. Similarly, the Copilot button in the Snipping Tool app no longer appears when users select an area. This adjustment indicates a refinement in Microsoft's approach to integrating its AI assistant, potentially aiming for a less obtrusive user experience.",
+        "link": "https://www.theverge.com/news/909640/microsoft-removing-copilot-windows-11-buttons"
     },
     {
-        "category": "Space Internet",
-        "title": "Amazon's Starlink Rival, Leo, Reschedules Commercial Launch",
-        "summary": "Amazon CEO Andy Jassy announced that the company's space-internet service, now named Leo (formerly Project Kuiper), will achieve \"proper commercial availability in mid-2026.\" This updates the previous timeline, which had anticipated an \"enterprise preview\" by the end of 2025, the service's original launch target. Leo aims to compete with SpaceX's Starlink, signaling Amazon's continued commitment to developing global satellite internet infrastructure and intensifying competition in the nascent space connectivity market.",
-        "link": "https://www.theverge.com/tech/909122/amazons-starlink-competitor-leo-gets-a-new-date"
+        "category": "AI Cybersecurity Breakthrough",
+        "title": "Anthropic's Mythos Autonomously Exploits Decades-Old OpenBSD Bug",
+        "summary": "Anthropic's Claude Mythos Preview autonomously discovered and exploited a 27-year-old bug within OpenBSD's TCP stack, a vulnerability that had eluded human auditors and fuzzers for decades. This discovery, which could crash any server running the operating system with just two packets, cost approximately $20,000 for the entire discovery campaign and under $50 for the specific model run. The incident highlights Mythos's advanced capability in identifying and exploiting complex security flaws, demonstrating a significant, non-incremental leap in AI-driven exploit writing.",
+        "link": "https://venturebeat.com/security/mythos-detection-ceiling-security-teams-new-playbook"
     },
     {
-        "category": "Generative AI & Creator Tools",
-        "title": "YouTube Shorts Introduces Easy Self-Deepfaking Feature",
-        "summary": "YouTube Shorts is rolling out a new AI-powered feature that allows creators to easily and realistically clone themselves on camera. This launch, previously hinted at, reflects YouTube's complex relationship with AI-generated content. While providing more generative capabilities to creators, the platform continues to contend with challenges such as AI \"slop,\" deepfake scams, and impersonations. The new tool highlights the evolving landscape of digital content creation and the dual nature of advanced AI technologies.",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/909104/youtube-shorts-make-ai-avatar"
+        "category": "AI Model Development",
+        "title": "Meta Unveils Muse Spark, First AI Model from Superintelligence Lab",
+        "summary": "Meta has unveiled its new proprietary AI model, Muse Spark, marking the first release since the formation of its Superintelligence Labs in summer 2025. This overhaul of Meta's AI operations followed mixed reviews of its previous Llama 4 model. Muse Spark reportedly performs better than Meta's earlier AI models, demonstrating an initial success for the new internal division, although it reportedly lags behind rivals in coding ability. The model's launch propelled the Meta AI app to No. 5 on the App Store.",
+        "link": "https://www.nytimes.com/2026/04/08/technology/meta-muse-spark-ai-model.html"
     },
     {
-        "category": "AI Policy & Regulation",
-        "title": "OpenAI's Economic Proposals Face Scrutiny in Washington",
-        "summary": "OpenAI has presented economic proposals, drawing attention and reactions from policymakers in Washington D.C. The article discusses the ongoing dialogue between the leading AI company and federal regulators, signaling the increasing focus on the economic implications and societal impact of artificial intelligence. This engagement highlights the complex relationship between rapidly advancing technology and the need for governmental understanding and potential regulatory frameworks to guide its development and deployment.",
-        "link": "https://www.theverge.com/column/908880/openai-made-economic-proposals-heres-what-dc-thinks-of-them"
-    },
-    {
-        "category": "AI Hardware & Privacy",
-        "title": "Ex-Apple Engineers Launch Privacy-Focused AI Wearable",
-        "summary": "Two former Apple Vision Pro developers have introduced a new AI wearable device designed to prioritize user privacy. Resembling an iPod Shuffle, the gadget only activates its listening function when physically tapped by the user. The creators aim to succeed in the crowded AI gadget market by addressing privacy concerns, a common stumbling block for other AI devices. This development signals a focus on user control and data security within the emerging field of intelligent personal hardware.",
-        "link": "https://www.wired.com/story/this-ai-button-wearable-from-ex-apple-engineers-looks-like-an-ipod-shuffle/"
-    },
-    {
-        "category": "AI Agents & AGI",
-        "title": "The Age of AI Agents Arrives, Bringing Both Power and Peril",
-        "summary": "The era of agentic AI is now upon us, marking a significant shift from simple question-answer chatbots to powerful autonomous systems. The advent of tools like Claude Cowork and OpenClaw, which has garnered substantial GitHub stars and is deployed with deep system access, intensifies fears of reaching artificial general intelligence (AGI). These agents can take autonomous actions, managing files and data like a personal robot, highlighting a new reality where AI systems increasingly operate independently, prompting existential debates on job security and the rise of machines.",
-        "link": "https://venturebeat.com/infrastructure/claude-openclaw-and-the-new-reality-ai-agents-are-here-and-so-is-the-chaos"
-    },
-    {
-        "category": "Meta AI Strategy",
-        "title": "Meta Unveils Proprietary AI Model Muse Spark, Shifts from Llama Focus",
-        "summary": "Meta has launched Muse Spark, a new proprietary AI model, marking its first release since the formation of its Superintelligence Labs in summer 2025. This move signifies a strategic shift for Meta, which previously gained a following with its open-source Llama LLM series. The change comes after Llama 4 received mixed reviews and admissions of benchmark inconsistencies. Muse Spark, while outperforming previous Meta models, reportedly lags rivals in coding ability, indicating Meta's renewed focus on internal AI development following a restructuring of its AI operations.",
-        "link": "https://venturebeat.com/technology/goodbye-llama-meta-launches-new-proprietary-ai-model-muse-spark-first-since"
-    },
-    {
-        "category": "AI & Digital Marketing",
-        "title": "Enterprises Neglect LLM Optimization as AI-Referred Traffic Soars",
-        "summary": "A new paradigm, Answer Engine Optimization (AEO) or Generative Engine Optimization (GEO), is emerging as AI agents become primary consumers of information, moving beyond traditional human search models. LLM-referred traffic is converting at a high rate of 30-40%, yet most enterprises are not optimizing for it. Unlike traditional SEO focused on keywords and clicks, AEO defines success by whether content is understood, selected, and cited by AI systems. This signals a critical need for businesses to adapt their digital strategies to remain relevant in an AI-dominated discovery landscape.",
-        "link": "https://venturebeat.com/technology/llm-referred-traffic-converts-at-30-40-and-most-enterprises-arent-optimizing"
-    },
-    {
-        "category": "AI Agent Development",
-        "title": "Memento-Skills Enables AI Agents to Self-Rewrite Without Retraining",
-        "summary": "Researchers have developed Memento-Skills, a novel framework addressing a significant challenge in deploying autonomous AI agents: enabling them to adapt to environmental changes without retraining their underlying large language models. This framework functions as an evolving external memory, allowing agents to progressively enhance their capabilities by developing and updating skills autonomously based on feedback. Memento-Skills adds continual learning to existing AI agent offerings, such as OpenClaw and Claude Code, thereby improving adaptability and reducing the need for extensive model retraining in dynamic environments.",
-        "link": "https://venturebeat.com/orchestration/new-framework-lets-ai-agents-rewrite-their-own-skills-without-retraining-the"
-    },
-    {
-        "category": "Fintech & AI Automation",
-        "title": "Block Unveils Managerbot, Proactive AI Agent for Square Businesses",
-        "summary": "Block has launched Managerbot, an AI agent embedded within the Square platform, designed to proactively monitor seller businesses. This new tool identifies emerging problems and suggests actionable solutions without requiring direct queries from the seller, representing a significant advancement over Square's previous reactive AI assistant. Managerbot serves as a tangible validation of CEO Jack Dorsey's vision for AI to fundamentally reshape Block's operations, product development, and service delivery to millions of small businesses.",
-        "link": "https://venturebeat.com/data/block-introduces-managerbot-a-proactive-square-ai-agent-and-the-clearest"
-    },
-    {
-        "category": "AI Infrastructure & Cloud",
-        "title": "Amazon S3 Files Unifies AI Agent Access to Object Storage",
-        "summary": "Amazon has introduced S3 Files, a solution addressing the challenge of AI agents accessing enterprise data stored in object storage systems like Amazon S3. Traditionally, AI agents operating on file systems faced issues with S3's API-based object access, leading to duplicated data and broken multi-agent pipelines. S3 Files allows any S3 bucket to be directly mounted into an agent\u2019s local environment with a single command, eliminating the need for data migration. This innovation enables agents to natively interact with S3 data using standard file system tools, improving efficiency.",
-        "link": "https://venturebeat.com/data/amazon-s3-files-gives-ai-agents-a-native-file-system-workspace-ending-the"
-    },
-    {
-        "category": "AI Safety & Cybersecurity",
-        "title": "Anthropic Withholds Powerful AI Cyber Model, Launches Project Glasswing",
-        "summary": "Anthropic has deemed its most powerful AI cyber model, Claude Mythos Preview, too dangerous for public release. Instead, the company initiated Project Glasswing, a comprehensive cybersecurity program. This initiative partners the unreleased frontier AI model with a coalition of twelve major technology and finance companies, including AWS, Apple, Google, Microsoft, and JPMorganChase. The goal is to proactively identify and patch software vulnerabilities across critical global infrastructure before they can be exploited by adversaries, highlighting the increasing concerns over AI's dual-use potential in cybersecurity.",
-        "link": "https://venturebeat.com/technology/anthropic-says-its-most-powerful-ai-cyber-model-is-too-dangerous-to-release"
-    },
-    {
-        "category": "AI & Information Integrity",
-        "title": "Google\u2019s AI Overviews: Accuracy Concerns Despite Authoritative Appearance",
-        "summary": "Google's AI-generated overviews, while appearing authoritative, draw information from a wide range of sources, including both trustworthy sites and less reliable platforms like Facebook posts. This diverse sourcing raises questions about the overall accuracy of these AI responses. The issue underscores the challenges in maintaining information integrity within AI-powered search results, as the systems synthesize data from varied origins, potentially presenting unverified content alongside established facts to users seeking reliable answers.",
+        "category": "AI Reliability & Trust",
+        "title": "Google's AI Overviews Face Scrutiny Over Accuracy",
+        "summary": "Concerns are being raised about the accuracy of Google's AI-generated answers, known as AI Overviews. While these answers appear authoritative, they reportedly draw on a wide array of sources, ranging from trustworthy websites to informal platforms like Facebook posts. This broad sourcing raises questions about the reliability and veracity of the information provided by Google's AI. The development highlights ongoing challenges in ensuring the factual integrity of AI-generated content.",
         "link": "https://www.nytimes.com/2026/04/07/technology/google-ai-overviews-accuracy.html"
     },
     {
-        "category": "AI & Software Development",
-        "title": "AI-Generated Code Leads to Industry Overload",
-        "summary": "Artificial intelligence has reportedly created a significant 'code overload' within the software development industry. Companies are now grappling with a glut of AI-generated code, indicating a new challenge stemming from increased AI-driven productivity. This phenomenon suggests that while AI can rapidly produce code, managing and integrating this output effectively presents a growing hurdle, potentially leading to bottlenecks and new demands on engineering resources as firms scramble to deal with the sheer volume.",
-        "link": "https://www.nytimes.com/2026/04/06/technology/ai-code-overload.html"
-    },
-    {
-        "category": "AI & Society",
-        "title": "Gen Z's AI Sentiment Declines Despite High Usage",
-        "summary": "A recent Gallup study reveals that while half of Generation Z utilizes artificial intelligence, their sentiments towards it are souring. The research indicates that young adults have become less hopeful and increasingly angry regarding AI. This shift in perception among a demographic often considered digitally native suggests growing anxieties or disillusionment with the technology, despite its widespread adoption. The findings highlight the evolving social and emotional landscape surrounding AI's integration into daily life, particularly among younger generations.",
-        "link": "https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html"
-    },
-    {
-        "category": "AI Regulation & Defense",
-        "title": "Anthropic Faces Setback in Pentagon 'Supply Chain Risk' Battle",
-        "summary": "A federal court has denied Anthropic's motion to lift its 'supply chain risk' label, marking a setback for the AI startup. This ruling is part of an ongoing legal battle with the Defense Department concerning the use of AI in warfare. The Pentagon's designation implies significant concerns about potential vulnerabilities or foreign influence within Anthropic's AI systems. This development highlights the intensifying scrutiny and regulatory challenges faced by AI companies, particularly when their technology has implications for national security and military applications.",
-        "link": "https://www.nytimes.com/2026/04/08/technology/anthropic-pentagon-risk-circuit-court.html"
-    },
-    {
-        "category": "AI & Cybersecurity",
-        "title": "AI Set to Revolutionize Cybersecurity Landscape",
-        "summary": "Artificial intelligence is poised to fundamentally transform the field of cybersecurity. New systems from leading AI companies like Anthropic and OpenAI are enabling hackers to execute attacks with significantly increased speed and sophistication. In response, the defense against these advanced threats is increasingly reliant on more AI, creating an escalating technological arms race. This dynamic suggests that AI will both amplify cyberattack capabilities and become an indispensable tool for developing robust defensive strategies in the evolving digital threat landscape.",
-        "link": "https://www.nytimes.com/2026/04/06/technology/ai-cybersecurity-hackers.html"
-    },
-    {
         "category": "Global AI Competition",
-        "title": "China's DeepSeek AI Impresses Silicon Valley with Cost-Effective Models",
-        "summary": "DeepSeek AI, a Chinese upstart, is garnering significant attention and praise from Silicon Valley for its high-performing AI models. What makes DeepSeek particularly impressive is its claim to have trained these models cheaply, crucially without relying on the most advanced chips. This achievement challenges conventional wisdom regarding AI development and hardware requirements. The company's ability to deliver powerful AI with less advanced technology signals a potential shift in the global AI race, demonstrating innovative approaches to efficiency and resource utilization.",
+        "title": "China's DeepSeek AI Gains Acclaim for Efficiency",
+        "summary": "A Chinese upstart, DeepSeek AI, is drawing significant attention in Silicon Valley for its high-performing AI models. The company claims it has trained these models cheaply, notably without relying on the most advanced chips. Despite using less-advanced hardware, DeepSeek is being described as \"amazing and impressive,\" underscoring China's progress in AI development and its ability to innovate with alternative strategies in the global tech race.",
         "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology"
     },
     {
-        "category": "AI & Healthcare",
-        "title": "Reid Hoffman Backs AI Cancer Research Startup with $24.6M",
-        "summary": "LinkedIn co-founder Reid Hoffman has raised $24.6 million for his new AI cancer-research startup, Manas AI. He is launching the venture alongside Siddhartha Mukherjee, author of \"The Emperor of All Maladies.\" This significant funding underscores growing investor confidence in leveraging artificial intelligence for breakthroughs in drug discovery and medical research, specifically targeting cancer. The involvement of prominent tech and scientific figures highlights the interdisciplinary effort to accelerate advancements in personalized medicine and healthcare innovation.",
+        "category": "AI in Healthcare",
+        "title": "Reid Hoffman Funds AI Cancer Research Startup Manas AI",
+        "summary": "LinkedIn co-founder Reid Hoffman has raised $24.6 million for his new AI cancer-research startup, Manas AI. He co-founded the venture with Siddhartha Mukherjee, author of \"The Emperor of All Maladies.\" This significant investment signals a growing trend of leveraging artificial intelligence for drug discovery and medical advancements, particularly in complex fields like cancer research. The startup aims to apply AI's analytical power to accelerate breakthroughs in oncology.",
         "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology"
     },
     {
-        "category": "Meta AI Investment",
-        "title": "Meta to Dramatically Increase AI and Data Center Spending",
-        "summary": "Meta, the social media giant, plans to significantly increase its spending, projecting between $60 billion and $65 billion for investments in AI and massive data center infrastructure. This substantial commitment serves as the latest indication of an accelerating trend among tech companies to pour vast resources into artificial intelligence development. The expenditure highlights Meta's strategic focus on building robust foundational capabilities necessary to support its ambitious AI initiatives and competitive position in the evolving technological landscape.",
+        "category": "Tech Investment",
+        "title": "Meta to Invest Up to $65 Billion in AI and Data Centers",
+        "summary": "Meta plans a massive capital expenditure of between $60 billion and $65 billion, primarily driven by accelerated investments into artificial intelligence and the expansion of its data center infrastructure. This substantial spending commitment reflects the social-media giant's strategic pivot towards AI and its determination to build the necessary computational backbone. It represents the latest evidence of major tech companies significantly increasing their financial outlays in the burgeoning AI sector.",
         "link": "https://www.wsj.com/articles/meta-spending-ai-facebook-data-centers-9452a88f?mod=rss_Technology"
+    },
+    {
+        "category": "AI Agent Development",
+        "title": "Rise of Autonomous AI Agents Ushers in New Era",
+        "summary": "The advent of powerful autonomous AI agents like Claude Cowork and OpenClaw signifies the arrival of the \"agentic AI\" age, moving beyond simple question-answer chatbots. These agents, which can be deployed on local machines with deep system access, are capable of executing entire workflows autonomously. OpenClaw, for instance, has rapidly gained GitHub stars, underscoring the swift adoption and potential for both significant utility and unforeseen challenges, or \"chaos,\" as these highly independent systems become more prevalent.",
+        "link": "https://venturebeat.com/infrastructure/claude-openclaw-and-the-new-reality-ai-agents-are-here-and-so-is-the-chaos"
+    },
+    {
+        "category": "AI Business Strategy",
+        "title": "Enterprises Miss High Conversion Rates from LLM-Referred Traffic",
+        "summary": "Digital discovery is shifting from traditional search-scan-click models to a new paradigm driven by AI agents, resulting in answer engine optimization (AEO) or generative engine optimization (GEO). LLM-referred traffic reportedly converts at a high rate of 30-40%, yet most enterprises are not optimizing for this new channel. AI agents interpret web content differently than humans, requiring a focus on content being understood, selected, and cited by AI systems rather than just rankings and clicks. Companies need to adapt their strategies to this evolving landscape.",
+        "link": "https://venturebeat.com/technology/llm-referred-traffic-converts-at-30-40-and-most-enterprises-arent-optimizing"
+    },
+    {
+        "category": "AI Agent Innovation",
+        "title": "New Framework Enables AI Agents to Self-Improve Skills",
+        "summary": "Researchers have developed Memento-Skills, a novel framework that allows AI agents to autonomously develop and rewrite their own skills without requiring retraining of the underlying large language models (LLMs). This framework acts as an evolving external memory, facilitating continual learning and allowing the system to progressively enhance its capabilities by receiving feedback. This breakthrough addresses a major challenge in deploying autonomous agents, enabling them to adapt to environmental changes and optimize processes dynamically, distinguishing it from existing offerings like OpenClaw and Claude Code.",
+        "link": "https://venturebeat.com/orchestration/new-framework-lets-ai-agents-rewrite-their-own-skills-without-retraining-the"
+    },
+    {
+        "category": "AI in Business",
+        "title": "Block Launches Managerbot, a Proactive AI Agent for Square",
+        "summary": "Block has introduced Managerbot, a new AI agent integrated into the Square platform, marking a significant step in Jack Dorsey's AI strategy. Managerbot proactively monitors a seller's business, identifies emerging issues, and proposes actionable solutions without requiring direct queries. This product represents a departure from Square's previous reactive chatbot assistant, showcasing a shift towards autonomous, proactive AI. Managerbot is positioned as a key manifestation of AI's potential to fundamentally reshape how Block operates and serves its small business customers.",
+        "link": "https://venturebeat.com/data/block-introduces-managerbot-a-proactive-square-ai-agent-and-the-clearest"
+    },
+    {
+        "category": "AI Geopolitics & Regulation",
+        "title": "Federal Court Upholds 'Supply Chain Risk' Label for Anthropic",
+        "summary": "A federal court has denied Anthropic's motion to lift its \"supply chain risk\" label, delivering a setback for the artificial intelligence startup. This ruling comes amid Anthropic's ongoing dispute with the Defense Department concerning the use of AI in warfare. The decision highlights the increasing scrutiny and regulatory challenges faced by AI companies, particularly when their technologies have potential defense implications or are deemed critical for national security, impacting their ability to operate freely.",
+        "link": "https://www.nytimes.com/2026/04/08/technology/anthropic-pentagon-risk-circuit-court.html"
+    },
+    {
+        "category": "AI Safety & Ethics",
+        "title": "AI Models Too Risky for Public Release, Researchers Warn",
+        "summary": "Some AI models are deemed \"too scary to release\" by developers, indicating growing concerns around the potential negative impacts and safety implications of advanced artificial intelligence. The existence of such models underscores the ethical dilemmas and challenges faced by the AI community in balancing innovation with responsibility. This suggests a cautious approach to deployment, as researchers work to understand and mitigate risks associated with powerful AI capabilities before making them publicly available.",
+        "link": "https://www.technologyreview.com/2026/04/10/1135618/the-download-jeff-vandermeer-short-story-and-ai-models-too-danger-to-release/"
+    },
+    {
+        "category": "AI Industry Outlook",
+        "title": "Mustafa Suleyman Predicts Continued Exponential AI Growth",
+        "summary": "Mustafa Suleyman asserts that AI development will not plateau anytime soon, emphasizing the exponential nature of AI's core trends. He argues that human intuition, which is evolved for a linear world, catastrophically fails when confronting the rapid, non-linear progression of artificial intelligence. This perspective suggests that the industry should anticipate continued, significant advancements and breakthroughs, challenging linear predictions for AI's future. His insights highlight the transformative potential still ahead for AI technology.",
+        "link": "https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/"
+    },
+    {
+        "category": "Social Media & Digital Rights",
+        "title": "EFF Exits X Citing Declining Traffic and Platform Viability",
+        "summary": "The Electronic Frontier Foundation (EFF), a digital privacy nonprofit, has announced its departure from X, effective Thursday. The organization cited a sharp decline in platform views over the past several years as a primary reason. The EFF follows various news organizations and other entities that no longer consider X a viable source of traffic. This move underscores ongoing concerns about the platform's utility and reach for public interest groups and media.",
+        "link": "https://techcrunch.com/2026/04/09/eff-is-the-latest-organization-to-leave-x/"
+    },
+    {
+        "category": "Consumer Protection",
+        "title": "StubHub to Pay $10M for Deceptive Ticket Pricing, Settles FTC Case",
+        "summary": "StubHub has agreed to pay $10 million to settle allegations from the Federal Trade Commission (FTC) regarding \"deceptive\" ticket pricing. The FTC accused the company of violating the FTC Act and its Rule on Unfair or Deceptive Fees by advertising ticket prices on its website without clearly disclosing the total cost, including all mandatory fees, upfront. This settlement reinforces regulatory efforts to ensure transparent pricing practices in online marketplaces and protect consumers from hidden charges.",
+        "link": "https://techcrunch.com/2026/04/09/stubhub-to-pay-10m-to-settle-ftc-allegations-over-deceptive-ticket-pricing/"
+    },
+    {
+        "category": "Cybersecurity Incidents",
+        "title": "$10B Startup Mercor Faces Fallout After Data Breach",
+        "summary": "Mercor, a startup valued at $10 billion, is facing significant repercussions following a recent data breach. The company is now confronting multiple lawsuits and is reportedly losing major customers as a result of the hacker incident. This situation highlights the severe financial and reputational damage that cybersecurity breaches can inflict on even highly valued tech companies, leading to legal challenges and erosion of customer trust.",
+        "link": "https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/"
+    },
+    {
+        "category": "Automotive Industry Trends",
+        "title": "Volkswagen Halts US ID.4 EV Production, Shifts to Gas SUVs",
+        "summary": "Volkswagen is discontinuing production of its all-electric ID.4 in the US, pivoting its resources at the Chattanooga factory towards the upcoming Atlas SUV, a gasoline-powered model. This move signifies a broader strategic shift, as the German carmaker becomes the latest to scale back electric vehicle plans in favor of internal combustion engine models. The decision reflects evolving market demands and Volkswagen's adjustment to its EV production strategy in the US.",
+        "link": "https://techcrunch.com/2026/04/09/volkswagen-drops-all-electric-id-4-in-the-us-in-pivot-back-to-gas-suvs/"
+    },
+    {
+        "category": "Streaming Services",
+        "title": "YouTube Premium Subscription Prices Increase in US",
+        "summary": "YouTube Premium is implementing price increases in the US, with standard individual accounts rising by $2 and family plans increasing by as much as $4. The individual plan now costs $15.99 per month. This price hike is already in effect for new accounts and is being rolled out to existing customers. The adjustment reflects ongoing trends in the streaming industry where platforms are raising subscription fees to offset costs and enhance profitability.",
+        "link": "https://www.theverge.com/streaming/909698/youtube-premium-price-hike-us"
+    },
+    {
+        "category": "Tech Regulation & Consumer Rights",
+        "title": "John Deere Settles Right-to-Repair Lawsuit for $99 Million",
+        "summary": "John Deere has agreed to pay $99 million to resolve a class action lawsuit accusing the agricultural giant of restricting farmers' and mechanics' access to essential repair materials for equipment. As part of the proposed settlement, John Deere will make repair resources available. This agreement marks a significant development in the ongoing \"right-to-repair\" movement, setting a precedent for manufacturers to provide access to diagnostic tools and information, thereby empowering equipment owners to conduct their own repairs.",
+        "link": "https://www.theverge.com/policy/909524/john-deere-class-action-settlement-farmers"
     }
 ];
