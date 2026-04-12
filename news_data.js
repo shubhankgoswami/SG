@@ -1,146 +1,152 @@
 window.NEWS_DATA = [
     {
-        "category": "Space Exploration",
-        "title": "Artemis II Mission Successfully Returns to Earth",
-        "summary": "NASA's Artemis II mission, carrying astronauts Reid Wiseman, Victor Glover, Christina Koch, and Jeremy Hansen, successfully returned to Earth, splashing down in the Pacific Ocean off San Diego. The Orion capsule completed a nine-day mission, setting a new record for the farthest distance humans have traveled from our planet, marking a 'perfect' landing.",
-        "link": "https://techcrunch.com/2026/04/10/nasa-artemis-ii-landing-pacific-ocean-splash-down/"
+        "category": "AI Leadership & Security",
+        "title": "OpenAI CEO Sam Altman Addresses Home Attack and New Yorker Profile",
+        "summary": "OpenAI CEO Sam Altman has released a new blog post addressing an apparent attack on his home and responding to an in-depth New Yorker profile. The profile had raised questions about his trustworthiness, making his public statement crucial for addressing both the personal security incident and the reputational challenges he faces within the high-stakes artificial intelligence industry.",
+        "link": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/"
     },
     {
-        "category": "Tech Economy",
-        "title": "Battery Recycler Ascend Elements Files for Bankruptcy",
-        "summary": "Ascend Elements, a battery recycling company, has filed for Chapter 11 bankruptcy. This decision follows the cancellation of a government grant and significant challenges within the market for lithium-ion batteries.",
-        "link": "https://techcrunch.com/2026/04/10/battery-recycler-ascend-elements-files-for-bankruptcy/"
+        "category": "AI Hardware & Investment",
+        "title": "SiFive Achieves $3.65 Billion Valuation for Open AI Chips",
+        "summary": "Nvidia-backed SiFive has achieved a $3.65 billion valuation for its innovative open AI chip designs. This significant investment highlights a growing industry trend towards diverse chip architectures, particularly given that SiFive's designs are based on RISC-V, distinguishing them from the more prevalent x86 or ARM architectures. This signals an important development in the competitive landscape of specialized AI hardware.",
+        "link": "https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-3-65-billion-valuation-for-open-ai-chips/"
     },
     {
-        "category": "AI Ethics & Legal",
-        "title": "OpenAI Sued Over ChatGPT's Role in Stalking Case",
-        "summary": "OpenAI faces a new lawsuit from a stalking victim who alleges the company ignored three warnings, including its own mass-casualty flag, about a dangerous ChatGPT user. The lawsuit claims that ChatGPT fueled the abuser\u2019s delusions while he stalked and harassed his ex-girlfriend.",
+        "category": "AI Ethics & Developer Relations",
+        "title": "Anthropic Temporarily Bans OpenClaw Creator Over Claude Access",
+        "summary": "Anthropic temporarily banned the creator of OpenClaw from accessing its Claude AI service. This ban followed a recent change in Claude's pricing structure specifically for OpenClaw users last week. The incident underscores the complex and sometimes contentious relationship between large AI model providers and the developers who build applications on their platforms, highlighting potential governance challenges in the evolving AI agent ecosystem.",
+        "link": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/"
+    },
+    {
+        "category": "AI Ethics & Legal Challenges",
+        "title": "OpenAI Sued Over ChatGPT's Alleged Role in Stalking Case",
+        "summary": "OpenAI is facing a new lawsuit from a stalking victim who alleges that ChatGPT fueled her abuser\u2019s delusions and that the company ignored three explicit warnings about the user\u2019s dangerous behavior, including its own internal mass-casualty flag. The suit raises critical questions about OpenAI's responsibility in monitoring user interactions, mitigating harm, and implementing effective safety protocols against the misuse of its powerful AI technologies.",
         "link": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/"
     },
     {
-        "category": "Global Tech Policy",
-        "title": "France Ditching Windows for Linux to Reduce US Tech Reliance",
-        "summary": "France is moving to replace Windows with Linux, marking its latest strategic effort to decrease its reliance on major American technology companies. This initiative reflects a broader trend among nations seeking digital sovereignty.",
-        "link": "https://techcrunch.com/2026/04/10/france-to-ditch-windows-for-linux-to-reduce-reliance-on-us-tech/"
+        "category": "AI Development & Competition",
+        "title": "The Intensifying Competition in AI Code Generation",
+        "summary": "The competitive landscape for AI-driven code generation, dubbed the 'AI code wars,' is intensifying. Writing code has emerged as a 'killer app' for artificial intelligence, driving significant competition among leading AI developers such as OpenAI, Google, and Anthropic. This escalating race to develop superior AI coding capabilities is poised to profoundly impact software development workflows and the broader tech industry ecosystem.",
+        "link": "https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic"
     },
     {
-        "category": "Tech Investment",
-        "title": "Fusion Energy Startups Attract Billions in Funding",
-        "summary": "Fusion startups have collectively raised $7.1 billion in funding to date. The majority of this substantial investment has been concentrated among a limited number of companies, highlighting significant investor interest in the emerging fusion energy sector.",
-        "link": "https://techcrunch.com/2026/04/10/every-fusion-startup-that-has-raised-over-100m/"
+        "category": "Autonomous Vehicles & Regulation",
+        "title": "Netherlands Becomes First EU Nation to Approve Tesla's Supervised FSD",
+        "summary": "Dutch regulators, the RDW, have officially approved Tesla's Full Self-Driving (FSD) Supervised feature after over 18 months of testing. This landmark decision makes the Netherlands the first European country to authorize FSD on its roads, potentially paving the way for wider adoption and regulatory acceptance of Tesla's autonomous driving technology across the European Union.",
+        "link": "https://www.theverge.com/transportation/910717/netherlands-tesla-supervised-full-self-driving"
     },
     {
-        "category": "Tech Innovation",
-        "title": "Donut Lab Claims Solid-State Battery Breakthrough",
-        "summary": "Finnish startup Donut Lab, a spinoff of Verge Motorcycles, has announced it has solved solid-state batteries, long considered the 'Holy Grail of batteries' due to their high-density, durable, and fast-charging capabilities. The company plans to begin production later this year, potentially impacting the EV market, especially in China.",
-        "link": "https://www.theverge.com/transportation/909480/solid-state-battery-donut-lab-ev-china/"
-    },
-    {
-        "category": "AI Industry & Security",
-        "title": "Molotov Cocktail Thrown at OpenAI CEO Sam Altman's Home",
-        "summary": "A 20-year-old man was arrested in San Francisco for allegedly throwing a Molotov cocktail at OpenAI CEO Sam Altman's Russian Hill house early Friday morning. The incident, which burned an exterior gate and was caught on surveillance, was followed by the suspect making threats outside OpenAI's offices later that day.",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail"
-    },
-    {
-        "category": "AI Security",
-        "title": "Zero Trust Architecture Advocated for AI Agents",
-        "summary": "Multiple keynotes at RSAC 2026, including from Microsoft and Cisco, converged on the need to extend zero trust principles to AI, advocating for a shift from access control to action control for AI agents. Experts noted that agents are 'supremely intelligent, but with no fear of consequence,' underscoring AI governance as a critical enterprise technology gap.",
+        "category": "AI Security & Architecture",
+        "title": "Industry Leaders Advocate for Zero Trust in AI Agent Security",
+        "summary": "During RSAC 2026, keynotes from Microsoft, Cisco, CrowdStrike, and Splunk highlighted a consensus: zero trust principles must extend to AI agents. Executives advocated for a shift from traditional access control to 'action control' for AI, citing agents' 'supremely intelligent, but with no fear of consequence' behavior. This signals the critical need for new identity and governance frameworks to secure AI systems against untrusted code and potential vulnerabilities.",
         "link": "https://venturebeat.com/security/ai-agent-zero-trust-architecture-audit-credential-isolation-anthropic-nvidia-nemoclaw"
     },
     {
-        "category": "AI Applications & Enterprise",
-        "title": "Intuit Leverages AI for Rapid Tax Code Implementation",
-        "summary": "Intuit's TurboTax team utilized AI to transform months of tax code implementation into hours, responding to a 900-page unstructured 'One Big Beautiful Bill' with no standardized schema or published IRS forms. Their workflow, combining commercial AI tools, a proprietary domain-specific language, and a custom unit test framework, allowed for rapid, accurate implementation, setting a template for other regulated industries.",
+        "category": "AI Applications & Enterprise Efficiency",
+        "title": "Intuit Leverages AI to Drastically Accelerate Tax Code Implementation",
+        "summary": "Intuit\u2019s TurboTax team leveraged AI to condense months of tax code implementation into hours, addressing a 900-page unstructured bill with an urgent shipping deadline. They developed a unique workflow combining commercial AI tools, a proprietary domain-specific language, and a custom unit test framework. This innovative approach offers a robust template for any regulated-industry development team aiming to achieve rapid and accurate compliance using AI.",
         "link": "https://venturebeat.com/data/intuit-compressed-months-of-tax-code-implementation-into-hours-and-built-a"
     },
     {
-        "category": "AI Economy & Product Strategy",
-        "title": "OpenAI Launches $100 ChatGPT Pro Tier with Enhanced Codex Limits",
-        "summary": "OpenAI has introduced a new $100 monthly ChatGPT Pro plan, offering five times greater usage limits for its Codex model compared to the existing $20 monthly Plus plan. This strategic move aims to attract more developers and 'vibe coders' who build software using AI models and natural language, intensifying competition with rivals like Anthropic.",
+        "category": "AI Business Model & Strategy",
+        "title": "OpenAI Unveils $100 ChatGPT Pro Tier with Enhanced Codex Usage",
+        "summary": "OpenAI has introduced a new $100 ChatGPT Pro subscription tier, specifically designed to appeal to developers and 'vibe coders.' This mid-range plan offers a significant advantage with five times greater usage limits for Codex compared to the existing Plus tier. The move is seen as a strategic effort by OpenAI to further court the developer community and intensify its competitive position against rivals like Anthropic.",
         "link": "https://venturebeat.com/orchestration/openai-introduces-chatgpt-pro-usd100-tier-with-5x-usage-limits-for-codex"
     },
     {
-        "category": "AI Breakthroughs & Cybersecurity",
-        "title": "Anthropic's Mythos AI Autonomously Finds Critical Vulnerabilities",
-        "summary": "Anthropic's Claude Mythos Preview autonomously discovered a 27-year-old bug in OpenBSD\u2019s TCP stack, which had eluded human auditors and fuzzers, costing under $50 for the specific model run. This demonstrates a 90x improvement in exploit writing over Claude Opus 4.6 on Firefox, leading Anthropic to claim Mythos represents a cybersecurity 'reckoning' and is being explored by 40 companies for attack prevention.",
+        "category": "AI Cybersecurity Breakthrough",
+        "title": "Anthropic's Mythos AI Autonomously Finds 27-Year-Old OS Vulnerability",
+        "summary": "Anthropic\u2019s Claude Mythos Preview autonomously discovered and exploited a 27-year-old bug within OpenBSD\u2019s TCP stack that had evaded extensive human review and fuzzing, costing under $50 for the specific model run. This breakthrough represents a 90x improvement in exploit writing compared to Claude Opus 4.6, signaling a major 'capability jump.' Security teams are now urged to adopt new detection playbooks to counter such advanced AI-driven threats.",
         "link": "https://venturebeat.com/security/mythos-detection-ceiling-security-teams-new-playbook"
     },
     {
-        "category": "AI Agents & Safety",
+        "category": "AI Agents & Industry Impact",
         "title": "The Age of AI Agents Brings Both Potential and Chaos",
-        "summary": "The era of agentic AI is here, marked by the emergence of powerful autonomous agents like Claude Cowork and OpenClaw, which has garnered over 150,000 GitHub stars and is being deployed on local machines with deep system access. This rapid advancement is fueling both excitement over capabilities and existential debates about job security and the potential for a 'rise of the machines'.",
+        "summary": "The advent of agentic AI is creating a new reality marked by both potential and chaos, exemplified by autonomous agents like Claude Cowork and OpenClaw. OpenClaw, with its rapid adoption and deep system access, functions akin to a 'robot maid' granted extensive autonomy over files and data. This shift from simple Q&A to agents taking independent actions sparks existential debates on job security and control, necessitating careful management of these powerful AI tools.",
         "link": "https://venturebeat.com/infrastructure/claude-openclaw-and-the-new-reality-ai-agents-are-here-and-so-is-the-chaos"
     },
     {
-        "category": "AI Breakthroughs & Tech Giant Strategy",
-        "title": "Meta Unveils Muse Spark, New Proprietary AI Model",
-        "summary": "Meta has launched Muse Spark, its first new proprietary AI model since overhauling its AI operations and forming Superintelligence Labs in summer 2025 following mixed reviews of Llama 4. Muse Spark demonstrates improved performance over Meta's previous AI models, though it currently lags behind rivals in coding ability.",
+        "category": "AI Development & Meta Strategy",
+        "title": "Meta Debuts Proprietary AI Model Muse Spark, Shifting from Llama",
+        "summary": "Meta has launched Muse Spark, its first proprietary AI model since the establishment of Superintelligence Labs in summer 2025. This move follows mixed reviews and admissions of 'gaming benchmarks' for its Llama 4 release, which spurred a complete overhaul of Meta\u2019s AI operations. Muse Spark signifies a strategic pivot from the predominantly open-source Llama family, indicating a new direction for Meta's AI development initiatives.",
         "link": "https://venturebeat.com/technology/goodbye-llama-meta-launches-new-proprietary-ai-model-muse-spark-first-since"
     },
     {
-        "category": "AI Economy & Digital Marketing",
-        "title": "Answer Engine Optimization (AEO) Emerges for AI-Driven Discovery",
-        "summary": "A new paradigm, Answer Engine Optimization (AEO) or Generative Engine Optimization (GEO), is emerging as AI agents become the primary consumers of online information. This shift moves beyond traditional SEO, where success is now defined by whether content is understood, selected, and cited by AI systems, rather than solely by human rankings and clicks, necessitating a new approach for enterprises.",
+        "category": "Digital Marketing & AI Impact",
+        "title": "Enterprises Lag in Optimizing for High-Converting LLM-Referred Traffic",
+        "summary": "A new paradigm, Answer Engine Optimization (AEO) or Generative Engine Optimization (GEO), is emerging as AI agents become primary consumers of information. LLM-referred traffic exhibits high conversion rates of 30-40%, yet most enterprises are not optimizing for this. Success in this AI-driven environment is defined by content being understood, selected, and cited by AI systems, rendering traditional keyword-based SEO models increasingly insufficient for digital discovery.",
         "link": "https://venturebeat.com/technology/llm-referred-traffic-converts-at-30-40-and-most-enterprises-arent-optimizing"
     },
     {
-        "category": "AI Policy & Geopolitics",
-        "title": "Anthropic's 'Supply Chain Risk' Label Upheld by Federal Court",
-        "summary": "A federal court has denied Anthropic\u2019s motion to lift a 'Supply Chain Risk' label, a setback for the artificial intelligence startup in its ongoing battle with the Defense Department. The dispute centers on the government\u2019s classification and use of AI in warfare.",
+        "category": "AI Leadership & Security",
+        "title": "OpenAI CEO Sam Altman's Home Attacked with Molotov Cocktail",
+        "summary": "A Molotov cocktail was thrown at the San Francisco home of Sam Altman, OpenAI's CEO, resulting in an exterior gate being burned. Police have arrested a suspect, though it remains unclear if Altman was present during the incident. This serious security breach targeting a leading figure in artificial intelligence highlights growing concerns regarding personal safety and potential threats within the high-profile tech industry.",
+        "link": "https://www.nytimes.com/2026/04/10/us/open-ai-sam-altman-molotov-cocktail.html"
+    },
+    {
+        "category": "AI Regulation & Geopolitics",
+        "title": "Anthropic Faces Setback in Military AI with Denied 'Supply Chain Risk' Label Removal",
+        "summary": "A federal court has denied Anthropic's motion to lift a 'supply chain risk' label, marking a significant legal setback for the artificial intelligence startup in its ongoing dispute with the Defense Department. This ruling has broad implications for the adoption and integration of AI technologies in military applications, potentially affecting Anthropic's future government contracts and broader involvement in defense-related AI initiatives.",
         "link": "https://www.nytimes.com/2026/04/08/technology/anthropic-pentagon-risk-circuit-court.html"
     },
     {
-        "category": "Tech Economy & Industry Shift",
-        "title": "Volkswagen Halts EV Production at Tennessee Plant",
-        "summary": "Volkswagen announced it will cease electric vehicle production at its Tennessee plant. The German carmaker is the latest in the industry to scale back its plans for electric vehicles, opting instead to prioritize the manufacturing of gasoline-powered models.",
+        "category": "Geopolitics & AI Military",
+        "title": "Global Powers Accelerate AI Weapons Development, Echoing Nuclear Era",
+        "summary": "The global contest over artificial-intelligence-backed weapons and military systems is escalating, with nations like China, the U.S., and Russia ramping up their efforts. This intensifying buildup is being critically compared to the dawn of the nuclear weapons age. The trend signifies a profound major global shift in defense strategies, demanding executive attention to its wide-ranging geopolitical and strategic implications.",
+        "link": "https://www.nytimes.com/2026/04/12/technology/china-russia-us-ai-weapons.html"
+    },
+    {
+        "category": "Automotive Industry & Tech Economy",
+        "title": "Volkswagen Halts EV Production in Tennessee, Shifts to Gasoline Models",
+        "summary": "Volkswagen has announced it will cease electric vehicle production at its Tennessee plant, opting instead to focus on gasoline models. This decision positions the German carmaker as the latest in a series of manufacturers to scale back their initial electric vehicle ambitions. This strategic pivot signals potential industry-wide challenges or shifting market dynamics affecting the pace and direction of EV adoption.",
         "link": "https://www.nytimes.com/2026/04/09/business/volkswagen-electric-vehicles-id4-chattanooga.html"
     },
     {
-        "category": "AI Ethics & Information Quality",
-        "title": "Accuracy Concerns Raised Over Google's AI Overviews",
-        "summary": "Questions are being raised about the accuracy of Google\u2019s AI-generated answers, known as AI Overviews. While these answers appear authoritative, they draw information from a diverse array of sources, ranging from highly trustworthy websites to less reliable platforms like Facebook posts.",
+        "category": "AI Ethics & Search",
+        "title": "Google's AI Overviews Raise Concerns Over Accuracy and Source Reliability",
+        "summary": "Concerns are rising over the accuracy of Google\u2019s AI-generated answers, termed 'A.I. Overviews.' While they appear authoritative, these summaries draw upon a diverse range of sources, including both highly credible websites and less reliable content like Facebook posts. This poses a challenge in discerning the trustworthiness of AI-provided information, underscoring the complexities of ensuring quality in AI-driven search results.",
         "link": "https://www.nytimes.com/2026/04/07/technology/google-ai-overviews-accuracy.html"
     },
     {
-        "category": "AI Development & Tech Economy",
-        "title": "AI Creating Code Overload for Companies",
-        "summary": "Artificial intelligence has led to a 'code overload,' generating a significant glut of code. Companies are now actively scrambling to manage and deal with this rapidly increasing volume of AI-generated programming.",
-        "link": "https://www.nytimes.com/2026/04/06/technology/ai-code-overload.html"
+        "category": "AI Development & Geopolitics",
+        "title": "China's DeepSeek AI Achieves High Performance with Less Advanced Chips",
+        "summary": "DeepSeek AI, a Chinese upstart, claims to have developed high-performing AI models cost-effectively, remarkably achieving this without utilizing the most advanced chips. This development is significant in the context of the global AI landscape, suggesting potential pathways for advanced AI development that could bypass current reliance on cutting-edge semiconductor technology, impacting international competition and tech-related sanctions.",
+        "link": "https://www.wsj.com/articles/deepseek-ai-china-tech-stocks-explained-ee6cc80e?mod=rss_Technology"
     },
     {
-        "category": "AI Geopolitics & Breakthroughs",
-        "title": "China's DeepSeek AI Impresses Silicon Valley with Efficient Performance",
-        "summary": "China's DeepSeek AI is garnering significant attention and praise in Silicon Valley for its ability to train high-performing AI models cost-effectively. Despite utilizing less advanced chips, the model is described as 'amazing and impressive,' showcasing a notable achievement in AI development efficiency.",
-        "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology"
-    },
-    {
-        "category": "AI Investment & Healthcare",
-        "title": "Reid Hoffman Funds AI Cancer Research Startup",
-        "summary": "LinkedIn co-founder Reid Hoffman has raised $24.6 million for his new venture, Manas AI. This startup is focused on cancer research and is co-founded with Siddhartha Mukherjee, author of 'The Emperor of All Maladies'.",
+        "category": "AI Investment & Biotech",
+        "title": "Reid Hoffman Backs AI Cancer Research Startup with $24.6 Million",
+        "summary": "LinkedIn co-founder Reid Hoffman has secured $24.6 million for Manas AI, his new startup dedicated to AI-driven cancer research. Hoffman is collaborating with Siddhartha Mukherjee, author of 'The Emperor of All Maladies,' on this venture. The substantial funding underscores a growing trend of significant investment in artificial intelligence applications aimed at accelerating drug discovery and transforming critical healthcare sectors like oncology.",
         "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology"
     },
     {
         "category": "Tech Economy & AI Investment",
-        "title": "Meta Plans Massive AI and Data Center Spending Surge",
-        "summary": "Meta plans to spend between $60 billion and $65 billion on artificial intelligence and massive data centers. This substantial investment signifies the accelerating trend of tech companies dedicating significant capital to AI development and supporting infrastructure.",
+        "title": "Meta to Dramatically Increase Spending on AI and Data Centers",
+        "summary": "Meta plans to invest between $60 billion and $65 billion, primarily allocated to artificial intelligence initiatives and the construction of massive data centers. This substantial capital commitment serves as the latest and clearest indication of technology companies' escalating investments into AI. It highlights an industry-wide acceleration in building the infrastructure and capabilities necessary to drive future AI advancements and applications.",
         "link": "https://www.wsj.com/articles/meta-spending-ai-facebook-data-centers-9452a88f?mod=rss_Technology"
     },
     {
-        "category": "AI Safety",
-        "title": "Existence of 'Too Scary to Release' AI Models Revealed",
-        "summary": "The existence of AI models that are considered 'too scary to release' has come to light. This highlights significant ongoing concerns within the AI development community regarding the potential risks and unforeseen consequences of advanced artificial intelligence.",
+        "category": "AI Research & Ethics",
+        "title": "Report Highlights AI Models Deemed 'Too Scary to Release'",
+        "summary": "The latest 'The Download' newsletter references the existence of 'AI models too scary to release,' alongside an exclusive story. This mention points to serious ethical and safety concerns within the AI research community, indicating that some advanced AI developments possess capabilities or potential risks that are deemed too dangerous for public deployment, prompting careful deliberation on responsible AI rollout.",
         "link": "https://www.technologyreview.com/2026/04/10/1135618/the-download-jeff-vandermeer-short-story-and-ai-models-too-danger-to-release/"
     },
     {
-        "category": "AI Outlook",
-        "title": "Mustafa Suleyman Predicts Continued Exponential AI Growth",
-        "summary": "Mustafa Suleyman asserts that AI development will not face an imminent halt, explaining that the core exponential trends driving AI are fundamentally different from the linear world humans are accustomed to. He emphasizes that intuition for linear growth catastrophically fails when confronting AI's inherent exponential progress.",
+        "category": "AI Trends & Future Outlook",
+        "title": "Mustafa Suleyman Predicts Continued Exponential Growth in AI Development",
+        "summary": "Mustafa Suleyman asserts that artificial intelligence development will not encounter a plateau in the near future. He explains that human intuition, which is typically adapted for linear progression, fundamentally 'fails' when attempting to comprehend AI's core exponential growth trends. This perspective highlights the expectation of sustained, rapid advancements in AI, challenging conventional understandings of technological progress and its limits.",
         "link": "https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/"
     },
     {
-        "category": "Enterprise AI & Workflow",
-        "title": "Companies Must Redesign Processes for Agent-First AI",
-        "summary": "To fully harness the capabilities of AI agents, companies must redesign their operational processes to be agent-first, rather than simply integrating agents into existing, fragmented workflows. This approach allows AI agents to dynamically learn, adapt, and optimize entire workflows autonomously as they interact with data, systems, and people in real-time.",
+        "category": "Geopolitics & Critical Infrastructure",
+        "title": "Middle East Desalination Plants Face Increased Vulnerability Amidst Conflict",
+        "summary": "Desalination technology, which supplies vital freshwater across much of the Middle East, is facing increased vulnerability amid escalating conflict in Iran. This critical resource infrastructure, essential for survival in water-stressed regions, has become a potential strategic target during geopolitical tensions. The situation underscores the severe impact of conflict on essential civil infrastructure and regional resource security.",
+        "link": "https://www.technologyreview.com/2026/04/07/1135235/desalination-technology-water/"
+    },
+    {
+        "category": "AI Enterprise & Business Strategy",
+        "title": "Optimizing Business Processes with Agent-First AI Redesign",
+        "summary": "To fully leverage the potential of AI agents, which can dynamically learn, adapt, and autonomously execute entire workflows, companies must adopt an 'agent-first' process redesign strategy. This approach involves restructuring processes around these intelligent agents, rather than merely bolting them onto existing, fragmented legacy workflows. It emphasizes optimizing operations for AI integration, leading to more transformative and efficient business outcomes.",
         "link": "https://www.technologyreview.com/2026/04/07/1134966/enabling-agent-first-process-redesign/"
     }
 ];
