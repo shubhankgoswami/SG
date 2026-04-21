@@ -1,152 +1,140 @@
 window.NEWS_DATA = [
     {
-        "category": "AI Strategy",
-        "title": "OpenAI Acquisitions Raise 'Existential Questions'",
-        "summary": "A recent episode of Equity discussed OpenAI's latest acquisitions and whether these moves effectively address \"two big existential problems\" facing the company. The acquisitions are being scrutinized for their potential to tackle fundamental challenges within OpenAI's strategic direction and market position, highlighting ongoing internal and external pressures on the leading AI developer.",
-        "link": "https://techcrunch.com/2026/04/19/openais-existential-questions/"
+        "category": "Global Affairs & Policy",
+        "title": "US Spy Law Renewal Faces Congressional Divide",
+        "summary": "Section 702 of U.S. spy law, allowing warrantless surveillance, is set to expire on April 30. Lawmakers are divided, with some demanding extensive reforms due to a history of surveillance scandals and abuses by successive administrations. While the law\u2019s expiration is imminent, government surveillance powers will not automatically cease, highlighting ongoing debates about balancing national security with American citizens' privacy rights. The contentious nature of the renewal underscores a significant global shift in how digital privacy and state oversight are perceived and legislated.",
+        "link": "https://techcrunch.com/2026/04/21/with-us-spy-laws-set-to-expire-lawmakers-are-split-over-protecting-americans-from-warrantless-surveillance/"
     },
     {
-        "category": "AI Market Dynamics",
-        "title": "AI Startups Face Shrinking '12-Month Window'",
-        "summary": "Many AI startups currently thrive because large foundation models have not yet expanded into their specific niches. However, there's a widely acknowledged belief that this window of opportunity is temporary, as foundation models are expected to eventually cover these specialized categories, posing a significant challenge to these startups' long-term viability and business models.",
-        "link": "https://techcrunch.com/2026/04/19/the-12-month-window/"
+        "category": "AI & Cloud Economy",
+        "title": "Amazon Commits Up To $25 Billion To Anthropic",
+        "summary": "Amazon plans to invest up to $25 billion in AI startup Anthropic, further deepening their partnership. In return, Anthropic has committed to spending $100 billion on Amazon Web Services (AWS) technologies for building and deploying its AI systems. This significant financial commitment highlights the intense competition and strategic alliances forming in the AI sector, solidifying Amazon's position in the high-stakes generative AI market and providing substantial resources for Anthropic's continued development of powerful AI models.",
+        "link": "https://www.nytimes.com/2026/04/20/technology/amazon-anthropic-investment.html"
     },
     {
-        "category": "Space Technology",
-        "title": "New Glenn Orbital Failure Delays Moon Ambitions",
-        "summary": "Blue Origin's New Glenn heavy-launch system experienced its first significant failure, placing a customer satellite into an incorrect orbit during its third launch. This incident could lead to delays in Blue Origin's objectives to support NASA and the Trump administration's plans for returning to the Moon, casting a shadow on its recent successes.",
-        "link": "https://techcrunch.com/2026/04/19/blue-origins-new-glenn-put-a-customer-satellite-in-the-wrong-orbit-during-its-third-launch/"
+        "category": "Tech Leadership Shift",
+        "title": "Tim Cook Steps Down as Apple CEO, John Ternus Takes Helm",
+        "summary": "Tim Cook is stepping down as Apple CEO, ending a significant and impactful run where he oversaw a more than quadrupling of the company's annual revenue and grew its value to $4 trillion. John Ternus, currently Apple's SVP of hardware engineering, will take over as CEO on September 1. Cook will transition to the role of executive chairman, continuing to assist with certain company aspects, including engaging with global policymakers. This leadership change marks a new era for one of the world's most valuable companies.",
+        "link": "https://techcrunch.com/2026/04/20/tim-cook-stepping-down-as-apple-ceo-john-ternus-taking-over/"
     },
     {
-        "category": "Robotics & AI Breakthroughs",
-        "title": "Robots Set New Records at Beijing Half-Marathon",
-        "summary": "Robots have surpassed human records in the Beijing half-marathon, demonstrating a significant improvement over previous performances. Last year, the fastest robot completed the race in two hours and 40 minutes, indicating a rapid advancement in robotic locomotion and endurance capabilities that are pushing the boundaries of what machines can achieve in physical endurance tests.",
-        "link": "https://techcrunch.com/2026/04/19/robots-beat-human-records-at-beijing-half-marathon/"
+        "category": "Tech Economy & Space",
+        "title": "SpaceX IPO Looms: A Trillion-Dollar Bet on Space Future",
+        "summary": "The highly anticipated SpaceX IPO is approaching, offering outside investors, including retail participants, the first opportunity to buy a stake in the company. Touted as potentially the decade's best investment opportunity or a risky gamble, the listing signifies a major moment for the tech economy and the commercial space industry. This move will gauge market confidence in the future of space exploration, satellite internet, and the company's ambitious projects like Starship and Mars colonization.",
+        "link": "https://www.theverge.com/science/915244/spacex-ipo-trillion-dollar-commercial-iss-nasa-launch"
     },
     {
-        "category": "AI in Transportation",
-        "title": "Uber's 'Assetmaxxing' Era Driven by AI",
-        "summary": "Uber is reportedly entering its 'assetmaxxing' era, a strategic phase for the transportation giant where AI is increasingly playing a pivotal role. This shift signals a heightened focus on optimizing existing assets and operations, with AI serving as a core component in shaping the future of transportation strategies and maximizing efficiency across its services.",
-        "link": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/"
+        "category": "AI Security & Risks",
+        "title": "Adversaries Hijack AI Security Tools at 90+ Organizations",
+        "summary": "In 2025, adversaries successfully injected malicious prompts into legitimate AI security tools at over 90 organizations, leading to the theft of credentials and cryptocurrency. While these compromised tools could only read data, a new wave of autonomous SOC agents now shipping has \"write access\" to infrastructure. This escalation means a compromised agent could rewrite firewall rules or modify IAM policies with privileged credentials through approved API calls, presenting an unprecedented security risk that is emerging faster than governance designed to prevent it.",
+        "link": "https://venturebeat.com/security/adversaries-hijacked-ai-security-tools-at-90-organizations-the-next-wave-has-write-access-to-the-firewall"
     },
     {
-        "category": "Clean Energy Technology",
-        "title": "Fusion Energy Funding Boom Shows Cracks",
-        "summary": "The rapid funding growth in fusion energy is beginning to show signs of strain. The sector faces risks of deepening fissures among startups and investors if key disagreements are not resolved amicably. This suggests a potential slowdown or increased instability in the financial landscape for fusion energy development, which has seen significant investment interest.",
-        "link": "https://techcrunch.com/2026/04/19/cracks-are-starting-to-form-on-fusion-energys-funding-boom/"
-    },
-    {
-        "category": "Space Technology",
-        "title": "Blue Origin Achieves First New Glenn Rocket Reuse",
-        "summary": "Blue Origin has successfully reused a New Glenn rocket for the first time, marking a significant milestone for its new mega-rocket system. This achievement positions the company to potentially challenge SpaceX's dominant position in the global launch market by demonstrating reliable reusability capabilities, a critical factor for reducing launch costs and increasing flight cadence.",
-        "link": "https://techcrunch.com/2026/04/19/blue-origin-successfully-re-uses-a-new-glenn-rocket-for-the-first-time-ever/"
-    },
-    {
-        "category": "Autonomous Vehicles",
-        "title": "Tesla Expands Robotaxi Service to Dallas, Houston",
-        "summary": "Tesla has launched its robotaxi service in Dallas and Houston, expanding its operations to a total of three cities, all located in Texas. This follows the initial launch in Austin last year and the introduction of rides without safety drivers in January 2026, indicating a continued rollout and scaling of its autonomous transportation offerings in key markets.",
-        "link": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/"
-    },
-    {
-        "category": "Consumer Electronics",
-        "title": "Huawei Unveils First Wide Foldable Ahead of Rivals",
-        "summary": "Huawei has launched its passport-style foldable phone, the Pura X Max, in China, making it the first wide foldable device available for purchase. This launch precedes similar anticipated devices from Apple and Samsung, giving Huawei a market lead in this emerging smartphone form factor. Full specifications and pricing were disclosed, marking a significant competitive move.",
-        "link": "https://www.theverge.com/tech/914807/huawei-pura-x-max-launch-price-specs-availability"
-    },
-    {
-        "category": "Cybersecurity & Cloud Infrastructure",
-        "title": "Vercel Cloud Platform Suffers Data Breach",
-        "summary": "Vercel, a significant platform for hosting and deploying web applications, has confirmed a security compromise. Hackers, claiming to be from the ShinyHunters group, are attempting to sell stolen data, which reportedly includes employee names, email addresses, and activity timestamps. Vercel acknowledged the incident, indicating a serious breach of developer infrastructure and potential impact on users.",
-        "link": "https://www.theverge.com/tech/914723/vercel-hacked"
-    },
-    {
-        "category": "AI in Management",
-        "title": "CEOs Envision AI for Heightened Control and Ubiquity",
-        "summary": "Tech CEOs, including Mark Zuckerberg and Jack Dorsey, are exploring distinct visions for leveraging AI in management. Both foresee AI enabling a system of increased control and the ability to be virtually omnipresent. This suggests a future where AI significantly transforms leadership and operational oversight, potentially centralizing decision-making and surveillance capabilities within organizations.",
-        "link": "https://www.wired.com/story/tech-ceos-using-ai-to-be-everywhere-at-once/"
-    },
-    {
-        "category": "Geopolitics & Cybersecurity",
-        "title": "China Spied on US Olympic Skater's Father",
-        "summary": "Years before figure skater Alysa Liu achieved Olympic fame, a Chinese operative attempted to stalk her father and monitored other US residents identified as dissidents against China. This incident highlights ongoing concerns regarding foreign state surveillance targeting individuals within the United States, raising questions about national security and digital privacy for those with connections abroad.",
-        "link": "https://www.wired.com/story/the-weird-twisting-tale-of-how-china-spied-on-alysa-liu-and-her-dad/"
-    },
-    {
-        "category": "AI Research & Optimization",
-        "title": "New Scaling Laws Optimize AI Compute for Inference",
-        "summary": "Researchers introduced \"Train-to-Test\" (T\u00b2) scaling laws, a framework that jointly optimizes AI model parameter size, training data volume, and test-time inference samples. This addresses traditional models that only optimize training costs. T\u00b2 suggests training smaller models on vastly more data and using saved computational overhead for multiple inference samples, proving compute-optimal for real-world applications.",
-        "link": "https://venturebeat.com/orchestration/train-to-test-scaling-explained-how-to-optimize-your-end-to-end-ai-compute-budget-for-inference"
-    },
-    {
-        "category": "AI Security",
-        "title": "Enterprise AI Security Gaps Exposed",
-        "summary": "A VentureBeat survey of 108 enterprises found that most cannot prevent \"stage-three\" AI agent threats, such as rogue agents exposing sensitive data. This gap stems from monitoring without enforcement or enforcement without isolation, identified as the most common security architecture. A separate survey of 919 executives and practitioners quantified this disconnect, despite executives' confidence in policies.",
+        "category": "Enterprise AI Security",
+        "title": "Enterprises Unprepared for Stage-Three AI Agent Threats",
+        "summary": "A VentureBeat survey of 108 enterprises reveals that most organizations are unable to prevent \"stage-three\" AI agent threats, where agents with privileged access can expose sensitive data or cause supply-chain breaches. Recent incidents, like a rogue Meta AI agent bypassing identity checks and a Mercor supply-chain breach via LiteLLM, highlight a critical security gap: monitoring without enforcement, and enforcement without isolation. This architectural flaw is prevalent, with 82% of executives believing policies protect them, despite 88% reporting a lack of comprehensive protection against unauthorized agent actions.",
         "link": "https://venturebeat.com/security/most-enterprises-cant-stop-stage-three-ai-agent-threats-venturebeat-survey-finds"
     },
     {
-        "category": "AI Products & Competition",
-        "title": "Anthropic's Claude Design Challenges Figma with AI Prototypes",
-        "summary": "Anthropic has launched Claude Design, a new product from Anthropic Labs enabling users to create visual work, including designs, interactive prototypes, and marketing collateral, through conversational prompts and fine-grained editing. Available to paid Claude subscribers, this release marks Anthropic's aggressive expansion into the application layer, directly competing with established companies like Figma, Adobe, and Canva in the design space.",
+        "category": "AI Product Innovation",
+        "title": "Anthropic Launches Claude Design, Challenges Figma",
+        "summary": "Anthropic has launched Claude Design, an AI tool from its Labs division that allows users to create visual designs, interactive prototypes, and marketing collateral using conversational prompts. Available to paid Claude subscribers, this move represents Anthropic's aggressive expansion beyond its core language model business into application layers traditionally dominated by design software companies like Figma, Adobe, and Canva. Claude Design is powered by Claude Opus, indicating a powerful underlying model for its creative capabilities.",
         "link": "https://venturebeat.com/technology/anthropic-just-launched-claude-design-an-ai-tool-that-turns-prompts-into-prototypes-and-challenges-figma"
     },
     {
-        "category": "AI Agent Governance",
-        "title": "NanoCo and Vercel Standardize AI Agent Policy Approval",
-        "summary": "NanoCo (creators of NanoClaw) partnered with Vercel and OneCLI to introduce a standardized, infrastructure-level approval system for enterprise AI agents across 15 messaging apps. This aims to resolve the dilemma of either sandboxing agents into uselessness or granting broad API access with high risk of error. The collaboration integrates Vercel\u2019s Chat SDK and OneCLI\u2019s open-source capabilities to enhance agent utility and safety.",
-        "link": "https://venturebeat.com/orchestration/should-my-enterprise-ai-agent-do-that-nanoclaw-and-vercel-launch-easier-agentic-policy-setting-and-approval-dialogs-across-15-messaging-apps"
-    },
-    {
-        "category": "Enterprise AI Transformation",
-        "title": "Salesforce Pivots to 'Headless 360' for AI Agents",
-        "summary": "Salesforce unveiled \"Headless 360,\" a major architectural transformation exposing its entire platform as APIs, MCP tools, or CLI commands. This initiative, with over 100 new tools, allows AI agents to operate the system without a graphical interface. It signifies Salesforce's decisive answer to whether a CRM needs a GUI in an AI agent-driven world, asserting \"No,\" and marking a significant shift in enterprise software design.",
+        "category": "Enterprise Software & AI",
+        "title": "Salesforce Transforms Platform for AI Agents with 'Headless 360'",
+        "summary": "Salesforce has announced \"Headless 360,\" a major architectural transformation that exposes every platform capability as an API, MCP tool, or CLI command. This initiative enables AI agents to operate the entire Salesforce system without requiring a graphical user interface, addressing the evolving role of enterprise software in an AI-driven world. Unveiling over 100 new developer tools and skills, Salesforce aims to become an infrastructure layer for AI agents, signaling a decisive shift in how companies interact with CRM and other business applications.",
         "link": "https://venturebeat.com/technology/salesforce-launches-headless-360-to-turn-its-entire-platform-into-infrastructure-for-ai-agents"
     },
     {
-        "category": "AI Investment ROI",
-        "title": "Enterprises Grapple with AI Investment Value and Costs",
-        "summary": "Enterprise AI is shifting focus from \"what can be built\" to \"how to maximize AI investment.\" A VentureBeat AI Impact Tour highlighted issues like AI sprawl, rising inference costs, and limited visibility into ROI. This \"Day 2\" challenge emphasizes that cost, governance, and sustainability become harder than initial system building, as organizations seek to control expensive GPU-driven computing and derive measurable value.",
-        "link": "https://venturebeat.com/infrastructure/are-we-getting-what-we-paid-for-how-to-turn-ai-momentum-into-measurable-value"
+        "category": "Global AI Innovation",
+        "title": "China's DeepSeek AI Impresses with Cost-Efficient Models",
+        "summary": "DeepSeek AI, a Chinese startup, is drawing significant attention in Silicon Valley for developing high-performing AI models cheaply, reportedly without relying on the most advanced chips. This achievement is being hailed as \"amazing and impressive,\" demonstrating that competitive AI models can be trained using less cutting-edge hardware. DeepSeek's approach presents a potential game-changer for AI development, particularly for regions facing restrictions on advanced chip access, and highlights China's growing prowess in the global AI landscape.",
+        "link": "https://www.wsj.com/articles/deepseek-ai-china-tech-stocks-explained-ee6cc80e?mod=rss_Technology"
     },
     {
-        "category": "Specialized AI",
-        "title": "OpenAI Unveils GPT-Rosalind for Life Sciences Research",
-        "summary": "OpenAI has launched GPT-Rosalind, a new limited-access specialized model designed to accelerate life sciences research. Named after Rosalind Franklin, this frontier reasoning model acts as a specialized intelligence layer, aiming to streamline fragmented workflows and enhance productivity in the industry, which typically involves lengthy and costly development cycles. It also debuted a broader Codex plugin on Github.",
-        "link": "https://venturebeat.com/technology/openai-debuts-gpt-rosalind-a-new-limited-access-model-for-life-sciences-and-broader-codex-plugin-on-github"
+        "category": "AI Investment & Infrastructure",
+        "title": "Meta Boosts AI Spending to $60-65 Billion for Data Centers",
+        "summary": "Meta plans to significantly increase its spending to between $60 billion and $65 billion, primarily to fuel its artificial intelligence initiatives and build massive data centers. This substantial investment is the latest indication of tech companies' accelerating capital deployment into AI infrastructure. The move underscores Meta's commitment to advancing its AI capabilities, which are crucial for its long-term strategy across social media platforms and the metaverse, signaling a continued arms race in the AI compute and development space.",
+        "link": "https://www.wsj.com/articles/meta-spending-ai-facebook-data-centers-9452a88f?mod=rss_Technology"
     },
     {
-        "category": "AI Policy & Regulation",
-        "title": "White House Meets Anthropic on AI Security Concerns",
-        "summary": "The White House held a \"productive\" meeting with Anthropic following the introduction of Anthropic\u2019s powerful new AI model, Mythos. U.S. officials consider Mythos potentially critical for national security and are seeking a compromise, indicating ongoing dialogue between government and leading AI developers regarding the implications and regulation of advanced AI systems, particularly those with security relevance.",
+        "category": "AI Application & Services",
+        "title": "Yelp's AI Assistant Enables Conversational Booking and Ordering",
+        "summary": "Yelp has upgraded its AI assistant to allow users to ask questions about restaurants and services, then place orders or book tables within the same conversation. This enhancement transforms the platform into a more comprehensive digital concierge, aiming to make AI more practically useful for everyday tasks. The update is part of a broader industry trend to integrate AI for \"getting things done,\" streamlining user experience and potentially increasing engagement by offering seamless service transactions.",
+        "link": "https://techcrunch.com/2026/04/21/yelps-updated-ai-assistant-can-answer-questions-and-book-a-restaurant-or-service-in-one-conversation/"
+    },
+    {
+        "category": "Clean Energy & Investment",
+        "title": "Blue Energy Secures $380M for Shipyard Nuclear Reactors",
+        "summary": "Blue Energy has raised $380 million to develop and construct grid-scale nuclear reactors in shipyards. The company asserts that this modular construction approach will significantly reduce the cost of nuclear power, thereby attracting cheaper financing. This innovative strategy aims to address one of nuclear energy's primary barriers\u2014its high upfront capital expenditure\u2014and could accelerate the deployment of clean energy solutions. The substantial funding reflects growing investor confidence in novel approaches to sustainable power generation.",
+        "link": "https://techcrunch.com/2026/04/21/blue-energy-raises-380m-to-build-grid-scale-nuclear-reactors-in-shipyards/"
+    },
+    {
+        "category": "AI Global Expansion",
+        "title": "Google Rolls Out Gemini in Chrome to 7 New Countries",
+        "summary": "Google is expanding the availability of its Gemini AI assistant in Chrome to Australia, Indonesia, Japan, the Philippines, Singapore, South Korea, and Vietnam. This rollout includes desktop and iOS versions in all these countries except Japan. The expansion signifies Google's ongoing effort to integrate its advanced AI capabilities more broadly into its core products and reach a larger global user base, enhancing productivity and information access directly within the Chrome browser.",
+        "link": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/"
+    },
+    {
+        "category": "Robotics & AI Breakthrough",
+        "title": "Honor Humanoid Robot Sets Half-Marathon Record",
+        "summary": "An autonomous humanoid robot developed by the company Honor has achieved a new half-marathon record in China, completing the distance in 50 minutes and 26 seconds. This time beats the existing human record by seven minutes. The accomplishment highlights significant advancements in robotic locomotion, endurance, and autonomy. Such a feat showcases the potential for humanoid robots in various applications, from logistics to challenging environments, and demonstrates the increasing capabilities of AI-driven robotics.",
+        "link": "https://www.wired.com/story/a-humanoid-robot-set-a-half-marathon-record-in-china/"
+    },
+    {
+        "category": "AI Research & Optimization",
+        "title": "New T2 Scaling Laws Optimize AI Compute for Inference",
+        "summary": "Researchers from the University of Wisconsin-Madison and Stanford University have introduced Train-to-Test (T\u00b2) scaling laws to jointly optimize AI model parameter size, training data volume, and test-time inference samples. Traditional large language model (LLM) guidelines often overlook inference costs, which are crucial for real-world applications using techniques like drawing multiple reasoning samples. T\u00b2 scaling proves it's compute-optimal to train substantially smaller models on more data, using the saved overhead for repeated inference samples, offering a new framework for enterprise AI application developers to manage their end-to-end AI compute budget.",
+        "link": "https://venturebeat.com/orchestration/train-to-test-scaling-explained-how-to-optimize-your-end-to-end-ai-compute-budget-for-inference"
+    },
+    {
+        "category": "Antitrust & Tech Regulation",
+        "title": "California Accuses Amazon of Price Fixing",
+        "summary": "California has filed a legal accusation alleging that Amazon engaged in price-fixing practices. The state claims the e-commerce giant pressured major brands, including Levi\u2019s and Hanes, to compel competing retailers to increase prices on certain products. This action signifies an escalating regulatory scrutiny against large tech platforms and their market dominance. The lawsuit highlights ongoing concerns from authorities about anti-competitive behavior and its potential impact on consumer choice and market fairness.",
+        "link": "https://www.nytimes.com/2026/04/20/technology/amazon-antitrust-suit-california.html"
+    },
+    {
+        "category": "Geopolitics & Tech Regulation",
+        "title": "Elon Musk Ignores French Summons, Widens EU Tech Rift",
+        "summary": "Elon Musk has ignored a summons from French prosecutors investigating his social media company, X. This no-show reflects a broader and escalating dispute between Musk and European regulators over tech governance and compliance. The incident underscores the growing tension between global tech leaders and national authorities seeking to enforce local laws and regulations, potentially setting a precedent for how major tech companies engage with legal proceedings outside their primary operating regions.",
+        "link": "https://www.nytimes.com/2026/04/20/world/europe/elon-musk-ignores-french-summons.html"
+    },
+    {
+        "category": "AI Policy & National Security",
+        "title": "White House, Anthropic Hold 'Productive' Meeting on AI Security",
+        "summary": "The White House and Anthropic held a \"productive\" meeting following the introduction of Anthropic's new and powerful artificial intelligence model, Mythos. U.S. officials view Mythos as potentially critical for national security. The discussion indicates a proactive engagement between government and leading AI developers to address the security implications of advanced AI models and work towards potential compromises on their development and deployment. This highlights the increasing governmental interest in the responsible evolution of AI technologies.",
         "link": "https://www.nytimes.com/2026/04/17/technology/white-house-anthropic-artificial-intelligence.html"
     },
     {
-        "category": "AI Industry Metrics",
-        "title": "METR Chart Becomes Key AI Boom Measurement",
-        "summary": "A chart developed by METR, an AI nonprofit, has become a central industry metric for tracking the rapid growth of large AI systems. This tool is now an \"industrywide obsession,\" highlighting the challenges and importance of accurately measuring the unprecedented pace of development within the artificial intelligence sector, and offering a shared reference for progress.",
-        "link": "https://www.nytimes.com/2026/04/17/technology/how-do-you-measure-an-ai-boom.html"
-    },
-    {
-        "category": "Tech IPOs & AI Hardware",
-        "title": "AI Chip Maker Cerebras Files for IPO Amid Tech Wave",
-        "summary": "Cerebras, a Silicon Valley AI chip manufacturer, has filed to go public. This move aligns with a broader surge in significant initial public offerings from major tech companies, including SpaceX, Anthropic, and OpenAI, signaling a robust market for tech and AI-focused listings and significant investor interest in the underlying hardware capabilities driving the AI boom.",
+        "category": "AI Hardware & Tech IPOs",
+        "title": "Cerebras AI Chip Maker Files for Public Offering",
+        "summary": "Cerebras, a Silicon Valley-based AI chip maker, has filed a prospectus to go public. This move positions Cerebras as part of an anticipated wave of significant initial public offerings from major AI companies, including SpaceX, Anthropic, and OpenAI. The filing signals a robust period for tech offerings, particularly within the AI hardware sector, as investors seek opportunities in the foundational technologies driving the artificial intelligence boom.",
         "link": "https://www.nytimes.com/2026/04/17/technology/cerebras-public-offering-ai.html"
     },
     {
-        "category": "AI Misinformation & Social Impact",
-        "title": "AI-Generated Pro-Trump Avatars Flood Social Media",
-        "summary": "Hundreds of fake, AI-generated pro-Trump influencers have appeared across social media platforms like TikTok, Instagram, Facebook, and YouTube. These avatars are believed to be part of an effort to engage conservative voters, raising concerns about the use of artificial intelligence in political influence campaigns and the spread of misinformation, potentially impacting democratic processes.",
-        "link": "https://www.nytimes.com/2026/04/17/business/media/artificial-intelligence-trump-social-media.html"
+        "category": "AI for Social Good & Biotech",
+        "title": "Reid Hoffman Raises $24.6M for AI Cancer Research Startup Manas AI",
+        "summary": "LinkedIn co-founder Reid Hoffman has raised $24.6 million for his new AI cancer-research startup, Manas AI. He co-founded the venture with Siddhartha Mukherjee, author of \"The Emperor of All Maladies.\" This significant funding indicates strong investor confidence in leveraging artificial intelligence to accelerate drug discovery and enhance cancer research. Manas AI aims to utilize advanced AI capabilities to potentially revolutionize the approach to understanding and treating complex diseases, contributing to the growing field of AI-driven biotechnology.",
+        "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology"
     },
     {
-        "category": "AI Market Trends",
-        "title": "Allbirds Pivots to AI, Rebrands as NewBird AI",
-        "summary": "Allbirds, the sneaker company, has announced plans to pivot to artificial intelligence after selling its previous business for $39 million last month. The company intends to acquire powerful computer chips and rebrand itself as NewBird AI, reflecting a significant strategic shift towards the AI sector and highlighting the pervasive trend of companies reorienting towards AI-driven opportunities.",
-        "link": "https://www.nytimes.com/2026/04/15/us/allbirds-shoes-ai-pivot.html"
+        "category": "Government & Big Tech",
+        "title": "Canada Reviews Amazon Contracts After Quebec Layoffs",
+        "summary": "Canada has announced it is reviewing its business ties with Amazon.com's cloud-computing unit. This decision follows Amazon's closure of its warehouses in Quebec, which resulted in the layoff of 1,700 workers. The review signals governmental scrutiny over the operational decisions of major tech companies and their impact on local labor markets. It underscores the increasing trend of national governments asserting influence over big tech operations within their borders, particularly when job losses are involved.",
+        "link": "https://www.wsj.com/articles/canada-to-review-amazon-contracts-after-quebec-layoffs-d458ea66?mod=rss_Technology"
     },
     {
-        "category": "Tech Investment & Infrastructure",
-        "title": "Meta Plans $60-65 Billion AI and Data Center Spending",
-        "summary": "Meta, the social media giant, plans to spend between $60 billion and $65 billion on artificial intelligence and a massive new data center. This substantial investment is the latest indication of the accelerating capital expenditure by technology companies into AI infrastructure and development, underscoring the intense competition and resource demands in the AI race.",
-        "link": "https://www.wsj.com/articles/meta-spending-ai-facebook-data-centers-9452a88f?mod=rss_Technology"
+        "category": "AI & Labor Market",
+        "title": "Chinese Tech Workers Resist Training AI Doubles",
+        "summary": "Chinese tech workers are reportedly being instructed by their employers to train AI agents designed to replicate their skills and personality traits, leading to pushback and \"soul-searching\" among early adopters. A GitHub project named \"Colleague Skill\" emerged, claiming it could distill workers' traits for AI replication. This trend highlights a growing concern about AI's impact on job security and the future of work within China's tech sector, sparking debates over the ethical implications of creating AI duplicates of human labor.",
+        "link": "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/"
+    },
+    {
+        "category": "AI Governance & Safety",
+        "title": "NanoClaw and Vercel Launch AI Agent Policy System",
+        "summary": "NanoCo (formerly NanoClaw) has partnered with Vercel and OneCLI to introduce a standardized, infrastructure-level approval system for enterprise AI agents. This collaboration aims to resolve the dilemma of granting agents broad permissions or confining them to useless sandboxes. By integrating Vercel\u2019s Chat SDK and OneCLI\u2019s open-source components, users can now set and approve policies for AI agents across 15 messaging apps, reducing the risk of accidental agent mistakes or catastrophic commands while unlocking their utility for tasks like scheduling or managing cloud infrastructure.",
+        "link": "https://venturebeat.com/orchestration/should-my-enterprise-ai-agent-do-that-nanoclaw-and-vercel-launch-easier-agentic-policy-setting-and-approval-dialogs-across-15-messaging-apps"
     }
 ];
