@@ -1,152 +1,134 @@
 window.NEWS_DATA = [
     {
-        "category": "AI & Hardware Trends",
-        "title": "Astronomers Fuel Global GPU Shortage",
-        "summary": "The demand for GPUs is intensifying globally, with even astronomers now contributing to the crunch. Researchers are increasingly leveraging GPUs to analyze vast datasets and identify subtle patterns, likened to \"finding needles in the galactic haystack.\" This new application highlights the pervasive and diverse impact of AI-driven computational needs across various scientific fields, further straining the supply of critical hardware infrastructure necessary for AI development and deployment.",
-        "link": "https://techcrunch.com/2026/04/23/ai-galaxy-hunters-are-adding-to-the-global-gpu-crunch/"
+        "category": "AI Hardware / Tech Economy",
+        "title": "Meta Secures Millions of Amazon AI CPUs, Signaling New Chip Race",
+        "summary": "Meta has acquired a significant volume of Amazon's proprietary CPUs for AI agentic workloads. This strategic deal suggests the emergence of a new kind of chip competition beyond traditional GPUs, with major tech players now leveraging diverse hardware solutions for their artificial intelligence needs. The move highlights an evolving landscape in AI infrastructure and resource acquisition.",
+        "link": "https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/"
     },
     {
-        "category": "Cybersecurity & Privacy",
-        "title": "Surveillance Vendors Exploit Telco Networks",
-        "summary": "Research by Citizen Lab has uncovered that two distinct surveillance vendors are misusing access to the core infrastructure of cellular networks. These vendors were found to be tracking the phone locations of multiple individuals globally. This discovery raises significant concerns about privacy, security vulnerabilities within telecommunications backbones, and the unauthorized use of sophisticated tools for widespread surveillance. The abuse highlights the risks associated with third-party access to critical network data.",
-        "link": "https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/"
+        "category": "Social Media / Policy / Global Shifts",
+        "title": "Countries Move to Ban Social Media for Children",
+        "summary": "Several countries are implementing bans on social media for children, with Australia initiating the first such ban in late 2025. The policy aims to mitigate pressures and risks faced by young users, including cyberbullying, social media addiction, and exposure to predators. This trend signifies a growing global concern and regulatory action regarding the impact of social media on minors.",
+        "link": "https://techcrunch.com/2026/04/23/social-media-ban-children-countries-list/"
     },
     {
-        "category": "AI Ethics & Family Safety",
-        "title": "Meta AI Introduces Parental Oversight for Discussions",
-        "summary": "Meta has announced a new feature allowing parents to view the topics their children discuss with Meta AI. According to Meta, these topics cover a broad spectrum, including \"School,\" \"Entertainment,\" \"Lifestyle,\" \"Travel,\" \"Writing,\" and \"Health and Wellbeing.\" This update aims to provide greater transparency and parental control over children's interactions with AI, addressing growing concerns about child safety and appropriate content engagement in AI-driven environments.",
-        "link": "https://techcrunch.com/2026/04/23/meta-will-now-allow-parents-to-see-the-topics-their-child-discussed-with-meta-ai/"
+        "category": "Data Privacy / US Policy / Tech Regulation",
+        "title": "Proposed Republican Privacy Bill Raises Concerns Over Data Rights",
+        "summary": "Congress is attempting to pass a new national data privacy law, the SECURE Data Act, championed by a Republican working group. Critics argue that while it might introduce new protections in some states, it could paradoxically weaken existing privacy rights in others. Privacy advocates deem the bill incomplete, missing several elements they consider essential for comprehensive data protection.",
+        "link": "https://www.theverge.com/policy/917829/data-privacy-bill-secure-act-house-state-laws"
     },
     {
-        "category": "Tech Economy & Global Markets",
-        "title": "India's App Market Booms, Global Platforms Dominate",
-        "summary": "India's app market is experiencing rapid growth, primarily fueled by non-gaming applications in categories like streaming and AI. However, despite this boom, global platforms are reportedly capturing the majority of the market gains. While the overall app market expands, India's spending per user remains lower compared to global averages, indicating a significant volume-driven market where international entities are capitalizing on the expanding user base more effectively than local developers.",
-        "link": "https://techcrunch.com/2026/04/22/indias-app-market-is-booming-but-global-platforms-are-capturing-most-of-the-gains/"
+        "category": "AI / Legal / Tech Personalities",
+        "title": "Musk vs. Altman: OpenAI Lawsuit Heads to Court",
+        "summary": "A high-stakes jury trial is set to begin on April 27th in Oakland, California, pitting Elon Musk against Sam Altman over the founding and direction of OpenAI. Musk, a co-founder, is suing OpenAI, alleging the company defrauded him. This legal battle could significantly alter the course of the artificial intelligence race, with Musk seeking billions of dollars in damages.",
+        "link": "https://www.nytimes.com/2026/04/23/technology/elon-musk-sam-altman-openai-trial.html"
     },
     {
-        "category": "Corporate Finance & Strategy",
-        "title": "Tesla Boosts Capex to $25 Billion, Forecasts Negative Cash Flow",
-        "summary": "Tesla has significantly increased its capital expenditure plan for 2026 to $25 billion, a figure three times greater than its historical spending. The company's CFO indicated that this substantial investment would result in negative free cash flow for the remainder of the year. This aggressive spending signals major expansion or strategic shifts, prioritizing long-term growth and infrastructure development over short-term cash flow, reflecting a pivotal period for the electric vehicle and AI company.",
-        "link": "https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/"
+        "category": "AI Breakthrough / Geopolitics / Tech Competition",
+        "title": "China's DeepSeek AI V4 Challenges US Rivals with Efficient Model",
+        "summary": "Chinese AI company DeepSeek has previewed its next-generation open-source AI model V4, claiming it can compete with leading closed-source systems from US rivals like Anthropic, Google, and OpenAI. DeepSeek highlights V4's major improvements, particularly in coding. The company achieved this by training high-performing models cheaply and without relying on the most advanced chips, a feat that has been called \u201camazing and impressive\u201d by Silicon Valley observers, intensifying global AI competition.",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model"
     },
     {
-        "category": "Enterprise AI & Productivity",
-        "title": "Google Workspace Integrates New AI Assistant Features",
-        "summary": "Google has rolled out a suite of new automated functions within Workspace, powered by its new AI system, Workspace Intelligence. These enhancements are designed to introduce AI as a comprehensive \"office intern,\" streamlining tasks and boosting productivity for users. The integration signifies Google's continued push to embed advanced AI capabilities directly into its core productivity applications, transforming how businesses interact with their digital work environment and manage daily operations.",
-        "link": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/"
+        "category": "AI / Consumer Tech / Integrations",
+        "title": "Anthropic's Claude Expands Personal App Integrations",
+        "summary": "Anthropic's Claude AI now offers enhanced connectivity to a broader range of personal applications, including Spotify, Uber Eats, Audible, AllTrails, TripAdvisor, Instacart, and TurboTax. Building on existing work-related app connectors, this expansion allows users to integrate Claude into more aspects of their daily lives, facilitating AI assistance for tasks ranging from entertainment to travel and finance, thus expanding Claude's utility for consumers.",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors"
     },
     {
-        "category": "Tech Leadership & Strategy",
-        "title": "Tim Cook Steps Down, John Ternus Named Apple CEO",
-        "summary": "Apple is poised for a significant transformation as CEO Tim Cook prepares to step down this September. He will be succeeded by John Ternus, currently the head of hardware. This executive transition is described as a pivotal moment, marking the most substantial shift yet for Apple's leadership team and signaling a new era for the company beyond a mere change in CEO, potentially influencing future strategic directions.",
-        "link": "https://www.theverge.com/tech/916585/tim-cook-apple-new-era"
+        "category": "AI / Enterprise / Cybersecurity",
+        "title": "Enterprise AI Agent Adoption Stalls at Trust Barrier",
+        "summary": "Eighty-five percent of enterprises are currently piloting AI agents, but a significant trust deficit means only 5% have moved these agents into production, according to Cisco. Cisco President and Chief Product Officer Jeetu Patel emphasizes that closing this gap is critical for market dominance. The core issue isn't rogue agents, but rather the absence of a robust trust architecture necessary for broad enterprise deployment.",
+        "link": "https://venturebeat.com/security/85-of-enterprises-are-running-ai-agents-only-5-trust-them-enough-to-ship"
     },
     {
-        "category": "Enterprise AI & Productivity",
-        "title": "Microsoft Introduces \"Agent Mode\" AI to Office Apps",
-        "summary": "Microsoft is launching a new \"Agent Mode\" within its Office applications, including Word, Excel, and PowerPoint, this week. This feature, previously termed \"vibe working,\" represents a more advanced iteration of the Copilot experience tailored for businesses. Agent Mode aims to leverage foundational AI models more powerfully within the Office suite, indicating Microsoft's continued strategy to enhance enterprise productivity by deeply integrating sophisticated AI capabilities into its widely used software.",
-        "link": "https://www.theverge.com/news/917328/microsoft-agent-mode-vibe-working-office-word-excel-powerpoint"
+        "category": "AI Breakthroughs / AI Performance",
+        "title": "Anthropic Explains Claude's Recent Performance Degradation",
+        "summary": "Anthropic has addressed user concerns regarding a perceived degradation in its Claude AI models, which users described as 'AI shrinkflation.' The company revealed that changes to Claude's internal harnesses and operating instructions likely caused the model to become less capable of sustained reasoning, more prone to hallucinations, and inefficient with tokens. This explanation follows weeks of user reports and third-party benchmarks pointing to a measurable shift in performance.",
+        "link": "https://venturebeat.com/technology/mystery-solved-anthropic-reveals-changes-to-claudes-harnesses-and-operating-instructions-likely-caused-degradation"
     },
     {
-        "category": "AI Ethics & Disinformation",
-        "title": "Trump's Claims of 'Saved' Iranian Women Tied to AI Manipulation",
-        "summary": "Former President Donald Trump claimed to have secured the release of eight Iranian women from execution, a day after posting about their imminent fate on Truth Social with a collage of portraits. Investigations reveal these images are simultaneously of real women and appear AI-manipulated. This incident highlights concerns regarding the use of AI to generate or enhance visual content in political discourse, blurring the lines between reality and artificiality, and contributing to potential disinformation.",
-        "link": "https://www.theverge.com/policy/917180/trump-iran-ai-women-bita-hemmati"
+        "category": "AI Breakthroughs / AI Competition",
+        "title": "OpenAI's GPT-5.5 Edges Out Rivals, Retakes LLM Lead",
+        "summary": "OpenAI has officially unveiled GPT-5.5, its latest large language model, which narrowly reclaims the lead in generally available LLMs. Benchmarks show GPT-5.5 surpassing rivals like Anthropic's and Google's latest public offerings, and even achieving a statistical tie against the private Anthropic Claude Mythos Preview model on Terminal-Bench 2.0. OpenAI highlights significant improvements in coding, establishing GPT-5.5 as its strongest model yet in this critical capability.",
+        "link": "https://venturebeat.com/technology/openais-gpt-5-5-is-here-and-its-no-potato-narrowly-beats-anthropics-claude-mythos-preview-on-terminal-bench-2-0"
     },
     {
-        "category": "Autonomous Driving & Consumer Trust",
-        "title": "Musk: Millions of Tesla HW3 Cars Won't Get Unsupervised FSD",
-        "summary": "Elon Musk confirmed during Tesla's Q1 2026 earnings call that approximately 4 million Tesla vehicles equipped with the Hardware 3 (HW3) computer will not receive unsupervised Full Self-Driving (FSD) capabilities. This admission impacts a significant portion of Tesla owners, including those who pre-paid for the FSD feature, potentially opening the company to legal challenges. The revelation marks a significant clarification regarding the upgrade path for existing FSD customers, indicating hardware limitations for true autonomous operation.",
-        "link": "https://www.theverge.com/transportation/917167/elon-musk-tesla-hw3-fsd"
+        "category": "AI / Enterprise / Startups",
+        "title": "BAND Debuts Universal Orchestrator for Interacting AI Agents",
+        "summary": "New startup BAND (Thenvoi AI Ltd.) has exited stealth with $17 million in Seed funding, introducing a 'universal orchestrator' designed to address the fragmentation of AI agent systems. As enterprises deploy numerous autonomous agents, issues arise where agents built on different frameworks cannot easily coordinate. BAND aims to provide the necessary 'interaction infrastructure' for these isolated tools to communicate and form a unified, collaborative workforce, essential for agents to become integral to the global economy.",
+        "link": "https://venturebeat.com/orchestration/talking-to-ai-agents-is-one-thing-what-about-when-they-talk-to-each-other-new-startup-band-debuts-universal-orchestrator/"
     },
     {
-        "category": "Tech Economy & AI Strategy",
-        "title": "Tesla Q1 Revenue Up, Focuses on AI and Robotics",
-        "summary": "Tesla announced its first-quarter 2026 financial earnings, reporting $477 million in net income on $22.4 billion in revenue. These results reflect the company's ongoing progress in its ambitious strategy to become a leader in AI and robotics, a vision previously valued at $1 trillion. The earnings report offers insights into the financial underpinnings of Elon Musk's long-term bet, highlighting revenue growth as the company continues to invest heavily in its future technological directions.",
-        "link": "https://www.theverge.com/transportation/915217/tesla-q1-2026-earnings-profit-revenue"
+        "category": "AI / Enterprise / Product Launch",
+        "title": "OpenAI Launches Workspace Agents for Enterprise AI Deployment",
+        "summary": "OpenAI has introduced Workspace Agents, a new product enhancing enterprise adoption of AI agent workers and serving as a successor to custom GPTs. Available for ChatGPT Business, Enterprise, Edu, and Teachers subscription plans, these agents allow users to design or select templates to perform tasks across popular third-party applications and data sources, including Slack, Google Drive, Microsoft apps, Salesforce, Notion, and Atlassian Rovo. Users can create, access, and communicate with these agents directly from ChatGPT or integrate them into other applications.",
+        "link": "https://venturebeat.com/orchestration/openai-unveils-workspace-agents-a-successor-to-custom-gpts-for-enterprises-that-can-plug-directly-into-slack-salesforce-and-more/"
     },
     {
-        "category": "AI Regulation & Economic Risk",
-        "title": "Senator Warren Warns AI Could Spark Next Financial Crisis",
-        "summary": "Senator Elizabeth Warren (D-MA) cautioned that potential failures in AI could precipitate the next financial crisis. Speaking at a Vanderbilt Policy Accelerator event, Warren, known for her role in establishing a consumer financial regulator after the 2008 recession, highlighted \"striking\" parallels between the current AI landscape and past economic bubbles. Her warning underscores growing regulatory scrutiny and concerns about the unchecked growth and potential systemic risks associated with the burgeoning AI economy.",
-        "link": "https://www.theverge.com/policy/917026/ai-economy-bubble-elizabeth-warren"
+        "category": "AI / Cloud / Enterprise Strategy",
+        "title": "Google and AWS Adopt Divergent AI Agent Management Strategies",
+        "summary": "As enterprises move AI agents into production, Google and Amazon Web Services are presenting fundamentally different approaches to managing these complex systems, splitting the AI stack between control and execution. Google favors managing agentic operations at the system layer, while AWS's harness method positions control within the execution layer. This strategic divergence offers distinct options for developer teams, as seen with recent updates to agent builder platforms from Anthropic and OpenAI, highlighting the ongoing debate on optimal AI agent management.",
+        "link": "https://venturebeat.com/orchestration/google-and-aws-split-the-ai-agent-stack-between-control-and-execution/"
     },
     {
-        "category": "Enterprise AI & Agentic Systems",
-        "title": "OpenAI Unveils Workspace Agents for Enterprise Integration",
-        "summary": "OpenAI has launched Workspace Agents, a new offering designed for enterprise users on ChatGPT Business, Enterprise, Edu, and Teachers plans. These agents allow organizations to create or select pre-existing templates that can perform work tasks across various third-party applications, including Slack, Salesforce, Google Drive, and Microsoft apps. This development aims to empower businesses to adopt and manage fleets of AI agent workers, facilitating seamless communication and information utilization across disparate channels and tools for enhanced productivity.",
-        "link": "https://venturebeat.com/orchestration/openai-unveils-workspace-agents-a-successor-to-custom-gpts-for-enterprises-that-can-plug-directly-into-slack-salesforce-and-more"
+        "category": "AI Research / AI Efficiency",
+        "title": "Stanford Research Questions Efficacy of Complex Multi-Agent AI Systems",
+        "summary": "New research from Stanford University indicates that enterprise teams building multi-agent AI systems may be incurring a compute premium without guaranteed performance gains. The study found that single-agent systems often match or outperform multi-agent architectures on complex reasoning tasks when both are allocated an equal 'thinking token' budget. This suggests that the reported benefits of multi-agent systems may stem from increased resource consumption rather than inherent architectural advantages, prompting re-evaluation of current AI system design.",
+        "link": "https://venturebeat.com/orchestration/are-you-paying-an-ai-swarm-tax-why-single-agents-often-beat-complex-systems/"
     },
     {
-        "category": "AI Infrastructure & Strategy",
-        "title": "Google and AWS Diverge on AI Agent Management",
-        "summary": "As enterprises increasingly deploy AI agents, Google and AWS are presenting distinct approaches to managing these complex multi-agent systems. Google's strategy focuses on agentic management at the system layer, while AWS implements its \"harness method\" within the execution layer. This divergence highlights a split in the AI stack and the ongoing debate over optimal control and management of AI agents, further energized by recent updates to agent builder platforms from competitors like Anthropic and OpenAI.",
-        "link": "https://venturebeat.com/orchestration/google-and-aws-split-the-ai-agent-stack-between-control-and-execution"
+        "category": "Tech Economy / AI Strategy / Layoffs",
+        "title": "Meta Announces 10% Workforce Reduction Amid A.I. Push",
+        "summary": "Meta is set to lay off approximately 8,000 employees and close an additional 6,000 open roles as part of a strategic realignment. The company is intensifying its focus on artificial intelligence, indicating a significant shift in resource allocation and priorities. This large-scale restructuring underscores Meta's commitment to advancing its AI capabilities, even at the cost of substantial workforce reductions.",
+        "link": "https://www.nytimes.com/2026/04/23/technology/meta-layoffs.html"
     },
     {
-        "category": "AI Privacy & Open Source",
-        "title": "OpenAI Releases Privacy Filter for On-Device Data Sanitization",
-        "summary": "OpenAI has launched Privacy Filter, an open-source, 1.5-billion-parameter model designed for on-device data sanitization. Available on Hugging Face under an Apache 2.0 license, this specialized tool detects and redacts Personally Identifiable Information (PII) before data reaches cloud servers. This initiative marks a strategic shift towards local-first privacy infrastructure, addressing the critical industry concern of sensitive data leakage into AI training sets or during inference. It offers developers a privacy-by-design toolkit, emphasizing context-aware data protection.",
-        "link": "https://venturebeat.com/data/openai-lunches-privacy-filter-an-open-source-on-device-data-sanitization-model-that-removes-personal-information-from-enterprise-datasets"
-    },
-    {
-        "category": "AI Hardware & Strategic Advantage",
-        "title": "Google Unveils New TPUs to Avoid 'Nvidia Tax'",
-        "summary": "Google has previewed its eighth-generation Tensor Processing Units (TPUs), featuring two custom silicon designs set to ship later this year. The TPU 8t is optimized for training frontier AI models, while the TPU 8i is designed for low-latency, memory-intensive agentic inference and real-time sampling. By vertically integrating its AI stack, from hardware to software, Google aims to reduce reliance on external suppliers like Nvidia for compute, positioning itself with a cost-efficient and tailored solution for demanding AI workloads.",
-        "link": "https://venturebeat.com/orchestration/google-doesnt-pay-the-nvidia-tax-its-new-tpus-explain-why"
-    },
-    {
-        "category": "Enterprise AI & Data Security",
-        "title": "Google Gemini Available On-Premises via Air-Gapped Servers",
-        "summary": "Cirrascale Cloud Services, in partnership with Google Cloud, now offers the Gemini model on-premises through Google Distributed Cloud. This makes Cirrascale the first neocloud provider to deliver Google's advanced AI model as a fully private, disconnected appliance that can run on a single air-gapped server. This solution addresses a critical challenge for regulated industries: enabling access to frontier AI models while maintaining complete control over sensitive data, allowing the model to be instantly removed by disconnecting the power.",
-        "link": "https://venturebeat.com/technology/googles-gemini-can-now-run-on-a-single-air-gapped-server-and-vanish-when-you-pull-the-plug"
-    },
-    {
-        "category": "AI Breakthrough & Geopolitical Impact",
-        "title": "Anthropic's Mythos AI Model Prompts Global Emergency Response",
-        "summary": "Anthropic's new Mythos A.I. model has reportedly triggered emergency responses from central banks and intelligence agencies worldwide. The powerful model's capabilities are causing global alarms, intensifying the debate as Anthropic determines access permissions. This development highlights the profound societal and geopolitical implications of advanced AI breakthroughs, prompting urgent attention from critical government institutions concerned with its potential impact and control.",
+        "category": "AI Ethics / Geopolitics / AI Safety",
+        "title": "Anthropic\u2019s New Mythos A.I. Model Triggers Global Alarms",
+        "summary": "Anthropic\u2019s latest artificial intelligence model, Mythos, has elicited emergency responses from central banks and intelligence agencies worldwide. The powerful new model has prompted global alarms, raising questions about its potential impact and control. Anthropic is currently managing who gains access to this advanced AI, highlighting the significant geopolitical and safety considerations surrounding cutting-edge AI deployments.",
         "link": "https://www.nytimes.com/2026/04/22/technology/anthropics-mythos-ai.html"
     },
     {
-        "category": "AI Ethics & Intellectual Property",
-        "title": "Anthropic's Claude Code Leak Raises AI Copyright Questions",
-        "summary": "The leaked code for Anthropic's Claude AI model is bringing copyright challenges to the forefront in the age of artificial intelligence. With AI tools accelerating the reproduction of creative work, the incident prompts a critical examination of the relevance and enforceability of copyright laws. This event underscores a growing legal and ethical dilemma within the AI industry, questioning how intellectual property can be protected when AI can rapidly replicate and transform existing content.",
-        "link": "https://www.nytimes.com/2026/04/22/technology/anthropic-code-leak-copyright.html"
+        "category": "AI / M&A / Global Tech Competition",
+        "title": "Canadian and German AI Startups Merge to Counter Silicon Valley Dominance",
+        "summary": "AI startups Cohere from Canada and Aleph Alpha from Germany are merging in a strategic move aimed at challenging Silicon Valley's dominance in artificial intelligence. This merger seeks to appeal to customers who are wary of the concentrated power of American companies in the AI sector, offering a more diversified, non-U.S.-centric alternative for advanced AI solutions.",
+        "link": "https://www.nytimes.com/2026/04/24/business/cohere-aleph-alpha-ai-merger.html"
     },
     {
-        "category": "Space Tech & Corporate Strategy",
-        "title": "SpaceX Shifts Goals Ahead of IPO, Focuses on New 'Moonshots'",
-        "summary": "Ahead of its anticipated Initial Public Offering, SpaceX's strategic objectives are reportedly shifting. Elon Musk has introduced new \"moonshot\" projects that diverge from the company's foundational ambition of reaching Mars. This reorientation of goals suggests a recalibration of priorities as SpaceX prepares for its public market debut, potentially reflecting evolving market opportunities or technological advancements, and indicating a broadened scope beyond its original interstellar focus.",
-        "link": "https://www.nytimes.com/2026/04/22/technology/elon-musk-spacex-ipo-goals.html"
+        "category": "AI / Business Strategy / Tech Economy",
+        "title": "Sam Altman Focuses OpenAI on Profitability Amid Criticism",
+        "summary": "Sam Altman, CEO of OpenAI, is facing scrutiny over the company's strategic direction and is now prioritizing profitability. Altman has reportedly culled various company projects and is implementing a more disciplined approach to strategy. This shift signals a concerted effort to enhance OpenAI's financial sustainability and address past criticisms regarding its business model and operational focus.",
+        "link": "https://www.nytimes.com/2026/04/24/technology/sam-altman-openai-money.html"
     },
     {
-        "category": "Tech Mergers & Acquisitions",
-        "title": "SpaceX Eyes $60 Billion Cursor Acquisition Ahead of IPO",
-        "summary": "SpaceX is reportedly pursuing a significant acquisition, striking a potential $60 billion deal with Cursor. This strategic move comes as Elon Musk's rocket and satellite manufacturing company, which has been increasingly highlighting its focus on artificial intelligence, prepares for its initial public offering. The substantial acquisition suggests an aggressive expansion strategy, potentially aimed at bolstering its AI capabilities or market position as it transitions to a publicly traded entity.",
-        "link": "https://www.nytimes.com/2026/04/21/business/spacex-cursor-deal.html"
+        "category": "Tech Personalities / Business Ethics / Finance",
+        "title": "Elon Musk Leveraged SpaceX for Personal and Business Gain",
+        "summary": "A New York Times examination revealed that Elon Musk has utilized his rocket company, SpaceX, as a financial instrument to benefit himself and his other businesses. SpaceX has reportedly provided the billionaire with loans and offered support to his struggling companies. This finding highlights the intricate financial relationships within Musk's entrepreneurial empire and raises questions about corporate governance.",
+        "link": "https://www.nytimes.com/2026/04/24/technology/elon-musk-spacex-loans.html"
     },
     {
-        "category": "AI Investment & Strategic Alliances",
-        "title": "Amazon to Invest Up To $25 Billion in Anthropic",
-        "summary": "Amazon plans to invest up to $25 billion in Anthropic, a major move solidifying their strategic partnership in the AI sector. In turn, Anthropic has committed to spending $100 billion on Amazon's technologies, specifically for building and deploying its AI systems. This substantial mutual investment underscores the intense competition and significant capital flowing into leading AI research companies, creating deep alliances between cloud providers and frontier AI developers.",
-        "link": "https://www.nytimes.com/2026/04/20/technology/amazon-anthropic-investment.html"
+        "category": "Tech Economy / AI Hardware / Earnings",
+        "title": "Intel's Revenues Soar, Fueled by A.I. Boom",
+        "summary": "Intel reported a substantial increase in its latest quarterly revenues, rising 7 percent to $13.6 billion. This figure exceeded Wall Street expectations by over $1 billion, largely attributed to the burgeoning artificial intelligence boom. The strong performance highlights Intel's significant role and benefit from the escalating demand for computing power driven by AI advancements, signaling a positive trajectory in the tech economy.",
+        "link": "https://www.nytimes.com/2026/04/23/technology/intel-ai-earnings.html"
     },
     {
-        "category": "AI Geopolitics & Innovation",
-        "title": "China's DeepSeek AI Impresses Silicon Valley with Chip Efficiency",
-        "summary": "China's DeepSeek AI model is generating significant buzz in Silicon Valley, drawing praise as \"amazing and impressive.\" Notably, DeepSeek has reportedly trained high-performing AI models cheaply, achieving its results without relying on the most advanced chips. This development highlights China's growing capabilities in AI innovation, demonstrating that significant breakthroughs can be made through efficient model design and optimization, even with potentially less cutting-edge hardware, impacting global AI competition.",
-        "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology"
-    },
-    {
-        "category": "AI Investment & Healthcare",
-        "title": "Reid Hoffman Backs AI Cancer Research Startup with $24.6M",
-        "summary": "LinkedIn co-founder Reid Hoffman has raised $24.6 million for Manas AI, a new startup focused on AI-driven cancer research. He is launching the venture alongside Siddhartha Mukherjee, author of \"The Emperor of All Maladies.\" This significant investment highlights the increasing interest and capital flowing into applying artificial intelligence to complex problems in healthcare, particularly in the challenging field of cancer discovery and treatment, backed by prominent tech and scientific figures.",
+        "category": "AI / Healthcare / Venture Capital",
+        "title": "Reid Hoffman Funds AI Cancer-Research Startup with $24.6 Million",
+        "summary": "LinkedIn co-founder Reid Hoffman has raised $24.6 million in funding for Manas AI, a new startup focused on AI-driven cancer research. He is co-founding the venture with Siddhartha Mukherjee, author of 'The Emperor of All Maladies.' This significant investment signals strong venture capital interest in leveraging artificial intelligence to advance critical healthcare solutions, particularly in disease treatment and discovery.",
         "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology"
     },
     {
-        "category": "AI Infrastructure & Tech Economy",
-        "title": "Meta Boosts AI and Data Center Spending to $60-65 Billion",
-        "summary": "Meta plans to significantly increase its spending, allocating between $60 billion and $65 billion towards artificial intelligence initiatives and massive data center expansion. This substantial investment underscores the accelerating trend of major tech companies pouring vast capital into AI development and supporting infrastructure. The move signals Meta's commitment to scaling its AI capabilities and maintaining its competitive edge in the rapidly evolving AI landscape, impacting its financial outlook.",
+        "category": "Tech Economy / AI Investment / Infrastructure",
+        "title": "Meta Plans Massive AI Investment, Data Center Expansion",
+        "summary": "Meta is projecting a significant increase in its spending, estimating between $60 billion and $65 billion, to support its aggressive push into artificial intelligence and the expansion of its massive data center infrastructure. This substantial investment is the latest indicator of accelerating capital expenditure by major tech companies dedicated to developing and deploying AI technologies, reinforcing the trend of heavy AI-driven infrastructure build-out.",
         "link": "https://www.wsj.com/articles/meta-spending-ai-facebook-data-centers-9452a88f?mod=rss_Technology"
+    },
+    {
+        "category": "AI / Healthcare / AI Ethics",
+        "title": "Uncertainty Surrounds Efficacy of AI in Healthcare",
+        "summary": "Artificial intelligence is increasingly integrated into hospitals, assisting doctors with note-taking, flagging patients for support, and interpreting medical results. Despite its widespread adoption, there is a lack of clear understanding regarding whether health-care AI actually helps patients. This raises critical questions about the effectiveness and patient outcomes of these rapidly deployed AI-based tools in clinical settings, emphasizing the need for robust evaluation.",
+        "link": "https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/"
     }
 ];
