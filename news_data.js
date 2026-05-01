@@ -1,152 +1,128 @@
 window.NEWS_DATA = [
     {
-        "category": "AI & Platforms",
-        "title": "Spotify Verifies Human Artists Against AI Flood",
-        "summary": "Music streaming platform Spotify is introducing a 'Verified by Spotify' badge to distinguish human artists from the increasing volume of AI-generated content. This initiative aims to help listeners identify authentic creators amidst the surge of AI-generated artists and tracks. To qualify for the badge, artists must demonstrate an identifiable presence both on and off the platform, including elements like concert dates, merchandise, and linked external presences. This move highlights Spotify's efforts to manage the impact of AI on content authenticity and maintain user trust in human artistry.",
-        "link": "https://techcrunch.com/2026/04/30/spotify-introduces-verified-artist-badges-to-help-distinguish-humans-from-ai/"
+        "category": "AI Investment & Valuation",
+        "title": "Anthropic Nears Potential $900B+ Valuation Funding Round",
+        "summary": "AI company Anthropic is reportedly seeking investor allocations for its latest fundraise within the next 48 hours, according to sources familiar with the matter. This round could potentially value the company at over $900 billion within the next two weeks. Such a substantial valuation underscores intense investor interest and the rapidly escalating financial stakes within the competitive artificial intelligence industry, particularly for leading AI model developers.",
+        "link": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/"
     },
     {
-        "category": "Business AI Adoption",
-        "title": "Meta's Business AI Facilitates 10M Weekly Conversations",
-        "summary": "Meta has announced that its business AI tools are now facilitating 10 million conversations per week. The company also reported that over 8 billion advertisers have utilized at least one of its generative AI tools. These figures underscore the accelerating adoption and impact of Meta's AI offerings within its business ecosystem. The increased engagement points to a growing reliance by advertisers and businesses on AI-powered solutions for communication and operational efficiency across Meta's platforms.",
-        "link": "https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/"
+        "category": "Vertical AI & Competition",
+        "title": "Legal AI Startup Legora Hits $5.6B Valuation, Intensifying Rivalry",
+        "summary": "Legal AI startup Legora has achieved a $5.6 billion valuation, intensifying its competition with rival company Harvey. Both firms, described as wildly fast-growing, have secured substantial funding and are expanding into each other's core markets. This escalating rivalry is now evident through dueling advertising campaigns, signaling a heated battle for market share and dominance in the rapidly expanding legal artificial intelligence sector.",
+        "link": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/"
     },
     {
-        "category": "AI Infrastructure & Investment",
-        "title": "SoftBank Eyes $100B IPO for Data Center Robotics",
-        "summary": "SoftBank is reportedly creating a new robotics company focused on building data centers, and is already considering a $100 billion initial public offering (IPO). This initiative signifies a strategic investment in the foundational infrastructure required for the rapid expansion of AI. The move suggests a future where AI and robots are not only powered by infrastructure but also integral to its construction, addressing the intense demand for data centers driven by AI development and deployment.",
-        "link": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/"
+        "category": "AI Investment & Infrastructure",
+        "title": "Meta Boosts AI Investment with $60-65B Spending Plan",
+        "summary": "Meta Platforms plans to significantly increase its spending to between $60 billion and $65 billion, primarily driven by investments in artificial intelligence and massive data center expansion. This substantial financial commitment from the social media giant is the latest indicator of accelerated investment into AI across the tech industry. It underscores Meta's strategy to bolster its AI capabilities and underlying infrastructure, positioning itself for future growth and competition in the rapidly evolving AI landscape.",
+        "link": "https://www.wsj.com/articles/meta-spending-ai-facebook-data-centers-9452a88f?mod=rss_Technology"
     },
     {
-        "category": "Global Tech Competition",
-        "title": "Amazon, Meta Challenge India's Payment Duopoly",
-        "summary": "Amazon and Meta are reportedly joining forces to challenge the dominance of Google Pay and PhonePe in India's instant payments market. Google Pay and PhonePe currently command 80% of India's UPI network. Rivals are scheduled to meet with regulators to lobby for restrictions on the market leaders. This marks a significant move by major tech players to contest market share in a critical and rapidly growing digital payments sector, reflecting intensified competition and regulatory engagement in a key global market.",
-        "link": "https://techcrunch.com/2026/04/29/amazon-meta-join-fight-to-end-google-pay-phonepe-dominance-in-india/"
-    },
-    {
-        "category": "Cloud & AI Infrastructure",
-        "title": "AWS Surges, Driving Amazon's Capital Spending",
-        "summary": "Amazon's cloud business, AWS, is experiencing a surge in profitability, exceeding expectations. However, this growth is accompanied by significant capital spending, which is projected to continue in the near term, according to Amazon's chief executive. This substantial investment underscores the company's commitment to expanding its cloud infrastructure, likely driven by the escalating demands of artificial intelligence workloads. The trend reflects broader industry patterns of tech giants pouring capital into enhancing their cloud and AI capabilities.",
-        "link": "https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/"
-    },
-    {
-        "category": "AI Investment & Valuations",
-        "title": "Anthropic Nears $900B Valuation with New $50B Round",
-        "summary": "Sources indicate that Anthropic, the developer of the Claude AI model, is poised to raise a new $50 billion funding round. This new investment could value the company at an astonishing $850 billion to $900 billion. Such a valuation reflects the intense investor confidence and speculative fervor surrounding leading generative AI companies. This potential funding round signals a continuation of massive capital inflows into the AI sector, solidifying Anthropic's position as a top-tier player in the competitive AI landscape.",
-        "link": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/"
-    },
-    {
-        "category": "AI Legal & Governance",
-        "title": "Elon Musk Challenges OpenAI in Court",
-        "summary": "Elon Musk is currently on trial for the second day in his legal challenge against OpenAI, alleging that OpenAI's chief executive, Sam Altman, misled him. Musk's testimony has faced scrutiny, with the court examining his own past statements. This high-profile legal battle could have significant implications for OpenAI's structure as a for-profit entity and its impending IPO, with the potential to reshape its future governance and operational model, while also highlighting Musk's ongoing influence and involvement in the AI sector.",
-        "link": "https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/"
-    },
-    {
-        "category": "Tech Economy & Strategic Bets",
-        "title": "Meta's Billions in AR/VR Losses Continue Amid AI Push",
-        "summary": "Meta continues to incur billions in losses each quarter from its Reality Labs division, which focuses on augmented and virtual reality. The company anticipates that its substantial expenditures on artificial intelligence initiatives will further increase its overall spending. Despite the ongoing financial drain from its metaverse ambitions, Meta is committed to significant AI investments, indicating a strategic prioritization of AI development that could impact its financial outlook in the short to medium term.",
-        "link": "https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/"
-    },
-    {
-        "category": "Platform Health & AI Strategy",
-        "title": "Meta Loses 20M Users, Still Pours Billions into AI",
-        "summary": "Meta reported a loss of 20 million users last quarter, as measured by \"Family daily active people\" across its platforms including Facebook, Instagram, and WhatsApp. Despite this user decline, the company announced plans to invest billions more into AI this year. This indicates a strategic pivot towards doubling down on AI development, even as its core social media platforms face challenges in user retention, suggesting AI is seen as critical for future growth and competitive positioning.",
-        "link": "https://www.theverge.com/tech/921089/meta-earnings-q1-2026-user-decline-ai-investments"
-    },
-    {
-        "category": "AI Security Breakthrough",
-        "title": "OpenAI Unveils GPT-5.5-Cyber for Critical Cyber Defense",
-        "summary": "OpenAI is preparing to launch GPT-5.5-Cyber, a new frontier cybersecurity model specifically designed for \"critical cyber defenders.\" CEO Sam Altman stated that this model will not be publicly available initially, but will be rolled out to a select group of trusted cybersecurity institutions. The limited release aims to help these organizations enhance their cyber defenses. This strategic deployment highlights OpenAI's focus on specialized, high-impact AI applications for critical infrastructure and national security.",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/921073/openai-sam-altman-new-cybersecurity-model-gpt-5-5-cyber"
-    },
-    {
-        "category": "Societal Impact of AI",
-        "title": "Gen Z's AI Adoption Leads to Growing Dislike",
-        "summary": "A trend is emerging where younger generations, particularly Gen Z, are experiencing increased negative sentiment towards AI despite being early adopters. After nearly three years of aggressive promotion of large language model chatbots like ChatGPT, young people, who are among the biggest users of new tech, are increasingly expressing dissatisfaction. This challenges the narrative of AI's inevitable and universal acceptance, suggesting potential long-term user experience and perception issues within a key demographic.",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai"
-    },
-    {
-        "category": "Major Global Shifts",
-        "title": "American Water Crisis Reaches Critical Stage",
-        "summary": "Concerns over water access in the United States are projected to intensify significantly this summer. Crises, notably in Corpus Christi and throughout the Colorado River basin, are threatening to escalate. This situation highlights a growing environmental and resource challenge across the US, potentially impacting various sectors and requiring urgent attention. The report underscores a critical shift where water scarcity is becoming a more immediate and widespread reality.",
-        "link": "https://www.wired.com/story/the-summer-the-american-water-crisis-turned-real/"
-    },
-    {
-        "category": "AI Ethics & Misuse",
-        "title": "Lawsuit Alleges Men Profit from AI Porn of Real Women",
-        "summary": "Three women in Arizona have filed a lawsuit against a group of men, alleging they used the women's photos to create AI porn influencers. The lawsuit further claims that these men offered online courses teaching others how to replicate this practice. This case highlights the escalating ethical and legal challenges surrounding the misuse of generative AI for non-consensual content creation and the potential for profit from such activities, raising significant concerns about privacy and digital exploitation.",
-        "link": "https://www.wired.com/story/ai-porn-lawsuit-arizona/"
-    },
-    {
-        "category": "Enterprise AI & Investment",
-        "title": "Netomi Secures $110M for Enterprise Customer Service AI",
-        "summary": "Netomi, a San Francisco-based startup specializing in AI systems for enterprise customer service, has successfully raised $110 million in new funding. The round was led by Accenture Ventures, with notable participation from Adobe Ventures and other investors. Jeffrey Katzenberg of WndrCo has joined the board. This significant investment underscores strong belief from strategic players in the potential of AI to transform customer service operations within large enterprises, indicating a maturing market for specialized AI applications.",
+        "category": "AI Investment & Customer Service",
+        "title": "Netomi Secures $110M to Advance AI for Customer Service",
+        "summary": "Netomi, a San Francisco-based startup specializing in AI systems for enterprise customer service, has successfully raised $110 million in new funding. The round was led by Accenture Ventures, with notable participation from Adobe Ventures, WndrCo, Silver Lake Waterman, NAVER Ventures, Metis Strategy, and Fin Capital. This substantial investment, supported by major corporate and venture capital firms, underscores growing confidence in AI's transformative potential for customer service operations across large enterprises. Jeffrey Katzenberg has joined the board.",
         "link": "https://venturebeat.com/technology/netomi-raises-110-million-as-accenture-and-adobe-bet-on-ai-for-customer-service"
     },
     {
-        "category": "Cloud Wars & AI Strategy",
-        "title": "Amazon Integrates OpenAI Models, Reshaping Cloud AI",
-        "summary": "Amazon Web Services (AWS) has launched a significant enterprise AI initiative by integrating OpenAI's most powerful models into its Bedrock platform. This move, alongside unveiling a new agentic developer framework and expanding its Amazon Connect service, signals a new phase in the cloud wars where exclusivity for AI models is diminishing. This strategic shift allows AWS to offer a broader range of AI capabilities, intensifying competition and providing enterprises with more diverse options for their AI infrastructure needs.",
-        "link": "https://venturebeat.com/technology/amazons-openai-gambit-signals-a-new-phase-in-the-cloud-wars-one-where-exclusivity-no-longer-applies"
+        "category": "Enterprise AI",
+        "title": "Microsoft Launches AI Legal Agent for Word Documents",
+        "summary": "Microsoft is introducing a new AI agent within Word, specifically tailored for legal professionals. This Legal Agent is designed to assist legal teams with tasks such as document edits, tracking negotiation history, and managing complex documents, relying on structured workflows derived from actual legal practices rather than general AI models. This initiative aims to enhance efficiency and accuracy for legal teams by integrating specialized AI capabilities directly into their daily document workflows.",
+        "link": "https://www.theverge.com/news/921944/microsoft-word-legal-agent-ai"
     },
     {
-        "category": "Enterprise AI Architecture",
-        "title": "Enterprise RAG Programs Pivot to Hybrid Retrieval",
-        "summary": "Data from VB Pulse indicates a significant shift in enterprise RAG (Retrieval Augmented Generation) programs in Q1 2026, with intent to adopt hybrid retrieval tripling from 10.3% to 33.3% in a single quarter. This \"retrieval rebuild\" suggests enterprises are moving from merely adding retrieval layers to actively fixing and optimizing existing ones, as RAG programs encounter scaling challenges. The data points to an active transition towards hybrid retrieval as the consensus architecture for scaling agentic AI infrastructure.",
-        "link": "https://venturebeat.com/data/the-retrieval-rebuild-why-hybrid-retrieval-intent-tripled-as-enterprise-rag-programs-hit-the-scale-wall"
+        "category": "Autonomous AI Agents",
+        "title": "Writer Unveils Autonomous AI Agents with Event-Based Triggers",
+        "summary": "Writer, an enterprise AI agent platform, has launched new event-based triggers for its Writer Agent platform, enabling AI agents to operate autonomously without human prompts. These agents can detect business signals across various platforms like Gmail, Google Calendar, and Slack, then execute complex, multi-step workflows. This advancement positions Writer to compete directly with major players like Amazon, Microsoft, and Salesforce by offering AI agents capable of proactive, self-initiated business process automation.",
+        "link": "https://venturebeat.com/technology/writer-launches-ai-agents-that-can-act-without-prompts-taking-on-amazon-microsoft-and-salesforce"
     },
     {
-        "category": "Enterprise AI Development",
-        "title": "IBM's \"Bob\" Secures AI Coding with Human Checkpoints",
-        "summary": "IBM has globally launched \"Bob,\" an AI-powered software development platform designed to write and test code across the development cycle. Bob aims to address security and orchestration failures that arise as AI agents integrate into enterprise software development. Already utilized by over 80,000 IBM employees, the platform introduces a structured layer with constant human-led checkpoints. This approach enhances security and control in AI-assisted coding, transitioning enterprises towards production-ready software by balancing AI automation with human oversight.",
-        "link": "https://venturebeat.com/orchestration/ibm-lauch-bob-with-multi-model-routing-and-human-checkpoints-to-turn-ai-coding-into-a-secure-production-system"
+        "category": "AI Efficiency & Breakthrough",
+        "title": "Alibaba's Metis AI Agent Drastically Cuts Redundant Tool Calls",
+        "summary": "Alibaba researchers have introduced Metis, a multimodal AI agent trained with a Hierarchical Decoupled Policy Optimization (HDPO) framework. This innovation addresses a key challenge in AI agents by reducing redundant external tool invocations from 98% to just 2%, while simultaneously enhancing reasoning accuracy across industry benchmarks. Metis's ability to selectively use tools improves execution efficiency and cuts API costs, paving the way for more responsive and cost-effective AI agents that know when to rely on internal knowledge versus external tools.",
+        "link": "https://venturebeat.com/orchestration/alibabas-metis-agent-cuts-redundant-ai-tool-calls-from-98-to-2-and-gets-more-accurate-doing-it"
     },
     {
-        "category": "Personal AI & Productivity",
-        "title": "AWS Quick Desktop AI Builds Personal Knowledge Graph",
-        "summary": "AWS Quick, now expanded to a desktop-native agent, is building a persistent personal knowledge graph that processes local files and SaaS tools, operating outside the visibility of many centralized orchestration stacks. Unlike session-based copilots, Quick continuously updates this knowledge graph from user data, calendar, email, and connected apps, enabling it to proactively trigger actions. This development introduces a new variable for enterprise AI teams, offering a powerful, personalized AI assistant with autonomous action capabilities.",
-        "link": "https://venturebeat.com/orchestration/aws-quicks-personal-knowledge-graph-is-making-orchestration-decisions-most-control-planes-can-t-see"
+        "category": "AI Development Infrastructure",
+        "title": "Runpod Flash Accelerates AI Development by Eliminating Containers",
+        "summary": "Runpod, a high-performance cloud computing and GPU platform, has launched Runpod Flash, a new open-source Python tool designed to significantly speed up the creation, iteration, and deployment of AI systems. Flash aims to remove common barriers in AI development by doing away with Docker packages and containerization for serverless GPU infrastructure. This approach is expected to accelerate the development and deployment of new AI models, applications, and agentic workflows, also serving as a critical substrate for AI agents and coding assistants.",
+        "link": "https://venturebeat.com/infrastructure/one-tool-call-to-rule-them-all-new-open-source-python-tool-runpod-flash-eliminates-containers-for-faster-ai-dev"
     },
     {
-        "category": "AI Infrastructure Economics",
-        "title": "GPU Waste Drives Climbing Prices Amid Enterprise FOMO",
-        "summary": "Enterprises are currently utilizing their GPU fleets at roughly 5% utilization, despite soaring GPU prices, according to Cast AI's 2026 report. This inefficiency is attributed to \"FOMO\" (Fear Of Missing Out), where companies hold onto idle capacity due to GPU shortages, exacerbating the problem. Releasing this unused capacity would improve utilization but is avoided due to the same shortage dynamics. This highlights a significant economic challenge in AI infrastructure, where perceived scarcity leads to inefficient resource allocation and inflated costs.",
-        "link": "https://venturebeat.com/infrastructure/fomo-is-why-enterprises-pay-for-GPUs-they-dont-use-and-why-prices-keep-climbing"
+        "category": "Global AI Development",
+        "title": "China's DeepSeek AI Praised for High Performance on Less Advanced Chips",
+        "summary": "DeepSeek AI, a Chinese AI model, is receiving significant acclaim from Silicon Valley, being described as \"amazing and impressive.\" Notably, the company claims it has trained its high-performing AI models cost-effectively without relying on the most advanced chips. This achievement highlights a potential strategic advantage in AI development, demonstrating that competitive AI capabilities can be achieved with less sophisticated hardware, challenging existing assumptions about the necessity of cutting-edge chip technology for advanced AI.",
+        "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology"
     },
     {
-        "category": "AI Data Reliability",
-        "title": "Definity Embeds Agents for Reliable AI Data Pipelines",
-        "summary": "Definity, a Chicago-based data pipeline operations startup, is embedding agents directly into Spark or DBT drivers to detect and act on failures during pipeline runs, preventing issues from reaching agentic AI systems. This contrasts with traditional methods of fixing problems after alerts. One enterprise client identified 33% of optimization opportunities and cut troubleshooting effort by 70% in the first week. This innovation aims to provide reliable, clean, and timely data essential for robust AI system performance.",
-        "link": "https://venturebeat.com/data/definity-embeds-agents-inside-spark-pipelines-to-catch-failures-before-they-reach-agentic-ai-systems"
+        "category": "AI Development Tools",
+        "title": "Goodfire Unveils Silico for Debugging and Controlling LLMs",
+        "summary": "San Francisco-based startup Goodfire has launched Silico, a new mechanistic interpretability tool designed to allow researchers and engineers to inspect and adjust AI model parameters during training. This tool offers more granular control over LLM behavior than previously thought possible, enabling a deeper understanding and refinement of how these models are built. Silico aims to enhance the debugging process and provide model makers with unprecedented fine-grained oversight, potentially improving the reliability and ethical deployment of AI.",
+        "link": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/"
     },
     {
-        "category": "Tech Economy & AI Infrastructure",
-        "title": "Tech Giants Set Record $130B+ AI Capex",
-        "summary": "Google, Amazon, Microsoft, and Meta collectively reported over $130 billion in quarterly capital expenditures, primarily driven by investments in building AI data centers. This record spending indicates an unprecedented commitment from major tech companies to expand their AI infrastructure, with further investments anticipated. The massive outlays reflect the intensifying competition and the foundational requirement for robust computing power to develop and deploy advanced artificial intelligence capabilities across the industry.",
-        "link": "https://www.nytimes.com/2026/04/29/technology/ai-spending-tech-data-centers.html"
+        "category": "AI Security",
+        "title": "Major AI Coding Agents Hacked via Credential Exploits",
+        "summary": "Leading AI coding agents, including Anthropic's Claude Code, OpenAI's Codex, and Microsoft's Copilot, have been subjected to multiple exploits, with attackers consistently targeting credentials rather than the models themselves. Research teams have disclosed six exploits over nine months, revealing vulnerabilities like a crafted GitHub branch name stealing Codex's OAuth token and Claude Code ignoring deny rules under specific command conditions. This pattern underscores a critical security challenge where AI agents holding credentials execute actions and authenticate to production systems without human session oversight.",
+        "link": "https://venturebeat.com/security/six-exploits-broke-ai-coding-agents-iam-never-saw-them"
     },
     {
-        "category": "Geopolitics of AI",
-        "title": "China Blocks Meta AI Deal, Deepening Tech Split",
-        "summary": "Beijing's insistence that Meta unwind its deal with a Chinese AI startup is escalating the geopolitical conflict over advanced technology. This reversal highlights China's increasing assertiveness in controlling foreign tech influence and protecting its domestic AI sector. The move further deepens the divide between China and Silicon Valley, signaling ongoing challenges for Western tech companies seeking to operate or collaborate in the Chinese market, particularly in sensitive areas like artificial intelligence.",
-        "link": "https://www.nytimes.com/2026/04/29/business/china-silicon-valley-manus.html"
+        "category": "AI Product Strategy",
+        "title": "OpenAI Restricts Access to New Cybersecurity Tool, GPT-5.5 Cyber",
+        "summary": "Following its earlier criticism of Anthropic for limiting access to its Mythos model, OpenAI is now implementing restrictions on its own cybersecurity testing tool, GPT-5.5 Cyber. The tool will initially be rolled out only \"to critical cyber defenders,\" indicating a strategic decision to control access to advanced AI capabilities, potentially for security or competitive reasons. This move highlights an evolving trend in how leading AI developers manage the deployment and availability of powerful AI models.",
+        "link": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/"
     },
     {
-        "category": "Key Figures & AI Strategy",
-        "title": "Elon Musk Builds Expansive AI Business Empire",
-        "summary": "Despite his ongoing legal battle with OpenAI, Elon Musk has established a significant and growing presence in the artificial intelligence sector across his various business ventures. This underscores his continued strategic focus on AI as a core component of his diversified empire, spanning beyond his initial involvement with OpenAI. His multifaceted engagement highlights the importance of AI in his vision for future technologies and industries, irrespective of his relationship with specific entities.",
-        "link": "https://www.nytimes.com/live/2026/04/29/technology/openai-trial-sam-altman-elon-musk/even-without-openai-elon-musk-has-made-ai-a-big-part-of-his-business-empire"
+        "category": "Tech Economy & Leadership",
+        "title": "Apple Reports Record Sales, $57B iPhone Revenue Amid Leadership Transition and Chip Shortage",
+        "summary": "Apple has achieved record sales, with iPhone revenue alone jumping 22 percent to $57 billion, driven by \"off the charts\" demand despite supply chain issues impacting processors. As CEO Tim Cook prepares to step down, warning of \"RAMageddon\" chip shortages affecting the business, John Ternus is set to take over in September. Cook noted less flexibility in obtaining parts, highlighting a critical period of strong consumer demand, executive transition, and looming supply chain headwinds for the tech giant.",
+        "link": "https://www.theverge.com/tech/921527/apple-iphone-revenue-q2-2026-earnings"
     },
     {
-        "category": "Global AI Competition & Innovation",
-        "title": "China's DeepSeek AI Achieves High Performance Without Advanced Chips",
-        "summary": "Chinese AI firm DeepSeek has garnered significant attention, with its AI models being described as \"amazing and impressive\" despite being trained without the most advanced chips. DeepSeek's new flagship model, V4, can process much longer prompts due to an efficient design for handling large amounts of text and is open source. This development signifies a notable breakthrough in achieving high AI performance through optimization rather than solely relying on cutting-edge hardware, impacting global AI competition.",
-        "link": "https://www.wsj.com/articles/deepseek-ai-china-tech-stocks-explained-ee6cc80e?mod=rss_Technology"
+        "category": "AI & Hardware Demand",
+        "title": "AI Fuels Unexpected Surge in Mac Demand, Leading to Supply Constraints",
+        "summary": "Apple has reported being surprised by a significant increase in demand for its Mac computers, specifically the Mac mini, Studio, and Neo models, which is attributed to AI-driven usage. This unexpected surge is projected to lead to supply constraints for these specific Mac products in the upcoming quarter. The development highlights how the growing adoption and requirements of AI applications are directly influencing hardware sales and supply chain dynamics for major tech manufacturers.",
+        "link": "https://techcrunch.com/2026/04/30/apple-was-surprised-by-ai-driven-demand-for-macs/"
     },
     {
-        "category": "AI & Healthcare Investment",
-        "title": "Reid Hoffman Backs AI Cancer Research with $24.6M",
-        "summary": "LinkedIn co-founder Reid Hoffman has raised $24.6 million for his new AI cancer-research startup, Manas AI. He is co-founding the venture with Siddhartha Mukherjee, author of \"The Emperor of All Maladies.\" This significant investment highlights the growing application of artificial intelligence in healthcare, specifically for complex challenges like cancer research. The involvement of prominent figures and substantial funding underscores the potential seen in leveraging AI to accelerate scientific discovery and medical breakthroughs.",
+        "category": "Cybersecurity Threat",
+        "title": "Critical cPanel Bug Actively Exploited by Hackers",
+        "summary": "A significant security vulnerability in cPanel, which is utilized by millions of websites globally, is currently being actively exploited by hackers. Web hosting providers are urgently working to patch the flaw, with one company reporting that attackers have been abusing this bug for several months. This ongoing exploitation poses a widespread risk to online security and necessitates immediate attention from affected organizations to prevent potential breaches and data compromise.",
+        "link": "https://techcrunch.com/2026/04/30/hackers-are-actively-exploiting-a-bug-in-cpanel-used-by-millions-of-websites/"
+    },
+    {
+        "category": "AI & Legal Disputes",
+        "title": "Musk v. Altman Trial Sees Crucial Moment During Jury Recess",
+        "summary": "In the ongoing legal dispute between Elon Musk and Sam Altman, a significant incident involving Musk's finance executive, Jared Birchall, occurred during a jury recess. While the specifics are complex, reports suggest that Birchall's testimony, which followed Musk's, may have created a major misstep for Musk's legal team. This highlights the high-stakes and potentially volatile nature of the landmark trial examining the origins and future of OpenAI.",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/921713/musk-v-altman-jared-birchall-screw-up-xai"
+    },
+    {
+        "category": "AI & Legal Disputes",
+        "title": "Elon Musk Regrets Early OpenAI Funding",
+        "summary": "During the ongoing trial between Elon Musk and OpenAI\u2019s Sam Altman, Elon Musk reportedly stated that he \"was a fool\" to have provided early funding for OpenAI. This comment offers significant insight into Musk's current perspective on the company he co-founded and his legal dispute, highlighting his contention regarding the direction and operational philosophy of OpenAI since its inception.",
+        "link": "https://www.nytimes.com/live/2026/04/30/technology/openai-trial-sam-altman-elon-musk/musk-says-he-was-a-fool-to-provide-openais-early-funding"
+    },
+    {
+        "category": "AI & Biotech Investment",
+        "title": "Reid Hoffman Raises $24.6M for AI Cancer-Research Startup Manas AI",
+        "summary": "LinkedIn co-founder Reid Hoffman has raised $24.6 million for his new AI cancer-research startup, Manas AI. He is launching this venture in collaboration with Siddhartha Mukherjee, author of \"The Emperor of All Maladies.\" This significant seed funding signals strong investor confidence in applying artificial intelligence to oncology research, potentially accelerating discoveries and therapeutic developments in the fight against cancer, backed by prominent figures in both tech and medicine.",
         "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology"
+    },
+    {
+        "category": "EV Industry & Funding",
+        "title": "Rivian Downsizes Georgia Factory Plans as DOE Loan Slashed, Reports Increased Revenue",
+        "summary": "Rivian has reworked its loan agreement with the Department of Energy, reducing the funding for its Georgia factory to $4.5 billion from an original $6.6 billion, following a decision attributed to Trump's DOE. This change means the factory's planned capacity will be halved from 400,000 to 200,000 vehicles annually. Concurrently, Rivian reported increased revenue in Q1 2026, selling 10,365 vehicles as production for its crucial R2 electric vehicle begins to ramp up, signaling both financial progress and adjustments in its manufacturing strategy.",
+        "link": "https://www.theverge.com/transportation/921585/rivian-georgia-factory-capacity-doe-loan"
+    },
+    {
+        "category": "Science Policy & Governance",
+        "title": "Trump Administration Fires Entire NSF Board, Impacting American Science",
+        "summary": "The Trump administration has dismissed all 22 prominent scientists serving on the board overseeing the National Science Foundation (NSF), a federal agency responsible for funding approximately $9 billion in major research projects. This mass firing is seen as another setback for science in the US, raising concerns about the stability and independent governance of crucial scientific institutions, and potentially impacting the direction and integrity of federally funded research initiatives.",
+        "link": "https://www.technologyreview.com/2026/05/01/1136722/mass-firing-trump-fresh-blow-american-science-nsf-nsb/"
+    },
+    {
+        "category": "Energy Policy & Technology",
+        "title": "Renewed Nuclear Energy Support Highlights Need for Waste Plan",
+        "summary": "With nuclear energy gaining rare bipartisan support in the US and attracting significant investment from Big Tech companies for data center demands, the urgent need for a clear nuclear waste management plan is resurfacing. While public approval for nuclear power has surged, addressing the long-standing problem of how to safely store nuclear waste remains critical. The renewed interest in nuclear energy makes developing a robust and sustainable waste strategy imperative to ensure its long-term viability and public acceptance.",
+        "link": "https://www.technologyreview.com/2026/04/29/1136659/plan-nuclear-waste/"
     }
 ];
