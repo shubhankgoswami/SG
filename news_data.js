@@ -1,152 +1,152 @@
 window.NEWS_DATA = [
     {
-        "category": "AI Funding",
-        "title": "Nectar Social Secures $30M Series A for AI Marketing Platform",
-        "summary": "AI-powered marketing platform Nectar Social announced a $30 million Series A funding round. Menlo Ventures and its Anthology Fund, created with Anthropic, led the investment. This capital infusion is earmarked to accelerate the development and expansion of Nectar Social's marketing operating system, leveraging artificial intelligence to deliver advanced solutions to its users. The funding highlights continued investor confidence in AI-driven marketing technologies.",
-        "link": "https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/"
+        "category": "AI Innovation",
+        "title": "Alexa+ Generates Custom AI Podcasts",
+        "summary": "Amazon's Alexa+ is expanding its capabilities to function as a personalized AI content platform, introducing a new feature that allows for the on-demand generation of custom AI podcasts. This development aims to transform the assistant into a more dynamic content provider, moving beyond traditional voice commands to offer users tailored audio experiences created by artificial intelligence. This marks a notable step in integrating generative AI into mainstream consumer smart assistant platforms.",
+        "link": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/"
     },
     {
-        "category": "AI Ethics & Academic Integrity",
-        "title": "ArXiv Implements One-Year Ban for AI-Generated Papers",
-        "summary": "Research repository ArXiv is intensifying its efforts to curb the misuse of large language models in scientific submissions. The platform announced a new policy to ban authors for a year if they are found to have carelessly utilized AI to generate their papers. This measure aims to uphold academic integrity and ensure the authenticity and originality of scientific research published on the repository.",
-        "link": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/"
+        "category": "Cybersecurity & Open Source",
+        "title": "Grafana Labs Suffers Code Theft, Rejects Ransom",
+        "summary": "Open-source tool maker Grafana Labs has reported a cybersecurity incident where hackers stole its codebase. The perpetrators have threatened to publish the company's source code if a ransom is not paid. Grafana Labs has publicly refused to comply with the ransom demand, highlighting a significant security challenge for a firm central to many tech infrastructures. This incident raises concerns about the vulnerability of critical open-source projects to cyberattacks.",
+        "link": "https://techcrunch.com/2026/05/18/open-source-tool-maker-grafana-labs-says-hackers-stole-its-code-refuses-to-pay-ransom/"
     },
     {
-        "category": "AI Leadership & Strategy",
-        "title": "Greg Brockman Leads OpenAI Product Strategy Amid Integration Plans",
-        "summary": "OpenAI co-founder Greg Brockman has reportedly taken charge of the company's product strategy. This significant organizational shakeup coincides with OpenAI's reported plans to integrate its flagship conversational AI, ChatGPT, with its programming product, Codex. The move suggests a strategic focus on unifying and enhancing OpenAI's core AI offerings under Brockman's leadership, potentially streamlining future product development.",
-        "link": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/"
+        "category": "AI Hardware",
+        "title": "LetinAR Aims to Power AI Glasses Optics",
+        "summary": "South Korean startup LetinAR is developing a lens, described as the size of a thumbnail, intended to be the optical backbone for the emerging era of AI glasses. The company positions itself at the forefront of hardware innovation crucial for the adoption of artificial intelligence in wearable technology. This suggests a focus on miniaturization and advanced display technology as key enablers for future AI-powered augmented reality devices.",
+        "link": "https://techcrunch.com/2026/05/18/south-koreas-letinAR-is-building-the-optics-behind-ai-glasses/"
     },
     {
-        "category": "Cybersecurity & Data Privacy",
-        "title": "Hotel Check-in System Exposes Million Passports, Licenses",
-        "summary": "A major data breach occurred after a tech company managing a hotel check-in system inadvertently configured its cloud storage to public access. This exposed approximately one million customer passports and driver's licenses, making them accessible to anyone without requiring a password. The incident underscores a critical failure in data security protocols, highlighting the severe risks associated with misconfigured cloud services and the importance of robust privacy safeguards.",
-        "link": "https://techcrunch.com/2026/05/15/a-hotel-check-in-system-left-a-million-passports-and-drivers-licenses-open-for-anyone-to-see/"
+        "category": "AI & Privacy",
+        "title": "Apple's Revamped Siri to Feature Auto-Deleting Chats",
+        "summary": "Apple is reportedly planning a major revamp for Siri, with privacy emerging as a central theme. The updated version of the AI assistant could include the option for auto-deleting chat histories. This move aims to differentiate Apple's AI offerings by emphasizing its commitment to user privacy, as it works to catch up with competitors in the AI space. The feature is expected to debut in iOS 27 as a more chatbot-like Siri.",
+        "link": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/"
     },
     {
-        "category": "AI Applications & Healthcare",
-        "title": "ElliQ Robot Proves Helpful Companion for Older Adults",
-        "summary": "The ElliQ companion robot is demonstrating notable effectiveness as a supportive tool for older adults, particularly those managing chronic conditions. The robot helps rebalance users' lives by encouraging essential activities like exercise, socialization, and engaging in hobbies, which can be crucial for managing diseases such as Parkinson's. ElliQ's hands-on application highlights its potential to provide meaningful assistance and engagement in elder care.",
-        "link": "https://www.theverge.com/gadgets/928806/elliq-intuition-robotics-hands-on"
+        "category": "AI Governance & Legal",
+        "title": "Musk-Altman Trial Focuses on Credibility",
+        "summary": "The final week of the Elon Musk versus Sam Altman trial saw intense arguments over the credibility of both parties. OpenAI CEO Sam Altman faced scrutiny regarding allegations of lying and self-dealing related to companies doing business with OpenAI. In response, Altman reportedly depicted Musk as seeking to control AI development. Nine jurors are now set to deliberate next week, tasked with weighing these arguments to decide the high-stakes case involving a major AI company.",
+        "link": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/"
     },
     {
-        "category": "AI Industry Trends",
-        "title": "Drive-Thru Chatbots Foreshadow Broader AI Integration",
-        "summary": "The increasing presence of chatbots in drive-thrus, exemplified by McDonald's 2021 initiative, represents just the beginning of AI's pervasive integration into daily life. This trend signals a broader expansion of artificial intelligence across various industries, hinting at significant transformations in how businesses operate and how consumers interact with services. It highlights a critical step in AI becoming an essential part of our daily routines.",
-        "link": "https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys"
+        "category": "AI in Automotive",
+        "title": "Automotive Sector Faces AI Skills Arms Race",
+        "summary": "The automotive industry is on the verge of an 'AI skills arms race,' indicating a growing demand and competition for talent proficient in artificial intelligence. This trend signals that AI will be a transformative force in transportation, requiring significant investment in specialized expertise to drive innovation and maintain competitiveness. The sector is bracing for a profound shift driven by the integration of AI technologies.",
+        "link": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/"
     },
     {
-        "category": "AI Economy & Risks",
-        "title": "AI Risks Replacing Experts It Needs to Learn From",
-        "summary": "A significant, unmodeled enterprise risk is emerging as AI systems replace the very human experts they require for continuous improvement. While substantial investment targets autonomous self-improvement, insufficient attention is given to the shrinking pool of human evaluators essential for catching errors and generating high-quality feedback. New graduate hiring at major tech companies has decreased by half since 2019, potentially undermining the long-term refinement and reliability of AI systems.",
-        "link": "https://venturebeat.com/technology/the-enterprise-risk-nobody-is-modeling-ai-is-replacing-the-very-experts-it-needs-to-learn-from"
+        "category": "AI Impact on Development",
+        "title": "Linux Security Overwhelmed by AI Bug Reports",
+        "summary": "Linus Torvalds, the founder of Linux, has stated that the project's security list is becoming 'unmanageable' due to a 'continued flood of AI reports.' He noted significant duplication where different people identify the same issues using similar AI tools. This influx of AI-generated bug reports is creating considerable challenges for managing and processing security concerns within the critical open-source kernel, highlighting an unexpected consequence of AI adoption in software development.",
+        "link": "https://www.theverge.com/tech/932312/linus-torvalds-linux-ai-security-bugs/"
     },
     {
-        "category": "AI Breakthroughs & Management",
-        "title": "Fin (formerly Intercom) Launches AI Agent to Manage Other AI Agents",
-        "summary": "Fin, previously known as Intercom, has unveiled Fin Operator, a novel AI agent specifically designed to manage other AI agents. Unlike the customer-facing Fin, Operator targets back-office teams, whose sole job is to configure, monitor, and improve customer-facing AI agents. This innovation allows for streamlining tasks such as updating knowledge bases and debugging conversation failures, marking a significant step in AI-driven self-management within customer service platforms.",
-        "link": "https://venturebeat.com/technology/intercom-now-called-fin-launches-an-ai-agent-whose-only-job-is-managing-another-ai-agent"
+        "category": "Enterprise AI Infrastructure",
+        "title": "Graph-Enhanced RAG for Complex Enterprise Data",
+        "summary": "Retrieval-augmented generation (RAG) typically uses vector databases for semantic search, effective for unstructured data. However, for interconnected enterprise data in domains like supply chain or financial compliance, vector-only RAG often fails to capture structural relationships, limiting multi-hop reasoning. The article explores graph-enhanced RAG patterns, which move beyond vector search to address these limitations. This approach is crucial for improving AI system accuracy and effectiveness in complex business environments by incorporating data structure alongside similarity.",
+        "link": "https://venturebeat.com/orchestration/architectural-patterns-for-graph-enhanced-rag-moving-beyond-vector-search-in-production/"
     },
     {
-        "category": "AI Breakthroughs & Efficiency",
-        "title": "RecursiveMAS Boosts Multi-Agent AI Efficiency by 2.4x",
-        "summary": "Researchers at the University of Illinois Urbana-Champaign and Stanford University developed RecursiveMAS, a framework accelerating multi-agent inference by 2.4 times and reducing token usage by 75%. This breakthrough allows agents to communicate through embedding space rather than text, addressing key challenges of latency and token costs. RecursiveMAS also improves accuracy across complex domains like code generation and medical reasoning, offering a scalable and cost-effective blueprint for custom multi-agent AI systems.",
-        "link": "https://venturebeat.com/orchestration/how-recursivemas-speeds-up-multi-agent-inference-by-2-4x-and-reduces-token-usage-by-75"
+        "category": "AI Workforce Impact",
+        "title": "AI Risk: Replacing Needed Human Evaluators",
+        "summary": "A significant, unmodeled enterprise risk of AI development is the replacement of human experts that AI systems need for learning and improvement. While heavy investment is directed towards autonomous self-improvement mechanisms, the industry neglects the impact on human evaluators who catch errors and provide high-quality feedback. This risk is exacerbated by trends like the halving of new grad hiring at major tech companies since 2019, suggesting a potential future deficit in the human expertise crucial for AI's continued advancement in knowledge work.",
+        "link": "https://venturebeat.com/technology/the-enterprise-risk-nobody-is-modeling-ai-is-replacing-the-very-experts-it-needs-to-learn-from/"
     },
     {
-        "category": "AI Strategy & Enterprise",
-        "title": "Claude's Enterprise Battle Shifts to AI Agent Control Plane",
-        "summary": "The enterprise AI competition is evolving beyond foundational models like OpenAI's GPT and Anthropic's Claude, shifting towards the 'agent control plane.' This layer dictates how AI agents plan, call tools, access data, execute workflows, and ensure security compliance. New VB Pulse data indicates Microsoft and OpenAI currently lead in agent orchestration, but Anthropic's emerging presence signals an intensifying struggle for control over this critical AI infrastructure layer.",
-        "link": "https://venturebeat.com/orchestration/claudes-next-enterprise-battle-is-not-models-its-the-agent-control-plane"
+        "category": "AI Agents & Automation",
+        "title": "Fin Introduces AI Agent to Manage Other AI Agents",
+        "summary": "Intercom, now rebranded as Fin, has launched Fin Operator, an AI agent designed to manage another customer-facing AI agent, Fin. This marks a novel approach in customer service platforms, where one AI system is specifically tasked with configuring, monitoring, and improving another. Operator targets support operations professionals, aiming to streamline tasks like updating knowledge bases and debugging conversation failures. This innovation focuses on automating the back-office management of AI, rather than directly replacing human support agents.",
+        "link": "https://venturebeat.com/technology/intercom-now-called-fin-launches-an-ai-agent-whose-only-job-is-managing-another-ai-agent/"
+    },
+    {
+        "category": "AI Research & Efficiency",
+        "title": "RecursiveMAS Boosts Multi-Agent AI Efficiency",
+        "summary": "Researchers have developed RecursiveMAS, a framework that addresses key challenges in multi-agent AI systems, such as latency and high token costs from text-based communication. RecursiveMAS allows AI agents to collaborate and transmit information through embedding space instead of text, leading to both efficiency and performance gains. Experiments indicate that this approach improves inference speed by 2.4x and reduces token usage by 75%, while also enhancing accuracy across complex domains like code generation and medical reasoning.",
+        "link": "https://venturebeat.com/orchestration/how-recursivemas-speeds-up-multi-agent-inference-by-2-4x-and-reduces-token-usage-by-75/"
+    },
+    {
+        "category": "AI Competitive Strategy",
+        "title": "Claude's Enterprise Focus Shifts to Agent Control Plane",
+        "summary": "The enterprise AI competition is evolving beyond a model-centric battle between systems like OpenAI's GPT, Anthropic's Claude, and Google's Gemini. The next strategic frontier for companies like Claude is the 'agent control plane.' This layer involves managing how AI agents plan, utilize tools, access data, execute workflows, and ensure security compliance. New VB Pulse survey data suggests this category is rapidly taking shape, highlighting a shift towards controlling the infrastructure where AI agents operate.",
+        "link": "https://venturebeat.com/orchestration/claudes-next-enterprise-battle-is-not-models-its-the-agent-control-plane/"
     },
     {
         "category": "AI Development Tools",
-        "title": "Raindrop AI Releases Open Source Tool for Local AI Agent Debugging",
-        "summary": "Observability startup Raindrop AI launched 'Workshop,' an open-source, MIT-licensed tool for local debugging and evaluation of AI agents. It functions as a daemon and UI, streaming every token, tool call, and decision to a local dashboard, stored in a single SQL database file. This allows developers to see what their agent is doing in real-time, identify errors, and understand the causes, fulfilling a critical need for agentic AI development.",
-        "link": "https://venturebeat.com/technology/developers-can-now-debug-and-evaluate-ai-agents-locally-with-raindrops-open-source-tool-workshop"
+        "title": "Raindrop AI Launches Open Source Agent Debugger",
+        "summary": "Raindrop AI has introduced \"Workshop,\" an open-source, MIT Licensed tool designed to help developers debug and evaluate AI agents locally. Workshop functions as a local daemon and UI, streaming every token, tool call, and decision to a dashboard in real-time. All data is stored in a single SQL database file, allowing developers to trace agent activities, identify errors, and understand their causes. This tool aims to provide much-needed visibility and control for developers building agentic AI systems.",
+        "link": "https://venturebeat.com/technology/developers-can-now-debug-and-evaluate-ai-agents-locally-with-raindrops-open-source-tool-workshop/"
     },
     {
-        "category": "AI Security & Enterprise",
-        "title": "AI Agent Authorization Flaws Pose Enterprise Risk",
-        "summary": "Cisco's SVP Anthony Grieco reports a rise in 'rogue agent incidents' where AI agents, despite valid authentication, access unauthorized data or perform unsanctioned actions. This highlights a critical flaw in authorization rather than identity verification. With projections of 500 agents per employee, security leaders are urgently focused on establishing granular control over agent permissions to prevent unintended actions and ensure enterprise data integrity.",
-        "link": "https://venturebeat.com/security/enterprises-verify-agents-identity-cannot-control-authorization-cisco-rsac-2026"
+        "category": "AI Economy & IPO",
+        "title": "Cerebras IPO Soars to $100 Billion Valuation",
+        "summary": "AI chipmaker Cerebras Systems debuted on Nasdaq with its stock nearly doubling, opening at $350 per share after an IPO price of $185. This propelled the company to a $100 billion market capitalization within hours, making it one of the most valuable semiconductor firms globally. The IPO, which raised $5.55 billion, validates a decade-long bet on the demand for fundamentally different AI chips, signaling significant investor confidence in specialized AI infrastructure.",
+        "link": "https://venturebeat.com/technology/cerebras-stock-nearly-doubles-on-day-one-as-ai-chipmaker-hits-100-billion-what-it-means-for-ai-infrastructure/"
     },
     {
-        "category": "AI Economy & Tech IPOs",
-        "title": "Cerebras Systems IPO Surges to $100B, Validating AI Chip Bet",
-        "summary": "AI chipmaker Cerebras Systems debuted on Nasdaq, opening at $350 per share, nearly doubling its $185 IPO price, and quickly surpassed a $100 billion market capitalization. This significant event, the largest tech IPO of 2026 so far, validates a decade-long bet on a fundamentally different kind of AI chip infrastructure. The company sold 30 million shares, raising $5.55 billion, despite early struggles where it burned $8 million monthly while developing its ambitious processor.",
-        "link": "https://venturebeat.com/technology/cerebras-stock-nearly-doubles-on-day-one-as-ai-chipmaker-hits-100-billion-what-it-means-for-ai-infrastructure"
-    },
-    {
-        "category": "AI Safety & Ethics",
-        "title": "AI Safety Controls Remain Ineffective Against Exploits",
-        "summary": "Three years after the debut of ChatGPT, current AI safety controls are proving largely ineffective, making it 'almost trivial' to manipulate AI systems into undesirable behaviors. This highlights a persistent and critical challenge in developing robust safeguards for artificial intelligence. The ease with which AI systems can be fooled raises significant concerns about their security, reliability, and the potential for misuse in various applications.",
-        "link": "https://www.nytimes.com/2026/05/14/technology/artificial-intelligence-safety-controls.html"
-    },
-    {
-        "category": "OpenAI News & AI Acquisitions",
-        "title": "OpenAI Acquires AI Voice Cloning Firm Weights.gg",
-        "summary": "OpenAI has acquired Weights.gg, a company known for offering AI tools specifically for voice cloning. Weights.gg previously functioned as a social network dedicated to the creation and sharing of artificial intelligence algorithms. This acquisition suggests OpenAI's strategic interest in integrating advanced voice synthesis capabilities and further expanding its ecosystem of AI algorithms, potentially enhancing its multimodal AI offerings.",
+        "category": "AI Acquisitions & Generative AI",
+        "title": "OpenAI Acquires Voice Cloning AI Company Weights.gg",
+        "summary": "OpenAI has acquired Weights.gg, a company known for offering AI tools for cloning voices. Weights.gg functioned as a social network for developing and sharing artificial intelligence algorithms. This acquisition signifies OpenAI's strategic interest in expanding its generative AI capabilities, specifically in the realm of synthetic voice technology. The move could integrate advanced voice cloning features into OpenAI's ecosystem, potentially enhancing its product offerings and research in multimodal AI.",
         "link": "https://www.nytimes.com/2026/05/15/technology/openai-weightsgg-voice-cloning.html"
     },
     {
-        "category": "AI Policy & Global Shifts",
+        "category": "AI Policy & Regulation",
         "title": "Trump Administration Reconsiders AI Safety Regulation",
-        "summary": "After several years of dismissing AI safety concerns as 'doomer fear-mongering,' parts of the Trump administration are now reportedly prepared to support regulation in this area. This shift indicates a potential change in policy approach toward artificial intelligence, moving from outright dismissal to a consideration of regulatory frameworks. The move could influence the future landscape of AI governance and development.",
+        "summary": "After years of dismissing AI safety concerns as 'doomer fear-mongering,' parts of the Trump administration are reportedly now prepared to support regulation in this area. This shift indicates a changing perception of the potential risks associated with artificial intelligence within government circles. The renewed focus on AI safety could lead to new policy initiatives aimed at addressing the societal and technological challenges posed by advanced AI systems.",
         "link": "https://www.nytimes.com/2026/05/15/podcasts/ai-safety-is-so-back-mythos-mayhem-with-nikesh-arora-hot-mess-express.html"
     },
     {
-        "category": "Geopolitics & Tech Economy",
-        "title": "Nvidia's China Future Uncertain Post-Trump-Xi Summit",
-        "summary": "Nvidia's operational future in China remains ambiguous following a recent summit between Trump and Xi. This geopolitical standoff is complicated by Chinese firms increasingly favoring domestic chipmakers, such as Huawei, to reduce national reliance on Western technologies. The situation underscores the intricate interplay of international trade, technological independence, and national security, posing significant challenges for global semiconductor companies like Nvidia.",
+        "category": "Geopolitics & Tech",
+        "title": "Nvidia's China Future Uncertain Post Trump-Xi Summit",
+        "summary": "Nvidia's prospects in China remain unclear following the Trump-Xi summit, amidst ongoing U.S.-China tech tensions. Chinese firms are increasingly turning to domestic chipmakers, such as Huawei, to reduce their reliance on Western technologies. This drive for self-sufficiency poses challenges for foreign companies like Nvidia, whose market access and operational clarity in China are affected by geopolitical dynamics. The standoff highlights the broader strategic competition over critical technology.",
         "link": "https://www.nytimes.com/2026/05/15/business/nvidia-china-chips.html"
     },
     {
-        "category": "AI Policy & Global Shifts",
-        "title": "US and China to Begin AI Safety Discussions",
-        "summary": "Treasury Secretary Scott Bessent announced that the United States and China will initiate discussions regarding AI safety, though a specific timeline for these talks remains undisclosed. Despite shared concerns about the threats posed by artificial intelligence, both nations express an unwillingness to decelerate their respective AI development efforts. This sets the stage for complex negotiations on international cooperation and responsible AI governance.",
+        "category": "Global AI Governance",
+        "title": "US and China to Begin AI Safety Talks",
+        "summary": "Treasury Secretary Scott Bessent announced that the United States and China will initiate discussions on AI safety, although the timeline for these talks was not specified. Both nations harbor concerns about the threats posed by artificial intelligence but remain unwilling to slow down their respective development efforts. These discussions represent a significant diplomatic step towards potentially establishing international frameworks or understanding regarding AI risks, despite the competitive drive in AI advancement.",
         "link": "https://www.nytimes.com/2026/05/14/world/asia/china-us-ai-safety.html"
     },
     {
-        "category": "OpenAI News & Tech Policy",
-        "title": "OpenAI Weighs Legal Action Against Apple Over Integration",
-        "summary": "OpenAI is reportedly considering legal action against Apple, signaling a strained relationship between the two tech giants. The artificial intelligence company is dissatisfied with the manner in which Apple has integrated ChatGPT into its devices. This development occurs as OpenAI is concurrently embroiled in a separate court battle with Elon Musk, indicating a period of significant legal and strategic challenges for the company.",
+        "category": "AI Partnerships & Legal",
+        "title": "OpenAI Weighs Legal Action Against Apple",
+        "summary": "OpenAI is reportedly considering legal action against Apple, indicating a strained relationship between the two tech giants. OpenAI is allegedly dissatisfied with Apple's integration of ChatGPT into its devices. This potential dispute comes while OpenAI is simultaneously engaged in a court battle with Elon Musk. The disagreement could significantly impact how AI technologies are adopted and integrated across major consumer platforms, potentially reshaping future collaborations and competitive dynamics in the AI ecosystem.",
         "link": "https://www.nytimes.com/2026/05/14/technology/openai-apple-legal-action.html"
     },
     {
-        "category": "AI Breakthroughs & Global AI Competition",
-        "title": "China's DeepSeek AI Model Impresses Silicon Valley Despite Less Advanced Chips",
-        "summary": "China's DeepSeek AI model is receiving significant praise from Silicon Valley for its 'amazing and impressive' performance. Notably, DeepSeek has achieved high-performing AI models cheaply, reportedly without relying on the most advanced chips. This innovation suggests a potential shift in AI development, demonstrating advanced capabilities with more accessible hardware and intensifying global AI competition. The ability to innovate efficiently with fewer resources could reshape the landscape of AI technology.",
+        "category": "Global AI Landscape",
+        "title": "China's DeepSeek AI Impresses Silicon Valley",
+        "summary": "A made-in-China AI model, DeepSeek, is garnering significant attention in Silicon Valley, being described as 'amazing and impressive.' Notably, the Chinese upstart claims to have trained its high-performing AI models cheaply and without relying on the most advanced chips. This development highlights China's growing capabilities in artificial intelligence and suggests that competitive AI models can be developed with less cutting-edge hardware, potentially impacting the global AI chip supply chain and competitive landscape.",
         "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology"
     },
     {
-        "category": "AI Funding & Applications",
-        "title": "Reid Hoffman Secures $24.6M for AI Cancer Research Startup Manas AI",
-        "summary": "LinkedIn co-founder Reid Hoffman has raised $24.6 million for his new AI-powered cancer research startup, Manas AI. He co-founded the venture with Siddhartha Mukherjee, author of 'The Emperor of All Maladies.' This substantial funding highlights continued investment in applying artificial intelligence to critical health challenges like drug discovery and medical research, aiming to accelerate breakthroughs in cancer treatment.",
+        "category": "AI Funding & Healthcare",
+        "title": "Reid Hoffman Backs AI Cancer Research with $24.6M",
+        "summary": "LinkedIn co-founder Reid Hoffman has raised $24.6 million for Manas AI, a new startup focused on AI-driven cancer research. Hoffman co-founded the venture with Siddhartha Mukherjee, author of \"The Emperor of All Maladies.\" This significant funding indicates strong investor confidence in applying artificial intelligence to complex medical challenges like cancer discovery and treatment. The initiative aims to leverage AI capabilities to accelerate progress in a critical healthcare sector.",
         "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology"
     },
     {
-        "category": "Tech Economy & AI Investment",
-        "title": "Meta Plans Soaring AI Investment and Data Center Expansion",
-        "summary": "Meta Platforms intends to significantly increase its capital expenditure to between $60 billion and $65 billion. This massive spending is primarily driven by substantial investments in artificial intelligence and the expansion of its data center infrastructure. The strategic commitment underscores the accelerating trend of major tech companies dedicating vast resources to AI development, signaling its critical importance to future growth and competitive advantage.",
+        "category": "Tech Investment & AI Infrastructure",
+        "title": "Meta Boosts AI Investment with Huge Spending Plan",
+        "summary": "Meta plans to significantly increase its spending, projecting between $60 billion and $65 billion, primarily on artificial intelligence and the construction of massive data centers. This substantial investment is the latest indicator of accelerating AI investments across major tech companies. Meta's commitment underscores its strategic focus on building robust infrastructure to support advanced AI capabilities, aiming to maintain competitiveness and drive future innovations in the AI landscape.",
         "link": "https://www.wsj.com/articles/meta-spending-ai-facebook-data-centers-9452a88f?mod=rss_Technology"
     },
     {
-        "category": "Tech Policy & Global Economy",
-        "title": "Canada Reviews Amazon Contracts Post-Quebec Layoffs",
-        "summary": "Canada has announced it will review its business contracts with Amazon.com's cloud-computing unit following Amazon's decision to close its Quebec warehouses, resulting in 1,700 layoffs. This move signals potential repercussions and increased scrutiny for Amazon's operations in Canada due to the significant job cuts. The review highlights concerns over the economic impact of major tech companies' operational decisions on local economies.",
-        "link": "https://www.wsj.com/articles/canada-to-review-amazon-contracts-after-quebec-layoffs-d458ea66?mod=rss_Technology"
+        "category": "Enterprise AI & Fintech",
+        "title": "Data Readiness Crucial for Agentic AI in Finance",
+        "summary": "For agentic AI to succeed in the financial services sector, data readiness is paramount, even more so than system sophistication. Financial companies operate in a highly regulated environment with rapidly changing external events, making robust data infrastructure critical. The success of AI agents depends on the ability to manage and secure proprietary data, which often resides in systems not owned or governed by the companies themselves. This highlights the need for tailored data strategies for AI adoption in finance.",
+        "link": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/"
     },
     {
-        "category": "AI Applications & Media",
-        "title": "AI Powers Chinese Short Drama Content Creation",
-        "summary": "China's short drama industry is increasingly utilizing AI to generate 'bite-sized, melodramatic, and smutty shows' specifically designed for smartphone scrolling. This innovative application of AI is transforming content production, allowing for rapid creation of high-volume digital entertainment. The trend demonstrates AI's growing role in media and entertainment, raising new questions about the future of creative industries and content authorship.",
-        "link": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/"
+        "category": "AI Policy & Data Governance",
+        "title": "AI Data Sovereignty: Control Over Autonomous Systems",
+        "summary": "Enterprises adopted generative AI by trading immediate capability for future control, feeding proprietary data into third-party models under external governance. This bargain now raises concerns about AI and data sovereignty as autonomous systems become prevalent. The issue centers on ensuring control over proprietary data, especially its flow through external systems. Establishing clear governance and ownership is crucial for enterprises to manage risks and secure their intellectual assets in the evolving AI landscape.",
+        "link": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/"
     },
     {
-        "category": "AI Legal & Governance",
-        "title": "Musk vs. Altman Trial Nears Verdict After Credibility Battle",
-        "summary": "The federal trial between Elon Musk and OpenAI CEO Sam Altman has concluded its closing arguments, with nine jurors beginning deliberations next week. Lawyers for both sides fiercely contested each other's credibility; Altman faced scrutiny over alleged past deceptions and self-dealing involving OpenAI-affiliated companies, while Musk was portrayed as seeking control over AI development. The jury will now decide the outcome of this high-stakes case, impacting OpenAI's future direction and governance.",
-        "link": "https://www.nytimes.com/2026/05/14/technology/openai-trial-elon-musk-sam-altman.html"
+        "category": "AI Ethics & Digital Privacy",
+        "title": "Deepfake Porn's Harmful Impact on Victims",
+        "summary": "The disturbing reality of deepfake porn is highlighted by individuals discovering their images used without consent, even years after original content creation. One researcher found her professional headshot used by facial recognition to link to deepfake porn videos she never made. This underscores the severe privacy and ethical implications of AI-generated content, where individuals' bodies are stolen and manipulated for non-consensual use. The widespread availability of such technology presents significant challenges for personal digital safety.",
+        "link": "https://www.technologyreview.com/2026/05/14/1137161/ai-porn-nonconsensual-deepfakes-takedown-piracy-copyright/"
     }
 ];
