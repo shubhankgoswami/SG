@@ -1,152 +1,146 @@
 window.NEWS_DATA = [
     {
-        "category": "AI Investment & Innovation",
-        "title": "Hark Secures $700M for Secretive Universal AI Interface",
-        "summary": "Brett Adcock's new AI startup, Hark, has successfully raised a substantial $700 million in Series A funding. This significant investment now values the company at $6 billion. Hark is developing a secretive 'universal' AI interface, signaling strong investor confidence in its potential to disrupt the AI landscape. The substantial capital injection positions Hark to advance its ambitious and confidential project, aiming to redefine how users interact with artificial intelligence.",
-        "link": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/"
+        "category": "AI Development",
+        "title": "Alibaba Unveils Qwen3.7-Max Autonomous AI Agent",
+        "summary": "Alibaba's Qwen Team has released Qwen3.7-Max, a proprietary AI model capable of extended autonomous agentic work. This model reportedly achieved approximately 35 hours of continuous autonomous execution, signifying the AI industry's shift into an \"agent era\" where models can plan, execute, and course-correct complex tasks over multiple days. This release comes after the departure of key Qwen Team leaders, and its proprietary nature marks a shift from prior open-source releases.",
+        "link": "https://venturebeat.com/technology/alibabas-proprietary-qwen3-7-max-can-run-for-35-hours-autonomously-and-supports-external-harnesses-like-anthropics-claude-code"
     },
     {
-        "category": "AI in Mental Health",
-        "title": "The Path Aims for Safer AI Therapy with High Benchmark Score",
-        "summary": "The Path, an AI therapy startup co-founded by Tony Robbins and Calm alums, is focused on delivering safer artificial intelligence-driven mental health support. The company reports that its AI model achieved a score of 95 on the Vera-MH mental health safety AI benchmark. This performance notably surpasses the top score of 65 recorded by consumer-grade AI bots, suggesting a significant advancement in AI safety within the sensitive field of mental health.",
-        "link": "https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/"
+        "category": "AI Research & Optimization",
+        "title": "Delta-Mem Boosts AI Agent Memory Efficiency",
+        "summary": "Researchers from Mind Lab and several universities have introduced \"delta-mem,\" an efficient technique designed to enhance AI agents' working memory, addressing issues like forgotten debugging threads or redundant context processing. This method compresses historical information into a dynamically updated matrix without altering the core model, adding only 0.12% of the backbone model's parameters. Delta-mem outperforms leading alternatives on memory-intensive benchmarks by allowing models to continuously accumulate and reuse historical data, thereby reducing reliance on large context windows or complex external retrieval modules.",
+        "link": "https://venturebeat.com/orchestration/a-0-12-parameter-add-on-gives-ai-agents-the-working-memory-rag-cant"
     },
     {
-        "category": "AI Ecosystem Strategy",
-        "title": "Google Pitches AI Agent Ecosystem Amidst Consumer Hesitation",
-        "summary": "Google is actively promoting a future dominated by a multitude of AI agents, pushing an extensive ecosystem to consumers. While the company signals a significant influx of these AI agents, there's an acknowledgment of potential consumer skepticism or reluctance towards widespread adoption. This strategy highlights Google's vision for the proliferation of AI-driven digital assistants, even as it navigates the challenge of convincing the broader public to fully embrace such an agent-centric digital environment.",
-        "link": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/"
-    },
-    {
-        "category": "AI Infrastructure Investment",
-        "title": "Anthropic Pays SpaceX $15 Billion Annually for Colossus Data Center Access",
-        "summary": "Anthropic is reportedly committing $15 billion annually to SpaceX for access to its Colossus data centers, located in Memphis, TN. This substantial compute partnership was detailed in SpaceX's S-1 IPO filing, providing new insights into the scale of investment in AI infrastructure. The agreement grants Anthropic crucial access to the rocket company's powerful data centers, underscoring the intense demand for high-performance computing resources to fuel advanced AI development.",
-        "link": "https://www.theverge.com/science/935229/spacex-anthropic-ipo-ai-capacity-deal-colossus/"
-    },
-    {
-        "category": "AI & Developer Productivity",
-        "title": "Google AI Studio Enables Rapid Android App Creation",
-        "summary": "A user successfully created three Android applications in a single afternoon, with one app generated by simply typing 148 words into a web browser. This feat was accomplished using Google's AI Studio, leveraging its capabilities to streamline app development. The experience demonstrates the rapid app generation potential of Google's AI tools, significantly reducing the time and effort traditionally required. This advancement points to a future where AI greatly enhances developer productivity and accessibility for app creation.",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/935056/google-vibe-coding-first-android-app-gemini-ai-studio/"
-    },
-    {
-        "category": "Enterprise AI Development",
-        "title": "Rippletide Addresses AI Agent Memory Lapses with Decision Context Graph",
-        "summary": "Enterprise AI agents frequently fail due to their inability to retain learned information, a limitation of current RAG architectures. Rippletide, a startup in the Neo4j ecosystem, is tackling this issue with a new framework called a decision context graph. This solution provides agents with structured memory, time-aware reasoning, and explicit decision logic. The key capability introduced is non-regressivity, allowing agents to freeze validated action sequences and compound on previous discoveries, thereby improving their long-term performance and reliability in complex enterprise contexts.",
+        "category": "Enterprise AI Challenges",
+        "title": "Overcoming AI Agent Memory Gaps with Decision Context Graphs",
+        "summary": "Enterprise AI agents often fail due to a lack of structured memory beyond what RAG architectures provide. Rippletide, a startup, has developed a decision context graph framework that equips agents with structured memory, time-aware reasoning, and explicit decision logic. This approach aims to create \"non-regressive\" agents that can freeze validated action sequences and compound on past discoveries, addressing the issue of agents forgetting previously learned information. This is crucial as enterprise context is fragmented across various systems.",
         "link": "https://venturebeat.com/orchestration/enterprise-ai-agents-keep-failing-because-they-forget-what-they-learned"
     },
     {
-        "category": "AI Operations & Stability",
-        "title": "Resolve AI Targets Production System Failures Amidst AI Coding Boom",
-        "summary": "Resolve AI has launched a major expansion of its platform, introducing always-on background agents and a redesigned investigation architecture to address production system failures caused by the AI coding boom. The core of this release is a new multi-agent investigation system where specialized AI agents work in parallel to diagnose issues, verify conclusions, and construct causal chains from root cause to symptom. This approach aims to significantly improve production stability and reduce incident resolution times for engineers collaborating with AI agents in real time.",
-        "link": "https://venturebeat.com/technology/resolve-ai-says-the-ai-coding-boom-is-breaking-production-systems-it-wants-to-fix-that"
-    },
-    {
-        "category": "AI Agent Platforms",
-        "title": "Kore.ai Challenges Tech Giants with Artemis AI Agent Platform",
-        "summary": "Kore.ai has reinvented its core technology with the launch of the Artemis edition of its Agent Platform, designed to enable enterprises to build, govern, and optimize AI agents using AI itself. This innovation significantly compresses engineering work from months to days. Positioned against major vendors like Microsoft, Salesforce, and Google, Kore.ai's platform emphasizes neutrality, a proprietary intermediary language for defining agents, and a philosophy that AI should handle most of the development heavy lifting, aiming to be the default infrastructure for enterprise AI agents.",
+        "category": "Enterprise AI Platforms",
+        "title": "Kore.ai Launches Artemis AI Agent Platform to Compete with Tech Giants",
+        "summary": "Kore.ai has unveiled Artemis, a reinvention of its AI Agent Platform, designed to help enterprises build, govern, and optimize AI agents using AI itself. The platform aims to compress months of engineering work into days. Kore.ai is positioning Artemis as a neutral solution in a crowded market where major tech vendors like Microsoft, Salesforce, Google, and ServiceNow are vying to be the default infrastructure for enterprise AI agents. Its philosophy emphasizes AI performing most of the heavy lifting over human developers.",
         "link": "https://venturebeat.com/technology/kore-ai-launches-artemis-ai-agent-platform-expands-challenge-to-microsoft-and-salesforce"
     },
     {
-        "category": "AI Development Simplification",
-        "title": "Google's Managed Agents API Simplifies AI Agent Deployment",
-        "summary": "Google has unveiled Managed Agents within its Gemini API, a service promising to reduce weeks of AI agent deployment work into a single API call. This new offering signals Google's intent to control the entire execution layer for AI agents, abstracting away complex tasks like setting up execution environments, managing sandboxes, and wiring tool call infrastructure. Available in preview through new custom templates in Google AI Studio, the Managed Agents API allows developers to focus on product experience and agent behavior, streamlining the development process significantly.",
-        "link": "https://venturebeat.com/orchestration/googles-managed-agents-api-promises-one-call-deployment-at-the-cost-of-execution-layer-control"
+        "category": "Global AI Competition",
+        "title": "China's DeepSeek AI Garners Praise Despite Chip Limitations",
+        "summary": "DeepSeek AI, a Chinese upstart, has reportedly trained high-performing AI models cost-effectively without utilizing the most advanced chips. Silicon Valley is describing DeepSeek as \"amazing and impressive\" despite these technical constraints. This development highlights China's advancements in AI capabilities and its ability to innovate even under potential hardware restrictions, signaling a notable player in the global AI landscape.",
+        "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology"
     },
     {
-        "category": "Open Source AI Models",
-        "title": "Cohere Launches Command A+, an Open-Licensed Trillion-Parameter AI Model",
-        "summary": "Cohere has introduced Command A+, a 218-billion-parameter language model engineered for complex reasoning, multimodal document processing, and agentic workflows. Notably, this model features lossless quantization and native citations, and its weights are released under the Apache 2.0 license on Hugging Face. This makes Command A+ highly accessible for enterprise builders globally. Co-founded by former Googler Aidan Gomez, Cohere aims to provide advanced, open-source AI capabilities, expanding its footprint in the competitive AI landscape following its merger with Aleph Alpha.",
-        "link": "https://venturebeat.com/technology/cohere-cracks-lossless-quantization-and-native-citations-with-first-full-apache-2-0-licensed-open-model-command-a"
+        "category": "AI & Science",
+        "title": "Google I/O Highlights Shifting Path for AI-Driven Science",
+        "summary": "At Google I/O, Google DeepMind CEO Demis Hassabis declared that humanity stands \"in the foothills of the singularity,\" referring to the theoretical moment AI surpasses human intelligence. This statement underscored a significant shift in the trajectory of AI-driven science. The event showcased how AI is increasingly being positioned to transform scientific exploration, with implications for dramatic advancements across various fields, as AI capabilities continue to evolve rapidly.",
+        "link": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/"
     },
     {
-        "category": "AI Hardware Performance",
-        "title": "Cerebras Claims 7x Faster AI Model Inference Than GPU Clouds",
-        "summary": "Cerebras Systems, fresh off a major IPO, is making an aggressive move in the AI inference market by announcing its chips run Kimi K2.6, a trillion-parameter open-weight model, at nearly 1,000 tokens per second. Benchmarked by Artificial Analysis, this speed of 981 output tokens per second is 6.7 times faster than the next-fastest GPU-based cloud provider and 23 times faster than the median. This positions Cerebras as a leader for enterprise customers requiring high-speed processing for large agentic coding requests and other complex AI tasks.",
-        "link": "https://venturebeat.com/technology/cerebras-says-its-chips-run-a-trillion-parameter-ai-model-nearly-7-times-faster-than-gpu-clouds"
+        "category": "AI in Software Development",
+        "title": "Anthropic's Code with Claude Redefines Coding Future",
+        "summary": "Anthropic's \"Code with Claude\" developer event showcased the evolving future of software development, where AI is increasingly involved in writing code. Attendees were questioned about shipping pull requests entirely written by AI, highlighting the growing integration of AI in coding workflows. This indicates a significant transformation in how developers work, with AI tools like Claude potentially automating substantial portions of the coding process, leading to discussions about the implications for the industry.",
+        "link": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/"
     },
     {
-        "category": "Tech IPO & Finance",
-        "title": "SpaceX Reveals Finances Amidst IPO Preparations",
-        "summary": "Elon Musk's rocket and satellite company, SpaceX, has publicly disclosed its financial performance for the first time. This release of financial data comes as the company actively prepares for its initial public offering (IPO), which is anticipated to be one of the largest offerings to date. The move provides unprecedented transparency into the company's financial health and operations as it steps onto the public market, a significant event for both the aerospace and tech sectors.",
-        "link": "https://www.nytimes.com/2026/05/20/technology/elon-musk-spacex-ipo.html"
+        "category": "AI & Search Evolution",
+        "title": "Google Enters Post-Search Era with Proactive AI Agents",
+        "summary": "Google is transitioning into a \"post-search\" era, where AI agents proactively search for information without direct user prompts. This shift imagines a world where AI performs much of the information retrieval and processing, moving beyond the traditional model of users actively typing search queries. The company envisions AI agents anticipating needs and providing information, signifying a fundamental change in how users interact with and utilize Google's capabilities for information access.",
+        "link": "https://www.theverge.com/podcast/936037/google-io-2026-search-agents-vergecast"
     },
     {
-        "category": "AI IPO & Market Watch",
-        "title": "OpenAI Prepares for Highly Anticipated Public Offering",
-        "summary": "OpenAI is reportedly preparing to file for an Initial Public Offering (IPO) in the coming weeks, signaling a major event for Silicon Valley and the broader AI industry. This move makes OpenAI one of the most highly anticipated potential public offerings, setting the stage for a significant year of IPOs for tech companies. Its entry into the public market is expected to draw considerable attention, reflecting the immense investor interest and growth in the artificial intelligence sector.",
-        "link": "https://www.nytimes.com/2026/05/20/technology/openai-ipo.html"
+        "category": "AI in Entertainment",
+        "title": "Spotify and UMG Partner for AI-Generated Music Covers",
+        "summary": "Spotify and Universal Music Group have collaborated to enable Premium subscribers to create AI-generated song covers and remixes. Under this new deal, participating artists will receive a share of the revenue generated from these fan-made AI creations. This partnership signifies a major step in integrating AI into the music industry, potentially changing how fans interact with and reinterpret existing musical works while establishing a new revenue model for artists.",
+        "link": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/"
     },
     {
-        "category": "AI Chip Market Dominance",
-        "title": "Nvidia's Profit Surges to $58.3 Billion Amidst AI Boom",
-        "summary": "Nvidia, the leading chip maker, announced a staggering profit of $58.3 billion in its most recent quarter. This figure represents a remarkable 211 percent increase from the previous year. The company directly attributes this significant financial growth to the extreme demand for its chips from other major technology companies, underscoring the accelerating impact and investment driven by the artificial intelligence boom across the industry. This performance solidifies Nvidia's pivotal role in the ongoing AI revolution.",
-        "link": "https://www.nytimes.com/2026/05/20/business/nvidia-earnings.html"
+        "category": "AI Music Controversy",
+        "title": "AI Music Covers Spark Debate Amid Spotify's New Tool",
+        "summary": "The integration of AI-generated music covers and remixes into platforms like Spotify is sparking controversy, with critics arguing it can \"disrespect\" artists. With Spotify's new tool making it easier for Premium subscribers to create these AI renditions, concerns are growing about the proliferation of low-quality or \"blight\" content. The debate centers on the artistic integrity and potential dilution of original works, as AI-generated versions become more accessible and widespread across digital music platforms.",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/936072/spotify-umg-ai-music-remix-cover-superfan"
     },
     {
-        "category": "Tech Layoffs & AI Transformation",
-        "title": "Meta Lays Off 8,000 Employees Amidst AI-First Transformation",
-        "summary": "Meta has laid off 8,000 employees as part of its ongoing effort to transform into an \"AI-first\" company, marking a significant headcount reduction. Employees have reportedly signed petitions against AI tracking and were actively trying to ascertain who had been impacted by the job cuts. This move indicates a substantial restructuring within the Silicon Valley giant, with the company reallocating resources and personnel to align with its strategic shift towards artificial intelligence, leading to considerable workforce disruption.",
-        "link": "https://www.nytimes.com/2026/05/19/technology/meta-layoffs-ai.html"
+        "category": "AI Localization",
+        "title": "HMD Integrates Indian AI Chatbot for Local Market Reach",
+        "summary": "Finnish phone-maker HMD is pre-loading Sarvam's Indus chatbot app onto its new smartphones as part of a strategy to penetrate the Indian market. The Indus chatbot supports 22 Indic languages, aiming to provide a localized and accessible AI experience for users in India. This move highlights the growing trend of tailoring AI solutions to specific regional linguistic and cultural contexts to enhance user adoption and market relevance.",
+        "link": "https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/"
     },
     {
-        "category": "AI Infrastructure Investment",
-        "title": "Meta to Inject Billions into AI and Data Center Expansion",
-        "summary": "Meta plans to significantly increase its spending, allocating between $60 billion and $65 billion, primarily towards artificial intelligence initiatives and the construction of massive data centers. This substantial financial commitment underscores the tech giant's accelerating investments into AI, reflecting a broader industry trend. The increased expenditure is a clear signal of Meta's strategic pivot and long-term vision to embed AI deeply into its operations and future offerings, requiring extensive infrastructure to support these ambitions.",
-        "link": "https://www.wsj.com/articles/meta-spending-ai-facebook-data-centers-9452a88f?mod=rss_Technology"
+        "category": "AI Regulation Policy",
+        "title": "Trump Postpones AI Oversight Executive Order",
+        "summary": "President Trump canceled the signing of an executive order intended to grant the government authority to evaluate AI models prior to their public release. The postponement was attributed to \"concerns about 'aspects of it'.\" This decision delays potential federal oversight measures for AI development, indicating internal deliberations or disagreements regarding the scope and implementation of AI regulation at the governmental level.",
+        "link": "https://www.nytimes.com/2026/05/21/technology/trump-ai-executive-order.html"
     },
     {
-        "category": "AI Policy & Labor Impact",
-        "title": "California Governor Newsom to Address AI Job Displacement",
-        "summary": "California Governor Gavin Newsom is set to issue an executive order focusing on the potential for mass job displacement resulting from artificial intelligence. The order will explore an overhaul of existing labor policies to proactively address the economic and societal impacts of AI. This governmental initiative highlights a growing recognition among policymakers of the need to adapt workforce strategies and protections in response to the rapidly evolving capabilities and widespread adoption of AI technologies across various industries.",
+        "category": "AI & Labor Policy",
+        "title": "California Governor Addresses AI Job Displacement Concerns",
+        "summary": "California Governor Gavin Newsom has issued an executive order focused on exploring an overhaul of labor policies. The initiative aims to address potential mass job displacement anticipated from the widespread adoption of artificial intelligence. This move signifies a proactive governmental effort to mitigate the socio-economic impacts of AI on the workforce and to prepare labor markets for the transformative effects of advanced technology.",
         "link": "https://www.nytimes.com/2026/05/21/technology/newsom-ai-executive-order-california.html"
     },
     {
-        "category": "AI Profit & Labor Relations",
-        "title": "Samsung Averts Strike, Faces Discord Over AI Boom Profits",
-        "summary": "Samsung Electronics, a crucial global supplier of memory chips benefiting significantly from the AI boom, successfully averted a planned walkout by offering substantial bonuses to its workforce. Despite this, internal discord is reportedly brewing over the equitable distribution of profits generated by the surging demand for AI-related components. This situation highlights a growing debate within the tech industry concerning how the financial spoils of the artificial intelligence boom should be shared with employees contributing to its success.",
+        "category": "Tech Geopolitics",
+        "title": "China Rejects Trump-Approved Nvidia H200 AI Chip",
+        "summary": "Despite President Trump's approval for the sale of Nvidia's powerful H200 chip to China, Beijing has not purchased a single unit. The chip was anticipated to bolster China's AI ambitions, but its rejection indicates a potential strategic shift or dissatisfaction within Beijing regarding its tech acquisition policies. This highlights ongoing complexities and geopolitical tensions in the global semiconductor and AI technology trade.",
+        "link": "https://www.nytimes.com/2026/05/21/business/china-nvidia-chip-trump-ai.html"
+    },
+    {
+        "category": "AI & Cybersecurity",
+        "title": "Deepfake Detection Failure Poses Business Identity Crisis",
+        "summary": "New research indicates that Americans struggle to distinguish real from AI-generated content, with their ability being barely better than a coin flip. A 2026 survey found Americans scored just 0.07 on a scale where 0 is random guessing. This widespread inability to spot deepfakes is not merely a media literacy issue but a significant threat to online identity verification for businesses, potentially compromising digital services that rely on image- and video-based authentication.",
+        "link": "https://venturebeat.com/security/americans-cant-spot-a-deepfake-and-thats-a-business-crisis-not-just-a-consumer-problem"
+    },
+    {
+        "category": "Data Infrastructure & AI",
+        "title": "Dun & Bradstreet Rebuilds Database for AI Agents",
+        "summary": "Dun & Bradstreet (D&B) has rebuilt its Commercial Graph, an extensive database covering 642 million businesses, because its original design for human analysts proved unsuitable for AI agents. As customers began integrating AI agents into workflows like credit, procurement, and supply chain management, D&B's existing architecture, which accommodated human query results and ambiguous entity matches, became a bottleneck. The company recognized AI agents as a new consumer category requiring a re-architected system for machine efficiency.",
+        "link": "https://venturebeat.com/data/d-and-bs-database-of-642-million-businesses-was-built-for-humans-not-ai-agents-so-they-rebuilt-it"
+    },
+    {
+        "category": "AI Infrastructure Investment",
+        "title": "Meta Boosts AI Investment with $60-65 Billion Spending Plan",
+        "summary": "Meta plans to increase its spending to between $60 billion and $65 billion, signaling an accelerating investment in artificial intelligence and massive data center expansion. This substantial financial commitment by the social-media giant is the latest indication of how major tech companies are intensifying their expenditures to scale AI capabilities and support the necessary infrastructure. The investment underscores the competitive race in the AI sector and the capital required for leadership.",
+        "link": "https://www.wsj.com/articles/meta-spending-ai-facebook-data-centers-9452a88f?mod=rss_Technology"
+    },
+    {
+        "category": "Tech IPO & Leadership",
+        "title": "Elon Musk to Consolidate Power Through SpaceX IPO",
+        "summary": "SpaceX is preparing for one of the largest IPOs to date, revealing its financial performance for the first time. Elon Musk is set to be the primary beneficiary and will increase his control, holding over 50% of the voting power, giving him a \"monarchical grip\" over the publicly-traded company. Other significant shareholders also have deep, longstanding ties to Musk, indicating that a small inner circle will largely benefit and retain substantial influence.",
+        "link": "https://www.nytimes.com/2026/05/20/technology/elon-musk-spacex-ipo.html"
+    },
+    {
+        "category": "Tech Labor & AI Profits",
+        "title": "Samsung Averts Strike with $340K Bonuses Amid AI Profit Debate",
+        "summary": "Samsung Electronics has averted a threatened 18-day strike by its semiconductor division employees by agreeing to a tentative deal. This deal reportedly makes some workers eligible for average annual bonuses of $340,000. While resolving the immediate labor dispute, the situation has brought to the forefront a debate over how the spoils of the AI boom, from which Samsung, a major memory chip supplier, has significantly benefited, should be distributed among its workforce.",
         "link": "https://www.nytimes.com/2026/05/21/business/samsung-strike-ai-chips.html"
     },
     {
-        "category": "AI Competitive Landscape",
-        "title": "Google Gains Ground in AI Race with Gemini's Ascendance",
-        "summary": "Despite initial challenges, Google's Gemini AI has reportedly surpassed ChatGPT in terms of relevance and usefulness, positioning Google to gain a leading edge in the AI race. The assessment suggests that Gemini is on a path to becoming ubiquitous, signifying its increasing integration and presence across various platforms and applications. This indicates a notable shift in the competitive landscape of artificial intelligence, with Google leveraging its advancements to enhance its standing against key rivals.",
-        "link": "https://www.nytimes.com/2026/05/19/technology/personaltech/google-gemini-ai.html"
+        "category": "Government & Tech Industry",
+        "title": "Canada to Review Amazon Contracts Following Quebec Layoffs",
+        "summary": "Canada has issued a warning to Amazon.com, stating that it will review business ties with Amazon\u2019s cloud-computing unit. This action follows Amazon's decision to close its warehouses in Quebec, resulting in the layoff of 1,700 workers. The move signals potential government scrutiny over large tech companies' operational decisions and their impact on local employment, potentially influencing future business relations between Canada and Amazon.",
+        "link": "https://www.wsj.com/articles/canada-to-review-amazon-contracts-after-quebec-layoffs-d458ea66?mod=rss_Technology"
     },
     {
-        "category": "Global AI Competition",
-        "title": "China's DeepSeek AI Impresses Silicon Valley with Efficient High Performance",
-        "summary": "China's AI upstart, DeepSeek AI, has garnered attention in Silicon Valley for developing high-performing AI models. The company achieved this feat cheaply and without relying on the most advanced chips. Despite working with less-advanced hardware, DeepSeek AI's models are described as \u201camazing and impressive,\u201d underscoring a significant development in global AI capabilities and resource efficiency, potentially challenging established norms for AI development.",
-        "link": "https://www.wsj.com/articles/deepseek-ai-china-tech-stocks-explained-ee6cc80e?mod=rss_Technology"
+        "category": "Cybersecurity & Geopolitics",
+        "title": "Bluesky Accuses Kremlin of Hacking Accounts for Propaganda",
+        "summary": "Bluesky has reported that it is actively combatting Russian efforts to hack and hijack real user accounts on its platform. The company states that this tactic is being used to post fake content and spread propaganda, representing an apparently novel method of digital interference. This incident highlights escalating geopolitical cybersecurity threats and the challenges social platforms face in protecting user integrity and combating state-sponsored disinformation campaigns.",
+        "link": "https://www.nytimes.com/2026/05/21/business/bluesky-russia-hacking-accounts.html"
     },
     {
-        "category": "AI in Biotech Investment",
-        "title": "Reid Hoffman Backs AI Cancer Research Startup with $24.6 Million",
-        "summary": "LinkedIn co-founder Reid Hoffman has raised $24.6 million for Manas AI, a new startup focused on AI-driven cancer research. Hoffman co-founded the venture with Siddhartha Mukherjee, author of 'The Emperor of All Maladies,' signaling a significant investment and intellectual powerhouse collaboration in the field of AI drug discovery. This substantial funding aims to leverage artificial intelligence to accelerate breakthroughs in understanding and treating cancer, combining tech entrepreneurship with cutting-edge medical science.",
-        "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology"
+        "category": "Cybersecurity Flaws",
+        "title": "MFA Blind Spot: Post-Authentication Security Gap",
+        "summary": "Enterprises relying solely on Multi-Factor Authentication (MFA) face a critical security gap: MFA only verifies initial login identity, not subsequent actions. Attackers can bypass this by gaining access after MFA succeeds, using valid session tokens to move laterally and escalate privileges within systems like Active Directory. This \"blind spot\" means that even with successful authentication, systems fail to monitor post-login activity, leaving organizations vulnerable to internal breaches that MFA was not designed to detect or prevent.",
+        "link": "https://venturebeat.com/security/mfa-verifies-who-logged-in-it-has-no-idea-what-they-do-next"
     },
     {
-        "category": "AI Legal & Industry Dynamics",
-        "title": "Elon Musk Loses Lawsuit Against OpenAI Over Non-Profit Status",
-        "summary": "Elon Musk lost his lawsuit against OpenAI, where he alleged CEO Sam Altman and President Greg Brockman had deceived him regarding the company's non-profit founding contract. A jury reached a unanimous advisory verdict that Musk had sued too late, citing applicable statutes of limitations, which US District Judge Yvonne Gonzalez Rogers immediately accepted. Musk announced on X his intention to appeal, but the initial verdict deals a significant blow to his claims regarding OpenAI's corporate transition and mission.",
-        "link": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/"
+        "category": "AI Infrastructure & Geopolitics",
+        "title": "Gulf's AI Boom Strained by Undersea Cable Issues",
+        "summary": "The rapid growth of AI in the Gulf region is revealing significant vulnerabilities in its internet infrastructure, specifically concerning undersea cables. Hyperscale companies are reportedly urging the Gulf to re-evaluate and enhance its internet infrastructure as the rising demands of AI development amplify the risks associated with cable disruptions. This highlights a critical challenge for regions aiming to become AI hubs, where robust and resilient connectivity is paramount to supporting advanced AI operations and mitigating economic and strategic risks.",
+        "link": "https://www.wired.com/story/the-gulfs-ai-boom-has-an-undersea-cable-problem/"
     },
     {
-        "category": "Energy & Data Center Impact",
-        "title": "Rising Energy Costs Fuel NextEra\u2019s Dominion Bid Amid Data Center Demand",
-        "summary": "NextEra's proposed acquisition of Dominion Energy highlights a critical intersection of rising energy costs and burgeoning demand from data centers. As Americans face increased electricity prices, data centers are simultaneously requiring significantly more power from utility providers. This dynamic suggests that the proliferation of data centers, driven by technological advancements like AI, is becoming a central factor in energy market strategies and utility acquisition bids, influencing both energy infrastructure and consumer costs.",
-        "link": "https://www.nytimes.com/2026/05/19/business/energy-environment/nextera-dominion-electricity-rates-data-centers.html"
-    },
-    {
-        "category": "Climate Tech Evolution",
-        "title": "Climate Tech Companies Pivot to Critical Minerals Focus",
-        "summary": "Climate tech companies are strategically pivoting their focus towards critical minerals, adapting to a challenging environment marked by weak support for climate causes in the current US administration. This shift allows them to survive and potentially thrive by emphasizing benefits beyond decarbonization. The industry is increasingly finding ways to reposition its efforts, signaling a broader trend where companies that traditionally focused on environmental sustainability are now exploring opportunities within the essential materials sector.",
-        "link": "https://www.technologyreview.com/2026/05/21/1137622/climate-tech-pivot-critical-minerals/"
-    },
-    {
-        "category": "Biotech Breakthroughs",
-        "title": "Colossal Biosciences Develops 3D-Printed Artificial Eggshell for Chickens",
-        "summary": "Colossal Biosciences has announced the development of a 'fully artificial egg,' successfully growing baby chicks within transparent 3D-printed plastic cups at their Dallas headquarters. This biotech achievement allows chickens to develop and pip without a natural eggshell. The innovation is part of the company's broader mission to resurrect extinct avian species, demonstrating a significant advancement in reproductive technologies and potentially opening new avenues for conservation efforts and agricultural practices.",
-        "link": "https://www.technologyreview.com/2026/05/19/1137471/colossal-biosciences-is-growing-chickens-in-a-3d-printed-container/"
+        "category": "Climate Tech & Investment",
+        "title": "Green Steel Startup Boston Metal Pivots to Critical Metals",
+        "summary": "Boston Metal, a startup known for its efforts in sustainable steel production, has secured a $75 million funding round to expand its focus to producing critical metals. The company's original mission targeted cleaning up the steel industry, which contributes significantly to global greenhouse emissions. This new investment and strategic shift indicate a growing trend within climate tech towards critical mineral extraction and processing, driven by new market opportunities and the evolving landscape of sustainable industrial solutions.",
+        "link": "https://www.technologyreview.com/2026/05/20/1137523/boston-metal-funding-critical-metals/"
     }
 ];
