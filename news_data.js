@@ -1,146 +1,152 @@
 window.NEWS_DATA = [
     {
-        "category": "AI Development",
-        "title": "Alibaba Unveils Qwen3.7-Max Autonomous AI Agent",
-        "summary": "Alibaba's Qwen Team has released Qwen3.7-Max, a proprietary AI model capable of extended autonomous agentic work. This model reportedly achieved approximately 35 hours of continuous autonomous execution, signifying the AI industry's shift into an \"agent era\" where models can plan, execute, and course-correct complex tasks over multiple days. This release comes after the departure of key Qwen Team leaders, and its proprietary nature marks a shift from prior open-source releases.",
+        "category": "AI Breakthroughs",
+        "title": "Google Unveils 'Anything-to-Anything' AI Model",
+        "summary": "Google has demonstrated a new 'anything-to-anything' AI model, showcasing advanced capabilities by deepfaking a stuffed animal to re-create scenarios depicted in a Gemini advertisement. This development suggests significant progress in multimodal AI, enabling the transformation of diverse inputs into various outputs, pushing the boundaries of generative AI applications and potentially enabling new forms of content creation and interaction.",
+        "link": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video"
+    },
+    {
+        "category": "Global AI Development",
+        "title": "Alibaba's Qwen3.7-Max Achieves 35 Hours of Autonomous AI Agent Operation",
+        "summary": "Alibaba's Qwen Team has released Qwen3.7-Max, a proprietary AI model capable of extended autonomous agentic work. The company reports the model achieved approximately 35 hours of continuous autonomous execution, signaling the industry's full entry into the 'agent era.' This model can actively plan, execute, and course-correct complex tasks over multiple days, indicating a major advancement in long-duration AI agent capabilities and potentially setting new benchmarks for AI autonomy.",
         "link": "https://venturebeat.com/technology/alibabas-proprietary-qwen3-7-max-can-run-for-35-hours-autonomously-and-supports-external-harnesses-like-anthropics-claude-code"
     },
     {
-        "category": "AI Research & Optimization",
-        "title": "Delta-Mem Boosts AI Agent Memory Efficiency",
-        "summary": "Researchers from Mind Lab and several universities have introduced \"delta-mem,\" an efficient technique designed to enhance AI agents' working memory, addressing issues like forgotten debugging threads or redundant context processing. This method compresses historical information into a dynamically updated matrix without altering the core model, adding only 0.12% of the backbone model's parameters. Delta-mem outperforms leading alternatives on memory-intensive benchmarks by allowing models to continuously accumulate and reuse historical data, thereby reducing reliance on large context windows or complex external retrieval modules.",
+        "category": "AI Agent Architecture",
+        "title": "New 'Delta-mem' Enhances AI Agent Memory with 0.12% Parameter Add-on",
+        "summary": "Researchers have introduced 'delta-mem,' an efficient technique to address AI agents' memory limitations, which often lead to latency and increased token costs. This method compresses historical information into a dynamically updated matrix without altering the core model, adding only 0.12% of the backbone model's parameters. Delta-mem allows agents to continuously accumulate and reuse data, outperforming other memory-heavy benchmarks and reducing reliance on massive context windows or complex external retrieval modules like RAG.",
         "link": "https://venturebeat.com/orchestration/a-0-12-parameter-add-on-gives-ai-agents-the-working-memory-rag-cant"
     },
     {
-        "category": "Enterprise AI Challenges",
-        "title": "Overcoming AI Agent Memory Gaps with Decision Context Graphs",
-        "summary": "Enterprise AI agents often fail due to a lack of structured memory beyond what RAG architectures provide. Rippletide, a startup, has developed a decision context graph framework that equips agents with structured memory, time-aware reasoning, and explicit decision logic. This approach aims to create \"non-regressive\" agents that can freeze validated action sequences and compound on past discoveries, addressing the issue of agents forgetting previously learned information. This is crucial as enterprise context is fragmented across various systems.",
-        "link": "https://venturebeat.com/orchestration/enterprise-ai-agents-keep-failing-because-they-forget-what-they-learned"
-    },
-    {
-        "category": "Enterprise AI Platforms",
-        "title": "Kore.ai Launches Artemis AI Agent Platform to Compete with Tech Giants",
-        "summary": "Kore.ai has unveiled Artemis, a reinvention of its AI Agent Platform, designed to help enterprises build, govern, and optimize AI agents using AI itself. The platform aims to compress months of engineering work into days. Kore.ai is positioning Artemis as a neutral solution in a crowded market where major tech vendors like Microsoft, Salesforce, Google, and ServiceNow are vying to be the default infrastructure for enterprise AI agents. Its philosophy emphasizes AI performing most of the heavy lifting over human developers.",
-        "link": "https://venturebeat.com/technology/kore-ai-launches-artemis-ai-agent-platform-expands-challenge-to-microsoft-and-salesforce"
-    },
-    {
         "category": "Global AI Competition",
-        "title": "China's DeepSeek AI Garners Praise Despite Chip Limitations",
-        "summary": "DeepSeek AI, a Chinese upstart, has reportedly trained high-performing AI models cost-effectively without utilizing the most advanced chips. Silicon Valley is describing DeepSeek as \"amazing and impressive\" despite these technical constraints. This development highlights China's advancements in AI capabilities and its ability to innovate even under potential hardware restrictions, signaling a notable player in the global AI landscape.",
+        "title": "China's DeepSeek AI Garners Silicon Valley Praise Despite Chip Limitations",
+        "summary": "Chinese startup DeepSeek AI is drawing significant attention in Silicon Valley for its high-performing AI models. The company states it has trained these models cheaply and without using the most advanced chips, a feat described as 'amazing and impressive.' This highlights China's growing capability in AI development, potentially challenging the dominance of advanced chip-dependent models and intensifying global competition in the artificial intelligence sector, particularly with efficient model training strategies.",
         "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology"
     },
     {
-        "category": "AI & Science",
-        "title": "Google I/O Highlights Shifting Path for AI-Driven Science",
-        "summary": "At Google I/O, Google DeepMind CEO Demis Hassabis declared that humanity stands \"in the foothills of the singularity,\" referring to the theoretical moment AI surpasses human intelligence. This statement underscored a significant shift in the trajectory of AI-driven science. The event showcased how AI is increasingly being positioned to transform scientific exploration, with implications for dramatic advancements across various fields, as AI capabilities continue to evolve rapidly.",
-        "link": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/"
-    },
-    {
-        "category": "AI in Software Development",
-        "title": "Anthropic's Code with Claude Redefines Coding Future",
-        "summary": "Anthropic's \"Code with Claude\" developer event showcased the evolving future of software development, where AI is increasingly involved in writing code. Attendees were questioned about shipping pull requests entirely written by AI, highlighting the growing integration of AI in coding workflows. This indicates a significant transformation in how developers work, with AI tools like Claude potentially automating substantial portions of the coding process, leading to discussions about the implications for the industry.",
-        "link": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/"
-    },
-    {
-        "category": "AI & Search Evolution",
-        "title": "Google Enters Post-Search Era with Proactive AI Agents",
-        "summary": "Google is transitioning into a \"post-search\" era, where AI agents proactively search for information without direct user prompts. This shift imagines a world where AI performs much of the information retrieval and processing, moving beyond the traditional model of users actively typing search queries. The company envisions AI agents anticipating needs and providing information, signifying a fundamental change in how users interact with and utilize Google's capabilities for information access.",
-        "link": "https://www.theverge.com/podcast/936037/google-io-2026-search-agents-vergecast"
-    },
-    {
-        "category": "AI in Entertainment",
-        "title": "Spotify and UMG Partner for AI-Generated Music Covers",
-        "summary": "Spotify and Universal Music Group have collaborated to enable Premium subscribers to create AI-generated song covers and remixes. Under this new deal, participating artists will receive a share of the revenue generated from these fan-made AI creations. This partnership signifies a major step in integrating AI into the music industry, potentially changing how fans interact with and reinterpret existing musical works while establishing a new revenue model for artists.",
-        "link": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/"
-    },
-    {
-        "category": "AI Music Controversy",
-        "title": "AI Music Covers Spark Debate Amid Spotify's New Tool",
-        "summary": "The integration of AI-generated music covers and remixes into platforms like Spotify is sparking controversy, with critics arguing it can \"disrespect\" artists. With Spotify's new tool making it easier for Premium subscribers to create these AI renditions, concerns are growing about the proliferation of low-quality or \"blight\" content. The debate centers on the artistic integrity and potential dilution of original works, as AI-generated versions become more accessible and widespread across digital music platforms.",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/936072/spotify-umg-ai-music-remix-cover-superfan"
-    },
-    {
-        "category": "AI Localization",
-        "title": "HMD Integrates Indian AI Chatbot for Local Market Reach",
-        "summary": "Finnish phone-maker HMD is pre-loading Sarvam's Indus chatbot app onto its new smartphones as part of a strategy to penetrate the Indian market. The Indus chatbot supports 22 Indic languages, aiming to provide a localized and accessible AI experience for users in India. This move highlights the growing trend of tailoring AI solutions to specific regional linguistic and cultural contexts to enhance user adoption and market relevance.",
-        "link": "https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/"
-    },
-    {
-        "category": "AI Regulation Policy",
-        "title": "Trump Postpones AI Oversight Executive Order",
-        "summary": "President Trump canceled the signing of an executive order intended to grant the government authority to evaluate AI models prior to their public release. The postponement was attributed to \"concerns about 'aspects of it'.\" This decision delays potential federal oversight measures for AI development, indicating internal deliberations or disagreements regarding the scope and implementation of AI regulation at the governmental level.",
-        "link": "https://www.nytimes.com/2026/05/21/technology/trump-ai-executive-order.html"
-    },
-    {
-        "category": "AI & Labor Policy",
-        "title": "California Governor Addresses AI Job Displacement Concerns",
-        "summary": "California Governor Gavin Newsom has issued an executive order focused on exploring an overhaul of labor policies. The initiative aims to address potential mass job displacement anticipated from the widespread adoption of artificial intelligence. This move signifies a proactive governmental effort to mitigate the socio-economic impacts of AI on the workforce and to prepare labor markets for the transformative effects of advanced technology.",
-        "link": "https://www.nytimes.com/2026/05/21/technology/newsom-ai-executive-order-california.html"
-    },
-    {
-        "category": "Tech Geopolitics",
-        "title": "China Rejects Trump-Approved Nvidia H200 AI Chip",
-        "summary": "Despite President Trump's approval for the sale of Nvidia's powerful H200 chip to China, Beijing has not purchased a single unit. The chip was anticipated to bolster China's AI ambitions, but its rejection indicates a potential strategic shift or dissatisfaction within Beijing regarding its tech acquisition policies. This highlights ongoing complexities and geopolitical tensions in the global semiconductor and AI technology trade.",
-        "link": "https://www.nytimes.com/2026/05/21/business/china-nvidia-chip-trump-ai.html"
-    },
-    {
-        "category": "AI & Cybersecurity",
-        "title": "Deepfake Detection Failure Poses Business Identity Crisis",
-        "summary": "New research indicates that Americans struggle to distinguish real from AI-generated content, with their ability being barely better than a coin flip. A 2026 survey found Americans scored just 0.07 on a scale where 0 is random guessing. This widespread inability to spot deepfakes is not merely a media literacy issue but a significant threat to online identity verification for businesses, potentially compromising digital services that rely on image- and video-based authentication.",
-        "link": "https://venturebeat.com/security/americans-cant-spot-a-deepfake-and-thats-a-business-crisis-not-just-a-consumer-problem"
-    },
-    {
-        "category": "Data Infrastructure & AI",
-        "title": "Dun & Bradstreet Rebuilds Database for AI Agents",
-        "summary": "Dun & Bradstreet (D&B) has rebuilt its Commercial Graph, an extensive database covering 642 million businesses, because its original design for human analysts proved unsuitable for AI agents. As customers began integrating AI agents into workflows like credit, procurement, and supply chain management, D&B's existing architecture, which accommodated human query results and ambiguous entity matches, became a bottleneck. The company recognized AI agents as a new consumer category requiring a re-architected system for machine efficiency.",
+        "category": "AI Data Infrastructure",
+        "title": "D&B Rebuilds 642 Million Business Database for AI Agents",
+        "summary": "Dun & Bradstreet has rebuilt its Commercial Graph, a database covering 642 million businesses, to cater specifically to AI agents. Originally designed for human analysts, the existing architecture proved problematic for AI agents interacting with credit, procurement, and supply chain workflows. The comprehensive overhaul aims to transition the system from serving human-centric queries to machine-optimized interactions, recognizing AI agents as a new consumer category and adapting its data infrastructure for the evolving demands of automated business processes.",
         "link": "https://venturebeat.com/data/d-and-bs-database-of-642-million-businesses-was-built-for-humans-not-ai-agents-so-they-rebuilt-it"
     },
     {
+        "category": "AI in Software Development",
+        "title": "Anthropic's Code with Claude Hints at AI-Driven Coding Future",
+        "summary": "Anthropic's Code with Claude event in London showcased the evolving role of AI in software development. Discussions centered on AI's ability to completely write code, with attendees asked about shipping pull requests fully generated by AI. This suggests that AI, particularly models like Claude, is increasingly capable of autonomous code generation, potentially transforming traditional coding workflows. The event highlighted a future where AI significantly contributes to, or even entirely handles, portions of the software development lifecycle.",
+        "link": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not"
+    },
+    {
+        "category": "AI Ethics & Application",
+        "title": "AI Used to Resurrect Voices of Deceased Pilots, NTSB Blocks Access",
+        "summary": "Artificial intelligence has been utilized to reconstruct the voices of deceased pilots from spectrogram images of cockpit recordings. This development has prompted the National Transportation Safety Board (NTSB) to temporarily block access to its docket system, likely due to the sensitive nature of the content and potential ethical implications. The ability to resurrect voices raises significant concerns regarding privacy, consent, and the appropriate use of AI technology on historical and personal data, particularly in accident investigations.",
+        "link": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/"
+    },
+    {
+        "category": "AI Ethics & Security",
+        "title": "Americans' Inability to Spot Deepfakes Poses Business Crisis",
+        "summary": "New research indicates that Americans cannot reliably distinguish between real and AI-generated content, posing a significant business crisis, not just a consumer problem. A 2026 survey found respondents scored only 0.07 on a scale where 0 represents random guessing in identifying deepfakes. This ineffectiveness directly impacts digital businesses relying on image- and video-based identity verification, as users' inability to discern authentic visual content compromises the reliability of online identity confirmation, creating critical security vulnerabilities.",
+        "link": "https://venturebeat.com/security/americans-cant-spot-a-deepfake-and-thats-a-business-crisis-not-just-a-consumer-problem"
+    },
+    {
+        "category": "AI Product Challenges",
+        "title": "Google's AI Search 'Disregards' User Intent",
+        "summary": "Google's AI Overviews are encountering a significant issue where the system can 'disregard' a user's search intent. When searching for terms like 'disregard,' the AI Overview section sometimes provided a traditional AI chatbot response instead of a typical AI summary, as observed on X. This indicates a potential flaw in how Google's AI search processes certain queries, leading to responses that miss the nuance or directness of the user's initial request, impacting search accuracy and user experience.",
+        "link": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard"
+    },
+    {
+        "category": "AI Product Performance",
+        "title": "Elon Musk's Grok Struggles with Adoption and Performance",
+        "summary": "Elon Musk's 'truth-seeking' AI chatbot, Grok, is reportedly underperforming and experiencing low adoption rates. A Reuters report indicates that Grok 'barely appears in federal records' regarding the US government's AI usage last year. This suggests that despite Musk's promotion, Grok is not widely used and may not be meeting performance expectations. The limited governmental adoption further highlights the challenges xAI faces in establishing Grok as a competitive and effective AI solution in the broader market.",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen"
+    },
+    {
         "category": "AI Infrastructure Investment",
-        "title": "Meta Boosts AI Investment with $60-65 Billion Spending Plan",
-        "summary": "Meta plans to increase its spending to between $60 billion and $65 billion, signaling an accelerating investment in artificial intelligence and massive data center expansion. This substantial financial commitment by the social-media giant is the latest indication of how major tech companies are intensifying their expenditures to scale AI capabilities and support the necessary infrastructure. The investment underscores the competitive race in the AI sector and the capital required for leadership.",
+        "title": "Meta Plans $60B-$65B Spending Surge on AI, Data Centers",
+        "summary": "Meta, the social media giant, is set to significantly increase its capital expenditure, planning to spend between $60 billion and $65 billion. This substantial investment signals a rapid acceleration in the company's commitment to artificial intelligence and the expansion of its data center infrastructure. The move underscores the broader tech industry trend of massive financial outlays to support the development and deployment of advanced AI capabilities, indicating Meta's intent to remain a key player in the AI race.",
         "link": "https://www.wsj.com/articles/meta-spending-ai-facebook-data-centers-9452a88f?mod=rss_Technology"
     },
     {
-        "category": "Tech IPO & Leadership",
-        "title": "Elon Musk to Consolidate Power Through SpaceX IPO",
-        "summary": "SpaceX is preparing for one of the largest IPOs to date, revealing its financial performance for the first time. Elon Musk is set to be the primary beneficiary and will increase his control, holding over 50% of the voting power, giving him a \"monarchical grip\" over the publicly-traded company. Other significant shareholders also have deep, longstanding ties to Musk, indicating that a small inner circle will largely benefit and retain substantial influence.",
-        "link": "https://www.nytimes.com/2026/05/20/technology/elon-musk-spacex-ipo.html"
+        "category": "AI in Healthcare",
+        "title": "Reid Hoffman Funds AI Cancer Research Startup with $24.6 Million",
+        "summary": "LinkedIn co-founder Reid Hoffman has raised $24.6 million for Manas AI, a new startup focused on AI-driven cancer research. He co-founded the venture with Siddhartha Mukherjee, author of 'The Emperor of All Maladies.' This significant funding highlights growing venture capital interest in applying artificial intelligence to complex medical challenges like cancer, indicating a potential acceleration in drug discovery and therapeutic development through advanced computational methods, leveraging both tech and medical expertise.",
+        "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology"
     },
     {
-        "category": "Tech Labor & AI Profits",
-        "title": "Samsung Averts Strike with $340K Bonuses Amid AI Profit Debate",
-        "summary": "Samsung Electronics has averted a threatened 18-day strike by its semiconductor division employees by agreeing to a tentative deal. This deal reportedly makes some workers eligible for average annual bonuses of $340,000. While resolving the immediate labor dispute, the situation has brought to the forefront a debate over how the spoils of the AI boom, from which Samsung, a major memory chip supplier, has significantly benefited, should be distributed among its workforce.",
-        "link": "https://www.nytimes.com/2026/05/21/business/samsung-strike-ai-chips.html"
+        "category": "Tech Economy",
+        "title": "Berlin Startup Peec Doubles Revenue to $10M Tracking AI Searches",
+        "summary": "Peec, a rising Berlin startup, has more than doubled its annualized revenue to $10 million in just months, according to sources. The company specializes in helping brands track their presence in AI searches. This rapid growth provides compelling evidence of a significant trend among European startups, highlighting the increasing demand for tools and services that navigate the burgeoning AI landscape and demonstrating strong market validation for AI-focused business solutions.",
+        "link": "https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/"
     },
     {
-        "category": "Government & Tech Industry",
-        "title": "Canada to Review Amazon Contracts Following Quebec Layoffs",
-        "summary": "Canada has issued a warning to Amazon.com, stating that it will review business ties with Amazon\u2019s cloud-computing unit. This action follows Amazon's decision to close its warehouses in Quebec, resulting in the layoff of 1,700 workers. The move signals potential government scrutiny over large tech companies' operational decisions and their impact on local employment, potentially influencing future business relations between Canada and Amazon.",
-        "link": "https://www.wsj.com/articles/canada-to-review-amazon-contracts-after-quebec-layoffs-d458ea66?mod=rss_Technology"
+        "category": "AI Funding Scrutiny",
+        "title": "VCs and Founders Inflate 'ARR' to Boost AI Startup Valuations",
+        "summary": "A trend has emerged where some AI startups are 'stretching traditional revenue metrics' like Annual Recurring Revenue (ARR) when publicly reporting their progress. The article notes that venture capitalists and founders utilize these inflated figures to elevate the perceived success and valuation of AI startups. Critically, investors are reportedly 'fully aware' of this practice, indicating a potential discrepancy between reported financial health and actual performance within the competitive AI startup landscape, raising questions about market transparency.",
+        "link": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/"
     },
     {
-        "category": "Cybersecurity & Geopolitics",
-        "title": "Bluesky Accuses Kremlin of Hacking Accounts for Propaganda",
-        "summary": "Bluesky has reported that it is actively combatting Russian efforts to hack and hijack real user accounts on its platform. The company states that this tactic is being used to post fake content and spread propaganda, representing an apparently novel method of digital interference. This incident highlights escalating geopolitical cybersecurity threats and the challenges social platforms face in protecting user integrity and combating state-sponsored disinformation campaigns.",
+        "category": "AI Policy & Regulation",
+        "title": "Trump Delays Executive Order on AI Model Oversight",
+        "summary": "President Trump has postponed the signing of an executive order intended to grant the government oversight capabilities over artificial intelligence models before their public release. The president cited concerns about 'aspects of it' as the reason for the delay. This deferral signifies ongoing deliberation and potential disagreements within the administration regarding the scope and implementation of federal regulation over AI technology, impacting the timeline for establishing clear governmental authority in this rapidly evolving sector.",
+        "link": "https://www.nytimes.com/2026/05/21/technology/trump-ai-executive-order.html"
+    },
+    {
+        "category": "AI Impact on Labor",
+        "title": "California Governor Newsom Orders Review of AI Job Loss Policies",
+        "summary": "California Governor Gavin Newsom has issued an executive order directing a comprehensive review of state labor policies. This initiative aims to address and prepare for potential mass job displacement anticipated due to the increasing adoption of artificial intelligence. The order signals a proactive stance by one of the largest state economies to understand and mitigate the socio-economic impacts of AI on the workforce, potentially leading to significant policy overhauls to support workers affected by technological shifts.",
+        "link": "https://www.nytimes.com/2026/05/21/technology/newsom-ai-executive-order-california.html"
+    },
+    {
+        "category": "Geopolitics of Tech",
+        "title": "China Rejects US-Approved Nvidia H200 AI Chip",
+        "summary": "Despite President Trump's approval for the sale of Nvidia's powerful H200 chip in China, not a single unit has been purchased by Beijing. This indicates a surprising rejection of a key U.S. technology that seemed poised to boost China's artificial intelligence ambitions. The refusal suggests a strategic move by Beijing, possibly to avoid reliance on U.S. technology or to foster domestic chip development, highlighting the ongoing geopolitical tensions and the complex dynamics of the global tech supply chain.",
+        "link": "https://www.nytimes.com/2026/05/21/business/china-nvidia-chip-trump-ai.html"
+    },
+    {
+        "category": "Tech Regulation & Lawsuits",
+        "title": "Google Appeals Landmark Search Monopoly Ruling",
+        "summary": "Google has officially appealed a federal judge's ruling that declared the company an illegal search monopolist. The tech giant is asking a federal appeals court to reverse the decision, asserting that it 'prevailed in the marketplace fair and square' and that the ruling 'crashed' through legal guardrails. Google is also challenging a requirement to share some data with its rivals. This appeal marks a critical step in a significant antitrust case with wide-ranging implications for the tech industry.",
+        "link": "https://www.nytimes.com/2026/05/22/technology/google-appeals-search-case.html"
+    },
+    {
+        "category": "Tech Industry Shift",
+        "title": "Elon Musk Reportedly Abandons Earth Solar Power Focus",
+        "summary": "Elon Musk's xAI venture has reportedly shifted its entire focus to natural gas, while SpaceX is prioritizing orbital data centers. This strategic pivot marks a significant departure from Musk's long-standing promise of a 'solar-electric economy' on Earth. The change in direction indicates a potential re-evaluation of energy infrastructure for AI and space ventures, moving away from terrestrial solar power as a primary focus for his key companies, which could have ripple effects on energy and AI development strategies.",
+        "link": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/"
+    },
+    {
+        "category": "Space Tech",
+        "title": "SpaceX Starship V3 Has First Launch, Booster Lost on Return",
+        "summary": "SpaceX successfully conducted the first launch of its upgraded Starship V3, a critical vehicle for the company's ambitious future goals. The launch itself was largely successful, demonstrating progress in the development of the larger rocket. However, the booster for the Starship V3 was lost during its return attempt. This indicates a partial success for the crucial test flight, highlighting both the advancements made and the continued challenges in achieving full reusability for advanced space systems.",
+        "link": "https://techcrunch.com/2026/05/22/spacex-launches-starship-v3-for-the-first-time-but-loses-booster-on-return/"
+    },
+    {
+        "category": "Autonomous Vehicle Challenges",
+        "title": "Waymo Suspends Service in Six Cities After Cars Enter Flooded Roads",
+        "summary": "Waymo has temporarily suspended its autonomous taxi service across six cities following incidents where its vehicles drove into flooded roads. Videos emerged showing two Waymo cars immobilized on swamped streets in Atlanta. The suspension underscores persistent challenges for autonomous vehicles in navigating adverse environmental conditions like severe weather, raising questions about the robustness of their detection and decision-making systems in unforeseen circumstances, and prompting safety reviews and operational adjustments for future deployments.",
+        "link": "https://www.nytimes.com/2026/05/22/us/waymo-taxi-suspended-atlanta.html"
+    },
+    {
+        "category": "Cybersecurity",
+        "title": "NPM's Last Trust Signal Compromised by Valid Certificates, Stolen Accounts",
+        "summary": "A significant cybersecurity breach has affected npm, where malicious package versions passed Sigstore provenance verification despite being harmful. Attackers generated valid signing certificates from compromised maintainer accounts, effectively bypassing npm's last automated trust signal. While Sigstore functioned as designed by verifying certificate validity and CI environment builds, it could not determine if the credential holder authorized the publish. This exploit demonstrates a critical vulnerability in software supply chain security, where identity theft can subvert robust verification systems, turning trust signals into camouflage for malicious activity.",
+        "link": "https://venturebeat.com/security/npm-sigstore-provenance-stolen-identity-audit-grid-2026"
+    },
+    {
+        "category": "Global Tech Regulation",
+        "title": "EU Mandates Breathalyzer Hook-ups in All New Vehicles",
+        "summary": "The European Union has implemented a new regulation requiring all vehicles sold within the EU to be equipped with the capability to hook up to a breathalyzer. This measure is a key component of the EU's broader strategy to achieve its ambitious goal of eliminating all drunk-driving-related deaths and injuries by the year 2050. The regulation represents a significant step in vehicle safety and reflects a global trend towards incorporating technology into policy to address public health and safety concerns.",
+        "link": "https://www.wired.com/story/all-vehicles-sold-in-the-eu-must-have-breathalyzer-hook-up/"
+    },
+    {
+        "category": "Tech & Free Speech Policy",
+        "title": "Researchers Sue Trump Admin Over Online Safety Crackdown",
+        "summary": "Tech researchers have filed a lawsuit against the Trump administration, alleging that the administration has been targeting those who study and work to counter hate speech, harassment, propaganda, and disinformation online. This legal action comes after months of the administration scrutinizing such researchers. The lawsuit raises significant concerns about online safety and free speech, as it challenges governmental actions that could impact the ability of independent researchers to address critical issues on digital platforms without fear of reprisal.",
+        "link": "https://www.technologyreview.com/2026/05/21/1137632/lawsuit-trump-administration-online-safety-coalition-for-independent-technology-research/"
+    },
+    {
+        "category": "Social Media & Cyber Warfare",
+        "title": "Bluesky Alleges Kremlin Hacking User Accounts to Spread Propaganda",
+        "summary": "Bluesky, the social media platform, has stated it is actively combatting Russian efforts to hijack real users' accounts to disseminate fake content. The company describes this as an 'apparently novel tactic,' suggesting a new and evolving method of cyber warfare and disinformation campaigns. This indicates an escalation in sophisticated state-backed interference on social media platforms, posing a significant challenge to platform security and the integrity of online discourse, requiring enhanced defensive strategies.",
         "link": "https://www.nytimes.com/2026/05/21/business/bluesky-russia-hacking-accounts.html"
-    },
-    {
-        "category": "Cybersecurity Flaws",
-        "title": "MFA Blind Spot: Post-Authentication Security Gap",
-        "summary": "Enterprises relying solely on Multi-Factor Authentication (MFA) face a critical security gap: MFA only verifies initial login identity, not subsequent actions. Attackers can bypass this by gaining access after MFA succeeds, using valid session tokens to move laterally and escalate privileges within systems like Active Directory. This \"blind spot\" means that even with successful authentication, systems fail to monitor post-login activity, leaving organizations vulnerable to internal breaches that MFA was not designed to detect or prevent.",
-        "link": "https://venturebeat.com/security/mfa-verifies-who-logged-in-it-has-no-idea-what-they-do-next"
-    },
-    {
-        "category": "AI Infrastructure & Geopolitics",
-        "title": "Gulf's AI Boom Strained by Undersea Cable Issues",
-        "summary": "The rapid growth of AI in the Gulf region is revealing significant vulnerabilities in its internet infrastructure, specifically concerning undersea cables. Hyperscale companies are reportedly urging the Gulf to re-evaluate and enhance its internet infrastructure as the rising demands of AI development amplify the risks associated with cable disruptions. This highlights a critical challenge for regions aiming to become AI hubs, where robust and resilient connectivity is paramount to supporting advanced AI operations and mitigating economic and strategic risks.",
-        "link": "https://www.wired.com/story/the-gulfs-ai-boom-has-an-undersea-cable-problem/"
-    },
-    {
-        "category": "Climate Tech & Investment",
-        "title": "Green Steel Startup Boston Metal Pivots to Critical Metals",
-        "summary": "Boston Metal, a startup known for its efforts in sustainable steel production, has secured a $75 million funding round to expand its focus to producing critical metals. The company's original mission targeted cleaning up the steel industry, which contributes significantly to global greenhouse emissions. This new investment and strategic shift indicate a growing trend within climate tech towards critical mineral extraction and processing, driven by new market opportunities and the evolving landscape of sustainable industrial solutions.",
-        "link": "https://www.technologyreview.com/2026/05/20/1137523/boston-metal-funding-critical-metals/"
     }
 ];
