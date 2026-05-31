@@ -1,152 +1,152 @@
 window.NEWS_DATA = [
     {
-        "category": "AI Economy",
-        "title": "Anthropic Overtakes OpenAI in Valuation Race",
-        "summary": "Anthropic has surpassed OpenAI to become the world's most valuable AI startup, following a new fundraising round that secured $65 billion, pushing its valuation to $900 billion. This achievement places it ahead of OpenAI's last reported valuation of $730 billion, signaling an intensified rivalry between the two companies for dominance in the rapidly evolving artificial intelligence sector. The significant capital injection highlights robust investor confidence in Anthropic's future trajectory and its competitive standing against established AI leaders.",
-        "link": "https://www.nytimes.com/2026/05/28/technology/anthropic-tops-openai-valuation.html"
+        "category": "Tech Investment & Infrastructure",
+        "title": "SoftBank's \u20ac75B French Data Center Bet",
+        "summary": "SoftBank plans a significant investment of up to \u20ac75 billion to construct and operate new data centers in France. This ambitious goal aims to develop up to 5 gigawatts of additional data center capacity. This move underscores a major commitment to expanding critical digital infrastructure within Europe, likely in response to growing demands from AI and other data-intensive technologies, positioning France as a key hub for future computing power.",
+        "link": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/"
     },
     {
-        "category": "AI Breakthrough",
-        "title": "Anthropic's Claude Opus 4.8 Debuts with 3X Cheaper Fast Mode",
-        "summary": "Anthropic has launched Claude Opus 4.8, its upgraded flagship AI model, retaining the previous version's pricing while introducing a 'fast mode' tier that is three times cheaper. This fast mode allows the model to generate tokens approximately 2.5 times faster, with prices reduced to $10 per million input tokens and $50 per million output tokens. Opus 4.8 also features the ability to spawn hundreds of parallel subagents for extensive codebase-scale tasks, enhancing its utility and cost-efficiency for high-throughput inference.",
-        "link": "https://venturebeat.com/technology/anthropics-claude-opus-4-8-is-here-with-3x-cheaper-fast-mode-and-near-mythos-level-alignment"
+        "category": "AI Development & Economy",
+        "title": "GitHub Copilot's New Billing Sparks Dev Outcry",
+        "summary": "Microsoft's GitHub Copilot is facing significant developer dissatisfaction due to a shift to token-based billing. This change marks what some perceive as the end of the \"golden age\" for the AI coding assistant. The new billing model is causing consternation, suggesting a potential increase in costs for developers, which could impact adoption and sentiment towards AI-powered development tools. The shift highlights evolving monetization strategies for AI services.",
+        "link": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/"
     },
     {
-        "category": "AI Competition",
-        "title": "Mistral AI Expands into Industrial AI, Challenges OpenAI",
-        "summary": "French startup Mistral AI announced a significant expansion, including a new inference data center near Paris and a rebranding of its consumer assistant, Vibe. These moves, along with a push into industrial manufacturing AI and a target of \u20ac1 billion ($1.17B USD) revenue for 2026, position Mistral AI as a major contender against OpenAI. The company aims to become a primary enterprise AI provider for businesses wary of sharing sensitive data with American hyperscalers, growing its workforce to 1,000 people.",
-        "link": "https://venturebeat.com/technology/mistral-ai-lhttps://venturebeat.com/technology/mistral-ai-launches-vibe-expands-into-industrial-ai-and-announces-data-center-push-to-challenge-openai"
+        "category": "AI Hardware Innovation",
+        "title": "Meta Explores AI Wearable Pendant",
+        "summary": "Meta is reportedly venturing into new AI-powered hardware with the development of an AI pendant. This initiative signals Meta's strategy to make substantial investments in tangible AI devices beyond its existing virtual and augmented reality offerings. The pendant suggests a focus on creating new, more integrated ways for users to interact with artificial intelligence, potentially paving the way for ubiquitous, screen-free AI assistance.",
+        "link": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/"
     },
     {
-        "category": "AI Funding",
-        "title": "AI Chip Startup Groq Reportedly Seeks $650M for Inference Pivot",
-        "summary": "AI chip startup Groq is reportedly seeking $650 million in internal funding to support a strategic pivot from hardware manufacturing towards focusing on AI inference. This shift emphasizes refining how AI models respond to prompts. The news follows Nvidia's reported $20 billion 'not-acqui-hire,' indicating continued significant investment and strategic repositioning within the competitive AI chip and inference market. This funding round will enable Groq to further develop its AI inference capabilities and expand its influence.",
-        "link": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/"
+        "category": "Consumer AI & Productivity",
+        "title": "Google's Gemini Spark: A Practical AI Assistant",
+        "summary": "Google's new 24/7 AI assistant, Gemini Spark, has been found to be practically useful for automating everyday tasks. Its capabilities range from summarizing inboxes to planning local events. Despite its utility, the rationale behind Google's decision to launch it as a separate product, rather than integrating it directly into existing services, remains unclear. This rollout emphasizes Google's continued push into making AI accessible for daily personal productivity.",
+        "link": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/"
     },
     {
-        "category": "AI Hardware",
-        "title": "Nvidia N1X Laptop Processors Teased by Microsoft and Arm",
-        "summary": "Nvidia, Microsoft, and Arm are openly teasing Nvidia's upcoming Arm-powered laptop chips, expected to be officially announced at Computex. Social media posts from Windows and Nvidia GeForce accounts, stating 'A new era of PC,' confirm widespread speculation about the new N1X laptop processors. This collaboration indicates a significant push by Nvidia into the laptop CPU market, leveraging Arm architecture, and signaling a potential shift in the personal computing landscape with advanced AI capabilities.",
-        "link": "https://www.theverge.com/news/940275/nvidia-n1x-laptop-processor-arm-microsoft-teaser"
+        "category": "AI Investment & Market Trends",
+        "title": "VC Insights: The AI Investment Frenzy",
+        "summary": "Leading Venture Capitalists observe a significant \"groupthink boom\" within the AI investment landscape. One VC humorously noted the intense competition for young talent, stating that a 22-year-old in San Francisco building in AI might secure a seed term sheet, while a 19-year-old could already receive a Series A offer. This highlights the aggressive pace and high valuation expectations currently dominating the AI startup funding environment.",
+        "link": "https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/"
     },
     {
-        "category": "Tech Economy",
-        "title": "Meta Plans Massive AI and Data Center Spending Increase",
-        "summary": "Meta announced plans to significantly increase its spending to between $60 billion and $65 billion, primarily allocated to artificial intelligence development and the construction of massive data centers. This substantial investment underscores the accelerating trend among major tech companies to pour resources into AI infrastructure. The commitment highlights Meta's ambition to bolster its AI capabilities and infrastructure, reflecting the high stakes and competitive nature of the current AI technology race across the industry.",
-        "link": "https://www.wsj.com/articles/meta-spending-ai-facebook-data-centers-9452a88f?mod=rss_Technology"
+        "category": "Tech Regulation & Consumer Rights",
+        "title": "User-Replaceable Batteries Revive with EU Mandate",
+        "summary": "User-replaceable batteries are experiencing a significant resurgence, largely driven by landmark legislation passed by the European Union in 2023. This regulatory move signals a major shift in product design for gadgets and smartphones, aiming to enhance repairability and extend device lifespans. The legislation is expected to influence global manufacturing standards, offering consumers greater control over their device maintenance and contributing to environmental sustainability efforts.",
+        "link": "https://www.theverge.com/column/939026/user-replaceable-batteries-eu-european-union-legislation"
     },
     {
-        "category": "Geopolitics of AI",
-        "title": "China's DeepSeek AI Impresses Silicon Valley Despite Chip Limitations",
-        "summary": "China's DeepSeek AI has garnered significant praise from Silicon Valley for its impressive performance, despite being trained without the most advanced chips. The Chinese upstart claims to have developed high-performing AI models cheaply, challenging conventional wisdom about the necessity of cutting-edge hardware. This development signals China's growing prowess in AI, potentially reshaping the global AI landscape and demonstrating innovative approaches to overcome technological constraints in the AI race.",
-        "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology"
+        "category": "Cybersecurity & Corporate Policy",
+        "title": "Microsoft Threatens Action Over Exploit Disclosure",
+        "summary": "Microsoft is under scrutiny for its response to the public disclosure of zero-day exploits by an entity named Nightmare Eclipse, possibly a disgruntled former employee. The company is reportedly threatening legal action against those disclosing these vulnerabilities. This situation has drawn attention from cybersecurity researchers, raising concerns about Microsoft's handling of security disclosures and its approach to managing public reporting of critical system weaknesses.",
+        "link": "https://www.theverge.com/tech/940416/microsoft-nightmare-eclipse-zero-day-vulnerability"
     },
     {
-        "category": "AI for Health",
-        "title": "Reid Hoffman Launches AI Cancer Research Startup with $24.6M",
-        "summary": "LinkedIn co-founder Reid Hoffman has launched Manas AI, a new startup focused on AI-driven cancer research, securing $24.6 million in funding. Hoffman co-founded the venture with Siddhartha Mukherjee, author of 'The Emperor of All Maladies.' This significant investment highlights the growing trend of leveraging artificial intelligence to accelerate drug discovery and medical advancements, specifically in the critical field of cancer treatment. The startup aims to apply AI to complex biological data for groundbreaking insights.",
-        "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology"
-    },
-    {
-        "category": "AI Breakthrough",
-        "title": "MeMo Model Upgrades LLMs Without Retraining, Boosts Performance 26%",
-        "summary": "Researchers have developed MeMo, a new framework enabling Large Language Models (LLMs) to acquire new knowledge post-training without requiring expensive or slow retraining. MeMo encodes new information into a separate, smaller memory model, bypassing context window limitations. This modular architecture is compatible with both open- and closed-source models, avoiding catastrophic forgetting and the complexities of RAG pipelines. Experiments show MeMo improves LLM performance by 26%, offering a cost-effective solution for continuous knowledge updates in enterprise AI.",
-        "link": "https://venturebeat.com/orchestration/memo-memory-model-teams-upgrade-llm-without-retraining"
-    },
-    {
-        "category": "AI Efficiency",
-        "title": "AutoTTS Automates LLM Reasoning, Cuts Token Usage by 69.5%",
-        "summary": "Researchers from Meta, Google, and universities have introduced AutoTTS, a framework that automatically discovers optimal test-time scaling (TTS) strategies for LLMs. This innovation addresses the bottleneck of manually handcrafted TTS strategies, allowing enterprise organizations to dynamically optimize compute allocation and reduce token usage. Experimental trials demonstrate AutoTTS's ability to efficiently manage inference budgets, cutting operational costs and token usage by 69.5% for advanced reasoning models in production environments, thereby enhancing efficiency.",
-        "link": "https://venturebeat.com/orchestration/researchers-automated-llm-reasoning-strategy-design-and-cut-token-usage-by-69-5"
-    },
-    {
-        "category": "Enterprise AI",
-        "title": "AI Agent Deployment Bottlenecked by Permissions, Not Performance",
-        "summary": "The deployment of enterprise AI agents is reportedly stalling due to permissioning issues, not model performance. Workday's President for Product and Technology, Gerrit Kazmaier, highlighted that agents frequently encounter barriers regarding what they are authorized to access, on whose behalf, and how the system verifies these permissions. Workday proposes leveraging its existing system of record as the governance layer, arguing that cobbled-together solutions for DIY AI agents often compromise security models and lead to overly broad access.",
+        "category": "Enterprise AI Challenges",
+        "title": "Permissions Bottleneck Enterprise AI Agent Deployment",
+        "summary": "The deployment of enterprise AI agents is primarily hindered by permissioning challenges, not by limitations in model performance. A crucial hurdle arises in defining what an AI agent is authorized to access and on whose behalf, and how the system enforces these rules. Workday addresses this by leveraging its existing system of record as an AI governance layer, aiming to maintain the integrity of security and approval models that are often lost in custom-built solutions.",
         "link": "https://venturebeat.com/orchestration/the-ai-agent-bottleneck-isnt-model-performance-its-permissions"
     },
     {
-        "category": "Enterprise AI",
-        "title": "AI Agents Face Reliability Issues, Entering 'Rebuild Era'",
-        "summary": "As enterprise AI agents transition into production, organizations are encountering significant reliability challenges, indicating that LLM performance alone does not guarantee agent success. Long-running AI workflows need robust mechanisms to handle crashes, preserve state, recover from failures, manage inference costs, and coordinate across diverse APIs and systems. Preeti Somal, Senior VP Engineering at Temporal Technologies, notes a trend of organizations rebuilding early agent architectures, redesigning them with a focus on workflow orchestration, observability, governance, and recovery.",
-        "link": "https://venturebeat.com/orchestration/ai-agents-are-entering-their-rebuild-era-as-enterprises-confront-the-reliability-problem"
+        "category": "AI Breakthrough & Efficiency",
+        "title": "MeMo Boosts LLM Knowledge and Performance by 26%",
+        "summary": "Researchers have developed MeMo, a framework that allows large language models (LLMs) to acquire new knowledge without costly or slow retraining, overcoming a major enterprise AI hurdle. MeMo encodes new information into a separate, smaller memory model, bypassing limitations of RAG pipelines and full fine-tuning. Experiments show MeMo reliably handles complex queries even with noisy retrieval, prevents catastrophic forgetting, and enhances performance by 26%, providing an efficient path for continuous knowledge updates.",
+        "link": "https://venturebeat.com/orchestration/memo-memory-model-teams-upgrade-llm-without-retraining"
     },
     {
-        "category": "AI Application",
-        "title": "Pinterest Slashes AI Costs 90% by Customizing Frontier Models",
-        "summary": "Pinterest has achieved a 90% reduction in AI costs and a 30% boost in accuracy for its image recommendations by customizing open-source models. CTO Matt Madrigal explained that the company gutted Qwen3-VL's vision layer and rebuilt it with proprietary embeddings, a more efficient approach than calling a frontier model for each of its 620 million monthly users. This strategy emphasizes that unique data for fine-tuning open-source models can outweigh model size in achieving superior performance and cost-effectiveness.",
+        "category": "AI Cost Optimization",
+        "title": "Pinterest Slashes AI Costs 90% via Custom Vision Layer",
+        "summary": "Pinterest, with 620 million monthly users, drastically reduced AI costs by 90% and boosted accuracy by 30% by customizing a frontier model. CTO Matt Madrigal's team achieved this by removing the model's vision layer and replacing it with proprietary embeddings. This strategy highlights Pinterest's investment in foundationally customizing open-source models, emphasizing that unique, high-quality data used for fine-tuning can significantly outperform larger models, especially for visual discovery applications.",
         "link": "https://venturebeat.com/orchestration/pinterest-cut-ai-costs-90-by-gutting-a-frontier-models-vision-layer"
     },
     {
-        "category": "AI Ethics & Governance",
-        "title": "Pope Leo XIV's Encyclical Calls for Responsible AI",
-        "summary": "Pope Leo XIV's new encyclical, 'Magnifica Humanitas' ('Magnificent Humanity'), addresses artificial intelligence, stating that 'Technology is never neutral.' The encyclical urges technologists and policymakers to approach the AI age with courage and solidarity. It serves as a comprehensive template for individuals to engage with the transformative changes brought by AI, emphasizing the ethical implications and the need for humanity to guide its development and deployment responsibly and equitably.",
-        "link": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/"
+        "category": "Enterprise AI Deployment",
+        "title": "Enterprise AI Agents Face Reliability \"Rebuild Era\"",
+        "summary": "As enterprise AI agents move into production, organizations are increasingly grappling with reliability issues, realizing that LLM performance alone isn't enough for success. Long-running AI workflows require robust solutions for crash recovery, state preservation, failure management, inference cost control, and API coordination. According to Preeti Somal of Temporal Technologies, many companies are now in a \"rebuild era,\" redesigning first-generation agent architectures to incorporate better workflow orchestration, observability, governance, and recovery mechanisms.",
+        "link": "https://venturebeat.com/orchestration/ai-agents-are-entering-their-rebuild-era-as-enterprises-confront-the-reliability-problem"
     },
     {
-        "category": "AI & Politics",
-        "title": "Powerful AI Super PACs Duel Over Midterm Elections",
-        "summary": "Two powerful AI-focused Super PACs, one allied with Anthropic and the other with OpenAI, are spending millions to influence the midterm elections. This intense competition has reportedly led to fearful candidates and canceled ads, highlighting the significant, and potentially disruptive, role of AI in political campaigns. The financial backing of leading AI companies in political spending signals a new 'war' for influence and policy direction in the rapidly advancing artificial intelligence landscape.",
+        "category": "AI Optimization & Efficiency",
+        "title": "AutoTTS Automates LLM Reasoning, Cuts Token Use by 69.5%",
+        "summary": "Researchers from Meta, Google, and universities introduced AutoTTS, a framework that automates the design of optimal test-time scaling (TTS) strategies for large language models (LLMs). Historically, TTS strategies required manual tuning, but AutoTTS dynamically optimizes compute allocation. This automated approach leads to a significant reduction in token usage and operational costs for deploying advanced reasoning models. Experimental trials demonstrated AutoTTS efficiently managed inference budgets, reducing them by 69.5%, improving performance while cutting costs.",
+        "link": "https://venturebeat.com/orchestration/researchers-automated-llm-reasoning-strategy-design-and-cut-token-usage-by-69-5"
+    },
+    {
+        "category": "AI Company Strategy & Expansion",
+        "title": "Mistral AI Expands with Vibe, Industrial AI, and New Data Centers",
+        "summary": "Mistral AI announced a significant expansion, including its new consumer-facing assistant \"Vibe,\" a push into industrial manufacturing, and a new inference data center south of Paris. These moves signal the French startup's ambition to become a leading enterprise AI provider, especially for companies seeking to avoid American hyperscalers for sensitive data. Mistral AI now employs 1,000 people and aims for \u20ac1 billion in revenue for 2026, indicating extraordinary growth and a direct challenge to OpenAI's dominance.",
+        "link": "https://venturebeat.com/technology/mistral-ai-launches-vibe-expands-into-industrial-ai-and-announces-data-center-push-to-challenge-openai"
+    },
+    {
+        "category": "AI Model Release & Pricing",
+        "title": "Anthropic Releases Claude Opus 4.8 with 3X Cheaper Fast Mode",
+        "summary": "Anthropic has launched Claude Opus 4.8, an upgraded flagship model, maintaining its previous pricing while introducing a dramatically cheaper \"fast mode\" tier. The fast mode now costs $10 per million input tokens and $50 per million output tokens, a 3X reduction from its predecessor. Opus 4.8 also includes a new feature allowing the model to spawn hundreds of parallel subagents for large-scale codebase work, enhancing high-throughput inference and solidifying Anthropic's competitive position.",
+        "link": "https://venturebeat.com/technology/anthropics-claude-opus-4-8-is-here-with-3x-cheaper-fast-mode-and-near-mythos-level-alignment"
+    },
+    {
+        "category": "AI Market & Valuation",
+        "title": "Anthropic Surpasses OpenAI in Valuation at $900B",
+        "summary": "Anthropic has reportedly become the world's most valuable AI startup, with a recent fundraising round securing $65 billion, pushing its valuation to $900 billion. This figure places Anthropic ahead of OpenAI's last valuation of $730 billion, intensifying the competition for dominance in the rapidly evolving artificial intelligence sector. The significant capital infusion underscores investor confidence in Anthropic's technology and market position.",
+        "link": "https://www.nytimes.com/2026/05/28/technology/anthropic-tops-openai-valuation.html"
+    },
+    {
+        "category": "AI & Cybersecurity Threats",
+        "title": "AI Fuels Sophisticated Scams, Demands New Defense",
+        "summary": "Artificial intelligence is exacerbating the challenge of identifying scams, as criminals leverage AI to impersonate celebrities, web stores, or even family members to solicit money. The increasing sophistication of these AI-powered fraudulent activities necessitates a fundamentally new approach to personal protection. Detecting these advanced scams now requires heightened vigilance and updated strategies to discern deceptive content generated by artificial intelligence.",
+        "link": "https://www.nytimes.com/2026/05/28/technology/personaltech/scams-ai.html"
+    },
+    {
+        "category": "Geopolitics & Tech Elite",
+        "title": "Peter Thiel Establishes Roots in Argentina",
+        "summary": "U.S. tech billionaire Peter Thiel has reportedly established new roots in Argentina, a move partly attributed to his concerns about the future of the United States. His decision is also said to be motivated by shared beliefs with Argentina\u2019s right-wing leader. This relocation highlights a growing trend among some tech elites to seek alternative domiciles, potentially indicating broader anxieties about global political and economic trajectories.",
+        "link": "https://www.nytimes.com/2026/05/28/world/americas/peter-thiel-argentina.html"
+    },
+    {
+        "category": "Future of Transportation",
+        "title": "Joby Demonstrates Air Taxi in Manhattan",
+        "summary": "Joby Aviation showcased its electric air taxi in Manhattan, signifying a step towards replacing traditional helicopters with electric vertical take-off and landing (eVTOL) aircraft. Despite the demonstration, the public cannot yet use these vehicles. The development is supported by aviation startups and the current administration, but these new electric aircraft must undergo arduous testing and regulatory approvals before they can be deployed for public transportation, highlighting significant hurdles remaining.",
+        "link": "https://www.nytimes.com/2026/05/31/business/air-taxis-joby-helicopters.html"
+    },
+    {
+        "category": "AI & Political Influence",
+        "title": "AI Super PACs Battle for Midterm Influence",
+        "summary": "Two powerful AI-aligned Super PACs are engaged in a significant financial duel, spending millions to influence this year's midterm elections. One Super PAC is allied with Anthropic, while the other is tied to OpenAI. This intense competition signifies a new era where artificial intelligence companies are directly engaging in political campaigns, leveraging substantial financial resources to shape the political landscape and advocate for their respective interests in Washington.",
         "link": "https://www.nytimes.com/2026/05/30/us/politics/anthropic-openai-super-pacs-midterms.html"
     },
     {
-        "category": "Workforce & AI",
-        "title": "Coders' AI Reliance Could Lead to Future Problems, Researchers Warn",
-        "summary": "Researchers are cautioning that coders' increasing reliance on AI, to the point of refusing to work without it, could lead to future problems. While AI undeniably accelerates code production, there are concerns that it may not necessarily improve code quality. This trend could result in long-term issues for developers, including potential skill degradation or the propagation of less robust code, highlighting a critical trade-off between speed and quality in AI-assisted programming that needs careful consideration.",
-        "link": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/"
-    },
-    {
-        "category": "Workforce & AI",
-        "title": "Companies' 'AI Psychosis' Causes Layoffs, Questions Job Understanding",
-        "summary": "Companies exhibiting 'AI psychosis'\u2014a condition where leaders prioritize AI replacement without fully understanding job functions\u2014are causing significant workforce disruption. Aaron Levie, Box founder, highlighted this issue as tech layoffs in 2026 are nearly matching all of 2025. For example, ClickUp recently cut 22% of its workforce, replacing positions with AI agents. This trend signals a concerning pattern where a superficial understanding of AI capabilities leads to premature and potentially detrimental workforce reductions.",
-        "link": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/"
-    },
-    {
-        "category": "Workforce & AI",
-        "title": "Reality Check on AI Jobs Panic Amidst Growing Hysteria",
-        "summary": "Despite escalating public hysteria regarding AI's potential threat to white-collar jobs, there is currently scant evidence of a large-scale, widespread impact on employment. A recent incident where former Google CEO Eric Schmidt was booed for telling University of Arizona graduates to help shape AI underscores public anxiety. However, experts emphasize that while AI will undeniably transform the nature of work, immediate, mass job displacement due to AI has not been broadly observed, calling for a more measured perspective.",
-        "link": "https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/"
-    },
-    {
-        "category": "Organizational Strategy",
-        "title": "Rethinking Organizational Design for Agentic AI Adoption",
-        "summary": "A significant disconnect exists between organizations' ambition for agentic AI adoption and their current infrastructure's readiness. While 85% of organizations aim to be 'agentic' within three years, 76% admit their current operations cannot support this transformation, citing deficiencies in people, processes, and workflows. This highlights a critical need to rethink organizational design to effectively integrate enterprise-level AI agents, ensuring that infrastructure and human capital are aligned to support the shift towards AI-driven operations.",
-        "link": "https://www.technologyreview.com/2026/05/26/1137584/rerethinking-organizational-design-in-the-age-of-agentic-ai/"
-    },
-    {
-        "category": "Space Economy",
-        "title": "SpaceX Secures $6.45B in Space Force Contracts Ahead of IPO",
-        "summary": "SpaceX has been awarded $6.45 billion in contracts from the U.S. Space Force, a significant development disclosed in the company's IPO filing. This massive government funding stream contributed one-fifth of SpaceX's 2025 revenue, underscoring its reliance on public sector contracts. The substantial award highlights the growing importance of private aerospace companies in national defense and space infrastructure, while also providing critical financial backing as SpaceX prepares for its anticipated public offering.",
-        "link": "https://techcrunch.com/2026/05/29/spacex-awarded-6-45b-in-space-force-contracts-ahead-of-ipo/"
-    },
-    {
-        "category": "Space & Defense",
-        "title": "SpaceX Nabs $4.16B for 'Golden Dome' Missile Tracking Satellites",
-        "summary": "The Pentagon has awarded SpaceX a $4.16 billion contract to develop missile-tracking satellites, forming part of President Donald Trump's envisioned 'Golden Dome' defense system. These sensor-equipped satellites will enable the U.S. Space Force to detect and track targets from space, significantly enhancing national security capabilities. This substantial contract further solidifies Elon Musk's SpaceX as a critical partner in advanced defense technology, building on its existing government contracts and expanding its role in strategic infrastructure.",
-        "link": "https://www.theverge.com/science/940207/spacex-golden-dome-satellite-contract"
-    },
-    {
-        "category": "Space Economy",
-        "title": "Analyst Warns SpaceX IPO 'Terrible for You'",
-        "summary": "An analyst warns that the upcoming SpaceX IPO, despite its apparent top-line success, could be 'terrible' for average investors, comparing its potential risks to the ill-fated WeWork offering. The commentary suggests that while the IPO might benefit Elon Musk and its bankers, the structure or terms could disadvantage public shareholders, positioning them as 'bagholders.' This critical perspective urges caution regarding the valuation and investment prospects of the highly anticipated public offering, emphasizing investor risk.",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/940001/elon-musk-spacex-ipo-ai"
-    },
-    {
-        "category": "Space Economy",
-        "title": "Blue Origin Rocket Explosion a Major Setback for Jeff Bezos",
-        "summary": "Jeff Bezos's Blue Origin has suffered a significant setback after a rocket explosion occurred on a launchpad. This incident poses a major challenge for the company, which has been making strides in its competition with Elon Musk\u2019s SpaceX and Starlink. The explosion could delay Blue Origin's progress and impact its ambitious space exploration and commercial launch schedules, highlighting the inherent risks and complexities in the burgeoning private space industry and the competitive landscape.",
+        "category": "Space Tech Setback",
+        "title": "Blue Origin Faces Setback After Rocket Explosion",
+        "summary": "Jeff Bezos's Blue Origin suffered a significant setback following a rocket explosion on a launchpad. This incident occurred as the company was reportedly gaining ground on competitors like Elon Musk\u2019s SpaceX and Starlink. The explosion creates a major challenge for Blue Origin's ambitions in the space industry, potentially impacting its launch schedules and the broader competition in commercial space exploration and satellite internet services.",
         "link": "https://www.nytimes.com/2026/05/29/technology/blue-origin-amazon-rocket-explosion.html"
     },
     {
-        "category": "Green Tech",
-        "title": "New Lithium Extraction Method Could Unlock World's Supply",
-        "summary": "Researchers have developed a novel method for extracting lithium, a critical metal for electric vehicle batteries and energy storage, promising to be more environmentally friendly and cheaper than existing techniques. Published in Science, this breakthrough could significantly reduce costs and emissions associated with lithium production. A startup named Rock Zero is already working to commercialize this new process, potentially revolutionizing the supply chain for a material essential to the global energy transition and clean technology.",
-        "link": "https://www.technologyreview.com/2026/05/28/1138096/lithium-extraction-rock-zero/"
+        "category": "AI in Education & Societal Impact",
+        "title": "Teachers Union Calls for AI Chatbot, Screen Time Curbs",
+        "summary": "The American Federation of Teachers has issued recommendations for schools to limit the use of AI chatbots and reduce screen time for students. The union specifically recommended \"no screens\" for children in second grade or younger, and advised against the use of AI chatbots for all elementary school students. This stance reflects growing concerns within the education sector about the developmental and pedagogical implications of early exposure to AI and excessive screen use.",
+        "link": "https://www.nytimes.com/2026/05/27/technology/ai-screens-schools-weingarten.html"
     },
     {
-        "category": "Green Tech",
-        "title": "Climate Tech Companies Go Public in IPO Wave",
-        "summary": "The U.S. market is experiencing a wave of climate tech companies going public via IPO, signaling growing investor confidence in the sector. Solv Energy, a solar and battery company, debuted at a $6 billion valuation in February, followed by X-energy, a small modular nuclear reactor builder, which saw its stocks surge after its April IPO. This trend indicates a significant maturation of the climate technology industry and increased public market interest in sustainable energy solutions, driving further innovation.",
-        "link": "https://www.technologyreview.com/2026/05/28/1138067/climate-tech-ipos/"
+        "category": "Global AI Competition",
+        "title": "China's DeepSeek AI Impresses Silicon Valley",
+        "summary": "China's DeepSeek AI model is drawing significant praise from Silicon Valley, described as \"amazing and impressive.\" Notably, the Chinese upstart claims to have achieved high-performing AI models cheaply, despite not utilizing the most advanced chips. This development highlights China's growing capabilities in artificial intelligence and its potential to innovate efficiently under technological constraints, intensifying global competition in AI development and demonstrating alternative paths to AI progress.",
+        "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology"
+    },
+    {
+        "category": "AI in Healthcare Investment",
+        "title": "Reid Hoffman Backs AI Cancer Research with $24.6M",
+        "summary": "LinkedIn co-founder Reid Hoffman has raised $24.6 million for his new AI cancer-research startup, Manas AI. He co-founded the venture with Siddhartha Mukherjee, author of \"The Emperor of All Maladies.\" This significant investment highlights the increasing application of artificial intelligence in the health sector, particularly for complex challenges like cancer research, and signals strong investor confidence from prominent tech figures in AI's potential to revolutionize medical science.",
+        "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology"
+    },
+    {
+        "category": "Tech Investment & AI Infrastructure",
+        "title": "Meta's AI Spending to Hit $60-65 Billion for Data Centers",
+        "summary": "Meta plans a substantial increase in spending, projecting between $60 billion and $65 billion, primarily allocated to artificial intelligence initiatives and the development of massive data centers. This announcement is the latest indicator of accelerated investments by major tech companies into AI infrastructure. The colossal expenditure underscores Meta's strategic pivot towards AI, recognizing the immense computational resources required to develop and deploy advanced AI models and services.",
+        "link": "https://www.wsj.com/articles/meta-spending-ai-facebook-data-centers-9452a88f?mod=rss_Technology"
+    },
+    {
+        "category": "Green Tech & Resource Innovation",
+        "title": "New Process Unlocks Cheaper, Greener Lithium Extraction",
+        "summary": "Researchers have discovered a new method for extracting lithium, a critical metal for electric vehicle batteries and energy storage. This novel technique promises to be more environmentally friendly and cost-effective than current processes. Published in Science, the research is being commercialized by a startup called Rock Zero. This breakthrough could significantly impact the supply chain for green energy technologies, making lithium production more sustainable and affordable globally.",
+        "link": "https://www.technologyreview.com/2026/05/28/1138096/lithium-extraction-rock-zero/"
     }
 ];
