@@ -1,152 +1,152 @@
 window.NEWS_DATA = [
     {
-        "category": "AI Regulation & Policy",
-        "title": "Trump Signs Executive Order for AI Oversight",
-        "summary": "President Donald Trump has signed an executive order aimed at overseeing AI models, signaling a shift from a previous hands-off approach. The order seeks to gain control of AI models without disrupting innovation, following internal debates on how to balance these two priorities. This marks a new phase of federal involvement in artificial intelligence governance.",
-        "link": "https://www.nytimes.com/2026/06/02/technology/trump-executive-order-ai.html"
+        "category": "Tech Economy / Platform Growth",
+        "title": "Apple App Store Tops $1.4 Trillion in Sales",
+        "summary": "Apple's App Store generated $1.4 trillion in billings and sales, an increase from $1.3 trillion last year. Digital goods accounted for $149 billion of these sales. Critically, 90% of the total sales occurred without Apple charging a commission, underscoring the vast economic activity facilitated by the platform beyond Apple's direct revenue share. This represents a significant financial milestone for the ecosystem.",
+        "link": "https://techcrunch.com/2026/06/04/apple-touts-1-4-trillion-in-app-store-billings-and-sales-90-without-a-commission/"
     },
     {
-        "category": "AI Regulation & Policy",
-        "title": "UK Mandates Publisher Opt-Out for Google AI Search",
-        "summary": "UK regulators are requiring Google to offer a tool allowing website publishers to opt-out of generative AI search features. This new conduct rule, imposed by the Competition and Markets Authority (CMA), grants website owners more control, enabling them to keep their content out of features like AI Overviews and prevent its use by AI. The option will first be tested in the UK before a global rollout.",
-        "link": "https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out"
+        "category": "Tech Economy / Venture Capital",
+        "title": "Benchmark Breaks Tradition with First Growth Fund in $2B Capital Raise",
+        "summary": "Legendary venture capital firm Benchmark has abandoned its over 20-year tradition of keeping funds around $425 million. The firm is now raising its first-ever growth fund, as part of a larger $2 billion capital raise. This strategic shift indicates an expansion of Benchmark's investment focus beyond its traditional early-stage approach, potentially impacting the broader venture capital landscape and startup funding cycles.",
+        "link": "https://techcrunch.com/2026/06/03/benchmark-raises-its-first-ever-growth-fund-as-part-of-2b-capital-raise/"
     },
     {
-        "category": "AI Regulation & Policy",
-        "title": "Florida Sues OpenAI Over Chatbot Safety Concerns",
-        "summary": "Florida has become the first state to sue OpenAI, alleging that its chatbot technology poses significant risks to children and that the company failed to adequately warn the public of these dangers. This lawsuit raises critical questions about AI developer responsibility and chatbot safety, potentially setting a legal precedent for AI liability and consumer protection.",
-        "link": "https://www.nytimes.com/2026/06/01/technology/florida-sues-openai-chatgpt-safety.html"
+        "category": "Tech Economy / Defense Industry",
+        "title": "Defense Tech Sector Hot with Capital and Rising Valuations",
+        "summary": "The defense technology sector is experiencing a significant surge in investment. Companies like Anduril and Mach Industries have seen their valuations double and quadruple, respectively. This influx of capital coincides with a proposed 40% increase in the U.S. defense budget. A wave of new startups is pursuing government contracts, though a venture investor cautions that many may fail to transition from prototype to sustainable business.",
+        "link": "https://techcrunch.com/video/defense-tech-is-flooded-with-money-but-whos-built-to-last/"
     },
     {
-        "category": "AI Market & Investment",
-        "title": "Anthropic Files for Landmark IPO",
-        "summary": "Artificial intelligence company Anthropic has filed to go public, setting the stage for a significant initial public offering. The company, which is in a race with OpenAI to the stock market, has experienced explosive growth over the past year, primarily driven by its technology that can automatically write computer code.",
-        "link": "https://www.nytimes.com/2026/06/01/technology/anthropic-ipo.html"
+        "category": "Tech Economy / AI Investment",
+        "title": "Google's AI Business Lands Record $85 Billion from Alphabet Stock Sale",
+        "summary": "Alphabet has achieved a record-breaking $85 billion stock sale, explicitly signaling strong investor appetite for Google\u2019s artificial intelligence business. This massive capital injection confirms that investors are eager to fund AI-related offerings. The substantial raise is poised to significantly bolster Google's AI initiatives, further accelerating its development and market presence in the highly competitive AI sector.",
+        "link": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/"
     },
     {
-        "category": "AI Market & Investment",
-        "title": "Suno Secures $400M Amid Copyright Battles",
-        "summary": "Prominent AI music generation startup Suno has raised another $400 million, increasing its valuation to over $5.4 billion. This funding round, which occurred just seven months after its previous $2.45 billion valuation, comes despite the company still facing multiple copyright lawsuits concerning its use of existing music for training data.",
-        "link": "https://techcrunch.com/2026/06/03/still-facing-copyright-lawsuits-ai-music-generator-suno-raises-another-400m/"
+        "category": "Tech Economy / Semiconductor Supply Chain",
+        "title": "TSMC Struggles to Meet Escalating AI Chip Demand",
+        "summary": "Taiwan Semiconductor Manufacturing Co. (TSMC), the world's largest semiconductor manufacturer, is struggling to fulfill the high demand from American customers for AI chips. Despite ongoing factory expansions in the US, TSMC CEO C.C. Wei stated that customer demand is overwhelming. This highlights a critical bottleneck in the global AI supply chain, potentially impacting the growth trajectory of AI-driven industries.",
+        "link": "https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles"
     },
     {
-        "category": "AI Market & Investment",
-        "title": "Meta Commits Billions to AI & Data Centers",
-        "summary": "Meta plans to significantly increase its spending to between $60 billion and $65 billion on artificial intelligence and massive data center infrastructure. This substantial investment is the latest indication of the accelerating capital expenditure by major tech companies into AI development and capabilities, signaling a continued arms race in the AI sector.",
-        "link": "https://www.wsj.com/articles/meta-spending-ai-facebook-data-centers-9452a88f?mod=rss_Technology"
+        "category": "AI Ethics / Global Security",
+        "title": "Tech Leaders Call for Stronger Biosecurity Against AI-Aided Bioweapons",
+        "summary": "Major AI industry rivals have set aside their differences to advocate for tougher protections against the use of AI technology in developing biological weapons. In an open letter to U.S. lawmakers, these tech leaders are pressing Congress to enact rules that close what they identify as an alarming biosecurity gap. This collective appeal underscores serious ethical and security concerns surrounding advanced AI capabilities.",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/942956/ai-biological-weapons-open-letter-congress"
     },
     {
-        "category": "AI Platform & Infrastructure",
-        "title": "Microsoft and OpenAI Intensify AI Competition",
-        "summary": "At its annual Build conference, Microsoft announced a slew of new and expanded AI initiatives, including a super app, in-house reasoning models, a cybersecurity tool, and AI agents. This signifies Microsoft's strong positioning to become a major independent player in AI, ready to compete fiercely with OpenAI and other industry leaders.",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition"
+        "category": "AI / Robotics / Labor Impact",
+        "title": "Amazon Unveils Language-Enabled Proteus Warehouse Robot",
+        "summary": "Amazon has introduced a new version of its fully autonomous warehouse robot, Proteus, which now interacts using natural language. This AI-powered upgrade enables human employees to assign tasks to the robots through spoken commands. The expanded capabilities signify Amazon's growing commitment to automation and potentially indicate a shift towards replacing human workers with more advanced, language-driven robotic systems in its e-commerce operations.",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus"
     },
     {
-        "category": "AI Platform & Infrastructure",
-        "title": "Microsoft Launches OS-Level Sandbox for AI Agents",
-        "summary": "Microsoft introduced Microsoft Execution Containers (MXC) at Build 2026, a policy-driven execution layer built into the Windows operating system. MXC allows developers and IT administrators to precisely control AI agent access at runtime, with boundaries enforced by the OS kernel. OpenAI and Nvidia are already on board, enhancing AI security and control.",
-        "link": "https://venturebeat.com/security/microsoft-launches-mxc-an-os-level-sandbox-for-ai-agents-with-openai-and-nvidia-already-on-board"
+        "category": "AI Research / Billionaire Investments",
+        "title": "Bezos Backs Flourish with $500M to Reinvent AI Through Brain's Core Algorithm",
+        "summary": "Jeff Bezos is funding Flourish, a new AI startup with a reported $2.5 billion valuation, with $500 million. Flourish aims to reinvent AI by investigating the brain\u2019s \"core algorithm,\" putting real neurons under the microscope. This substantial investment from a prominent tech figure highlights a significant push towards biologically inspired AI research, seeking to develop fundamentally new approaches to artificial intelligence.",
+        "link": "https://www.wired.com/story/jeff-bezos-is-funding-a-wild-hunt-for-the-brains-core-algorithm/"
     },
     {
-        "category": "AI Platform & Infrastructure",
-        "title": "Microsoft Debuts RTX Spark Dev Box for Local AI",
-        "summary": "Microsoft unveiled the Surface RTX Spark Dev Box, a compact desktop computer packing Nvidia\u2019s Blackwell-architecture RTX Spark processor and 128 gigabytes of unified memory, delivering one petaflop of AI compute. Announced at Build 2026, it enables developers to run large AI models exceeding 120 billion parameters locally, challenging cloud-based AI costs.",
-        "link": "https://venturebeat.com/infrastructure/microsoft-debuts-surface-rtx-spark-dev-box-to-run-large-ai-models-without-cloud-costs"
+        "category": "Tech Economy / Emerging Tech",
+        "title": "Quantum Computing Startup Quantinuum Enters Public Market Despite Losses",
+        "summary": "Quantinuum, a quantum computing startup, is making its public market debut, attracting investor interest despite reporting millions in losses. This moment suggests growing investor confidence in the long-term potential of quantum computing technologies, even as the field remains nascent and high-risk. The public listing could pave the way for other quantum firms to seek significant capital on the stock market.",
+        "link": "https://www.wired.com/story/quantum-computing-is-having-its-public-market-moment-quantinuum/"
     },
     {
-        "category": "AI Platform & Infrastructure",
-        "title": "Google Addresses Data Center Water Use Amid Backlash",
-        "summary": "Facing widespread backlash over AI data center expansion, Google is touting efforts to minimize environmental impact by increasing water replenishment for local communities. The company laid out five commitments, including a goal to replenish more water than it consumes, aiming to address scrutiny over its water quality and availability impact in regions hosting its facilities.",
-        "link": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers"
+        "category": "AI Breakthrough / Edge AI",
+        "title": "Google Launches Gemma 4 12B, a Local Multimodal AI for Enterprise Laptops",
+        "summary": "Google has released Gemma 4 12B, an 11.95-billion-parameter open-weights AI model designed to run locally on typical 16GB enterprise laptops. It features an encoder-free \"Unified\" architecture, allowing raw audio waveforms and visual patches to flow directly into the LLM backbone, reducing latency and memory overhead. This development enhances security and offline capabilities for enterprise users, marking a significant step in accessible edge AI.",
+        "link": "https://venturebeat.com/technology/googles-new-open-source-gemma-4-12b-analyzes-audio-video-and-runs-entirely-locally-on-a-typical-16gb-enterprise-laptop/"
     },
     {
-        "category": "AI Platform & Infrastructure",
-        "title": "Enterprise AI Agents Face Runtime & Data Silo Problems",
-        "summary": "VentureBeat's Q1 2026 research indicates enterprises are grappling with a \"runtime problem\" for AI agents, not just a model problem. Agents built on stateless infrastructure like Python scripts or LangChain often fail operational realities in production, leading to container restarts erasing context and creating new data silos. Microsoft is addressing this with Fabric IQ and Rayfin.",
-        "link": "https://venturebeat.com/resources/the-agentic-reckoning-enterprise-ai-organizations-have-a-runtime-problem-not-a-model-problem"
+        "category": "AI Infrastructure / Enterprise AI",
+        "title": "Microsoft Tackles AI Agent Data Silos with Fabric IQ and Rayfin at Build 2026",
+        "summary": "At Build 2026, Microsoft introduced solutions to address data silos created by enterprise AI agents. They are expanding Fabric IQ, an existing business data context layer, and launching Rayfin, an architectural approach. These initiatives aim to provide agents with a shared understanding of business context and improve data integration, crucial for organizations scaling Retrieval Augmented Generation (RAG) programs and deploying autonomous AI applications effectively.",
+        "link": "https://venturebeat.com/data/enterprise-ai-agents-keep-creating-data-silos-microsofts-build-answer-is-microsoft-iq-and-rayfin/"
     },
     {
-        "category": "AI Platform & Infrastructure",
-        "title": "GitLab Restructures for AI Workloads",
-        "summary": "GitLab is reducing its workforce by 14%, exiting 22 countries, and decreasing management layers. This strategic decision is part of a larger investment in its infrastructure to scale its platform, enabling it to better serve the demands of evolving AI workloads and streamline operations, indicating a significant pivot towards AI-centric development and deployment.",
-        "link": "https://techcrunch.com/2026/06/03/gitlab-cuts-14-of-staff-as-it-scales-its-platform-to-serve-ai-workloads/"
+        "category": "AI Breakthrough / Multimodal AI",
+        "title": "Alibaba Launches Multimodal Qwen3.7-Plus, Shifts to Proprietary Access",
+        "summary": "Alibaba has released Qwen3.7-Plus, the latest large language model in its Qwen family, offering enhanced multimodal capabilities for text, video, and imagery inputs. This model boasts a 60% lower cost than its text-only predecessor. A significant shift, Qwen3.7-Plus is available only under a \"closed\" commercial license via proprietary APIs and Qwen Chat, moving away from Alibaba's prior open-source strategy for Qwen models.",
+        "link": "https://venturebeat.com/technology/alibabas-qwen3-7-plus-supports-text-video-and-imagery-inputs-at-low-cost-of-0-4-1-6-per-1m-token-but-its-proprietary/"
     },
     {
-        "category": "AI Breakthroughs & Core Models",
-        "title": "Alibaba's Qwen3.7-Plus Offers Multimodal AI at Low Cost",
-        "summary": "Alibaba has released Qwen3.7-Plus, its latest large language model (LLM), which boasts enhanced multimodal capabilities supporting text, video, and imagery inputs. This model offers a 60% lower cost than its text-only predecessor, priced at $0.4-$1.6 per 1M token. However, it is exclusively available via proprietary APIs and Qwen Chat, marking a strategic shift in Alibaba's offering.",
-        "link": "https://venturebeat.com/technology/alibabas-qwen3-7-plus-supports-text-video-and-imagery-inputs-at-low-cost-of-0-4-1-6-per-1m-token-but-its-proprietary"
+        "category": "AI Infrastructure / Search",
+        "title": "Perplexity AI Debuts Hybrid Local-Cloud AI Inference Orchestrator",
+        "summary": "Perplexity AI, a search startup recently valued at $20 billion, showcased its \"first hybrid local-server inference orchestrator\" at Computex 2026. The software autonomously decides in real-time whether AI workloads remain on a user\u2019s device or are routed to cloud models. Demonstrated with Intel, this system allows for local processing of confidential data while leveraging frontier cloud models, blurring the lines between edge and cloud AI.",
+        "link": "https://venturebeat.com/technology/perplexity-ai-unveils-hybrid-local-cloud-inference-system-at-computex-2026/"
     },
     {
-        "category": "AI Breakthroughs & Core Models",
-        "title": "Perplexity AI Unveils Hybrid Local-Cloud Inference System",
-        "summary": "Perplexity AI debuted the first hybrid local-server inference orchestrator at Computex 2026. This software autonomously determines, in real time and mid-task, whether AI workloads remain on a user\u2019s device or are routed to cloud models. Demonstrated with confidential deal materials on Nvidia RTX Spark chips, it allows for efficient local processing of large AI models.",
-        "link": "https://venturebeat.com/technology/perplexity-ai-unveils-hybrid-local-cloud-inference-system-at-computex-2026"
+        "category": "AI Hardware / Developer Tools",
+        "title": "Microsoft Unveils Surface RTX Spark Dev Box for Cloud-Free AI Development",
+        "summary": "Microsoft introduced the Surface RTX Spark Dev Box, a compact desktop PC designed to enable developers to run large AI models locally, bypassing cloud computing costs. Announced at Build 2026, the device integrates Nvidia\u2019s Blackwell-architecture RTX Spark processor and 128 gigabytes of unified memory, providing one petaflop of AI compute. This directly challenges the token-based cloud pricing model, allowing offline development of models exceeding 120 billion parameters.",
+        "link": "https://venturebeat.com/infrastructure/microsoft-debuts-surface-rtx-spark-dev-box-to-run-large-ai-models-without-cloud-costs/"
     },
     {
-        "category": "AI Breakthroughs & Core Models",
-        "title": "China Approves First Invasive Brain-Computer Chip",
-        "summary": "China has approved the world\u2019s first invasive brain-computer chip, demonstrated by a 39-year-old paralyzed patient successfully writing with a pen. This advancement, detailed by the patient's ability to overcome paralysis-related challenges, signals a major step forward in neurotechnology and its potential applications for treating severe spinal cord injuries and other neurological conditions.",
-        "link": "https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/"
+        "category": "AI Security / Operating Systems",
+        "title": "Microsoft Introduces MXC for OS-Level AI Agent Security Sandbox",
+        "summary": "At its annual Build conference, Microsoft unveiled Microsoft Execution Containers (MXC), a policy-driven execution layer integrated into the Windows operating system. MXC allows developers and IT administrators to precisely define and enforce what an AI agent can and cannot access, with these boundaries enforced by the OS kernel at runtime. With support from OpenAI and Nvidia, MXC aims to definitively address security concerns regarding AI agent autonomy.",
+        "link": "https://venturebeat.com/security/microsoft-launches-mxc-an-os-level-sandbox-for-ai-agents-with-openai-and-nvidia-already-on-board/"
     },
     {
-        "category": "AI Breakthroughs & Core Models",
-        "title": "China's DeepSeek AI Impresses Silicon Valley",
-        "summary": "China's DeepSeek AI is garnering significant attention in Silicon Valley, being called \"amazing and impressive\" for its ability to train high-performing AI models cheaply. Notably, it achieved this without utilizing the most advanced chips, underscoring advancements in Chinese AI capabilities and potentially altering the landscape of global AI development despite technological restrictions.",
-        "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology"
+        "category": "AI Platforms / Enterprise AI",
+        "title": "OpenAI Codex Expands to Enterprise with Workspaces, Sites, and Role-Specific Plugins",
+        "summary": "OpenAI has released a major update to its agentic AI platform, Codex, introducing domain-specific workflows, a web hosting feature for enterprises called \"Sites,\" and an in-place editing tool \"Annotations.\" This strategic move aims to transform Codex into an everyday operating environment for business professionals. Non-developers now account for 20% of the platform's 5 million weekly users and are adopting the technology three times faster than engineers.",
+        "link": "https://venturebeat.com/orchestration/openais-codex-update-lets-agents-build-interactive-enterprise-workspaces-via-sites-and-role-specific-plugins/"
     },
     {
-        "category": "AI Applications & Business Impact",
-        "title": "Amazon Integrates AI Product Images into Search",
-        "summary": "Amazon will leverage visual search and AI to display AI-generated product images that align with user search queries, even inventing products you can't buy. The retailer states this feature will help guide users to desired products, initially surfacing AI images of clothing and home goods, allowing for the discovery of similar-looking items within the app.",
-        "link": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/"
+        "category": "Tech Economy / Space Tech",
+        "title": "SpaceX IPO Set to Be Largest in History at $135 Per Share",
+        "summary": "SpaceX's initial public offering is projected to be the largest ever, with a share price set at $135. This valuation positions Elon Musk\u2019s rocket company to exceed the 2019 IPO of Saudi Aramco in both total valuation and the amount of capital raised. The impending market debut signifies immense investor confidence in SpaceX's ambitious space technology ventures and its future growth prospects.",
+        "link": "https://www.nytimes.com/2026/06/03/technology/spacex-ipo-pricing.html"
     },
     {
-        "category": "AI Applications & Business Impact",
-        "title": "Meta Rolls Out WhatsApp Business AI Agent Globally",
-        "summary": "Meta's AI agent for WhatsApp Business is now globally available, enabling businesses to automate customer interactions and streamline communication. WhatsApp will implement a charging model for businesses based on token usage, indicating Meta's strategy to monetize its AI integration within its widely used messaging platform and expand enterprise AI services.",
-        "link": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/"
-    },
-    {
-        "category": "AI Applications & Business Impact",
-        "title": "OpenAI's Codex Expands to Enterprise Workspaces",
-        "summary": "OpenAI has updated its agentic AI platform, Codex, to include domain-specific workflows, a rapid, semi-private web hosting feature called \"Sites\" for enterprises, and an in-place editing tool \"Annotations.\" This aims to transform Codex into an everyday operating environment for non-developers like financial analysts and marketers, who now constitute 20% of its 5 million weekly users.",
-        "link": "https://venturebeat.com/orchestration/openais-codex-update-lets-agents-build-interactive-enterprise-workspaces-via-sites-and-role-specific-plugins"
-    },
-    {
-        "category": "AI Applications & Business Impact",
-        "title": "AI Reshapes Tech Job Landscape",
-        "summary": "The tech industry is experiencing accelerating layoffs, with executives often citing AI as the cause. However, companies like Box, a Silicon Valley software maker, anticipate hiring more employees, creating 13 new AI-related job types such as AI architects and solutions managers, suggesting a more nuanced impact on employment than simple replacement and emphasizing AI's role in creating new roles.",
-        "link": "https://www.nytimes.com/2026/06/01/technology/ai-tech-job-cuts.html"
-    },
-    {
-        "category": "Geopolitical Tech & Cybersecurity",
-        "title": "EU Seeks Tech Sovereignty, Reduces US Dependence",
-        "summary": "The 27-nation European Union has outlined a plan to reduce its dependence on American technology. The strategy focuses on expanding the region\u2019s data centers, semiconductor manufacturing capabilities, and cloud computing infrastructure, aiming to bolster European technological independence and digital sovereignty in a competitive global landscape.",
+        "category": "Global Shifts / Tech Sovereignty",
+        "title": "EU Unveils Plan to Decrease Dependence on American Technology",
+        "summary": "The 27-nation European Union has outlined its strategy to reduce its reliance on American technology. The plan focuses on expanding the region\u2019s capabilities in data centers, semiconductors, and cloud computing. This initiative represents a significant push towards digital sovereignty, aiming to bolster Europe's technological independence and control over critical digital infrastructure, potentially impacting U.S. tech companies' operations within the bloc.",
         "link": "https://www.nytimes.com/2026/06/03/technology/european-union-tech-sovereignty.html"
     },
     {
-        "category": "Geopolitical Tech & Cybersecurity",
-        "title": "Chinese Military Sought Nvidia Chips for Years",
-        "summary": "An analysis of six years of procurement records indicates that the People\u2019s Liberation Army has openly sought to acquire restricted U.S. Nvidia chips and related technology. This highlights China's persistent efforts to advance its military capabilities, potentially including AI and advanced computing, despite stringent U.S. export controls aimed at limiting such access.",
-        "link": "https://www.nytimes.com/2026/06/01/business/economy/china-military-nvidia-chips.html"
-    },
-    {
-        "category": "Geopolitical Tech & Cybersecurity",
-        "title": "China Uses AI for Political Risk Prediction",
-        "summary": "New research reveals that a Chinese company has been developing predictive surveillance technology, utilizing AI to identify individuals who could pose a political risk. This initiative highlights China's advanced use of AI for internal security and social control, even as U.S. restrictions presented development challenges, signaling implications for human rights and privacy.",
-        "link": "https://www.nytimes.com/2026/06/01/us/politics/china-ai-predicting-dissent.html"
-    },
-    {
-        "category": "Geopolitical Tech & Cybersecurity",
-        "title": "AI Supercharges Computer Worms Threat",
-        "summary": "Researchers at the University of Toronto have demonstrated how hackers could leverage artificial intelligence to create dangerous computer worms. These AI-powered programs could effectively target any known vulnerability in global computer systems, representing a significant escalation in potential cybersecurity threats and posing new challenges for digital defense strategies.",
+        "category": "AI Security / Cybersecurity",
+        "title": "AI Used to Create Computer Worms Targeting All Known Vulnerabilities",
+        "summary": "Researchers at the University of Toronto have demonstrated how artificial intelligence can be leveraged by hackers to create powerful computer \"worms.\" This AI-supercharged program can reportedly target any known flaw in global computer systems, posing a significant new threat to cybersecurity. The development underscores the escalating risks associated with malicious applications of AI in the realm of cyber warfare and network exploitation.",
         "link": "https://www.nytimes.com/2026/06/02/technology/scientists-find-way-to-supercharge-dangerous-computer-worms-with-ai.html"
     },
     {
-        "category": "Geopolitical Tech & Cybersecurity",
-        "title": "The Worst Hacks and Breaches of 2026 So Far",
-        "summary": "The first half of 2026 has witnessed several severe security incidents, including a massive DOGE data breach, the hacking of critical energy and water systems, and a compromise of an FBI surveillance system. These incidents represent the most damaging security breaches and data losses of the year so far, highlighting widespread vulnerabilities across various sectors.",
-        "link": "https://techcrunch.com/2026/06/03/the-worst-hacks-and-breaches-of-2026-so-far/"
+        "category": "Tech Ethics / Social Impact",
+        "title": "Social Media Apps Designed to Hook Teens in Schools, Documents Show",
+        "summary": "Internal documents expose how tech giants deliberately devised strategies to capture and sustain children\u2019s attention throughout the school day. Educators assert that this tactic has critically undermined education. This revelation intensifies concerns about the ethical implications of social media design on youth development and academic environments, highlighting the persistent tension between technological engagement and educational well-being.",
+        "link": "https://www.nytimes.com/2026/06/04/us/social-media-schools.html"
+    },
+    {
+        "category": "AI Breakthrough / Geopolitics",
+        "title": "China's DeepSeek AI Achieves High Performance Without Advanced Chips",
+        "summary": "Chinese startup DeepSeek AI claims it has trained high-performing AI models without using the most advanced chips, a feat lauded by Silicon Valley as \"amazing and impressive.\" This achievement is particularly significant given international restrictions on chip access. It highlights China's ingenuity in overcoming hardware limitations in AI development, potentially altering the competitive dynamics of the global artificial intelligence landscape.",
+        "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology"
+    },
+    {
+        "category": "AI Investment / Healthcare AI",
+        "title": "Reid Hoffman Secures $24.6M for AI Cancer-Research Startup Manas AI",
+        "summary": "LinkedIn co-founder Reid Hoffman has raised $24.6 million for his new venture, Manas AI, a startup dedicated to AI-driven cancer research. Co-founded with Siddhartha Mukherjee, author of \"The Emperor of All Maladies,\" this investment signifies substantial capital flowing into the application of AI for complex medical challenges. It highlights growing confidence in AI's potential to revolutionize drug discovery and therapeutic development in healthcare.",
+        "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology"
+    },
+    {
+        "category": "Tech Economy / AI Infrastructure",
+        "title": "Meta Boosts AI Investment with $60-65 Billion Data Center Spending",
+        "summary": "Meta plans to significantly increase its spending to between $60 billion and $65 billion, primarily driven by investments in artificial intelligence and massive data center expansion. This substantial financial commitment is the latest indicator of accelerating investments by tech companies into AI. It underscores the intense competition and the vast computational infrastructure required to develop and deploy advanced AI technologies.",
+        "link": "https://www.wsj.com/articles/meta-spending-ai-facebook-data-centers-9452a88f?mod=rss_Technology"
+    },
+    {
+        "category": "Global Shifts / AI Policy",
+        "title": "President Trump Issues New Executive Order on AI Policy",
+        "summary": "President Donald Trump has signed a new executive order concerning artificial intelligence, just under two weeks after rescinding a previous one. The new order aims to promote AI, as per the administration's stated intentions. While specific details of the order are not provided, this ongoing policy engagement reflects the government's continued efforts to shape and influence the development and application of AI technologies.",
+        "link": "https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/"
+    },
+    {
+        "category": "AI Breakthrough / Biotech / Global Shifts",
+        "title": "China Approves First Invasive Brain-Computer Chip; Paralysis Patient Writes Again",
+        "summary": "China has approved the world\u2019s first invasive brain-computer chip, demonstrated by Dong Hui, a 39-year-old paralyzed man who successfully wrote with a pen using the implant. This breakthrough in neurotechnology and AI-powered interfaces highlights China's rapid advancements in cutting-edge biotechnologies. The development carries significant implications for medical treatment of paralysis and positions China as a leader in brain-computer interface research.",
+        "link": "https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/"
     }
 ];
