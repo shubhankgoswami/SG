@@ -1,152 +1,152 @@
 window.NEWS_DATA = [
     {
-        "category": "AI Breakthroughs",
-        "title": "Google Unveils DiffusionGemma for Parallel Text Generation",
-        "summary": "Google has released DiffusionGemma, an experimental open-source model that applies the diffusion principle, typically used in image generation, to text. Unlike standard language models that generate text token by token, DiffusionGemma can generate 256 tokens in parallel and self-corrects as it goes. Built on the Gemma 4 backbone and released under the Apache 2.0 license, this development could address inefficiencies in local inference or low-concurrency deployments where GPUs are often idle.",
-        "link": "https://venturebeat.com/technology/googles-diffusiongemma-generates-256-tokens-in-parallel-and-self-corrects-as-it-goes"
+        "category": "Tech Economy & IPOs",
+        "title": "SpaceX Goes Public: Largest IPO Ever Amidst Valuation Skepticism",
+        "summary": "SpaceX has made its public debut, officially pricing shares at $135 in what is now the largest IPO ever. This offering is anticipated to raise enough capital to potentially make Elon Musk the first trillionaire. However, skeptics question the company's $1.77 trillion valuation, citing significant spending and reported losses. Lower-tier SPV investors also face potential risks, including hidden fees, lengthy payout delays, and fraud, with their true holdings remaining unknown until post-IPO lock-ups lift.",
+        "link": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/"
     },
     {
-        "category": "AI Development & Efficiency",
-        "title": "Microsoft Introduces SkillOpt for AI Agent Skill Upgrades",
-        "summary": "Microsoft has launched SkillOpt, an open-source (MIT Licensed) framework designed to automatically upgrade AI agent skills without modifying the underlying model weights. Agent skills, often stored in text-based markdown files, are crucial for adapting AI models to specific enterprise use cases. Historically, optimizing these skills involved manual retyping and a 'guessing game' to improve performance. SkillOpt introduces an optimizer that treats the agent's skill markdown document as a trainable object, streamlining this process for better agentic AI performance.",
-        "link": "https://venturebeat.com/orchestration/microsofts-open-source-skillopt-automatically-upgrades-ai-agent-skills-without-touching-model-weights"
+        "category": "AI Investment & Development",
+        "title": "Jeff Bezos's Prometheus Raises $12B for 'Artificial General Engineer'",
+        "summary": "Jeff Bezos's physical AI startup, Prometheus, has secured a substantial $12 billion funding round, elevating its valuation to $41 billion. Co-led by Bezos, the company aims to develop an 'artificial general engineer' capable of automating complex tasks in heavy engineering and drug design. This significant investment underscores a burgeoning focus on leveraging AI to revolutionize the development and manufacturing of physical products.",
+        "link": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/"
     },
     {
-        "category": "AI Development & Efficiency",
-        "title": "Researchers Claim $1,500 Foundation Model Training",
-        "summary": "Sapient researchers report training a 1B-parameter foundation model, HRM-Text, from scratch for approximately $1,500, challenging the conventional view that such efforts require millions of dollars and internet-scale data. HRM-Text uses a Hierarchical Recurrent Model (HRM) architecture, which decouples computation into strategic and execution layers, to replace standard Transformers. By training exclusively on instruction-response pairs, HRM-Text focuses on targeted answers, making it highly sample-efficient and potentially revolutionizing the cost barrier for enterprise LLM development.",
-        "link": "https://venturebeat.com/technology/researchers-say-they-trained-a-foundation-model-from-scratch-for-about-1-500"
+        "category": "AI Innovation & Geopolitics",
+        "title": "China's DeepSeek AI Achieves High Performance Without Advanced Chips",
+        "summary": "Chinese AI upstart DeepSeek has reportedly developed high-performing AI models cost-effectively, without relying on the most advanced chips. This achievement has garnered significant attention and praise from Silicon Valley, where the model is described as 'amazing and impressive.' DeepSeek's innovation highlights China's advancements in AI despite chip restrictions, potentially shifting the landscape of global AI development and capabilities.",
+        "link": "https://www.wsj.com/articles/deepseek-ai-china-tech-stocks-explained-ee6cc80e?mod=rss_Technology"
     },
     {
-        "category": "Global AI Competition",
-        "title": "China's DeepSeek AI Praised for Efficiency Amid Chip Shortages",
-        "summary": "A Chinese AI model, DeepSeek, is garnering significant attention and praise from Silicon Valley for its high performance, despite being trained without the most advanced chips. Observers have called the model 'amazing and impressive,' underscoring China's capability to develop competitive AI technologies under challenging hardware constraints. This achievement signals a notable development in the global AI landscape, demonstrating innovation in optimizing AI training processes and potentially reshaping expectations for future AI development.",
-        "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology"
+        "category": "AI Performance & Benchmarking",
+        "title": "GPT-5.5 Edges Out Claude Fable 5 on Challenging Agents\u2019 Last Exam Benchmark",
+        "summary": "OpenAI\u2019s GPT-5.5, utilizing the Codex harness, has achieved the top position on the new 'Agents\u2019 Last Exam (ALE)' leaderboard, with a 24.0% pass rate. This rigorous benchmark evaluates AI's capability to execute economically valuable, long-horizon professional workflows. The performance marks a surprising upset, as GPT-5.5 narrowly surpassed Anthropic's highly anticipated Claude Fable 5, indicating a significant competitive shift in AI agent capabilities.",
+        "link": "https://venturebeat.com/technology/surprise-upset-gpt-5-5-beats-claude-fable-5-on-brutal-new-agents-last-exam-benchmark/"
     },
     {
-        "category": "AI Performance Benchmarking",
-        "title": "GPT-5.5 Surprises Claude Fable 5 on New Agent Benchmark",
-        "summary": "OpenAI's GPT-5.5 from April has achieved a 'surprise upset' by outperforming Anthropic's new Claude Fable 5 on the newly launched Agents\u2019 Last Exam (ALE) benchmark. Developed by UC Berkeley researchers and over 300 domain experts, ALE is designed to measure an AI's ability to execute economically valuable, long-horizon professional workflows. Operating through the Codex harness, GPT-5.5 secured the top spot with a 24.0% pass rate, narrowly beating the highly anticipated Claude Fable 5.",
-        "link": "https://venturebeat.com/technology/surprise-upset-gpt-5-5-beats-claude-fable-5-on-brutal-new-agents-last-exam-benchmark"
+        "category": "AI Deployment & Operations",
+        "title": "AI Benchmarks Fail to Predict Real-World Production Performance",
+        "summary": "Enterprises struggle to deploy AI effectively in production, as models that perform well in labs often fail in real-world scenarios. This discrepancy arises because controlled benchmarks do not account for production challenges like latency spikes, network jitter, and node degradation. Successful implementation requires a disciplined R&D approach that bridges foundational research with practical system constraints, moving beyond just adopting new models to ensuring they truly work for specific workflows and users.",
+        "link": "https://venturebeat.com/orchestration/why-ai-that-works-in-the-lab-often-fails-in-production-and-what-actually-fixes-it/"
     },
     {
-        "category": "AI Applications",
-        "title": "DoorDash Launches AI Chatbot for Prompt-Based Ordering",
-        "summary": "DoorDash has introduced 'Ask DoorDash,' a new AI chatbot that enables users to order food and other items using natural language prompts and photos. This new feature allows customers to search the app for desired items in their own words, eliminating the need to manually scroll through restaurants and stores to curate their carts. The chatbot aims to streamline the ordering process by offering a more intuitive and conversational search experience.",
-        "link": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/"
+        "category": "AI Development Tools",
+        "title": "Microsoft Launches Open-Source SkillOpt to Automate AI Agent Skill Optimization",
+        "summary": "Microsoft has introduced SkillOpt, an open-source framework licensed under MIT, designed to automatically upgrade AI agent skills. This innovative optimizer treats an agent's skill markdown document as a trainable object, addressing the current slow and manual process of updating skills. SkillOpt aims to eliminate the 'guessing game' typically involved in retyping instructions, thereby improving agentic AI performance and reducing errors in real-world AI applications and complex workflows.",
+        "link": "https://venturebeat.com/orchestration/microsofts-open-source-skillopt-automatically-upgrades-ai-agent-skills-without-touching-model-weights/"
     },
     {
-        "category": "Enterprise AI Partnerships",
-        "title": "Anthropic Taps TCS to Scale Enterprise AI Deployments",
-        "summary": "Anthropic has partnered with Tata Consultancy Services (TCS) to expand its enterprise AI deployments. Under this agreement, TCS will establish a dedicated business unit focused on implementing Anthropic's advanced AI models for its diverse customer base. This collaboration aims to accelerate the adoption of Anthropic's AI capabilities across various industries, leveraging TCS's extensive global enterprise client network and integration expertise to facilitate broader market penetration for Anthropic's solutions.",
-        "link": "https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/"
+        "category": "AI Development Tools",
+        "title": "Xiaomi Open-Sources MiMo Code, Outperforming Claude Code on Long-Horizon Tasks",
+        "summary": "Xiaomi's MiMo AI team has open-sourced MiMo Code V0.1.0, a terminal-native AI coding assistant. Xiaomi claims MiMo Code outperforms Anthropic's Claude Code, especially on challenging ultra-long, multi-step tasks exceeding 200 steps, according to internal beta releases and surveys of 576 developers. The release includes limited-time free access to MiMo-V2.5, Xiaomi's multimodal flagship model with a million-token context window, requiring no registration.",
+        "link": "https://venturebeat.com/technology/xiaomis-new-open-source-agentic-ai-coding-harness-mimo-code-beats-claude-code-at-ultra-long-200-step-tasks/"
     },
     {
-        "category": "Healthcare AI Investment",
-        "title": "Reid Hoffman Funds AI Cancer-Research Startup Manas AI",
-        "summary": "LinkedIn co-founder Reid Hoffman has raised $24.6 million for his new AI-powered cancer-research startup, Manas AI. He is launching the venture alongside Siddhartha Mukherjee, author of 'The Emperor of All Maladies.' This significant funding underscores the growing investor confidence in the potential of artificial intelligence to revolutionize drug discovery and treatment development in the fight against cancer.",
-        "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology"
+        "category": "AI Efficiency & Research",
+        "title": "Breakthrough Research Cuts LLM Input Context 16x Without Accuracy Loss",
+        "summary": "New research from a collaboration of universities and Lawrence Livermore National Laboratory introduces Latent Context Language Models (LCLMs), encoder-decoder compression models capable of cutting LLM input context 16x. This breakthrough addresses the computational bottleneck of growing context windows by compressing input before it reaches the decoder, ensuring memory savings translate into real speedups in production. Unlike existing methods, LCLMs achieve this significant reduction without degrading model accuracy, and the models are open-sourced on HuggingFace.",
+        "link": "https://venturebeat.com/data/context-compression-finally-works-in-production-new-research-cuts-llm-input-16x-without-the-accuracy-hit/"
     },
     {
-        "category": "Visionary AI Projects",
-        "title": "Jeff Bezos Aims to Build 'Artificial General Engineer'",
-        "summary": "Jeff Bezos, as co-chief executive of the startup Prometheus, is focusing on developing an 'Artificial General Engineer.' This ambitious project aims to utilize Artificial Intelligence to enhance the manufacturing processes for a wide range of devices, from computers to jet engines. Bezos's involvement signals a significant investment in advanced AI for industrial innovation, potentially transforming how complex machinery and technology are designed and produced.",
-        "link": "https://www.nytimes.com/2026/06/11/technology/bezos-prometheus-ai-engineer.html"
-    },
-    {
-        "category": "Enterprise AI Challenges",
-        "title": "AI's Production Gap: Bridging Lab Performance to Real-World Systems",
-        "summary": "Enterprises are grappling with a significant challenge: AI solutions that perform well in controlled lab environments often fail in production due to real-world complexities like latency spikes, network jitter, and node degradation. Industry experts note that provisioning addresses capacity but not delivery, where constraints now hide. A disciplined R&D approach is crucial for connecting foundational research to reliable, production-scale systems, ensuring AI can function effectively within complex, fragmented enterprise environments, as highlighted by F5 and Capital One's AI Foundations organization.",
-        "link": "https://venturebeat.com/orchestration/what-ai-benchmarks-miss-about-real-world-performance"
-    },
-    {
-        "category": "Future of Work & AI",
-        "title": "Leading in a Hybrid Human-AI Enterprise",
-        "summary": "As the adoption of AI agents is projected to surge by up to 300% in the next two years, leadership teams are actively examining the implications of managing a workforce comprising both humans and AI. Unlike traditional automation, AI agents can autonomously coordinate complex tasks and interact across various tools and environments. This shift necessitates new leadership strategies to effectively integrate these intelligent agents, highlighting the evolving dynamics of enterprise operations and the workforce of the future.",
-        "link": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/"
-    },
-    {
-        "category": "AI Safety & Legal",
-        "title": "xAI Faces Lawsuit Over Grok AI Safety Concerns",
-        "summary": "A former xAI engineer has reportedly filed a lawsuit against the company and SpaceX, alleging wrongful termination. The engineer claims he was fired for raising concerns about the safety of Grok, xAI's AI model, just days before SpaceX's historic Initial Public Offering (IPO). This legal action highlights growing scrutiny over AI safety protocols and potential repercussions for employees who voice such concerns within prominent tech companies.",
-        "link": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/"
-    },
-    {
-        "category": "AI Ethics & Transparency",
-        "title": "Anthropic Apologizes for Hidden Claude Fable Guardrails",
-        "summary": "Anthropic has issued an apology for discreetly implementing 'invisible guardrails' in its new AI model, Claude Fable 5. These hidden restrictions reportedly throttled the model's capabilities and undermined researchers and rivals attempting to develop competing systems. The company announced it is reversing course, committing to greater transparency regarding when such restrictions are activated, even if it means Claude Fable refuses more queries. This move aims to restore trust and foster a more open environment for AI development.",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail"
-    },
-    {
-        "category": "AI Policy & Regulation",
-        "title": "Anthropic CEO Calls for FAA-Style AI Regulation",
-        "summary": "Dario Amodei, co-founder and CEO of Anthropic, has publicly advocated for new government regulations governing powerful AI models, comparing the need to that of the U.S. Federal Aviation Administration (FAA) for commercial aviation. In his essay, 'Policy on the AI Exponential,' Amodei argues such oversight is crucial for public safety as AI capabilities and potential misuses expand. Anthropic also released policy roadmaps, an Advanced AI Framework for catastrophic risks, and an Economic Policy Framework addressing AI-driven labor displacement, backed by $350 million in new funding.",
-        "link": "https://venturebeat.com/technology/anthropic-ceo-calls-for-faa-style-regulation-of-powerful-ai-models-what-enterprises-should-know"
-    },
-    {
-        "category": "AI Governance",
-        "title": "Microsoft CEO Nadella: 'Everyone Is a Stakeholder' in A.I.",
-        "summary": "Microsoft CEO Satya Nadella stated that 'everyone is a stakeholder' in Artificial Intelligence at The New York Times\u2019s Hard Fork Live event. Nadella addressed the growing backlash against AI and commented on President Trump\u2019s suggestions about Americans sharing in the wealth generated by AI companies. His remarks underscore the broad societal impact of AI and the need for inclusive dialogue regarding its development, governance, and economic benefits across various groups.",
-        "link": "https://www.nytimes.com/2026/06/10/technology/microsoft-satya-nadella-artificial-intelligence.html"
-    },
-    {
-        "category": "AI Policy & Government",
-        "title": "Trump Suggests Government Share in AI Company Wealth",
-        "summary": "President Trump has commented on the increasingly discussed topic in Washington regarding how average Americans can benefit from the tech industry\u2019s AI windfall. He mused about the possibility of the government taking a piece of AI companies. This statement highlights a growing political debate concerning wealth distribution and economic equity in an era marked by rapid advancements and concentration of wealth in artificial intelligence.",
-        "link": "https://www.nytimes.com/2026/06/10/technology/president-trump-americans-sharing-ai-wealth.html"
+        "category": "AI Models & Innovation",
+        "title": "Google Introduces DiffusionGemma for Parallel, Self-Correcting Text Generation",
+        "summary": "Google has released DiffusionGemma, an open-source experimental model that applies the diffusion principle, typically used for image generation, to text generation at production scale. Built on the Gemma 4 backbone, this model generates 256 tokens in parallel and self-corrects as it goes. This approach diverges from standard language models that generate one token at a time, left to right, offering potential for improved efficiency and coherence in text generation.",
+        "link": "https://venturebeat.com/technology/googles-diffusiongemma-generates-256-tokens-in-parallel-and-self-corrects-as-it-goes/"
     },
     {
         "category": "AI Safety & Ethics",
-        "title": "Google DeepMind Concerned Over Multi-Agent AI Interactions",
-        "summary": "Google DeepMind is funding research into the potential dangers arising from situations where millions of diverse AI agents begin interacting with each other online. Rohin Shah, who leads the company\u2019s AGI safety and alignment research, highlights concerns about the mass-market emergence of AI agents capable of autonomously performing tasks without direct human oversight and following instructions from other agents. This proactive research addresses complex emergent risks as AI systems become more ubiquitous and interconnected.",
+        "title": "Google DeepMind Funds Research into Risks of Millions of Interacting AI Agents",
+        "summary": "Google DeepMind is funding research to investigate the potential dangers posed by millions of AI agents interacting with each other online. This initiative, led by Rohin Shah, director of AGI safety and alignment research, highlights concerns arising from the mass-market availability of autonomous AI agents capable of carrying out tasks and following instructions from other AIs without human oversight. The focus is on understanding and mitigating risks in complex multi-agent environments.",
         "link": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/"
     },
     {
-        "category": "Tech Economy & IPO",
-        "title": "SpaceX IPO Set to Create Thousands of Millionaires, Boosted by Tesla's Past Success",
-        "summary": "SpaceX's impending Initial Public Offering (IPO) is poised to turn approximately 4,400 current and former employees into millionaires, dramatically changing their lives. This significant wealth creation is seen as a testament to Elon Musk's leadership and builds upon the precedent set by Tesla's 2010 stock listing, which enriched early investors and fostered deep faith in Musk. The IPO underscores the vast economic upside for those aligned with Musk's ventures, potentially making him a trillionaire.",
-        "link": "https://www.nytimes.com/2026/06/11/business/spacex-tesla-ipo-elon-musk.html"
+        "category": "AI Ethics, Cybersecurity & Legal",
+        "title": "Google Sues Chinese Cybercrime Group for AI-Powered Fake Website Creation",
+        "summary": "Google has filed a lawsuit accusing a Chinese cybercrime group of leveraging its Gemini AI system to generate hundreds of fraudulent corporate and government websites. This legal action targets the group's alleged mass-scamming operations, underscoring increasing concerns over the malicious use of advanced AI technologies. Google's move highlights the growing need for vigilance and legal frameworks to combat AI-powered cybercrime.",
+        "link": "https://www.nytimes.com/2026/06/12/technology/google-lawsuit-china-ai-scams.html"
     },
     {
-        "category": "Major Tech Investments",
-        "title": "Meta Plans Massive AI and Data Center Spending Surge",
-        "summary": "Meta, the social-media giant, is projecting capital expenditures between $60 billion and $65 billion, signaling a substantial increase in its investments. This massive spending plan is primarily allocated to advancing artificial intelligence initiatives and expanding its data center infrastructure. The move reflects the accelerating trend among major tech companies to pour significant resources into AI development and the underlying hardware necessary to support increasingly complex AI models and services.",
+        "category": "AI Application & Emerging Markets",
+        "title": "Avataar AI Delivers Culturally Aware, Affordable Video Generation for India",
+        "summary": "Avataar AI has launched a distilled video model engineered for the Indian market, offering culturally aware and cost-effective video generation. Priced at $0.005 per second of generation, this AI solution is designed to be cheaper, faster, and tailored to the cultural nuances and vast scale of India's user base. The initiative aims to democratize access to advanced video AI capabilities within emerging markets.",
+        "link": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/"
+    },
+    {
+        "category": "AI Application & Funding",
+        "title": "Equal AI Secures $30M for AI-Powered Call Screening in India",
+        "summary": "Equal AI has successfully raised $30 million to expand its AI-powered call assistant, which currently serves over a million monthly active users. The startup's technology is designed to screen calls, primarily targeting users in India. This significant funding round will enable Equal AI to further scale its operations and enhance its mission of using AI to streamline and improve personal communication experiences.",
+        "link": "https://techcrunch.com/2026/06/11/equal-ai-raises-30m-to-screen-calls-so-indians-dont-have-to/"
+    },
+    {
+        "category": "Robotics & AI Funding",
+        "title": "Theker Secures $85M to Develop Flexible, Reconfigurable Factory Robots",
+        "summary": "Theker has raised $85 million to develop a new class of factory robots designed for versatility rather than specialization. Unlike traditional humanoid robots with fixed forms, Theker's machines are built with reconfigurability as a core principle. This approach allows them to adapt to diverse manufacturing tasks and environments, promising a future where factory robots can be dynamically adjusted to meet evolving production demands.",
+        "link": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/"
+    },
+    {
+        "category": "AI in Healthcare & Funding",
+        "title": "Reid Hoffman's Manas AI Raises $24.6M for Cancer Research with Siddhartha Mukherjee",
+        "summary": "Reid Hoffman, co-founder of LinkedIn, has launched Manas AI, a new AI cancer-research startup, securing $24.6 million in funding. He is joined by Siddhartha Mukherjee, the renowned author of 'The Emperor of All Maladies,' signaling a significant move to leverage artificial intelligence for advancements in understanding and combating cancer. This venture combines prominent tech investment with deep scientific expertise to accelerate drug discovery.",
+        "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology"
+    },
+    {
+        "category": "Tech Policy & Global Shifts",
+        "title": "US Surveillance Law Section 702 Poised to Expire Following Lawmakers' Rejection of Spy Chief Nominee",
+        "summary": "The U.S. surveillance law known as Section 702, which authorizes the NSA and FBI's warrantless surveillance, is almost certain to expire on Friday for the first time. This lapse follows lawmakers' rejection of President Trump\u2019s controversial nominee to lead spy agencies, indicating a significant political deadlock on national security matters. The expiration will impact the scope of intelligence gathering and spark debates on privacy versus security.",
+        "link": "https://techcrunch.com/2026/06/12/us-spy-law-to-expire-for-first-time-after-lawmakers-reject-trumps-controversial-pick-to-lead-spy-agencies/"
+    },
+    {
+        "category": "Tech Policy & Global Shifts",
+        "title": "Britain Weighs Social Media Ban for Children Under 16 Amid Safety Concerns",
+        "summary": "Following Australia's recent ban on social media for children under 16, the British government is now considering similar policies to enhance online safety for minors. This potential legislative move underscores a growing international concern among nations regarding the impact of social media on young users. Discussions are focused on new measures to keep children safe online, possibly leading to widespread platform age restrictions.",
+        "link": "https://www.nytimes.com/2026/06/10/world/europe/uk-social-media-ban-under-16.html"
+    },
+    {
+        "category": "Tech Economy & AI Investment",
+        "title": "Meta Allocates $60-65 Billion for AI Infrastructure and Data Center Expansion",
+        "summary": "Meta, the social media giant, has announced plans for a significant increase in spending, earmarking between $60 billion and $65 billion for investments in AI infrastructure and massive data centers. This substantial capital allocation is the latest signal of accelerating investments by major tech companies. The move reflects a broader industry trend towards heavily investing in artificial intelligence capabilities and the underlying physical infrastructure required to support them.",
         "link": "https://www.wsj.com/articles/meta-spending-ai-facebook-data-centers-9452a88f?mod=rss_Technology"
     },
     {
-        "category": "Data Security & Regulation",
-        "title": "South Korea Fines Coupang $400M+ for Data Breach",
-        "summary": "South Korean authorities have imposed a record-breaking fine exceeding $400 million on e-commerce giant Coupang. This substantial penalty follows a data breach that reportedly affected over 30 million customers. The action highlights severe regulatory consequences for major companies failing to adequately protect user data and signals a firm stance by South Korean authorities on data privacy and cybersecurity compliance.",
-        "link": "https://techcrunch.com/2026/06/11/south-korea-hits-coupang-with-400m-fine-for-data-breach-that-affected-millions/"
+        "category": "AI Product Strategy",
+        "title": "Apple's Siri AI Prioritizes Practicality, Avoids 'Sycophantic' Chatbot Persona",
+        "summary": "Apple's new Siri AI is deliberately designed to avoid the 'sycophantic' and overly conversational style common in chatbots from OpenAI and Google. Early testing indicates Siri knows when to remain concise, aligning with Apple's strategy to prioritize practicality. Craig Federighi confirmed this design choice, emphasizing a more focused and less chatty interaction model for the voice assistant, distinguishing Apple's approach in the competitive AI landscape.",
+        "link": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend"
     },
     {
-        "category": "Clean Energy & Automotive",
-        "title": "GM Pivots to Energy Storage Batteries as EV Sales Slow",
-        "summary": "General Motors plans to enter the energy storage battery market, following in Tesla's footsteps, as electric vehicle (EV) sales begin to flag. The automaker intends to develop components for large-scale batteries designed for electric utilities, data centers, and other businesses. This strategic pivot aims to address fluctuations in power supply and demand, diversifying GM's business beyond consumer EVs into the broader energy infrastructure sector.",
-        "link": "https://www.nytimes.com/2026/06/09/business/energy-environment/general-motors-storage-batteries-electric-vehicles.html"
+        "category": "Cybersecurity",
+        "title": "Oracle Issues Warning on Security Flaw Exploited in 100+ Company Breaches",
+        "summary": "Oracle has issued a critical warning regarding a security flaw actively being exploited by a cybercrime gang as part of a mass-hacking campaign. The tech giant confirmed that this vulnerability has already been abused to breach over 100 companies. Google subsequently notified more than 100 organizations with potentially vulnerable servers, underscoring the widespread nature and severe implications of this ongoing cyber threat.",
+        "link": "https://techcrunch.com/2026/06/11/oracle-warns-of-security-bug-that-hackers-abused-to-breach-100-companies/"
     },
     {
-        "category": "Clean Energy & Sustainability",
-        "title": "Microsoft Backs India's Alt Carbon for Carbon Removal",
-        "summary": "Microsoft has partnered with Alt Carbon, indicating India's increasing significance in the global carbon removal sector. Alt Carbon stated that the agreement followed an extensive scientific review and due diligence process lasting over a year. Microsoft reportedly required additional verification and data-sharing measures, underscoring the tech giant's commitment to rigorous standards in its carbon removal initiatives and the growing role of Indian companies in this critical environmental effort.",
-        "link": "https://techcrunch.com/2026/06/11/microsoft-taps-alt-carbon-in-sign-of-indias-growing-rile-in-carbon-removal/"
+        "category": "Social Media Platforms",
+        "title": "Bluesky Introduces Group Chats Amid Shift Towards Community Features",
+        "summary": "Bluesky, the decentralized social networking platform, has rolled out group chats as its latest feature. This introduction comes as the company signals a strategic shift in its focus towards building features that cater to smaller, more intimate communities. The move aims to enhance user engagement and facilitate more private, group-oriented interactions within the platform's evolving ecosystem.",
+        "link": "https://techcrunch.com/2026/06/11/bluesky-lauches-group-chats-as-company-shifts-focus-to-community-features/"
     },
     {
-        "category": "Global Energy & Geopolitics",
-        "title": "China Ramps Up Investment in Large Nuclear Reactors",
-        "summary": "China is rapidly expanding its nuclear power capacity by heavily investing in gigawatt-scale pressurized-water reactors. Since 2016, the country has nearly doubled its nuclear fleet, reaching approximately 60 gigawatts of total power capacity. This aggressive build-out contrasts sharply with other nations, particularly the US, which has constructed only two reactors in the same period. China's strategy highlights a major global shift in energy policy and its commitment to large-scale nuclear power.",
-        "link": "https://www.technologyreview.com/2026/06/11/1138789/china-big-nuclear-reactors/"
+        "category": "Automotive Tech & EVs",
+        "title": "BMW Unveils Neue Klasse M Concept, Signaling Electrified Motorsport Future",
+        "summary": "Ahead of Le Mans, BMW has revealed its new M performance concept, constructed on the Bavarian automaker's Neue Klasse next-generation architecture. This concept marks the debut of a new design language for BMW's M division, signaling a strategic shift towards an electrified future in motorsports. It showcases advanced EV technology and hints at the direction for BMW's performance vehicles in an increasingly electric automotive landscape.",
+        "link": "https://www.theverge.com/transportation/948635/bmw-neue-klasse-m-concept-motorsports-ev"
     },
     {
-        "category": "Global Tech & Labor Policy",
-        "title": "Canada to Review Amazon Contracts Following Quebec Layoffs",
-        "summary": "The Canadian government has issued a warning to Amazon.com, stating it will review its business ties with the company\u2019s cloud-computing unit. This action comes after Amazon\u2019s decision to close its warehouses in Quebec, resulting in the layoff of 1,700 workers. The review signifies a governmental response to major corporate labor decisions and could impact Amazon's operations and contracts within Canada, reflecting growing scrutiny over tech company employment practices.",
+        "category": "Smart Home & AI Integration",
+        "title": "Amazon Echo Hub Gets Customizable Homescreen and Ring AI Features Update",
+        "summary": "Amazon is rolling out a free software update for Echo Hub devices, providing a much-needed redesign to its homescreen interface. The update introduces a cleaner, fully customizable layout that allows for more smart home information and controls to be displayed. This enhancement builds upon the existing Alex Plus AI support and now integrates Ring\u2019s AI features, further consolidating smart home management capabilities.",
+        "link": "https://www.theverge.com/tech/948814/amazon-echo-hub-homescreen-redesign"
+    },
+    {
+        "category": "Business & Policy",
+        "title": "Canada Initiates Review of Amazon Contracts After Quebec Warehouse Closures and Layoffs",
+        "summary": "The Canadian government has informed Amazon.com that it is reviewing its business ties with the company's cloud-computing unit. This scrutiny follows Amazon's decision to close its warehouses in Quebec, resulting in the layoff of 1,700 workers. The review signifies government concern over the economic impact and corporate practices related to significant layoffs by major technology companies operating within Canada.",
         "link": "https://www.wsj.com/articles/canada-to-review-amazon-contracts-after-quebec-layoffs-d458ea66?mod=rss_Technology"
     },
     {
-        "category": "Social Media Regulation",
-        "title": "Britain Considers Social Media Ban for Children Under 16",
-        "summary": "Months after Australia implemented a social media ban for individuals under 16, the British government is now considering similar new policies to enhance online safety for children. This deliberation reflects a growing global trend among governments to address the perceived negative impacts of social media on young users. The potential ban in Britain signifies a significant regulatory shift that could impact tech companies and reshape online engagement for minors in the region.",
-        "link": "https://www.nytimes.com/2026/06/10/world/europe/uk-social-media-ban-under-16.html"
+        "category": "Global Energy & Infrastructure",
+        "title": "China Accelerates Nuclear Energy Expansion with Gigawatt-Scale Reactors",
+        "summary": "China is rapidly expanding its nuclear energy capacity, having nearly doubled its nuclear fleet since 2016 to reach almost 60 gigawatts of total power. This ambitious growth is largely driven by the deployment of gigawatt-scale pressurized-water reactors. The country's swift pace in bringing new facilities online contrasts sharply with nuclear development trends in other nations, highlighting a significant investment in large nuclear power for its energy future.",
+        "link": "https://www.technologyreview.com/2026/06/11/1138789/china-big-nuclear-reactors/"
     }
 ];
