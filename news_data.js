@@ -1,152 +1,152 @@
 window.NEWS_DATA = [
     {
-        "category": "Tech Economy & IPOs",
-        "title": "SpaceX Goes Public: Largest IPO Ever Amidst Valuation Skepticism",
-        "summary": "SpaceX has made its public debut, officially pricing shares at $135 in what is now the largest IPO ever. This offering is anticipated to raise enough capital to potentially make Elon Musk the first trillionaire. However, skeptics question the company's $1.77 trillion valuation, citing significant spending and reported losses. Lower-tier SPV investors also face potential risks, including hidden fees, lengthy payout delays, and fraud, with their true holdings remaining unknown until post-IPO lock-ups lift.",
-        "link": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/"
+        "category": "Tech Economy",
+        "title": "SpaceX IPO Soars, Crowns World's First Trillionaire",
+        "summary": "SpaceX made its heavily anticipated public debut, with shares closing up 19% and trading higher than its initial $135 IPO price. This blockbuster offering led to Elon Musk becoming the world\u2019s first trillionaire as his rocket company achieved a $2 trillion valuation. The IPO, which saw over 555 million shares sold, is considered the largest ever, paving the way for potential enormous offerings from other major AI players like OpenAI and Anthropic, signaling strong investor interest in the sector.",
+        "link": "https://techcrunch.com/2026/06/12/spacex-ipo-closes-up-19-and-delivers-the-worlds-first-trillionaire/"
     },
     {
-        "category": "AI Investment & Development",
-        "title": "Jeff Bezos's Prometheus Raises $12B for 'Artificial General Engineer'",
-        "summary": "Jeff Bezos's physical AI startup, Prometheus, has secured a substantial $12 billion funding round, elevating its valuation to $41 billion. Co-led by Bezos, the company aims to develop an 'artificial general engineer' capable of automating complex tasks in heavy engineering and drug design. This significant investment underscores a burgeoning focus on leveraging AI to revolutionize the development and manufacturing of physical products.",
-        "link": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/"
+        "category": "Tech Economy",
+        "title": "SpaceX-Tesla Merger Hinted Amidst IPO Success",
+        "summary": "Following its successful IPO, SpaceX President Gwynne Shotwell gave another hint at a potential merger with Tesla. This speculation suggests an inevitable integration between Elon Musk's two major ventures. The market is keenly observing developments surrounding this possibility, which could reshape the landscape of the space and electric vehicle industries, further consolidating Musk's tech empire.",
+        "link": "https://techcrunch.com/2026/06/12/spacex-president-gwynne-shotwell-just-gave-another-hint-at-a-tesla-merger/"
     },
     {
-        "category": "AI Innovation & Geopolitics",
-        "title": "China's DeepSeek AI Achieves High Performance Without Advanced Chips",
-        "summary": "Chinese AI upstart DeepSeek has reportedly developed high-performing AI models cost-effectively, without relying on the most advanced chips. This achievement has garnered significant attention and praise from Silicon Valley, where the model is described as 'amazing and impressive.' DeepSeek's innovation highlights China's advancements in AI despite chip restrictions, potentially shifting the landscape of global AI development and capabilities.",
-        "link": "https://www.wsj.com/articles/deepseek-ai-china-tech-stocks-explained-ee6cc80e?mod=rss_Technology"
+        "category": "AI Policy & Security",
+        "title": "US Government Orders Anthropic to Suspend Top AI Models",
+        "summary": "Anthropic has been ordered by the US government to block access to its powerful Fable 5 and Mythos 5 AI models for all foreign nations, citing national security concerns. The company complied by completely cutting off public access to both models globally, including for paying enterprise customers and internal employees. Anthropic expressed frustration, disagreeing that a 'narrow potential jailbreak' should lead to recalling a model deployed to hundreds of millions. Existing sessions will reroute to older models.",
+        "link": "https://venturebeat.com/technology/anthropic-blocks-all-public-access-to-claude-fable-5-mythos-5-following-us-government-order-what-enterprises-should-do"
     },
     {
-        "category": "AI Performance & Benchmarking",
-        "title": "GPT-5.5 Edges Out Claude Fable 5 on Challenging Agents\u2019 Last Exam Benchmark",
-        "summary": "OpenAI\u2019s GPT-5.5, utilizing the Codex harness, has achieved the top position on the new 'Agents\u2019 Last Exam (ALE)' leaderboard, with a 24.0% pass rate. This rigorous benchmark evaluates AI's capability to execute economically valuable, long-horizon professional workflows. The performance marks a surprising upset, as GPT-5.5 narrowly surpassed Anthropic's highly anticipated Claude Fable 5, indicating a significant competitive shift in AI agent capabilities.",
-        "link": "https://venturebeat.com/technology/surprise-upset-gpt-5-5-beats-claude-fable-5-on-brutal-new-agents-last-exam-benchmark/"
+        "category": "Tech Economy",
+        "title": "Meta's AI Unit Faces Internal Turmoil Amidst Chaotic Strategy",
+        "summary": "Meta's months-old AI unit, employing 6,500 people, is reportedly on the verge of revolt, with engineers describing it as a 'soul-crushing gulag.' Internal discussions and sources suggest executives and employees are struggling with the company's chaotic AI strategy. Employee forums reveal strong negative sentiment towards a planned companywide AI hackathon, with one employee questioning if the company still supports a hackathon culture. This highlights significant internal challenges within Meta's ambitious AI development.",
+        "link": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/"
     },
     {
-        "category": "AI Deployment & Operations",
-        "title": "AI Benchmarks Fail to Predict Real-World Production Performance",
-        "summary": "Enterprises struggle to deploy AI effectively in production, as models that perform well in labs often fail in real-world scenarios. This discrepancy arises because controlled benchmarks do not account for production challenges like latency spikes, network jitter, and node degradation. Successful implementation requires a disciplined R&D approach that bridges foundational research with practical system constraints, moving beyond just adopting new models to ensuring they truly work for specific workflows and users.",
-        "link": "https://venturebeat.com/orchestration/why-ai-that-works-in-the-lab-often-fails-in-production-and-what-actually-fixes-it/"
+        "category": "AI & Cybersecurity",
+        "title": "Google Sues Chinese Group for AI-Powered Cybercrime",
+        "summary": "Google is suing 'Outsider Enterprise,' a Chinese cybercrime operation accused of using AI, specifically Google's Gemini system, to scam hundreds of thousands of victims. The group allegedly sent 2.5 million text messages over two weeks and created hundreds of fake corporate and government websites. This legal action highlights the growing concern over the misuse of AI in large-scale cybercrime and underscores the need for robust defenses and accountability in AI deployment.",
+        "link": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/"
     },
     {
-        "category": "AI Development Tools",
-        "title": "Microsoft Launches Open-Source SkillOpt to Automate AI Agent Skill Optimization",
-        "summary": "Microsoft has introduced SkillOpt, an open-source framework licensed under MIT, designed to automatically upgrade AI agent skills. This innovative optimizer treats an agent's skill markdown document as a trainable object, addressing the current slow and manual process of updating skills. SkillOpt aims to eliminate the 'guessing game' typically involved in retyping instructions, thereby improving agentic AI performance and reducing errors in real-world AI applications and complex workflows.",
-        "link": "https://venturebeat.com/orchestration/microsofts-open-source-skillopt-automatically-upgrades-ai-agent-skills-without-touching-model-weights/"
+        "category": "AI Investment",
+        "title": "Mistral Rumored to Raise \u20ac3B at \u20ac20B Valuation",
+        "summary": "AI company Mistral is rumored to be raising \u20ac3 billion in a new funding round, which would value the company at approximately \u20ac20 billion ($23.15 billion). This valuation is nearly double its previous Series C valuation of \u20ac11.7 billion. Such a significant increase underscores strong investor confidence in Mistral's potential within the competitive AI landscape, further highlighting the rapid growth and high valuations in the artificial intelligence sector.",
+        "link": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/"
     },
     {
-        "category": "AI Development Tools",
-        "title": "Xiaomi Open-Sources MiMo Code, Outperforming Claude Code on Long-Horizon Tasks",
-        "summary": "Xiaomi's MiMo AI team has open-sourced MiMo Code V0.1.0, a terminal-native AI coding assistant. Xiaomi claims MiMo Code outperforms Anthropic's Claude Code, especially on challenging ultra-long, multi-step tasks exceeding 200 steps, according to internal beta releases and surveys of 576 developers. The release includes limited-time free access to MiMo-V2.5, Xiaomi's multimodal flagship model with a million-token context window, requiring no registration.",
-        "link": "https://venturebeat.com/technology/xiaomis-new-open-source-agentic-ai-coding-harness-mimo-code-beats-claude-code-at-ultra-long-200-step-tasks/"
+        "category": "AI Development",
+        "title": "China's DeepSeek AI Impresses Silicon Valley Despite Chip Limitations",
+        "summary": "China's DeepSeek AI model is gaining significant attention in Silicon Valley, being described as 'amazing and impressive.' The Chinese upstart claims to have trained its high-performing AI models cheaply, notably without relying on the most advanced chips. This development signals China's ability to innovate and compete effectively in the AI space, potentially bypassing hardware dependencies that often dictate AI development, and offering new avenues for efficient model training.",
+        "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology"
     },
     {
-        "category": "AI Efficiency & Research",
-        "title": "Breakthrough Research Cuts LLM Input Context 16x Without Accuracy Loss",
-        "summary": "New research from a collaboration of universities and Lawrence Livermore National Laboratory introduces Latent Context Language Models (LCLMs), encoder-decoder compression models capable of cutting LLM input context 16x. This breakthrough addresses the computational bottleneck of growing context windows by compressing input before it reaches the decoder, ensuring memory savings translate into real speedups in production. Unlike existing methods, LCLMs achieve this significant reduction without degrading model accuracy, and the models are open-sourced on HuggingFace.",
-        "link": "https://venturebeat.com/data/context-compression-finally-works-in-production-new-research-cuts-llm-input-16x-without-the-accuracy-hit/"
+        "category": "AI Development",
+        "title": "Xiaomi Releases Open-Source Agentic AI Coding Assistant, MiMo Code",
+        "summary": "Xiaomi's MiMo AI team has open-sourced MiMo Code V0.1.0, a terminal-native AI coding assistant. The company claims it outperforms Anthropic's Claude Code on key agentic coding benchmarks, particularly in ultra-long, multi-step tasks exceeding 200 steps, based on internal beta releases and developer surveys. Xiaomi is also offering limited-time free access to its multimodal flagship model, MiMo-V2.5, which features a million-token context window, making it accessible on GitHub and X.",
+        "link": "https://venturebeat.com/technology/xiaomis-new-open-source-agentic-ai-coding-harness-mimo-code-beats-claude-code-at-ultra-long-200-step-tasks"
     },
     {
-        "category": "AI Models & Innovation",
-        "title": "Google Introduces DiffusionGemma for Parallel, Self-Correcting Text Generation",
-        "summary": "Google has released DiffusionGemma, an open-source experimental model that applies the diffusion principle, typically used for image generation, to text generation at production scale. Built on the Gemma 4 backbone, this model generates 256 tokens in parallel and self-corrects as it goes. This approach diverges from standard language models that generate one token at a time, left to right, offering potential for improved efficiency and coherence in text generation.",
-        "link": "https://venturebeat.com/technology/googles-diffusiongemma-generates-256-tokens-in-parallel-and-self-corrects-as-it-goes/"
+        "category": "AI Breakthroughs",
+        "title": "Google Tackles AI Hallucinations with 'Faithful Uncertainty'",
+        "summary": "Google researchers have introduced 'faithful uncertainty,' a metacognitive technique designed to combat hallucinations in large language models. This method aligns a model's response with its internal confidence, enabling it to offer appropriately hedged hypotheses like 'My best guess is,' instead of rigid answer-or-abstain responses. This serves as a crucial control layer for agentic AI applications, helping autonomous systems determine when their knowledge is sufficient or when external tools are required, thus improving reliability for enterprise use.",
+        "link": "https://venturebeat.com/orchestration/google-researchers-introduce-faithful-uncertainty-allowing-llms-to-offer-best-guesses-isntead-of-hallucinations"
     },
     {
-        "category": "AI Safety & Ethics",
-        "title": "Google DeepMind Funds Research into Risks of Millions of Interacting AI Agents",
-        "summary": "Google DeepMind is funding research to investigate the potential dangers posed by millions of AI agents interacting with each other online. This initiative, led by Rohin Shah, director of AGI safety and alignment research, highlights concerns arising from the mass-market availability of autonomous AI agents capable of carrying out tasks and following instructions from other AIs without human oversight. The focus is on understanding and mitigating risks in complex multi-agent environments.",
-        "link": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/"
+        "category": "AI Breakthroughs",
+        "title": "PixelRAG Boosts AI Agent Accuracy, Cuts Token Costs 10x",
+        "summary": "Researchers from UC Berkeley, Princeton, EPFL, and Databricks unveiled PixelRAG, a system that significantly improves Retrieval-Augmented Generation (RAG) pipelines by bypassing traditional text parsing. Instead of converting web pages to plain text, PixelRAG renders them as screenshots, indexes the images, and feeds retrieved tiles directly to a vision-language model. This approach reportedly outperforms text-based RAG across six benchmarks, enhancing accuracy by up to 18.1% and reducing AI agent token costs tenfold, by preserving retrieval signals lost in text conversion.",
+        "link": "https://venturebeat.com/data/pixelrag-beats-text-parsers-on-accuracy-and-cuts-ai-agent-token-costs-10x"
     },
     {
-        "category": "AI Ethics, Cybersecurity & Legal",
-        "title": "Google Sues Chinese Cybercrime Group for AI-Powered Fake Website Creation",
-        "summary": "Google has filed a lawsuit accusing a Chinese cybercrime group of leveraging its Gemini AI system to generate hundreds of fraudulent corporate and government websites. This legal action targets the group's alleged mass-scamming operations, underscoring increasing concerns over the malicious use of advanced AI technologies. Google's move highlights the growing need for vigilance and legal frameworks to combat AI-powered cybercrime.",
-        "link": "https://www.nytimes.com/2026/06/12/technology/google-lawsuit-china-ai-scams.html"
+        "category": "AI Development",
+        "title": "Microsoft Open-Sources SkillOpt for Auto-Upgrading AI Agent Skills",
+        "summary": "Microsoft has released SkillOpt, an open-source framework designed to automate the optimization of AI agent skills. Traditionally, improving agent skills\u2014sets of instructions in markdown files\u2014is a slow, manual 'guessing game' that requires retyping. SkillOpt introduces an optimizer that treats the agent's skill markdown document as a trainable object, enabling automatic upgrades without altering the underlying AI model's weights. This innovation aims to streamline the development and refinement of real-world AI applications by providing a more efficient method for adapting models to specific enterprise use cases.",
+        "link": "https://venturebeat.com/orchestration/microsofts-open-source-skillopt-automatically-upgrades-ai-agent-skills-without-touching-model-weights"
     },
     {
-        "category": "AI Application & Emerging Markets",
-        "title": "Avataar AI Delivers Culturally Aware, Affordable Video Generation for India",
-        "summary": "Avataar AI has launched a distilled video model engineered for the Indian market, offering culturally aware and cost-effective video generation. Priced at $0.005 per second of generation, this AI solution is designed to be cheaper, faster, and tailored to the cultural nuances and vast scale of India's user base. The initiative aims to democratize access to advanced video AI capabilities within emerging markets.",
-        "link": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/"
-    },
-    {
-        "category": "AI Application & Funding",
-        "title": "Equal AI Secures $30M for AI-Powered Call Screening in India",
-        "summary": "Equal AI has successfully raised $30 million to expand its AI-powered call assistant, which currently serves over a million monthly active users. The startup's technology is designed to screen calls, primarily targeting users in India. This significant funding round will enable Equal AI to further scale its operations and enhance its mission of using AI to streamline and improve personal communication experiences.",
-        "link": "https://techcrunch.com/2026/06/11/equal-ai-raises-30m-to-screen-calls-so-indians-dont-have-to/"
-    },
-    {
-        "category": "Robotics & AI Funding",
-        "title": "Theker Secures $85M to Develop Flexible, Reconfigurable Factory Robots",
-        "summary": "Theker has raised $85 million to develop a new class of factory robots designed for versatility rather than specialization. Unlike traditional humanoid robots with fixed forms, Theker's machines are built with reconfigurability as a core principle. This approach allows them to adapt to diverse manufacturing tasks and environments, promising a future where factory robots can be dynamically adjusted to meet evolving production demands.",
-        "link": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/"
-    },
-    {
-        "category": "AI in Healthcare & Funding",
-        "title": "Reid Hoffman's Manas AI Raises $24.6M for Cancer Research with Siddhartha Mukherjee",
-        "summary": "Reid Hoffman, co-founder of LinkedIn, has launched Manas AI, a new AI cancer-research startup, securing $24.6 million in funding. He is joined by Siddhartha Mukherjee, the renowned author of 'The Emperor of All Maladies,' signaling a significant move to leverage artificial intelligence for advancements in understanding and combating cancer. This venture combines prominent tech investment with deep scientific expertise to accelerate drug discovery.",
-        "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology"
-    },
-    {
-        "category": "Tech Policy & Global Shifts",
-        "title": "US Surveillance Law Section 702 Poised to Expire Following Lawmakers' Rejection of Spy Chief Nominee",
-        "summary": "The U.S. surveillance law known as Section 702, which authorizes the NSA and FBI's warrantless surveillance, is almost certain to expire on Friday for the first time. This lapse follows lawmakers' rejection of President Trump\u2019s controversial nominee to lead spy agencies, indicating a significant political deadlock on national security matters. The expiration will impact the scope of intelligence gathering and spark debates on privacy versus security.",
-        "link": "https://techcrunch.com/2026/06/12/us-spy-law-to-expire-for-first-time-after-lawmakers-reject-trumps-controversial-pick-to-lead-spy-agencies/"
-    },
-    {
-        "category": "Tech Policy & Global Shifts",
-        "title": "Britain Weighs Social Media Ban for Children Under 16 Amid Safety Concerns",
-        "summary": "Following Australia's recent ban on social media for children under 16, the British government is now considering similar policies to enhance online safety for minors. This potential legislative move underscores a growing international concern among nations regarding the impact of social media on young users. Discussions are focused on new measures to keep children safe online, possibly leading to widespread platform age restrictions.",
-        "link": "https://www.nytimes.com/2026/06/10/world/europe/uk-social-media-ban-under-16.html"
-    },
-    {
-        "category": "Tech Economy & AI Investment",
-        "title": "Meta Allocates $60-65 Billion for AI Infrastructure and Data Center Expansion",
-        "summary": "Meta, the social media giant, has announced plans for a significant increase in spending, earmarking between $60 billion and $65 billion for investments in AI infrastructure and massive data centers. This substantial capital allocation is the latest signal of accelerating investments by major tech companies. The move reflects a broader industry trend towards heavily investing in artificial intelligence capabilities and the underlying physical infrastructure required to support them.",
-        "link": "https://www.wsj.com/articles/meta-spending-ai-facebook-data-centers-9452a88f?mod=rss_Technology"
-    },
-    {
-        "category": "AI Product Strategy",
-        "title": "Apple's Siri AI Prioritizes Practicality, Avoids 'Sycophantic' Chatbot Persona",
-        "summary": "Apple's new Siri AI is deliberately designed to avoid the 'sycophantic' and overly conversational style common in chatbots from OpenAI and Google. Early testing indicates Siri knows when to remain concise, aligning with Apple's strategy to prioritize practicality. Craig Federighi confirmed this design choice, emphasizing a more focused and less chatty interaction model for the voice assistant, distinguishing Apple's approach in the competitive AI landscape.",
-        "link": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend"
+        "category": "AI & Cybersecurity",
+        "title": "NanoClaw and JFrog Partner to Secure AI Agents from Malicious Code",
+        "summary": "NanoClaw, creators of the open-source OpenClaw variant, have partnered with JFrog, a software supply chain management leader, to launch a joint security integration. This 'immune system' aims to protect NanoClaw autonomous agents from malicious code injection. The partnership hardwires NanoClaw agents directly to JFrog\u2019s vetted software registries, ensuring AI assistants can only pull scanned, safe dependencies. This addresses a critical blind spot where autonomous agents frequently install packages in the background, enhancing security for enterprise AI applications.",
+        "link": "https://venturebeat.com/security/nanoclaw-and-jfrog-launch-immune-system-to-block-ai-agents-from-downloading-malicious-code"
     },
     {
         "category": "Cybersecurity",
-        "title": "Oracle Issues Warning on Security Flaw Exploited in 100+ Company Breaches",
-        "summary": "Oracle has issued a critical warning regarding a security flaw actively being exploited by a cybercrime gang as part of a mass-hacking campaign. The tech giant confirmed that this vulnerability has already been abused to breach over 100 companies. Google subsequently notified more than 100 organizations with potentially vulnerable servers, underscoring the widespread nature and severe implications of this ongoing cyber threat.",
-        "link": "https://techcrunch.com/2026/06/11/oracle-warns-of-security-bug-that-hackers-abused-to-breach-100-companies/"
+        "title": "FBI Builds Replica Town for Real-World Cyberattack Simulations",
+        "summary": "The FBI has established a dedicated cyber training ground in Alabama, creating a replica small town inside a building to simulate real-world cyberattacks. This unique facility allows for hands-on, realistic training scenarios, enabling the FBI to better prepare for and respond to sophisticated cyber threats. The initiative underscores the increasing complexity of cyber warfare and the necessity for advanced, practical training environments to enhance national cybersecurity defenses and capabilities.",
+        "link": "https://techcrunch.com/2026/06/13/the-fbi-built-its-own-replica-small-town-to-simulate-real-world-cyberattacks/"
     },
     {
-        "category": "Social Media Platforms",
-        "title": "Bluesky Introduces Group Chats Amid Shift Towards Community Features",
-        "summary": "Bluesky, the decentralized social networking platform, has rolled out group chats as its latest feature. This introduction comes as the company signals a strategic shift in its focus towards building features that cater to smaller, more intimate communities. The move aims to enhance user engagement and facilitate more private, group-oriented interactions within the platform's evolving ecosystem.",
-        "link": "https://techcrunch.com/2026/06/11/bluesky-lauches-group-chats-as-company-shifts-focus-to-community-features/"
+        "category": "AI Policy & Law",
+        "title": "Court Rules Google Liable for AI-Generated False Statements",
+        "summary": "A recent court ruling has declared Google liable for false statements produced by its AI Overviews. This landmark decision establishes a precedent that a company designing, training, operating, and managing an AI system must bear legal responsibility for any damages caused by the responses its AI generates. The ruling has significant implications for AI developers and operators, emphasizing the need for robust oversight and accuracy in AI systems to avoid legal repercussions and consumer harm.",
+        "link": "https://www.wired.com/story/a-court-has-ruled-that-google-is-liable-for-false-statements-generated-by-ai-overviews/"
     },
     {
-        "category": "Automotive Tech & EVs",
-        "title": "BMW Unveils Neue Klasse M Concept, Signaling Electrified Motorsport Future",
-        "summary": "Ahead of Le Mans, BMW has revealed its new M performance concept, constructed on the Bavarian automaker's Neue Klasse next-generation architecture. This concept marks the debut of a new design language for BMW's M division, signaling a strategic shift towards an electrified future in motorsports. It showcases advanced EV technology and hints at the direction for BMW's performance vehicles in an increasingly electric automotive landscape.",
-        "link": "https://www.theverge.com/transportation/948635/bmw-neue-klasse-m-concept-motorsports-ev"
+        "category": "AI & Biotech",
+        "title": "Reid Hoffman Launches AI Cancer Research Startup with $24.6M Funding",
+        "summary": "LinkedIn co-founder Reid Hoffman has launched Manas AI, a new startup focused on AI cancer research, securing $24.6 million in funding. He is co-founding the venture with Siddhartha Mukherjee, author of 'The Emperor of All Maladies.' This initiative signifies a notable investment in leveraging artificial intelligence for critical medical advancements, aiming to revolutionize drug discovery and therapeutic development in oncology. The involvement of prominent tech and medical figures highlights the interdisciplinary drive in health AI.",
+        "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology"
     },
     {
-        "category": "Smart Home & AI Integration",
-        "title": "Amazon Echo Hub Gets Customizable Homescreen and Ring AI Features Update",
-        "summary": "Amazon is rolling out a free software update for Echo Hub devices, providing a much-needed redesign to its homescreen interface. The update introduces a cleaner, fully customizable layout that allows for more smart home information and controls to be displayed. This enhancement builds upon the existing Alex Plus AI support and now integrates Ring\u2019s AI features, further consolidating smart home management capabilities.",
-        "link": "https://www.theverge.com/tech/948814/amazon-echo-hub-homescreen-redesign"
+        "category": "Tech Economy",
+        "title": "Meta Plans $60B-$65B Spending Surge on AI and Data Centers",
+        "summary": "Meta plans to increase its spending to between $60 billion and $65 billion, primarily driven by massive investments in artificial intelligence and data center infrastructure. This significant expenditure underscores the accelerating trend of major tech companies pouring resources into AI development. The move signals Meta's commitment to scaling its AI capabilities and supporting the computational demands of advanced models, positioning itself for future growth in the competitive AI landscape.",
+        "link": "https://www.wsj.com/articles/meta-spending-ai-facebook-data-centers-9452a88f?mod=rss_Technology"
     },
     {
-        "category": "Business & Policy",
-        "title": "Canada Initiates Review of Amazon Contracts After Quebec Warehouse Closures and Layoffs",
-        "summary": "The Canadian government has informed Amazon.com that it is reviewing its business ties with the company's cloud-computing unit. This scrutiny follows Amazon's decision to close its warehouses in Quebec, resulting in the layoff of 1,700 workers. The review signifies government concern over the economic impact and corporate practices related to significant layoffs by major technology companies operating within Canada.",
-        "link": "https://www.wsj.com/articles/canada-to-review-amazon-contracts-after-quebec-layoffs-d458ea66?mod=rss_Technology"
+        "category": "AI Ethics & Safety",
+        "title": "Google DeepMind Concerned by Mass AI Agent Interaction Risks",
+        "summary": "Google DeepMind is funding research into the potential dangers arising from situations where millions of diverse AI agents interact online. Rohin Shah, director of AGI safety and alignment research at DeepMind, expressed concern about the mass-market arrival of autonomous agents that can perform tasks and follow instructions from other agents without human oversight. This initiative reflects a proactive stance on anticipating and mitigating complex safety and ethical challenges as AI agent deployment scales dramatically.",
+        "link": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/"
     },
     {
-        "category": "Global Energy & Infrastructure",
-        "title": "China Accelerates Nuclear Energy Expansion with Gigawatt-Scale Reactors",
-        "summary": "China is rapidly expanding its nuclear energy capacity, having nearly doubled its nuclear fleet since 2016 to reach almost 60 gigawatts of total power. This ambitious growth is largely driven by the deployment of gigawatt-scale pressurized-water reactors. The country's swift pace in bringing new facilities online contrasts sharply with nuclear development trends in other nations, highlighting a significant investment in large nuclear power for its energy future.",
+        "category": "AI Applications",
+        "title": "AI Agents Proposed to Protect EV Chargers and Infrastructure",
+        "summary": "Researchers in Spain have proposed an AI agent system designed to prevent energy theft and damage to electric vehicle (EV) chargers, as well as the critical energy infrastructure powering them. This innovative application of AI aims to enhance the security and integrity of EV charging networks. By deploying intelligent agents, the system promises to monitor, detect, and potentially deter malicious activities, ensuring the reliable operation of crucial clean energy technologies.",
+        "link": "https://www.wired.com/story/researchers-in-spain-show-how-ai-agents-can-protect-ev-chargers/"
+    },
+    {
+        "category": "Consumer AI",
+        "title": "Apple Debuts First Serious AI Photo Editing Features in iOS 27",
+        "summary": "Apple has introduced its first set of serious AI photo editing features in iOS 27, marking a significant step for the world's most popular camera. While described as tame compared to Google Pixel phones' capabilities, these new tools are now available to users. The introduction signifies Apple's deeper integration of artificial intelligence into its core consumer experiences, though the article suggests users may not be fully ready for the implications of such powerful editing functionalities.",
+        "link": "https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on"
+    },
+    {
+        "category": "Consumer AI",
+        "title": "Apple's Siri Undergoes Major AI-Driven Improvement",
+        "summary": "After a decade and a half of inconsistent performance, Apple has released a new version of Siri that suggests significant improvement. The long-awaited upgrade aims to move Siri beyond its 'sort of useful at a few things' to 'utterly disastrous' reputation. This development indicates a substantial push by Apple to enhance its voice assistant's capabilities, likely leveraging advanced AI technologies to deliver a more reliable and effective user experience.",
+        "link": "https://www.theverge.com/podcast/949079/siri-ai-good-vergecast"
+    },
+    {
+        "category": "Tech Economy",
+        "title": "Andrew Yang Identifies Lowering Cost of Living as Next Startup Gold Rush",
+        "summary": "Andrew Yang suggests that the next major startup opportunity lies in reducing the cost of living for Americans. He compiled a list of common expenses that people overpay for, including housing, food, and wireless services. Yang believes that startups focusing on innovative solutions to give this money back to consumers will constitute the next significant wave of entrepreneurial success. This perspective highlights a potential shift in venture capital focus towards solving fundamental economic challenges through technological innovation.",
+        "link": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/"
+    },
+    {
+        "category": "Tech Hardware",
+        "title": "Valve Imports 13 Tons of Steam Frame VR Headsets",
+        "summary": "Valve has imported nearly 32 metric tons, including 13 tons in one day, of what are almost certainly the first mass production shipments of its new gaming headset, the Steam Frame. Import records show Valve's distribution partner offloaded the shipments in Los Angeles after a voyage from Shanghai. This massive import suggests an imminent launch of Valve's highly anticipated VR hardware, signaling a significant push into the virtual reality gaming market and potentially setting the stage for increased competition in the sector.",
+        "link": "https://www.theverge.com/news/949517/valve-vr-headset-import-records-steam-frame-steam-machine-game-console"
+    },
+    {
+        "category": "Regulatory & Privacy",
+        "title": "FCC Aims to Eliminate Burner Phones",
+        "summary": "The FCC has signaled its intent to eliminate burner phones, alongside other security news including AI bug hunting fueling Microsoft\u2019s largest-ever Patch Tuesday and the ShinyHunters ransomware gang exploiting an Oracle zero-day. While the summary is brief, the FCC's push against burner phones indicates a significant regulatory move that could impact privacy and anonymity in telecommunications. This action suggests a tightening of controls over untraceable mobile devices, often associated with illicit activities.",
+        "link": "https://www.wired.com/story/security-news-this-week-the-fcc-wants-to-kill-burner-phones/"
+    },
+    {
+        "category": "AI Development",
+        "title": "Moonshot AI's Kimi K2.7-Code Claims 30% Token Reduction, Benchmarks Questioned",
+        "summary": "Moonshot AI has released Kimi K2.7-Code, an open-source update to its K2 coding model family, claiming leaner reasoning and double-digit performance gains. Built on a trillion-parameter mixture-of-experts architecture, K2.7-Code is accessible via an OpenAI-compatible API and aims to reduce 'overthinking,' cutting thinking-token usage by 30% compared to its predecessor, K2.6. However, practitioners are questioning whether the self-reported benchmarks accurately reflect real-world performance, indicating skepticism despite the potential for significant inference cost reductions.",
+        "link": "https://venturebeat.com/technology/kimi-k2-7-code-cuts-thinking-tokens-30-practitioners-say-benchmarks-dont-check-out"
+    },
+    {
+        "category": "Global Energy",
+        "title": "China Rapidly Expanding Large Nuclear Reactor Fleet",
+        "summary": "China is experiencing a rapid expansion in its nuclear industry, with large reactors being constructed at a stunning pace. The country has nearly doubled its nuclear fleet since 2016, achieving close to 60 gigawatts of total power capacity, predominantly through gigawatt-scale pressurized-water reactors. This contrasts sharply with the US, which has built only two reactors in the same period. China's significant investment highlights a strategic commitment to nuclear power for energy security and sustainability on a global scale.",
         "link": "https://www.technologyreview.com/2026/06/11/1138789/china-big-nuclear-reactors/"
     }
 ];
