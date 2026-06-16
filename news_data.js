@@ -1,134 +1,134 @@
 window.NEWS_DATA = [
     {
-        "category": "AI Policy & Regulation",
-        "title": "US Government Ban on Anthropic's Top AI Models Sparks Outcry and Global Access Suspension",
-        "summary": "A coalition of cybersecurity experts urged the White House to lift export control restrictions on Anthropic\u2019s models Fable and Mythos, arguing the ban limits cybersecurity defenders. This follows an unprecedented US government directive ordering Anthropic to immediately suspend all public access to its top-tier Claude Fable 5 and Mythos 5 models globally for foreign nationals due to national security concerns. The Trump administration reignited its feud with Anthropic over these models, which were publicly released just three days prior. OpenAI is also under investigation by state attorneys general over its practices, including user data handling, minor safety, and advertising activities.",
-        "link": "https://venturebeat.com/technology/anthropic-blocks-all-public-access-to-claude-fable-5-mythos-5-following-us-government-order-what-enterprises-should-do"
+        "category": "Tech Economy & Space",
+        "title": "SpaceX Valuation Soars Post-IPO, Eyes AI Expansion",
+        "summary": "SpaceX's valuation increased by $1 trillion since its shares started trading, reaching $2.7 trillion and surpassing Amazon. This blockbuster IPO, following an unlikely journey, signals strong investor interest that could also benefit AI rivals like OpenAI and Anthropic considering going public this year. Elon Musk has consistently shown ambitions in AI, identifying a $26 trillion addressable market.",
+        "link": "https://techcrunch.com/2026/06/16/spacex-passes-amazon-as-valuation-balloons-to-2-7t/"
     },
     {
-        "category": "Tech Economy & Finance",
-        "title": "SpaceX IPO Reaches $85.7 Billion, Signals Positive Outlook for AI Public Offerings",
-        "summary": "SpaceX's initial public offering (IPO) underwriters maxed out their share purchases, leading to a historic $85.7 billion raised, with its stock rising on its first full day of trading. The company's journey from a far-out idea to a $2 trillion juggernaut, despite Elon Musk initially giving it less than a 10 percent chance of success, is complete. Strong investor interest in SpaceX's IPO is seen as potentially positive news for other AI rivals like OpenAI and Anthropic, who have also signaled intentions to go public this year.",
-        "link": "https://techcrunch.com/2026/06/15/spacexs-biggest-ever-ipo-just-grew-to-85-7-billion-raised"
+        "category": "AI Mergers & Acquisitions",
+        "title": "SpaceX Acquires Cursor for $60B to Boost AI Division",
+        "summary": "Days after its blockbuster IPO, SpaceX is set to acquire AI startup Cursor for $60 billion in an all-stock deal. This acquisition is intended to bolster SpaceX's struggling AI division. The company had previously informed IPO investors that it identifies a $26 trillion addressable market within the artificial intelligence sector, underscoring the strategic importance of this acquisition for its future growth and ambitions in AI.",
+        "link": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/"
     },
     {
-        "category": "Global Tech Regulation",
-        "title": "UK Implements Sweeping Social Media Ban for Under-16s, Following Global Trend",
-        "summary": "The UK government unveiled a sweeping social media ban for users under 16, following similar policies in Australia and other countries, with Prime Minister Keir Starmer announcing it could take effect from early next year. The ban applies to major platforms like Snapchat, TikTok, YouTube, Instagram, Facebook, and X, and will also include wider measures to prevent children from interacting with strangers in online games and livestreaming. Roblox's VP of safety product policy noted that simple age verification via ticking a box is 'not enough anymore,' highlighting the industry's shift towards more robust age estimation technologies.",
-        "link": "https://techcrunch.com/2026/06/15/uk-unveils-sweeping-social-media-ban-for-users-under-16/"
+        "category": "AI Infrastructure & National Security",
+        "title": "DOJ Declares xAI Gas Turbines Critical for National Security",
+        "summary": "The Justice Department has asserted that xAI's unpermitted gas turbines are a matter of 'national, economic, and energy security.' The Pentagon reportedly requires xAI to continue using these gas turbines. This statement from the DOJ highlights the critical role and strategic importance of xAI's operational infrastructure, particularly its energy supply, in relation to broader national security interests, involving high-level government entities in its operations.",
+        "link": "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/"
     },
     {
-        "category": "Media & Tech M&A",
-        "title": "Fox Acquires Roku in $22 Billion Deal, Aiming for Third-Largest US TV Company",
-        "summary": "Fox announced its acquisition of Roku in a $22 billion deal, which Fox states will create the third-largest television company in the United States. This strategic move will see Fox content promoted more heavily on Roku streamers and smart TVs, combining Fox's TV networks and Tubi streamer with Roku's extensive streaming network.",
-        "link": "https://techcrunch.com/2026/06/15/fox-to-acquire-roku-in-22-billion-deal/"
+        "category": "AI Economy & Societal Impact",
+        "title": "Nadella Warns AI Risks Hollowing Out Industries",
+        "summary": "Microsoft CEO Satya Nadella published an essay warning that AI could commoditize industry expertise, allowing a few frontier models to absorb value and strip businesses of competitive moats. He stated that a future where all value accrues to only a few models is societally intolerable and that such an outcome would hollow out entire industries, echoing the damage seen from globalization.",
+        "link": "https://venturebeat.com/technology/satya-nadella-warns-that-ai-could-hollow-out-entire-industries-echoing-the-damage-done-by-globalization/"
     },
     {
-        "category": "AI Business & M&A",
-        "title": "Salesforce Acquires AI Customer Service Platform Fin for $3.6 Billion",
-        "summary": "Salesforce has acquired Fin, an AI customer service platform, for $3.6 billion. The company intends to integrate Fin's team and technology to enhance its existing enterprise platform, Agentforce. Agentforce enables businesses to build custom AI agents that automate various tasks, suggesting Fin will bolster Salesforce's capabilities in providing advanced AI-powered customer service solutions.",
-        "link": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/"
+        "category": "AI Regulation & National Security",
+        "title": "US Government Blocks Global Access to Anthropic's Advanced AI Models",
+        "summary": "The US government issued an unprecedented export control directive ordering Anthropic to immediately suspend all access to its top-tier Claude Fable 5 and Mythos 5 models for foreign nationals, citing unspecified national security authorities. In response, Anthropic blocked all public access globally to both models, including for paying enterprise customers, just three days after their public release. This action also reignited a feud between the Trump administration and Anthropic.",
+        "link": "https://venturebeat.com/technology/anthropic-blocks-all-public-access-to-claude-fable-5-mythos-5-following-us-government-order-what-enterprises-should-do/"
     },
     {
-        "category": "AI Investment & Global Tech",
-        "title": "India's Sarvam Becomes Newest AI Unicorn with HCLTech-Led $234M Funding",
-        "summary": "Sarvam, a Bengaluru startup, has achieved unicorn status as India's newest AI unicorn, following a $234 million funding round. Indian IT services company HCLTech played a significant role in this funding, investing $150 million into the startup. This investment highlights the growing momentum and significant capital injection into the Indian AI ecosystem, reflecting India's rising prominence in the global AI landscape.",
-        "link": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/"
+        "category": "AI Regulation & Corporate Governance",
+        "title": "OpenAI Under Multi-State Investigation",
+        "summary": "OpenAI announced that a coalition of state attorneys general has launched an investigation into the company. The probe covers a wide range of its practices, specifically scrutinizing its handling of user data, the safety protocols for minors, and its advertising activities. This signals increasing regulatory oversight and concerns from multiple US states regarding the operational and ethical practices of leading artificial intelligence developers.",
+        "link": "https://www.nytimes.com/2026/06/13/technology/states-investigating-openai.html"
     },
     {
-        "category": "AI Infrastructure & Security",
-        "title": "NewCore Raises $66M to Provide Identities for Emerging AI Agents",
-        "summary": "NewCore has emerged with $66 million in funding, addressing the evolving challenge of managing AI agents in enterprise security. The company posits that as AI agents become integrated as 'employees' within organizations, managing their identities will be the next critical security frontier. This focus shifts enterprise security management to encompass autonomous agent identity management alongside human identity management, reflecting a key development in AI operationalization.",
-        "link": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/"
+        "category": "Global Tech Supply Chain",
+        "title": "Asian Chipmakers Surge Amid AI Boom",
+        "summary": "The global artificial intelligence boom is significantly boosting Asian chip companies. These firms are responsible for manufacturing much of the essential equipment and components that go into constructing giant data centers, which are critical for AI operations. This escalating demand for their products is leading to a notable shift in the balance of power within the broader technology sector, favoring Asian manufacturers.",
+        "link": "https://www.nytimes.com/2026/06/16/technology/taiwan-south-korea-ai-chips.html"
     },
     {
-        "category": "Space & AI Innovation",
-        "title": "Satellite Achieves Autonomous Object Finding for the First Time",
-        "summary": "In a significant technological advancement, an Earth observation satellite successfully located a specific target entirely on its own in April. This marks the first time ever that a satellite has demonstrated autonomous object finding capabilities. This development signifies a substantial leap in space-based artificial intelligence, enabling greater operational independence and efficiency for satellite systems in tasks such as surveillance, monitoring, and data collection.",
-        "link": "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/"
-    },
-    {
-        "category": "AI & Labor Market",
-        "title": "AI Layoff Wave Creates 'Powder Keg' Amidst Insiders' Wealth Accumulation",
-        "summary": "The current wave of AI-driven layoffs is described as a 'powder keg' situation. This is due to the striking contrast between tens of thousands of workers being displaced, and a small cohort of AI insiders accumulating immense wealth on a scale that is hard to comprehend. This disparity creates a combustible environment within the evolving labor market, highlighting significant societal and economic tensions arising from rapid AI advancements.",
-        "link": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/"
-    },
-    {
-        "category": "AI, Privacy & Defense Tech",
-        "title": "Meta Leverages Pentagon Supplier for Smart Glasses Face Recognition Prototype",
-        "summary": "Meta collaborated with Rank One, a Pentagon supplier whose board includes a former CIA deputy director and a former FBI science chief, to prototype face recognition technology for its smart glasses app. This internal development suggests Meta is exploring advanced biometric capabilities for its wearable devices. The involvement of a defense supplier raises potential implications for privacy and the integration of sophisticated, potentially sensitive, technology into consumer products.",
-        "link": "https://www.wired.com/story/meta-rank-one-computing-face-recognition-smart-glasses/"
-    },
-    {
-        "category": "AI Development & Enterprise",
-        "title": "'Vibe Coding' Accelerates Data Pipelines, Lacks Long-Term Context",
-        "summary": "AI coding agents, or 'vibe coding,' are rapidly accelerating data engineering by generating transformations, pipelines, and workflows from prompts. However, this approach faces a significant challenge: it struggles to provide operational context six months later. As enterprise systems evolve across fragmented teams and technologies, vibe coding can scatter critical business logic and architectural decisions across prompts and generated code, leading to inconsistent implementations and difficult downstream impact analysis, highlighting a need for more structured methods like spec-driven development.",
-        "link": "https://venturebeat.com/orchestration/vibe-coding-can-build-your-pipeline-it-cant-explain-it-six-months-later"
-    },
-    {
-        "category": "AI & Cybersecurity",
-        "title": "AI Lowers Cost of Cyber Deception, Demanding Faster Defender Verification",
-        "summary": "AI has drastically altered the economics of cyber deception, enabling attackers to generate thousands of convincing phishing lures, fake identities, and tailored pretexts rapidly. This shift means deception is now faster and cheaper, while verification for defenders has not kept pace. The deeper constraint for security in the AI era is primarily a data problem, requiring truth at machine speed, rather than solely a detection model issue. Attackers can afford to lie at enterprise scale, testing endless combinations.",
-        "link": "https://venturebeat.com/security/attackers-scale-deception-with-ai-defenders-need-truth-at-machine-speed"
-    },
-    {
-        "category": "AI Agent Infrastructure",
-        "title": "AI Agent Ecosystem Grapples with Protocol Proliferation, Seeks Transport Solution",
-        "summary": "The AI agent ecosystem is currently experiencing a 'proliferation phase' with multiple competing protocols emerging in the past eighteen months, mirroring the historical pattern of distributed computing. While common object models (MCP) solved tool calling and agent-to-agent (A2A) coordination is addressed, the challenge remains for 'transport.' As implementations grow and interoperability becomes economically necessary, the ecosystem is expected to slowly converge, highlighting the current need for a unified protocol for real-time messaging and integration within the AI agent landscape.",
-        "link": "https://venturebeat.com/orchestration/mcp-solved-tool-calling-a2a-solved-coordination-what-solves-transport"
-    },
-    {
-        "category": "AI Model Performance",
-        "title": "Moonshot AI's Kimi K2.7-Code Claims 30% Thinking Token Reduction, Benchmarks Disputed",
-        "summary": "Moonshot AI released Kimi K2.7-Code, an open-source update to its K2 coding model family, claiming a 30% reduction in 'thinking tokens' compared to its predecessor, K2.6, and double-digit performance gains. Built on the same trillion-parameter mixture-of-experts architecture, K2.7-Code offers an OpenAI-compatible API. Moonshot AI states it addresses 'overthinking' in models. However, practitioners are reportedly questioning whether the self-reported benchmarks for these improvements accurately reflect real-world performance, despite K2.6 previously topping an LLM leaderboard based on developer API routing decisions.",
-        "link": "https://venturebeat.com/technology/kimi-k2-7-code-cuts-thinking-tokens-30-practitioners-say-benchmarks-dont-check-out"
-    },
-    {
-        "category": "AI Research & Breakthroughs",
-        "title": "Google Introduces 'Faithful Uncertainty' to Combat LLM Hallucinations",
-        "summary": "Google researchers have introduced 'faithful uncertainty,' a metacognitive technique designed to address the persistent challenge of hallucinations in large language models (LLMs). This approach aligns a model's response with its internal confidence, enabling it to offer appropriately hedged hypotheses like 'My best guess is,' instead of merely providing an unhelpful 'answer-or-abstain' binary. This metacognitive awareness is crucial for autonomous AI systems in real-world agentic applications, empowering them to accurately determine when their internal knowledge is sufficient and when they must dynamically trigger external tools or search actions.",
-        "link": "https://venturebeat.com/orchestration/google-researchers-introduce-faithful-uncertainty-allowing-llms-to-offer-best-guesses-instead-of-hallucinations"
-    },
-    {
-        "category": "AI Security",
-        "title": "NanoClaw and JFrog Partner to Create 'Immune System' for AI Agent Security",
-        "summary": "NanoClaw, known for its enterprise-friendly OpenClaw variant, has partnered with JFrog, a software supply chain management leader, to launch a joint security integration. This collaboration aims to protect NanoClaw autonomous agents from malicious code injection by hardwiring them directly to JFrog\u2019s vetted software registries. This 'immune system' ensures AI assistants can only pull scanned, safe dependencies. The release addresses a rapidly growing blind spot in tech: autonomous agents frequently install packages in the background, making this security measure crucial for mitigating supply chain risks in AI deployments.",
-        "link": "https://venturebeat.com/security/nanoclaw-and-jfrog-launch-immune-system-to-block-ai-agents-from-downloading-malicious-code"
-    },
-    {
-        "category": "Global AI Competition",
-        "title": "China's DeepSeek AI Garners Silicon Valley Praise for Performance with Less Advanced Chips",
-        "summary": "China's DeepSeek AI is gaining significant attention and praise in Silicon Valley, described as 'amazing and impressive' for its ability to train high-performing AI models cheaply without relying on the most advanced chips. This suggests a notable advancement in AI efficiency and resourcefulness from a Chinese upstart. The ability to achieve strong performance with less sophisticated hardware could significantly impact global AI competition dynamics and model development strategies.",
+        "category": "AI Development & Geopolitics",
+        "title": "Chinese DeepSeek AI Praised for High Performance on Less Advanced Chips",
+        "summary": "DeepSeek AI, a Chinese upstart, is drawing significant praise from Silicon Valley, being called 'amazing and impressive.' The company claims to have trained high-performing AI models cheaply, notably achieving these results without relying on the most advanced chips. This development highlights China's growing capabilities in artificial intelligence and its potential to innovate within existing technological constraints, influencing the global AI competitive landscape.",
         "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology"
     },
     {
-        "category": "AI & Biotech Investment",
-        "title": "Reid Hoffman Funds AI Cancer Research Startup Manas AI with $24.6 Million",
-        "summary": "LinkedIn co-founder Reid Hoffman has raised $24.6 million for his new AI cancer-research startup, Manas AI. He is launching the venture with Siddhartha Mukherjee, author of 'The Emperor of All Maladies.' This significant investment signals a strategic move into leveraging artificial intelligence for advancements in medical research, particularly in the fight against cancer, and highlights the growing intersection of tech leaders and biotech innovation.",
-        "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology"
-    },
-    {
-        "category": "AI Investment & Infrastructure",
-        "title": "Meta Boosts AI Investment with $60-65 Billion for AI and Data Centers",
-        "summary": "Meta plans to increase its spending to between $60 billion and $65 billion, primarily allocated to artificial intelligence initiatives and the development of massive data centers. This substantial investment underscores the accelerating trend among major tech companies to pour significant resources into AI research, development, and the infrastructure required to support its growth. This move is the latest sign of tech companies\u2019 accelerating investments into artificial intelligence, aiming to solidify Meta\u2019s position in the AI race.",
+        "category": "AI Infrastructure Investment",
+        "title": "Meta Plans Massive $60-65B Spend on AI and Data Centers",
+        "summary": "Meta, the social-media giant, announced plans to spend between $60 billion and $65 billion on investments in artificial intelligence and massive data center infrastructure. This substantial capital commitment is the latest indicator of the accelerating trend among major tech companies to significantly increase their investments into AI capabilities and the foundational hardware required to support them.",
         "link": "https://www.wsj.com/articles/meta-spending-ai-facebook-data-centers-9452a88f?mod=rss_Technology"
     },
     {
-        "category": "Biotech & AI Breakthroughs",
-        "title": "ALS Patient Becomes 'First Power User' of Brain Implant for Communication",
-        "summary": "Casey Harrell, an ALS patient with paralysis, has become the 'first power user' of a brain-computer interface (BCI) after nearly three years with electrodes embedded in his brain. Harrell, who first used his BCI to 'speak' sentences with the help of a research team in 2023, has since accumulated thousands of hours of use. This continuous and extensive utilization demonstrates significant progress in BCI technology, enabling profound communication capabilities for individuals with severe motor impairments.",
+        "category": "FinTech & AI Application",
+        "title": "AI-Assisted Parametric Insurance Emerges as Traditional Home Insurance Collapses",
+        "summary": "As traditional home insurance models collapse, particularly in disaster-prone regions, a new AI-assisted parametric insurance model is rapidly gaining traction. This alternative model is 'quietly exploding,' and there is speculation that it may eventually impact the role of FEMA. This shift represents a significant evolution in the insurance industry, driven by AI, in response to climate change challenges and the growing risks associated with property coverage.",
+        "link": "https://www.wired.com/story/ai-assisted-parametric-insurance-climate-change/"
+    },
+    {
+        "category": "AI Products & Business Strategy",
+        "title": "Sakana AI Unveils 'Marlin' Agent for Ultra Deep Research",
+        "summary": "Tokyo-based AI startup Sakana AI has launched its first commercial product, Sakana Marlin, an autonomous B2B research agent. Marlin abandons instantaneous text generation for deep, long-horizon reasoning, running continuous loops for up to eight hours to deliver deeply researched, well-cited 100-page strategy reports and executive slides. Billed as a 'Virtual CSO,' it's available now with pay-as-you-go pricing.",
+        "link": "https://venturebeat.com/technology/when-deep-research-is-n-t-enough-for-your-business-sakana-ai-launches-ultra-deep-research-agent-for-100-page-reports-in-8-hours/"
+    },
+    {
+        "category": "AI Governance & Cybersecurity",
+        "title": "Shadow AI: 85% of IT Claim Control, Only 42% Know Owners",
+        "summary": "New research reveals a significant gap in AI governance, with 85% of IT professionals claiming ownership for every AI agent, yet only 42% finding that ownership clear. Organizational leaders are nearly twice as likely to conceal AI use for 'secret advantage,' posing risks. This 43-point gap indicates existing governance frameworks are inadequate for managing shadow AI, raising concerns about data exposure for companies handling sensitive information.",
+        "link": "https://venturebeat.com/security/85-of-it-teams-claim-every-ai-agent-is-under-control-only-42-actually-know-who-owns-them/"
+    },
+    {
+        "category": "Cybersecurity & AI",
+        "title": "AI Accelerates Cyber Deception, Posing New Defense Challenges",
+        "summary": "AI has changed the economics of cyber deception, enabling attackers to generate thousands of convincing phishing lures and fake identities rapidly. This creates a new security challenge where deception is faster and cheaper, while verification struggles to keep pace. The core problem for defense in the AI era is now data-centric: ensuring data availability, quick correlation, retention, and trustworthiness for analysts or AI agents.",
+        "link": "https://venturebeat.com/security/attackers-scale-deception-with-ai-defenders-need-truth-at-machine-speed/"
+    },
+    {
+        "category": "Global Tech Regulation & Child Safety",
+        "title": "UK Joins Global Trend to Ban Social Media for Under-16s",
+        "summary": "UK Prime Minister Keir Starmer announced plans to bar children under 16 from social media platforms, with implementation set for 2027. This initiative aligns with similar efforts already underway in Australia and other countries, indicating a growing global movement toward stricter age-based social media regulation. The measures aim to address concerns regarding child safety and well-being in the digital sphere, shaping future internet usage policies worldwide.",
+        "link": "https://www.nytimes.com/2026/06/15/world/europe/uk-social-media-children.html"
+    },
+    {
+        "category": "US Tech Regulation & Child Safety",
+        "title": "Florida Sues TikTok for Allegedly Violating Child Safety Law",
+        "summary": "Florida has filed a lawsuit against TikTok, alleging the company is not complying with the state's child safety law. This law prohibits children under 14 from creating social media accounts. The lawsuit claims TikTok still permits 13-year-olds in Florida to use the platform and is actively 'deceiving' users regarding compliance. This legal action highlights growing state-level enforcement against social media platforms over youth protection.",
+        "link": "https://www.theverge.com/tech/950632/florida-tiktok-lawsuit-social-media-ban"
+    },
+    {
+        "category": "Brain-Computer Interfaces & Medical Breakthroughs",
+        "title": "Paralyzed ALS Patient Becomes First 'Power User' of Brain Implant for Speech",
+        "summary": "Casey Harrell, paralyzed with ALS, has become the 'first power user' of a brain implant (BCI), clocking thousands of hours of use over nearly three years. Initially, Harrell used the BCI in 2023 to 'speak' sentences with a research team. This significant achievement marks a breakthrough in assistive technology, enabling communication for individuals with severe motor impairment through direct brain interface.",
         "link": "https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/"
     },
     {
-        "category": "Biotech & Longevity",
-        "title": "'Reprogramming' Emerges as Buzzy Approach to Reversing Aging",
-        "summary": "'Reprogramming' is gaining significant attention as a promising method for reversing aging. Life Biosciences, a biotech company focused on age-related diseases, recently dosed its first volunteer with an experimental treatment for glaucoma injected directly into the eyeball. The idea is to try to treat the disease\u2014which can cause vision loss\u2014by regenerating healthy nerves in the eye. This represents a leading-edge approach in the field of longevity and regenerative medicine, attracting significant interest as a potential pathway to combat age-related health issues.",
-        "link": "https://www.technologyreview.com/2026/06/12/1138829/reprogramming-buzziest-approach-reversing-aging-right-now/"
+        "category": "AI in Healthcare & Venture Capital",
+        "title": "Reid Hoffman Raises $24.6M for AI Cancer-Research Startup",
+        "summary": "LinkedIn co-founder Reid Hoffman has successfully raised $24.6 million for his new venture, Manas AI. This startup is dedicated to artificial intelligence-driven cancer research and was co-founded with Siddhartha Mukherjee, author of 'The Emperor of All Maladies.' The significant funding underscores strong investor confidence in leveraging AI for advancements in critical healthcare areas, particularly in developing new approaches to cancer treatment and discovery.",
+        "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology"
     },
     {
-        "category": "AI Safety & Ethics",
-        "title": "Google DeepMind Investigates Dangers of Mass AI Agent Interactions",
-        "summary": "Google DeepMind is funding research into the potential hazards arising from situations where millions of different AI agents interact with each other online. According to Rohin Shah, director of AGI safety and alignment research, concerns stem from the mass-market arrival of agents that can carry out tasks without human oversight and follow instructions given to them by other agents. This initiative underscores a proactive approach to understanding and mitigating emerging AI safety risks, particularly those related to complex, autonomous multi-agent systems.",
-        "link": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/"
+        "category": "Global Digital Regulation",
+        "title": "India Imposes Temporary Ban on Telegram Amid Exam Fraud Concerns",
+        "summary": "India has ordered a temporary, nationwide ban on the messaging app Telegram until June 22, citing widespread concerns over exam fraud. The restrictions also include a requirement to disable the app's message editing feature across the country. This action by the Indian government reflects a significant intervention in digital communication platforms, aiming to curb illicit activities and regulate content dissemination, even if temporarily.",
+        "link": "https://techcrunch.com/2026/06/16/india-temporarily-blocks-access-to-telegram-over-exam-fraud-concerns/"
+    },
+    {
+        "category": "FinTech & Emerging Markets",
+        "title": "African Payments Startup Flutterwave Reaches $3.2B Valuation, Backed by Ripple",
+        "summary": "African payments infrastructure company Flutterwave has achieved a new valuation of $3.2 billion. This significant financial milestone is bolstered by blockchain company Ripple, which has invested in Flutterwave and become a partner. The development highlights the growing investment and expansion in fintech across Africa, as well as the increasing convergence of traditional payment systems with blockchain technology through strategic partnerships and funding rounds.",
+        "link": "https://techcrunch.com/2026/06/16/payments-startup-flutterwave-hits-3-2b-valuation-backed-by-ripple/"
+    },
+    {
+        "category": "Tech Employment & Economic Trends",
+        "title": "Robinhood CEO Announces 10% Layoffs Without Citing AI",
+        "summary": "Robinhood's CEO Vlad Tenev announced a 10% workforce reduction, notably making no mention of artificial intelligence in his layoff note. This contrasts with many tech industry peers who have cited AI integration or restructuring needs related to AI as reasons for cutting thousands of jobs. Tenev's omission suggests that for Robinhood, the layoffs may stem from different business pressures, not a direct pivot to AI-driven efficiencies.",
+        "link": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/"
+    },
+    {
+        "category": "Computing Hardware & AI Integration",
+        "title": "Microsoft Launches Surface Devices with Snapdragon X2 Chips for Copilot Plus PCs",
+        "summary": "Microsoft has launched new Surface Laptops (8) and a Surface Pro (12) featuring Qualcomm Snapdragon X2 processors. These devices directly follow the 2024 models with Snapdragon X1 chips, advancing Microsoft's Copilot Plus PC initiative with Windows on Arm. The new X2 Surfaces are available today, representing a continued push towards AI-enabled personal computing and a shift in processor architecture for its flagship hardware.",
+        "link": "https://www.theverge.com/tech/950146/microsoft-surface-laptop-8-surface-pro-12-snapdragon-x2-specs-price"
+    },
+    {
+        "category": "Socio-Economics & Real Estate",
+        "title": "US Faces Housing Affordability Crisis and Decline of Starter Home Dream",
+        "summary": "A stark portrait of housing unaffordability is emerging, with a shifting economic landscape threatening the traditional starter home as an entry point into adulthood and wealth-building. A survey of Americans on their housing costs reveals this crisis, along with challenges related to climate adaptation. This trend signals the potential death of the homeowner dream for many, reflecting broader economic pressures and changing societal milestones.",
+        "link": "https://www.wired.com/story/what-happened-to-the-starter-home/"
     }
 ];
