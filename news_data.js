@@ -1,152 +1,158 @@
 window.NEWS_DATA = [
     {
-        "category": "AI Ethics & Public Perception",
-        "title": "AI Chatbots Are Not Your Friends, Says Signal's Whittaker",
-        "summary": "Meredith Whittaker, president of Signal, cautioned users against viewing AI chatbots as sentient or conscious beings. Her statement emphasizes that these large language models are tools, not conversational partners, aiming to temper public perception and highlight the non-human nature of AI interactions.",
-        "link": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/"
+        "category": "Tech Economy / Executive Leadership",
+        "title": "WhatsApp Gets New Chief: Kunal Shah Appointed",
+        "summary": "Will Cathcart is stepping down as the head of WhatsApp after seven years. Meta CEO Mark Zuckerberg announced that Kunal Shah, founder of the Indian fintech startup Cred, will succeed Cathcart. This leadership change marks a significant transition for the global messaging platform, bringing a new strategic perspective from the fintech sector and signaling Meta's ongoing evolution in key product leadership.",
+        "link": "https://www.theverge.com/tech/953464/whatsapp-will-cathcart-stepping-down-cred"
     },
     {
-        "category": "AI Talent & Industry Shift",
-        "title": "DeepMind Nobel Laureate John Jumper Joins Anthropic",
-        "summary": "Nobel laureate John Jumper, a prominent figure from Google DeepMind, is reportedly departing to join rival AI company Anthropic. This move signals a notable shift in top-tier AI talent within the competitive landscape of leading AI research organizations, with Jumper not being the only high-profile departure from Google DeepMind.",
-        "link": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/"
+        "category": "Tech Economy / Automotive Tech",
+        "title": "Lucid Motors Cuts 18% of Workforce Amid Restructuring",
+        "summary": "Lucid Motors' new CEO has announced an 18% workforce reduction, citing efforts to 'simplify the company.' The electric vehicle manufacturer is also eliminating a production shift at its Arizona factory, aligning production plans with anticipated demand. This move indicates a significant restructuring and potential challenges within the premium electric vehicle market for Lucid.",
+        "link": "https://techcrunch.com/2026/06/22/lucid-motors-new-ceo-cuts-18-of-staff-to-simplify-the-company/"
     },
     {
-        "category": "AI Regulation & Cybersecurity Policy",
-        "title": "Export Controls Proving Ineffective for Cyber & AI Tech",
-        "summary": "A historical review suggests that efforts to control the export of cybersecurity-related software over the last 30 years have been largely ineffective. This raises questions about the potential success of similar controls applied to advanced AI models like Anthropic's cybersecurity model, Mythos, indicating a persistent challenge in restricting tech flow.",
-        "link": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/"
+        "category": "Venture Capital / Tech Economy",
+        "title": "Seedcamp Raises $320M Fund, Targets US Expansion",
+        "summary": "Early-stage investor Seedcamp has secured $320 million for its latest fund, marking a strategic shift to expand its presence in the United States. After 18 years of primarily focusing on Europe, this substantial funding will enable Seedcamp to extend its investment activities and influence into the US market, indicating a growing transatlantic focus for venture capital.",
+        "link": "https://techcrunch.com/2026/06/22/seedcamp-raises-320m-for-its-new-fund-to-expand-its-us-footprint/"
     },
     {
-        "category": "Tech Economy & Robotics",
-        "title": "Japan's Go App IPO Fuels Robotaxi Expansion",
-        "summary": "Go's IPO, Japan's largest so far this year, has provided the taxi-hailing app with crucial capital to address the country's driver shortage and pursue ambitions in robotaxis and acquisitions. This significant listing offers a much-needed boost to Japan's listing season and positions Go for major expansion into autonomous mobility solutions.",
-        "link": "https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/"
+        "category": "Cybersecurity / Data Breach",
+        "title": "Klue Hack Breaches Multiple Cybersecurity Firms",
+        "summary": "A data breach at market research firm Klue has led to data theft at several prominent cybersecurity companies, including Huntress, HackerOne, Jamf, Recorded Future, and Tanium. This incident highlights a significant supply chain vulnerability within the cybersecurity industry, affecting multiple key players through a third-party compromise and raising concerns about inter-company data security.",
+        "link": "https://techcrunch.com/2026/06/22/klue-hack-results-in-data-breach-at-several-cybersecurity-firms/"
     },
     {
-        "category": "Clean Energy Investment",
-        "title": "Fusion Startups Attract Billions in Funding",
-        "summary": "Fusion startups have collectively raised $7.1 billion to date, with the majority of this substantial investment concentrated among a handful of companies. This highlights significant investor confidence and capital flow into the nascent but promising field of fusion energy technology, indicating a growing belief in its long-term potential.",
-        "link": "https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/"
+        "category": "Tech Ethics / Cryptocurrency",
+        "title": "Polymarket Accused of Paying for Fake Promotional Videos",
+        "summary": "A Wall Street Journal investigation reveals Polymarket allegedly paid individuals to create and post deceptive social media videos depicting fake bets and wins. Over 1,100 such clips were identified, with creators confirming payment despite not disclosing it in their videos. These videos were reportedly filmed on \u201cnear-perfect copies\u201d of the Polymarket website, suggesting a scheme to misrepresent activity on the prediction market platform.",
+        "link": "https://www.theverge.com/tech/953285/polymarket-fake-viral-video-bets"
     },
     {
-        "category": "AI Ethics & Copyright",
-        "title": "Atlantic Publishes Searchable Database of AI Music Training Data",
-        "summary": "Atlantic reporter Alex Reisner created a public, searchable database of music datasets used to train AI models. This initiative provides transparency into the vast quantities of copyrighted material, including two enormous sets with 12 million and 9 million tracks, used for AI development, raising critical questions about intellectual property and AI.",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data/"
+        "category": "Automotive Tech / Geopolitics",
+        "title": "Robotaxi Scorecard Shows China's Dominance",
+        "summary": "A new robotaxi scorecard highlights China's rapid ascent and apparent dominance in the autonomous vehicle sector. This finding, presented by TechCrunch Mobility, indicates a significant shift in the global competitive landscape for future transportation. China is increasingly establishing a leading position in both the development and deployment of robotaxi services, which could have substantial implications for the international automotive and technology industries.",
+        "link": "https://techcrunch.com/2026/06/21/techcrunch-mobility-a-new-robotaxi-scorecard-shows-chinas-dominance/"
     },
     {
-        "category": "Space Exploration & Private Sector",
-        "title": "NASA Taps Relativity Space for 2028 Mars Mission",
-        "summary": "Relativity Space, the rocket company led by former Google executive Eric Schmidt, has been selected by NASA for its Aeolus payload mission to Mars in 2028. This new public-private partnership tasks Relativity Space with providing the spacecraft, rocket, and cruise operations to deliver Aeolus, which will gather data from Mars' upper atmosphere.",
-        "link": "https://www.theverge.com/science/952988/nasa-relativity-space-eric-schmidt-mars/"
+        "category": "AI / Cybersecurity",
+        "title": "Vibe-Coding Apps Introduce Significant Security Risks",
+        "summary": "The practice of 'vibe-coding' apps, where developers use AI to rapidly generate code, carries significant security risks. One example cited a website with a hidden SQL injection vulnerability that went undetected for months after launch. This illustrates how quickly AI-generated code can introduce critical flaws if not rigorously vetted, posing a substantial threat to data integrity and system security in rapid development environments.",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps"
     },
     {
-        "category": "Cybersecurity & OS Updates",
-        "title": "Critical Security Deadline for Windows and Linux Approaching",
-        "summary": "A critical security deadline is fast approaching for Windows and Linux systems as cryptographic keys securing their boot sequences are set to expire on June 24. This event requires attention to ensure continued system integrity and protection against potential security vulnerabilities arising from expired keys.",
-        "link": "https://www.wired.com/story/a-critical-deadline-is-approaching-for-windows-and-linux-security/"
+        "category": "Global Politics / Instability",
+        "title": "UK Prime Minister Keir Starmer Resigns, Paving Way for New Leadership Battle",
+        "summary": "Keir Starmer's resignation on Monday morning marks a significant political event for the United Kingdom, as he becomes the sixth Prime Minister to step down this decade. This leadership change immediately triggers another battle for the country's top political office, indicating a period of continued political instability and uncertainty within the UK's governance structure, with potential broader economic implications.",
+        "link": "https://www.wired.com/story/uk-loses-its-sixth-prime-minister-keir-starmer/"
     },
     {
-        "category": "AI Integration & User Experience",
-        "title": "Siri AI Offers Smart, Helpful Assistant Experience",
-        "summary": "Apple's new Siri AI is described as a conversational, omnipresent, and genuinely helpful assistant based on a 'hands-on' review. This suggests significant upgrades in its intelligence and utility, enhancing the user experience within the Apple ecosystem, distinct from other iOS 27 features like Apple Intelligence upgrades.",
-        "link": "https://www.wired.com/story/siri-ai-hands-on-iphone/"
+        "category": "AI Breakthrough / Enterprise AI",
+        "title": "Sakana AI Debuts Fugu Multi-Model System, Bypassing Monolithic AI",
+        "summary": "AI startup Sakana has launched Fugu, a multi-agent orchestration system that delivers frontier-level AI performance through a single, OpenAI-compatible API. Designed to offer resilience against vendor lock-in and geopolitical export controls, Fugu bypasses traditional monolithic model structures by dynamically routing queries to a swappable pool of specialized AI agents. This innovation offers a more reliable and flexible option for enterprise workflows, particularly after recent disruptions like Anthropic revoking public access to powerful models.",
+        "link": "https://venturebeat.com/orchestration/no-claude-fable-5-no-problem-sakana-achieves-frontier-performance-with-new-fugu-multi-model-auto-synthesis-system"
     },
     {
-        "category": "AI Security Vulnerabilities",
-        "title": "Critical Flaws Found in Langflow, LangGraph, and LangChain AI Frameworks",
-        "summary": "Thousands of Langflow servers are under attack, with similar security vulnerabilities identified in LangGraph and LangChain. Researchers found that these widely deployed AI agent frameworks contain common bug classes, such as SQL injection in LangGraph\u2019s SQLite checkpointer and path traversal in Langflow\u2019s file upload, leading to remote code execution and credential exposure.",
-        "link": "https://venturebeat.com/security/7000-langflow-servers-under-attack-langgraph-langchain-same-holes/"
+        "category": "AI Breakthrough / AI Development",
+        "title": "Self-Harness Framework Lets AI Agents Rewrite Their Own Rules, Boosts Performance",
+        "summary": "Researchers at the Shanghai Artificial Intelligence Laboratory have developed 'Self-Harness,' a new paradigm enabling LLM-based agents to systematically improve their own operating rules. By examining their own execution traces to apply edits, Self-Harness replaces manual debugging with empirical evidence, potentially boosting performance by up to 60%. This innovation allows development teams to deploy more robust, custom agents that continuously adapt and improve their behavior in response to real-world interactions.",
+        "link": "https://venturebeat.com/orchestration/researchers-introduce-self-harness-a-framework-that-lets-ai-agents-rewrite-their-own-rules-boosting-performance-up-to-60"
     },
     {
-        "category": "AI Architecture & Optimization",
-        "title": "Hypernetworks Address AI Agent Context Limitations",
-        "summary": "Enterprise AI agents frequently struggle with 'context rot,' losing accuracy as input data grows, despite initial promising demos. Hypernetworks are emerging as a solution to build models on demand, addressing the inherent limitations of fine-tuning and Retrieval-Augmented Generation (RAG) that lead to performance degradation and increased human supervision, thereby improving agent reliability.",
-        "link": "https://venturebeat.com/orchestration/fine-tuning-forgets-rag-leaks-context-hypernetworks-build-the-model-your-agent-needs-on-demand/"
+        "category": "AI Infrastructure / AI Research",
+        "title": "AI Faces New Bottleneck: Context Management Outpaces Compute",
+        "summary": "The primary bottleneck for AI systems has shifted from GPU availability to context management, according to Solidigm's AI research lead, Jeff Harthorn. As inference workloads evolve into persistent, multi-step agentic systems, context windows are growing dramatically, making individual inputs much larger. This rapid growth in the persistent state required between sessions is outpacing improvements in compute efficiency and GPU performance, creating an urgent need for new context tier solutions to sustain AI progress.",
+        "link": "https://venturebeat.com/orchestration/ai-hit-the-memory-wall-now-it-needs-a-new-context-tier"
     },
     {
-        "category": "Enterprise AI & Collaboration",
-        "title": "Anthropic's Claude Code Artifacts Enhance Enterprise Collaboration",
-        "summary": "Anthropic introduced 'Artifacts' for Claude Code users on Team and Enterprise plans, transforming AI session work into live, interactive, and shareable custom HTML webpages. This enables real-time collaboration on dashboards or app designs, allowing teammates to monitor updates as Claude Code operates autonomously or under guidance, integrating live code and multiple data sources.",
-        "link": "https://venturebeat.com/data/anthropics-claude-code-artifacts-update-brings-live-shared-dashboards-and-interactive-workspaces-to-enterprises/"
+        "category": "Cybersecurity / AI Frameworks",
+        "title": "Critical Vulnerabilities Found in Langflow, LangGraph, and LangChain AI Frameworks",
+        "summary": "A widespread attack is currently targeting 7,000 Langflow servers, exploiting critical vulnerabilities also present in popular AI agent frameworks LangGraph and LangChain. Researchers have found that common bug classes, such as SQL injection in LangGraph\u2019s SQLite checkpointer and path traversal in Langflow\u2019s file upload endpoint, can lead to full remote code execution or data exposure. These flaws can grant attackers access to sensitive information like OpenAI keys, database credentials, and CRM tokens, highlighting significant security risks for AI deployments.",
+        "link": "https://venturebeat.com/security/7000-langflow-servers-under-attack-langgraph-langchain-same-holes"
     },
     {
-        "category": "AI Optimization & Efficiency",
-        "title": "New Arbor Framework Outperforms Claude Code and Codex by 2.5x",
-        "summary": "Researchers at Renmin University of China and Microsoft Research unveiled Arbor, an AI optimization framework that significantly outperforms Claude Code and Codex by 2.5x on the same compute budget. Arbor transforms AI research from trial-and-error into a cumulative learning process, organizing hypotheses and experiments in a tree structure to improve AI agent performance and reduce hallucinations.",
-        "link": "https://venturebeat.com/orchestration/new-ai-optimization-framework-beats-claude-code-and-codex-by-2-5x-on-the-same-compute-budget/"
+        "category": "AI Research / Enterprise AI",
+        "title": "Hypernetworks Address AI Context Rot and Accuracy Loss",
+        "summary": "AI agents frequently struggle in production due to issues like fine-tuning 'forgetting' and Retrieval Augmented Generation (RAG) leaking context, causing accuracy to degrade with increased input size. Testing by AI firm Chroma revealed all 18 leading models lost accuracy as inputs grew, a phenomenon termed 'context rot.' Hypernetworks are proposed as a solution, enabling the dynamic construction of tailored models on demand, which could allow agents to run long jobs autonomously and significantly reduce the need for human supervision.",
+        "link": "https://venturebeat.com/orchestration/fine-tuning-forgets-rag-leaks-context-hypernetworks-build-the-model-your-agent-needs-on-demand"
     },
     {
-        "category": "AI Security Vulnerabilities",
-        "title": "Critical Security Flaws Found in Microsoft 365 Copilot and LiteLLM",
-        "summary": "New security disclosures reveal critical vulnerabilities in enterprise AI tools, with Microsoft 365 Copilot's Enterprise Search susceptible to 'SearchLeak,' allowing data exfiltration via Bing SSRF from a crafted URL. Separately, LiteLLM has a three-CVE chain enabling privilege escalation and remote code execution for low-privilege users. These highlight pervasive issues with AI accepting untrusted external input.",
-        "link": "https://venturebeat.com/security/copilot-searched-your-mailbox-litellm-handed-out-admin/"
+        "category": "AI Product Update / Enterprise AI",
+        "title": "Anthropic's Claude Code Artifacts Update Brings Live, Shared Dashboards",
+        "summary": "Anthropic has launched 'Artifacts' for Claude Code on its Team and Enterprise subscription plans, transforming Claude Code sessions into live, interactive, and shareable custom HTML webpages. This update allows users to integrate live code and multiple data sources, creating dynamic dashboards or app designs that update in real-time. It enables collaborative, autonomous, or user-guided development, significantly enhancing enterprise workflows for internal product usage and team collaboration.",
+        "link": "https://venturebeat.com/data/anthropics-claude-code-artifacts-update-brings-live-shared-dashboards-and-interactive-workspaces-to-enterprises"
     },
     {
-        "category": "Enterprise AI & Creative Tools",
-        "title": "Adobe Integrates Agentic AI Workflows Across Creative Cloud",
-        "summary": "Adobe is expanding 'creative agent' capabilities across its Creative Cloud suite, including Premiere Pro, Photoshop, and Illustrator, shifting from media generation to production orchestration. Available in public beta, this embedded assistant interprets natural language to execute complex, multi-step workflows by accessing software APIs, aiming to streamline creative production while retaining human aesthetic control.",
-        "link": "https://venturebeat.com/orchestration/adobe-embeds-agentic-ai-workflows-across-creative-cloud-shifting-from-media-generation-to-production-orchestration/"
-    },
-    {
-        "category": "Cloud AI Infrastructure",
-        "title": "AWS Enters AI Context Layer Market with Self-Learning Knowledge Graph",
-        "summary": "Amazon Web Services (AWS) has introduced a new context intelligence stack for AI agents, featuring 'AWS Context,' a knowledge graph service designed to learn and get smarter through agent usage automatically. This offering aims to standardize and automate the bespoke work of building context layers, allowing agents to improve without manual re-curation.",
-        "link": "https://venturebeat.com/data/aws-enters-the-context-layer-race-with-a-graph-that-learns-from-agents-not-manual-curation/"
-    },
-    {
-        "category": "AI Economics & Resource Management",
-        "title": "Tech Companies Scale Back AI Use Due to High Costs",
-        "summary": "Many companies have discovered that extensive use of artificial intelligence is proving to be expensive, leading to a new focus on cost-saving measures. This trend signifies a shift in AI adoption, where initial widespread enthusiasm is being tempered by the practical economic realities of operating and scaling AI solutions.",
+        "category": "AI Economy / Tech Economy",
+        "title": "Tech Companies Shift to Minimizing AI Use Due to High Costs",
+        "summary": "Many companies are discovering the high costs associated with using artificial intelligence, leading to a new era of cost-saving efforts within the tech sector. After initial enthusiasm for maximizing AI use, organizations are now focused on minimizing AI consumption to manage expenses. This trend indicates a maturing understanding of AI's economic implications beyond its technological promise, as businesses seek more efficient deployment strategies.",
         "link": "https://www.nytimes.com/2026/06/18/technology/ai-token-minimizing.html"
     },
     {
-        "category": "AI Policy & Advocacy",
-        "title": "New Super PAC 'Guardrails Alliance' Targets AI Regulation",
-        "summary": "The Guardrails Alliance, a new Super PAC that has raised $5 million, aims to mobilize tech workers to advocate for limiting AI. Positioning itself as a populist counter to pro-AI interests, the alliance seeks to influence upcoming elections and shape the regulatory landscape surrounding artificial intelligence.",
+        "category": "AI Ethics / Regulation / Policy",
+        "title": "Guardrails Alliance Super PAC Raises $5M to Limit AI Influence",
+        "summary": "The Guardrails Alliance, a new Super PAC, has raised $5 million with the goal of mobilizing tech workers to advocate for limits on AI. Positioning itself as a populist movement, the alliance aims to counter pro-AI interests influencing current elections. This initiative signals a growing effort to shape AI policy and regulation from within the tech community, seeking to balance innovation with responsible development.",
         "link": "https://www.nytimes.com/2026/06/18/technology/ai-super-pac-guardrails-alliance.html"
     },
     {
-        "category": "Tech Supply Chain & Geopolitics",
-        "title": "Trump Announces Apple to Source Chips from Intel",
-        "summary": "Former President Trump stated that Apple will purchase computer chips from Intel, a deal not yet publicly confirmed by either company. This potential agreement would represent a significant win for Intel, which secured a 10 percent stake from the U.S. government last year, and could have broader implications for the tech supply chain.",
+        "category": "Tech Economy / Supply Chain",
+        "title": "Trump Claims Apple to Procure Chips from Intel",
+        "summary": "Former President Trump stated that Apple will purchase computer chips from Intel, a deal not yet publicly confirmed by either company. This potential agreement would represent a significant win for Intel, which last year sold a 10 percent stake to the U.S. government. The move could have considerable implications for the tech supply chain, domestic chip manufacturing, and the competitive landscape for major technology firms.",
         "link": "https://www.nytimes.com/2026/06/18/technology/apple-intel-trump-chips.html"
     },
     {
-        "category": "Internet Freedom & Geopolitics",
-        "title": "India Temporarily Bans Telegram Amid Global Restrictions",
-        "summary": "India has temporarily banned the messaging app Telegram, joining several other countries that have restricted its use. Telegram has been noted as a platform valuable to dissidents, criminals, and extremists, highlighting ongoing global challenges with free speech, surveillance, and regulation of communication technologies by governments.",
+        "category": "Corporate Ethics / Labor Relations",
+        "title": "Amazon Accused of Retaliating Against Data Center Regulation Advocates",
+        "summary": "A complaint alleges that Amazon retaliated against employees who advocated for limits on data center expansion in Seattle, the company's hometown. These workers reportedly supported regulations on the complexes during a series of hearings. The accusation highlights potential conflicts between major tech companies' infrastructure growth and employee activism regarding environmental and community impact, leading to scrutiny of corporate labor practices.",
+        "link": "https://www.nytimes.com/2026/06/18/technology/amazon-worker-retaliation-data-center-complaints.html"
+    },
+    {
+        "category": "Automotive Tech / AI Safety",
+        "title": "Tesla Autopilot Linked to Fatal Crash in Texas",
+        "summary": "A Tesla driver using the vehicle's 'automated-driver system' crashed into a home in Harris County, Texas, resulting in the death of a woman, according to officials. The driver informed investigators about the use of Autopilot at the time of the incident, raising significant safety concerns and potential regulatory scrutiny for autonomous driving technologies. This tragic event reignites debates around the reliability and supervision requirements for advanced driver-assistance systems.",
+        "link": "https://www.nytimes.com/2026/06/21/us/tesla-autopilot-crash-texas.html"
+    },
+    {
+        "category": "Geopolitics / Digital Rights",
+        "title": "India Temporarily Bans Telegram, Following Other Nations",
+        "summary": "India has temporarily banned the messaging app Telegram, joining several other countries that have restricted its use. Telegram is noted as a significant platform for dissidents, criminals, and extremists alike. This action by India highlights ongoing global challenges concerning digital freedom, censorship, and the regulation of communication platforms by national governments, with potential impacts on free speech and information dissemination.",
         "link": "https://www.nytimes.com/2026/06/18/technology/telegram-ban-india.html"
     },
     {
-        "category": "Tech Mergers & Acquisitions",
-        "title": "Elon Musk Considers SpaceX and Tesla Mega-Merger",
-        "summary": "Elon Musk is reportedly contemplating a mega-merger between his two prominent companies, SpaceX and Tesla. Legal experts suggest that while some shareholders might object to such a consolidation, their ability to prevent the deal could be limited, indicating a potentially transformative event for the tech and automotive sectors.",
-        "link": "https://www.nytimes.com/2026/06/17/business/spacex-tesla-merger-elon-musk.html"
-    },
-    {
-        "category": "Global AI Competition",
-        "title": "China's DeepSeek AI Praised for High Performance on Modest Chips",
-        "summary": "DeepSeek AI, a Chinese startup, is garnering significant attention in Silicon Valley for its ability to train high-performing AI models cost-effectively, without relying on the most advanced chips. Described as 'amazing and impressive,' DeepSeek's approach challenges assumptions about the necessity of cutting-edge hardware for competitive AI development, potentially impacting the global AI race.",
+        "category": "AI Breakthrough / Geopolitics",
+        "title": "Silicon Valley Praises China's DeepSeek AI for High Performance",
+        "summary": "DeepSeek, a Chinese-made AI model, is receiving 'amazing and impressive' praise from Silicon Valley for its high performance, despite being developed with less-advanced chips. This recognition highlights China's growing capabilities in artificial intelligence and the potential for significant advancements even in the face of technological restrictions, challenging conventional expectations within the AI industry and hinting at new pathways for model development.",
         "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology"
     },
     {
-        "category": "AI & Biotech Investment",
-        "title": "Reid Hoffman Funds AI Cancer Research Startup Manas AI",
-        "summary": "LinkedIn co-founder Reid Hoffman has raised $24.6 million for his new AI cancer-research startup, Manas AI. He is launching this venture in collaboration with Siddhartha Mukherjee, author of 'The Emperor of All Maladies,' signaling a significant investment and partnership aimed at leveraging artificial intelligence for advancements in drug discovery and cancer treatment.",
+        "category": "AI / Biotech / Tech Economy",
+        "title": "Reid Hoffman Raises $24.6M for AI Cancer-Research Startup Manas AI",
+        "summary": "LinkedIn co-founder Reid Hoffman has raised $24.6 million for Manas AI, a new startup focused on AI-driven cancer research. The venture is co-founded with Siddhartha Mukherjee, author of 'The Emperor of All Maladies.' This substantial funding and high-profile collaboration underscore the accelerating investment in artificial intelligence applications for medical and drug discovery, particularly in critical areas like oncology, aiming to revolutionize healthcare research.",
         "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology"
     },
     {
-        "category": "AI Investment & Infrastructure",
-        "title": "Meta to Dramatically Increase AI and Data Center Spending",
-        "summary": "Meta Platforms plans to invest heavily in artificial intelligence and expand its data center infrastructure, with projected spending between $60 billion and $65 billion. This substantial investment underscores the accelerating commitment of major tech companies to AI development and the necessary infrastructure to support its growth, signaling a long-term strategic focus on AI dominance.",
+        "category": "Tech Economy / AI Infrastructure",
+        "title": "Meta's AI Spending Set to Soar to $60-65 Billion for Data Centers",
+        "summary": "Meta plans to significantly increase its spending to between $60 billion and $65 billion, signaling accelerating investments in artificial intelligence and massive data center buildouts. This financial commitment from the social media giant is the latest indication of how major tech companies are pouring substantial capital into AI infrastructure to support their ambitious AI development goals, driving a new wave of capital expenditure in the tech sector.",
         "link": "https://www.wsj.com/articles/meta-spending-ai-facebook-data-centers-9452a88f?mod=rss_Technology"
     },
     {
-        "category": "Medical Technology & AI",
-        "title": "Brain-Computer Interface Trials Gaining Momentum",
-        "summary": "Trials for brain-computer interfaces (BCIs) are rapidly expanding, with individuals like Casey Harrell, who has ALS, becoming 'power users' of these implants. Harrell has utilized a BCI for nearly three years to communicate despite paralysis and speech impairment, demonstrating significant progress and human impact in this frontier medical technology, as researchers continue development.",
+        "category": "Geopolitics / Tech Economy / Labor Relations",
+        "title": "Canada to Review Amazon Contracts After Quebec Layoffs",
+        "summary": "Canada is reviewing its business ties with Amazon.com's cloud-computing unit following the company's decision to close its Quebec warehouses, resulting in the layoff of 1,700 workers. This warning from Canada indicates potential governmental scrutiny and consequences for major tech companies' operational decisions that impact local employment and regional economies, escalating a dispute over corporate responsibility and labor practices.",
+        "link": "https://www.wsj.com/articles/canada-to-review-amazon-contracts-after-quebec-layoffs-d458ea66?mod=rss_Technology"
+    },
+    {
+        "category": "AI Breakthrough / LLM Performance",
+        "title": "Startup Claims Breakthrough in LLM Mathematical Bottleneck",
+        "summary": "Miami-based AI startup Subquadratic announced a claim of solving a mathematical bottleneck that has hindered large language models for almost a decade. While initial details were scarce and some skepticism arose, the startup is now providing evidence to support its assertion. This potential breakthrough could significantly advance the capabilities and efficiency of LLMs, potentially leading to faster training, improved performance, and broader applications for AI models.",
+        "link": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/"
+    },
+    {
+        "category": "Biotech / Health Tech",
+        "title": "Brain-Computer Interface Trials Advancing Rapidly",
+        "summary": "Brain-computer interface (BCI) trials are rapidly advancing, exemplified by Casey Harrell, an ALS patient and 'first power user' of a brain implant. Harrell has utilized the BCI for nearly three years, enabling communication despite paralysis and incoherent speech, according to researchers. This development underscores significant progress in BCIs, offering profound implications for assistive technology and neurological conditions, as the technology moves closer to practical, long-term applications.",
         "link": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/"
     }
 ];
