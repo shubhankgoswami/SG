@@ -1,158 +1,146 @@
 window.NEWS_DATA = [
     {
-        "category": "Consumer Tech / AI Hardware",
-        "title": "Meta Launches Cheaper, Self-Branded Smart Glasses",
-        "summary": "Meta has debuted new smart glasses under its own brand, available in several countries starting today. These cheaper glasses come in various color and lens combinations, featuring the same camera, microphones, and chatbot as the previous Ray-Ban versions. Priced at $299, the launch includes three styles, with one codesigned with Kylie Jenner. This move signifies Meta's continued focus on consumer wearables and aims to broaden accessibility by offering a more affordable, directly branded smart eyewear option without the Ray-Ban partnership.",
-        "link": "https://techcrunch.com/2026/06/23/meta-debuts-new-cheaper-smart-glasses-under-its-own-brand/"
+        "category": "Tech Economy / Venture Capital",
+        "title": "Valor Equity Partners Seeks $2.5B Fund VII",
+        "summary": "Valor Equity Partners is reportedly aiming to raise $2.5 billion for its Fund VII, according to Bloomberg. This new development follows the firm's announcement last year that it was in the process of raising an unspecified amount of capital. This substantial fundraise indicates continued significant investment activity in the tech sector, particularly in venture capital, reflecting ongoing confidence in high-growth companies and emerging technologies.",
+        "link": "https://techcrunch.com/2026/06/24/valor-equity-partners-looks-to-raise-a-2-5b-fund-vii-per-bloomberg/"
     },
     {
-        "category": "AI / Tech Economy",
-        "title": "Fika Jobs Raises $4M for AI-Powered Video Hiring Platform",
-        "summary": "Stockholm-based startup Fika Jobs raised $4 million to develop a video-first hiring platform. This platform integrates AI interview agents with short-form video profiles, aiming to create a user experience resembling a combination of LinkedIn and TikTok. The funding will support the growth of this innovative approach to recruitment, leveraging AI to streamline candidate evaluation and engagement, and potentially reshape traditional hiring processes by offering a more dynamic and efficient method for employers and job seekers.",
-        "link": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/"
+        "category": "Automotive Tech / EVs",
+        "title": "Slate Auto Launches EV Truck at $24,950",
+        "summary": "Jeff Bezos-backed Slate Auto has unveiled pricing details for its electric truck, which will start at $24,950. The SUV variant begins at $29,950, and the company also announced a boosted base range of 205 miles for its debut EV. This competitive pricing positions Slate Auto as a significant contender in the affordable EV market, focusing on simplicity and accessibility. This move could disrupt the electric pickup truck segment by offering a low-cost option.",
+        "link": "https://techcrunch.com/2026/06/24/slate-autos-radically-simple-electric-truck-starts-at-24950/"
     },
     {
-        "category": "Tech Economy / AI Impact",
-        "title": "Major Tech Layoffs in 2026 Attributed to AI",
-        "summary": "TechCrunch is tracking significant tech company layoffs throughout 2026 where artificial intelligence was explicitly cited as a contributing factor by employers. This ongoing list, presented in reverse chronological order, highlights a notable trend of AI influencing workforce reductions across the technology sector. The phenomenon underscores the dual impact of AI adoption: driving innovation while also prompting organizational restructuring that can lead to job displacement as companies re-evaluate their operational needs and integrate AI solutions.",
-        "link": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/"
+        "category": "E-commerce / Global Tech Market",
+        "title": "Flipkart Bolsters Quick-Commerce in India Amid Amazon Rivalry",
+        "summary": "Walmart-backed Flipkart is expanding its quick-commerce operations in India, now boasting over 1,000 micro-fulfillment centers. This aggressive expansion comes as Amazon intensifies its own quick-commerce initiatives in the competitive Indian market. The move highlights the growing battle for rapid delivery dominance and market share in one of the world's largest e-commerce battlegrounds, signaling significant investment and competition in the last-mile delivery sector.",
+        "link": "https://techcrunch.com/2026/06/23/walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ramps-up-in-india/"
     },
     {
-        "category": "AI / Cybersecurity",
-        "title": "OpenAI Launches Initiative to Patch Open Source Bugs with AI",
-        "summary": "OpenAI has initiated a new program designed to assist the open-source community in identifying and resolving software vulnerabilities. This initiative leverages artificial intelligence to enhance security measures within open-source projects, aiming to better protect them from bugs and potential exploits. By deploying AI capabilities, OpenAI seeks to contribute to a more robust and secure open-source ecosystem, fostering greater trust and reliability in widely used software components that underpin much of modern technology infrastructure.",
-        "link": "https://techcrunch.com/2026/06/22/openai-lunches-new-initiative-to-help-find-and-patch-open-source-bugs/"
+        "category": "AI / Enterprise Software",
+        "title": "MoEngage Acquires AI Agent Tech for Marketing",
+        "summary": "India's MoEngage has made an all-cash acquisition to gain access to technology that assigns AI agents to individual customers for marketing purposes. The company believes this approach, utilizing millions of AI agents, represents the future of marketing. This strategic move positions MoEngage to leverage advanced artificial intelligence for highly personalized customer engagement and indicates a growing industry trend towards AI-driven, autonomous marketing strategies for scaling outreach and impact.",
+        "link": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/"
     },
     {
-        "category": "Autonomous Driving / Safety & Regulation",
-        "title": "Federal Regulators Investigate Fatal Tesla Autopilot Crash in Texas",
-        "summary": "Federal regulators are investigating a fatal Tesla crash in Texas where a woman was killed after a vehicle using its automated-driver system left the roadway and crashed into a house. The police reported the driver was using Autopilot. Tesla is pushing back on the narrative surrounding the incident. Resolution regarding whether the Autopilot system was active, overridden, or malfunctioning awaits investigators' thorough review of the vehicle's data logs, underscoring ongoing concerns about autonomous driving safety and oversight.",
-        "link": "https://techcrunch.com/2026/06/22/tesla-pushes-back-on-autopilot-narrative-after-fatal-texas-crash/"
+        "category": "AI / Software M&A",
+        "title": "Superhuman Acquires AI Detection Startup GPTZero",
+        "summary": "Superhuman has acquired GPTZero, a prominent AI detection startup. This acquisition is notable as Superhuman already offers its own AI detection tool, which is integrated as part of Grammarly. The move is expected to strengthen Superhuman's capabilities in identifying AI-generated content, reflecting the increasing demand for such tools across various applications and highlighting ongoing consolidation within the evolving AI detection market.",
+        "link": "https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/"
     },
     {
-        "category": "Tech Company / Legal",
-        "title": "Shareholders Sue Uber's Board Over Compliance Lapses and Incidents",
-        "summary": "Uber's board and management are facing a lawsuit from shareholders, led by a Detroit pension fund. The suit alleges that the company's leadership has consistently cut compliance corners, which has resulted in thousands of lawsuits related to sexual assaults and other incidents. This legal challenge highlights significant corporate governance issues and potentially severe repercussions for Uber, as shareholders seek accountability for alleged lapses that have led to widespread legal and reputational damage for the ride-sharing giant.",
-        "link": "https://techcrunch.com/2026/06/22/shareholders-sue-ubers-board-over-sexual-assaults-other-incidents/"
+        "category": "Tech Economy / AI Investment",
+        "title": "Menlo Ventures Secures $3B Fund After Anthropic Bet",
+        "summary": "Menlo Ventures has successfully raised a $3 billion fund, solidifying its reputation as a prominent AI investor. This achievement follows the firm's strategic and gutsy $750 million investment in Anthropic in 2024, which proved highly successful. The substantial fundraise highlights continued strong investor confidence in artificial intelligence ventures and Menlo Ventures' demonstrated ability to identify and capitalize on impactful opportunities within the rapidly evolving AI landscape.",
+        "link": "https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/"
     },
     {
-        "category": "AI Development",
-        "title": "The AI World Adopts 'Loopy' Continuous Agentic Systems",
-        "summary": "The AI world is increasingly adopting a 'loopy' approach, which advances agentic AI by authorizing a swarm of agents to operate continuously and endlessly in the background. This evolution in AI design allows for persistent, autonomous operation, moving beyond single-task executions. The 'loop' concept enables AI systems to perform ongoing work and adapt without constant human intervention, potentially leading to more sophisticated and self-improving artificial intelligence applications across various domains, though implications for control and oversight may arise.",
-        "link": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/"
+        "category": "Tech Economy / M&A / AI Hardware",
+        "title": "Qualcomm Acquires Modular, A Key AI Chip Software Startup, For Nearly $4 Billion",
+        "summary": "Qualcomm has acquired Modular, a prominent chip software startup in the AI sector, for almost $4 billion. Modular was recognized as one of the most promising new companies of the AI era. This significant acquisition underscores the intense competition and investment in AI hardware and software, as major tech players move to consolidate key technologies essential for artificial intelligence development, deployment, and maintaining a competitive edge in the market.",
+        "link": "https://www.wired.com/story/qualcomm-buys-buzzy-chip-startup-modular-for-nearly-dollar4-billion/"
     },
     {
-        "category": "Tech Infrastructure / Energy / Environment",
-        "title": "Microsoft and Chevron Partner for Large Gas-Powered Data Center",
-        "summary": "Microsoft has entered a 20-year power purchase agreement with Chevron, enabling the development of one of the largest gas-powered data center projects in the US. This partnership locks in decades of carbon emissions from a new natural gas power plant. The initiative highlights the significant energy demands of burgeoning data center infrastructure, particularly for AI workloads, and raises questions about the environmental footprint of major tech companies' expansion plans, despite pledges for cleaner energy.",
-        "link": "https://techcrunch.com/2026/06/22/microsoft-and-chevron-plan-one-of-the-largest-gas-powered-data-center-projects-in-us/"
+        "category": "AI / Creative Tools",
+        "title": "Krea 2 Raw and Turbo AI Image Models Released with Open Weights",
+        "summary": "Krea, an AI creative tools startup, has released the weights for its new AI image generation model, Krea 2, in two versions: \"Krea 2 Raw\" and \"Krea 2 Turbo.\" Available under a custom license, these models aim to counter the trend of \"AI slop\" by offering enterprise-grade image generation in two seconds. This move allows broader access and customization, potentially enhancing the distinctiveness and quality of AI-generated visuals for brands and creators.",
+        "link": "https://venturebeat.com/technology/enterprise-grade-ai-image-generation-in-2-seconds-is-here-krea-2-raw-and-turbo-available-as-open-weights-under-custom-license/"
     },
     {
-        "category": "Global Shifts / Policy / Tech Economy",
-        "title": "Elon Musk, Amazon, and the Battle for US Broadband",
-        "summary": "The article details a 'plot to hijack America\u2019s broadband' involving Elon Musk, specifically concerning the launch of Amazon Leo satellites by Blue Origin. This relates to the broader context of national broadband funding, such as BEAD, and the potential influence of major tech figures and companies in shaping its future. The narrative suggests significant political and economic stakes in the deployment and control of broadband infrastructure, highlighting a battle for dominance in satellite internet and its implications for public access and national policy.",
-        "link": "https://www.theverge.com/policy/953944/bead-broadband-funding-trump-musk-bezos"
+        "category": "AI / Enterprise Software",
+        "title": "Anthropic Introduces Claude Tag as Autonomous AI Teammate in Slack",
+        "summary": "Anthropic has launched Claude Tag, a new product integrating its advanced AI model directly into Slack as a persistent, shared, and autonomous teammate. Available in beta for Claude Enterprise and Team customers, Claude Tag replaces the existing Claude in Slack app. Users can delegate tasks by typing \"@Claude,\" marking Anthropic's most significant move yet to embed AI into enterprise collaboration workflows by enabling it to learn, monitor, and work autonomously.",
+        "link": "https://venturebeat.com/technology/anthropic-launches-claude-tag-replacing-its-slack-app-with-a-persistent-ai-teammate-that-learns-monitors-and-works-autonomously/"
     },
     {
-        "category": "AI Infrastructure / Enterprise AI",
-        "title": "Operational AI Faces Data Path Challenges Beyond Proof-of-Concept",
-        "summary": "When transitioning AI workloads from pilot to production, data delivery often becomes the primary obstacle to reliable scaling. Point-to-point architectures, while functional in demonstrations, frequently fail under sustained, concurrent production traffic. This leads to stalled inference pipelines, delayed RAG systems, underutilized GPUs, and SLA violations, incurring direct business consequences. Experts like F5's Hunter Smit emphasize that successful AI operationalization requires infrastructure built to withstand real-world failures rather than only controlled conditions, highlighting a critical architectural weakness in enterprise AI deployment.",
-        "link": "https://venturebeat.com/orchestration/a-proof-of-concept-forgives-a-fragile-data-path-operational-ai-does-not/"
-    },
-    {
-        "category": "AI Breakthroughs / Global Tech",
-        "title": "Alibaba's HappyHorse 1.1 Rises as Top AI Video Model, Rivals Falter",
-        "summary": "Alibaba Cloud has launched HappyHorse 1.1, an upgraded AI video generation model now ranked second globally, offering production-ready video synthesis. This release comes as competitors face setbacks, with OpenAI discontinuing Sora due to financial unsustainability and ByteDance shelving Seedance. HappyHorse 1.1 is available on Alibaba Cloud Model Studio with full API access for enterprise customers and developers, accompanied by a 40% launch discount. This significant shift highlights Alibaba's growing influence in the AI video market amid global competitive upheaval.",
+        "category": "AI / Global Tech Shift",
+        "title": "Alibaba's HappyHorse 1.1 Climbs to No. 2 in AI Video Rankings",
+        "summary": "Alibaba Cloud has released HappyHorse 1.1, a significant upgrade to its AI video generation model, now available on Alibaba Cloud Model Studio with full API access for enterprise customers. The company states the model delivers production-ready video synthesis and has risen to No. 2 globally, following the discontinuation of OpenAI's Sora and ByteDance's Seedance. Alibaba is offering a 40% launch discount, capitalizing on the recent upheaval in the AI video generation market.",
         "link": "https://venturebeat.com/technology/alibabas-ai-video-model-rises-to-no-2-in-global-rankings-as-openais-sora-and-bytedances-seedance-fall-away/"
     },
     {
-        "category": "AI Breakthroughs / Enterprise AI",
-        "title": "Sakana Launches Fugu Multi-Agent System for Frontier AI Performance",
-        "summary": "AI startup Sakana has launched Fugu, a multi-agent orchestration system that delivers frontier-level AI performance via an OpenAI-compatible API. Fugu aims to provide resilience against vendor lock-in and geopolitical export controls by dynamically routing queries to a swappable pool of specialized AI agents, bypassing traditional monolithic models. This launch, positioned by CEO David Ha as a reliable enterprise option, follows Anthropic's recent revocation of public access to its Claude Mythos 5 models, underscoring the need for flexible and resilient AI solutions.",
+        "category": "AI / Enterprise AI",
+        "title": "Sakana Launches Fugu Multi-Agent AI System Offering Frontier Performance",
+        "summary": "Sakana has launched Fugu, a multi-agent orchestration system providing frontier-level AI performance through a single, OpenAI-compatible API. Designed for developers and enterprises seeking resilience against vendor lock-in and geopolitical export controls, Fugu bypasses traditional monolithic model structures by dynamically routing queries to specialized AI agents. This positions Fugu as a more flexible and reliable option in the wake of recent public access revocations by other major AI model providers.",
         "link": "https://venturebeat.com/orchestration/no-claude-fable-5-no-problem-sakana-achieves-frontier-performance-with-new-fugu-multi-model-auto-synthesis-system/"
     },
     {
-        "category": "AI Strategy / Enterprise AI",
-        "title": "Agentic Enterprises Must Evolve into Learning Systems for AI Success",
-        "summary": "Enterprises are currently failing to leverage valuable organizational knowledge within their AI systems, according to Splunk. While security analysts, network engineers, and customer operations teams acquire critical insights daily, this knowledge often remains siloed in tickets or expert minds, preventing it from becoming a reusable system that improves future AI-driven decisions. The next challenge for agentic enterprises is to evolve into learning systems where daily operational lessons are systematically integrated, ensuring AI systems continually adapt and improve beyond static models or autonomous agents.",
-        "link": "https://venturebeat.com/orchestration/why-agentic-enterprises-need-to-become-learning-systems/"
+        "category": "AI Research / Breakthrough",
+        "title": "Self-Harness Framework Enables AI Agents to Self-Improve Rules",
+        "summary": "Researchers at the Shanghai Artificial Intelligence Laboratory have introduced \"Self-Harness,\" a new paradigm enabling LLM-based agents to systematically improve their own operating rules. This framework allows AI agents to examine their own execution traces and apply edits, shifting from manual, intuition-based debugging to empirical evidence for harness tuning. This development can lead to more robust custom agents that continually adapt and potentially boost performance by up to 60%, enhancing the practical deployment of AI systems.",
+        "link": "https://venturebeat.com/orchestration/researchers-introduce-self-harness-a-framework-that-lets-ai-agents-rewrite-their-own-rules-boosting-performance-up-to-60/"
     },
     {
-        "category": "AI Breakthroughs / AI Development",
-        "title": "Self-Harness Framework Enables AI Agents to Self-Rewrite Rules, Boost Performance",
-        "summary": "Researchers at the Shanghai Artificial Intelligence Laboratory have developed 'Self-Harness,' a framework enabling LLM-based agents to systematically improve their own operating rules. This new paradigm allows AI agents to examine their execution traces and apply edits, shifting from manual debugging to empirical evidence for tuning agent harnesses. This capability enables development teams to deploy robust custom agents that continuously adapt and refine their performance, potentially boosting it by up to 60%, addressing the challenge of keeping pace with rapidly evolving large language models.",
-        "link": "https://venturebeat.com/orchestration/researchers-introduce-self-harness-a-framework-that-lets-ai-agents-rewrite-their-own-rules-boosting-performance-up-to-60"
+        "category": "AI Regulation / Global Tech Shift",
+        "title": "U.S. Officials Urge Meta to Accept AI Safety Reviews",
+        "summary": "Federal officials are pressuring Meta, currently the sole major tech company holdout, to agree to government safety evaluations for its AI systems. This push comes weeks after the administration ordered Anthropic to withdraw its latest AI model. The initiative highlights increasing regulatory scrutiny over advanced AI development and the U.S. government's efforts to establish safety oversight across the tech industry, indicating a growing focus on AI governance and risk management for leading developers.",
+        "link": "https://www.nytimes.com/2026/06/23/business/meta-ai-government-reviews-security.html"
     },
     {
-        "category": "AI Infrastructure / AI Development",
-        "title": "AI Faces New 'Memory Wall,' Requires New Context Tier",
-        "summary": "AI inference workloads are facing a new bottleneck: context, rather than GPU availability or compute efficiency, according to Solidigm's Jeff Harthorn. As AI systems evolve into persistent, multi-step agentic systems, context windows are dramatically growing, making individual inputs larger and chaining hundreds of model calls. The persistent state between sessions is expanding faster than any other component, demanding a new context tier to manage this memory wall. This shift highlights a critical challenge in scaling advanced AI, requiring innovative solutions beyond traditional GPU optimization.",
-        "link": "https://venturebeat.com/orchestration/ai-hit-the-memory-wall-now-it-needs-a-new-context-tier/"
-    },
-    {
-        "category": "AI Security / Cybersecurity",
-        "title": "Critical Security Vulnerabilities Found in Langflow, LangGraph, and LangChain AI Frameworks",
-        "summary": "A widespread security vulnerability is affecting thousands of Langflow servers, with LangGraph and LangChain frameworks also susceptible to similar flaws. Attackers can exploit known bug classes, such as SQL injection in LangGraph\u2019s SQLite checkpointer leading to remote code execution (RCE), and path traversals in Langflow\u2019s file upload endpoint and LangChain-core\u2019s prompt loader. These vulnerabilities allow attackers to gain shell access and read sensitive credentials, posing a severe risk to deployed AI agents by exposing OpenAI keys, database credentials, and CRM tokens, underscoring critical security gaps in popular AI frameworks.",
-        "link": "https://venturebeat.com/security/7000-langflow-servers-under-attack-langgraph-langchain-same-holes/"
-    },
-    {
-        "category": "Global Tech / HPC",
-        "title": "China Reclaims Supercomputer Crown from U.S. with Non-GPU System",
-        "summary": "China has reclaimed the title of the world's fastest supercomputer, a distinction not held by the U.S. since 2017. A supercomputer in Shenzhen was declared the new global leader, notably achieving its performance using only standard microprocessors, without relying on specialized graphics processing units (GPUs). This accomplishment signals a significant advance in China's high-performance computing capabilities and could have geopolitical implications for technological leadership, demonstrating an alternative path to achieving top-tier computational power.",
+        "category": "Global Tech Shift / Computing Hardware",
+        "title": "China Regains Supercomputer Lead from U.S. Since 2017",
+        "summary": "A supercomputer in Shenzhen, China, has been declared the world's fastest, marking the first time since 2017 that China has taken the supercomputing crown from the United States. Notably, this supercomputer achieves its performance using only standard microprocessors, rather than specialized graphics processing units (GPUs). This development signifies a significant advancement in China's indigenous computing capabilities and a geopolitical shift in high-performance computing, challenging existing hardware dependencies.",
         "link": "https://www.nytimes.com/2026/06/23/technology/china-supercomputer-crown-us.html"
     },
     {
-        "category": "Tech Economy / AI Strategy",
-        "title": "Companies Re-evaluating AI Use Due to High Costs, Shifting to Minimization",
-        "summary": "Many companies have discovered that extensive use of artificial intelligence is proving to be expensive, leading to a new focus on cost-saving measures. After an initial period of maximizing AI integration, tech workers are now tasked with minimizing its usage to control expenditures. This shift highlights the economic realities and operational challenges associated with scaling AI, suggesting that while AI offers powerful capabilities, its financial implications are forcing enterprises to adopt more strategic and efficient deployment practices to optimize their investments.",
-        "link": "https://www.nytimes.com/2026/06/18/technology/ai-token-minimizing.html"
+        "category": "Automotive Tech / Regulation",
+        "title": "Federal Regulators Investigate Fatal Tesla Autopilot Crash in Texas",
+        "summary": "Federal regulators will investigate a Tesla crash in Texas that resulted in a fatality on Friday. Police reported that the car's driver-assistance system was engaged at the time of the incident. This investigation follows a separate report of a Tesla using its automated-driver system crashing into a house and causing a death in Harris County. These incidents heighten scrutiny on autonomous driving technologies and could prompt further regulatory action regarding their safety and deployment.",
+        "link": "https://www.nytimes.com/2026/06/22/business/tesla-texas-autopilot-crash-nhtsa.html"
     },
     {
-        "category": "Tech Company / Labor / Environment",
-        "title": "Amazon Accused of Retaliating Against Workers Advocating for Data Center Regulation",
-        "summary": "A complaint alleges that Amazon retaliated against employees who advocated for stricter regulations on data centers during hearings in Seattle. These workers supported limiting the complexes, indicating a clash between corporate expansion strategies and employee activism concerning environmental and community impact. This accusation highlights potential issues with labor rights within major tech companies, particularly when employees engage in public discourse that challenges company interests regarding significant infrastructure projects and their broader societal implications.",
-        "link": "https://www.nytimes.com/2026/06/18/technology/amazon-worker-retaliation-data-center-complaints.html"
+        "category": "Energy Tech / AI Infrastructure",
+        "title": "Homes Tapped to Meet AI's Energy Demands via Distributed Power",
+        "summary": "Companies like Tesla, Sunrun, and Renew Home are planning to leverage distributed energy resources within millions of homes, including solar panels, batteries, and smart thermostats, to address the increasing power demands of artificial intelligence. This initiative aims to utilize residential energy systems to help meet the significant energy needs of AI data centers, suggesting a novel and sustainable approach to power management for the rapidly expanding AI infrastructure.",
+        "link": "https://www.nytimes.com/2026/06/24/business/energy-environment/ai-data-centers-tesla.html"
     },
     {
-        "category": "Tech Economy / Global Shifts / Policy",
-        "title": "Trump Announces Apple to Buy Intel Chips, Signaling Supply Chain Shift",
-        "summary": "Former President Trump has stated that Apple will purchase computer chips from Intel, though neither company has publicly confirmed this deal. Such an agreement would mark a significant shift for Intel, which previously sold a 10% stake to the U.S. government last year. This potential deal, if confirmed, highlights the interplay between corporate strategy, national industrial policy, and high-level political influence in shaping critical technology supply chains, especially for major players like Apple.",
-        "link": "https://www.nytimes.com/2026/06/18/technology/apple-intel-trump-chips.html"
+        "category": "AI / National Security / Global Tech Shift",
+        "title": "NSA Loses Access to Advanced AI Model Amidst Anthropic Dispute",
+        "summary": "The National Security Agency (NSA) lost access to a powerful AI model due to a dispute with Anthropic, its developer. This episode underscores the Trump administration's growing reliance on advanced AI systems for cybersecurity purposes, even as it navigates conflicts with leading U.S. AI developers. The incident highlights the complexities and potential vulnerabilities of government agencies depending on private sector AI technologies, especially when political or contractual disputes arise.",
+        "link": "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html"
     },
     {
-        "category": "AI Breakthroughs / Global Tech",
-        "title": "China's DeepSeek AI Impresses Silicon Valley with Cost-Effective Performance",
-        "summary": "China's DeepSeek AI is drawing significant attention, with Silicon Valley describing it as 'amazing and impressive.' The Chinese upstart claims to have trained high-performing AI models cheaply, achieving these results without utilizing the most advanced chips. This innovation suggests a remarkable capability in AI development that can operate efficiently with less cutting-edge hardware. DeepSeek AI's success challenges existing paradigms by demonstrating a cost-effective pathway to competitive artificial intelligence, bolstering China's position in the global AI landscape and influencing future development strategies.",
-        "link": "https://www.wsj.com/articles/deepseek-ai-china-tech-stocks-explained-ee6cc80e?mod=rss_Technology"
+        "category": "AI / Global Tech Shift",
+        "title": "China's DeepSeek AI Praised for Performance on Less Advanced Chips",
+        "summary": "DeepSeek AI, a model from a Chinese upstart, is drawing significant praise in Silicon Valley for its \"amazing and impressive\" performance. Notably, the company claims it trained these high-performing AI models cheaply and without relying on the most advanced chips. This development signifies China's growing prowess in artificial intelligence, potentially challenging the dominance of advanced chip requirements in AI development and highlighting alternative approaches to achieving high-level AI capabilities with potentially lower costs.",
+        "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology"
     },
     {
-        "category": "Tech Economy / AI Application",
+        "category": "Biotech / AI Investment",
         "title": "Reid Hoffman Raises $24.6M for AI Cancer-Research Startup Manas AI",
-        "summary": "LinkedIn co-founder Reid Hoffman has raised $24.6 million for Manas AI, a new startup focused on AI-driven cancer research. He is collaborating with Siddhartha Mukherjee, author of 'The Emperor of All Maladies.' This substantial funding round underscores continued investor confidence in applying artificial intelligence to complex scientific and medical challenges. The venture brings together significant tech and medical expertise, aiming to accelerate breakthroughs in cancer diagnosis and treatment through innovative AI applications, potentially transforming oncology research.",
+        "summary": "LinkedIn co-founder Reid Hoffman has raised $24.6 million for Manas AI, a new startup focused on AI cancer research. Hoffman is co-founding the venture with Siddhartha Mukherjee, author of \"The Emperor of All Maladies.\" This significant investment highlights the increasing convergence of artificial intelligence and biotechnology, aiming to accelerate breakthroughs in critical fields like cancer treatment and discovery. It underscores the growing capital flow into AI applications for life sciences.",
         "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology"
     },
     {
         "category": "Tech Economy / AI Infrastructure",
-        "title": "Meta to Significantly Increase Spending on AI and Data Centers",
-        "summary": "Meta plans a significant increase in spending, projected to be between $60 billion and $65 billion, primarily allocated to artificial intelligence and a massive new data center. This surge in investment is the latest indication of accelerating capital expenditures by major tech companies in the AI sector. The move underscores Meta's commitment to scaling its AI capabilities and expanding the necessary infrastructure to support these ambitions, reflecting a broader industry trend of substantial investment into AI development and deployment.",
+        "title": "Meta Plans Up to $65 Billion Spending on AI and Data Centers",
+        "summary": "Meta plans to increase its spending significantly, projecting between $60 billion and $65 billion, for investments in artificial intelligence and a massive data center. This substantial financial commitment is the latest indication of accelerating investments by major tech companies into AI infrastructure. The move highlights Meta's strategic imperative to bolster its AI capabilities and expand its underlying physical infrastructure to support these advancements, signaling a race for AI dominance.",
         "link": "https://www.wsj.com/articles/meta-spending-ai-facebook-data-centers-9452a88f?mod=rss_Technology"
     },
     {
-        "category": "Tech Infrastructure / Manufacturing",
-        "title": "ASML's $400M Machine Powers Future of Chipmaking",
-        "summary": "A new machine from ASML, valued at $400 million and described as the size of a double-decker bus, is poised to power the future of chipmaking. This enormous, precision-milled contraption, weighing over 150 tons, integrates thousands of tubes, cables, and pressurized tanks. Its development signifies a critical advancement in semiconductor manufacturing technology, essential for producing the next generation of microprocessors. This investment underscores the escalating costs and complexity involved in pushing the boundaries of computing hardware, impacting global tech supply chains.",
-        "link": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/"
+        "category": "Global Tech Shift / E-commerce / Policy",
+        "title": "Canada Reviews Amazon Contracts After Quebec Layoffs",
+        "summary": "The Canadian government has warned Amazon.com that it is reviewing its business ties with the company's cloud-computing unit. This action follows Amazon's decision to shut down its warehouses in Quebec, which resulted in the layoff of 1,700 workers. The review signifies potential government scrutiny and policy repercussions for major tech companies' operational decisions that impact local economies and workforces, suggesting a growing assertiveness by national governments regarding tech giants' employment practices.",
+        "link": "https://www.wsj.com/articles/canada-to-review-amazon-contracts-after-quebec-layoffs-d458ea66?mod=rss_Technology"
     },
     {
-        "category": "AI Policy / Global Shifts",
-        "title": "Anthropic's Feud with US Government Highlights AI Policy Tensions",
-        "summary": "Anthropic is embroiled in its latest dispute with the U.S. government, stemming from its April announcement of the AI model Mythos 5, and subsequent revocation of public access to its most powerful models on June 12. This ongoing 'feud' highlights critical points of tension between leading AI developers and governmental oversight, particularly concerning model capabilities and control. The situation raises questions about regulation, national security implications of advanced AI, and the transparency of private AI research in a rapidly evolving technological and geopolitical landscape.",
-        "link": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/"
+        "category": "AI / Philanthropy / Health Tech",
+        "title": "Stripe, Anthropic, OpenAI Fund Initiative to Combat Respiratory Infections",
+        "summary": "Payment company Stripe, along with AI leaders Anthropic and OpenAI, is financially supporting a new effort aimed at preventing respiratory infections, including the common cold. This collaboration highlights a growing trend of major tech companies investing philanthropic capital and potentially leveraging technological insights to address global health challenges that lack effective preventive measures. Such initiatives underscore the broader societal impact ambitions of leading AI and tech firms.",
+        "link": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/"
     },
     {
-        "category": "AI / Medical Tech / Neuroscience",
-        "title": "Brain-Computer Interface Trials Accelerate, Showing Life-Changing Potential",
-        "summary": "Brain-computer interface (BCI) trials are rapidly advancing, exemplified by Casey Harrell, a man with ALS who has become a 'power user' of a brain implant for nearly three years. Harrell, paralyzed and unable to speak coherently, relies on the BCI to communicate. This development underscores significant progress in neurotechnology, offering life-changing capabilities for individuals with severe motor and speech impairments. The increasing prevalence of BCI trials signifies a major step towards integrating human thought with digital interfaces, promising future therapeutic and assistive applications.",
-        "link": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/"
+        "category": "AI Infrastructure",
+        "title": "Web Data Infrastructure Emerges to Fuel AI Scaling Needs",
+        "summary": "As AI booms and new use cases rapidly appear, enterprises require data at scale. However, much relevant information on the web is blocked or unstructured, limiting its utility for AI models. This challenge is driving the emergence of a dedicated web data infrastructure layer designed to unlock and structure this information, which is essential for capitalizing on AI's potential. This highlights a critical bottleneck and a developing solution in AI data supply chains.",
+        "link": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/"
+    },
+    {
+        "category": "Telecommunications / Renewable Energy Tech",
+        "title": "Sceye's Solar-Powered Platform Aims for Aerial Internet Delivery",
+        "summary": "Sceye, a New Mexico-based company, is preparing to deploy a 200-foot-long solar-powered craft by August. This platform will operate 18 kilometers above the ocean's surface, off the coast of Japan, with the goal of delivering improved internet access from the air. This innovative approach to telecommunications infrastructure could offer a new method for providing connectivity, particularly in remote or underserved areas, leveraging sustainable energy for persistent aerial presence.",
+        "link": "https://www.technologyreview.com/2026/06/24/1138771/solar-powered-platform-delivers-better-internet/"
     }
 ];
