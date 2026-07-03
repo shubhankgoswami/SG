@@ -1,152 +1,158 @@
 window.NEWS_DATA = [
     {
-        "category": "Tech Economy",
-        "title": "Tesla Sales Jump Globally in Q2 Amid European Recovery",
-        "summary": "Tesla delivered over 480,000 EVs globally in Q2 2026, marking a significant sales jump. This rebound was largely attributed to geographic expansion and the introduction of cheaper versions of its Model 3, Model Y, and Cybertruck, which helped offset declines in the United States. European sales particularly recovered, contributing significantly to the company's strong performance during the quarter.",
-        "link": "https://techcrunch.com/2026/07/02/tesla-saw-a-massive-sales-jump-in-the-second-quarter/"
+        "category": "AI Breakthroughs",
+        "title": "Zuckerberg: AI Agents Not Progressing as Fast as Hoped",
+        "summary": "Meta CEO Mark Zuckerberg stated in an internal meeting that the company's AI development efforts, particularly concerning AI agents, are not advancing as quickly as he had anticipated. This indicates potential challenges in the pace of innovation within one of the leading tech companies heavily invested in AI, highlighting possible hurdles in achieving ambitious AI development timelines.",
+        "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents- havent-progressed-as-quickly-as-hed-hoped/"
     },
     {
-        "category": "EV Market",
-        "title": "Rivian Boosts 2026 EV Sales Forecast",
-        "summary": "Rivian has increased its EV sales forecast for 2026, now anticipating shipping a few thousand more vehicles than it previously expected. This positive adjustment follows the successful launch of its R2 SUV last month, indicating strong market reception and production ramp-up for the electric vehicle manufacturer.",
-        "link": "https://techcrunch.com/2026/07/02/rivian-thinks-it-will-sell-more-evs-than-expected-this-year/"
+        "category": "AI Breakthroughs",
+        "title": "Quantum Computing Company IQM Goes Public, Admits Uncertainty",
+        "summary": "IQM, Europe's first publicly traded quantum company, has gone public on Nasdaq with a valuation of approximately $1.9 billion. Despite this milestone, the Finnish full-stack quantum company publicly acknowledges that the future of quantum technology remains uncertain, signaling the nascent and speculative nature of the quantum computing market and its long-term outlook.",
+        "link": "https://techcrunch.com/2026/07/02/iqm-europes-first-public-quantum-company-admits-the-future-of-the-tech-is-uncertain/"
     },
     {
-        "category": "AI Investment",
-        "title": "Indian Tycoon Bets $30M on AI Office Suite Rival",
-        "summary": "Indian tech tycoon Bhavin Turakhia has invested $30 million of his own money into Neo, his fifth venture. Neo aims to challenge established players like Microsoft Office and Google Apps by building an AI-powered alternative for enterprise software, signaling a significant push into the competitive AI productivity market.",
-        "link": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/"
+        "category": "AI Breakthroughs",
+        "title": "AI's Hidden Environmental Cost Strains Net-Zero Pledges",
+        "summary": "The rapid advancements in AI technology are making it increasingly difficult for major tech companies, including Amazon and Google, to achieve their stated net-zero pledges. This points to a significant hidden cost of AI development and deployment, raising concerns about the environmental sustainability of the burgeoning artificial intelligence industry and its impact on corporate climate goals.",
+        "link": "https://techcrunch.com/2026/07/02/a-warning-sign-about-ais-real-cost-courtesy-of-google-and-amazon/"
     },
     {
-        "category": "Tech Economy",
-        "title": "Bending Spoons Surges 40% on $18B IPO Debut",
-        "summary": "Italian company Bending Spoons, known for acquiring and revamping older internet brands such as AOL, Eventbrite, Evernote, Meetup, and Vimeo, saw its shares surge 40% on its first day of trading. The company's IPO valued it at a potential $18 billion, demonstrating strong market confidence despite a broader SaaS slump, with co-founders attributing their success to minimizing luck.",
-        "link": "https://techcrunch.com/2026/07/01/bending-spoons-defies-saas-slump-surges-40-on-first-day-of-trading/"
+        "category": "AI Breakthroughs",
+        "title": "Midjourney's Medical Scanner Revealed, Efficacy Unproven",
+        "summary": "Midjourney, known for its image generation AI, revealed a behind-the-scenes video of its \"dunk-tank ultrasound scanner\" designed for spas, which it hopes will revolutionize medicine with cheap, detailed, radiation-free imaging. However, the AI startup has yet to provide substantial proof that the futuristic medical scanner actually works, leaving many questions about its efficacy and practicality unanswered.",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video"
     },
     {
-        "category": "Digital Privacy",
-        "title": "WhatsApp Usernames Raise Impersonation Concerns",
-        "summary": "WhatsApp's new username feature, intended to improve user privacy, is already raising red flags regarding potential impersonation risks. Critics are questioning the effectiveness of Meta's safeguards in preventing malicious actors from misrepresenting themselves through the newly implemented username system, sparking privacy and security debates.",
-        "link": "https://techcrunch.com/2026/07/01/whatsapp-usernames-are-already-raising-impersonation-red-flags/"
+        "category": "AI Breakthroughs",
+        "title": "Specialized AI Cuts Document Review from 60 to 10 Days",
+        "summary": "Construction project management firm Trunk Tools developed a specialized three-layer AI architecture (perception, semantics, agents) for high-accuracy industry automation. This purpose-built stack, which ditches general-purpose models, has reduced document review cycles from 60 days to 10. The company's founder, Sarah Buchner, states their approach processes, structures, and maps data into a knowledge graph to train highly-relevant AI models.",
+        "link": "https://venturebeat.com/orchestration/trunk-tools-stack-cut-document-review-from-60-days-to-10-by-ditching-general-purpose-models"
     },
     {
-        "category": "Digital Privacy",
-        "title": "Apple's Hide My Email Feature Bug Exposes Addresses",
-        "summary": "A researcher claims to have discovered a bug in Apple's 'Hide My Email' feature that could potentially expose users' real email addresses. This alleged vulnerability could render the privacy-focused feature effectively useless, raising significant concerns about user data security and the integrity of Apple's privacy protections.",
-        "link": "https://techcrunch.com/2026/07/01/apples-hide-my-email-feature-has-a-bug-thats-been-exposing-real-email-addresses-researcher-claims/"
+        "category": "AI Breakthroughs",
+        "title": "Claude Fable 5 Outage Prompts Enterprise AI Hedging",
+        "summary": "Following the unexpected, temporary offline status of Anthropic's Claude Fable 5 due to a U.S. export-control order, new data indicates that two-thirds of enterprises had already implemented a hedging strategy for their AI models. This preemptive approach became mainstream after the incident underscored the risks associated with reliance on single, powerful models, prompting a rapid response in the competitive AI landscape.",
+        "link": "https://venturebeat.com/orchestration/enterprises-lost-claude-fable-5-for-a-few-weeks-new-data-shows-two-thirds-had-already-built-their-hedge"
     },
     {
-        "category": "AI Hardware",
-        "title": "SpaceX AI Device Prototype Denied by Elon Musk",
-        "summary": "SpaceX reportedly showcased a 'handset-like' AI device prototype to investors before its initial public offering, fueling speculation about the company's potential expansion into the wireless market. However, Elon Musk has since publicly denied these claims, stating that the reports of a SpaceX AI phone prototype are 'utterly false'.",
-        "link": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/"
+        "category": "AI Breakthroughs",
+        "title": "Alibaba AI Framework Cuts Token Use by 99%",
+        "summary": "Alibaba researchers developed SkillWeaver, an AI framework that significantly cuts agent token use by 99% by skipping the loading of every tool. Designed to address the challenge of routing subtasks to the right tools in complex enterprise AI systems, SkillWeaver creates an execution graph and uses a novel Skill-Aware Decomposition (SAD) technique with a feedback loop for iterative tool selection, enhancing efficiency in multi-tool AI ecosystems.",
+        "link": "https://venturebeat.com/orchestration/new-alibaba-ai-framework-skips-loading-every-tool-cutting-agent-token-use-99"
     },
     {
-        "category": "AI Governance",
-        "title": "OpenAI Proposes 5% Stake to US Government",
-        "summary": "OpenAI has reportedly floated the idea of giving the US government a 5 percent ownership stake in the company. This proposal aims to ease tensions with the Trump administration and address mounting public backlash against AI. CEO Sam Altman argued that providing the public with a financial interest in the company would be the most effective way to share the benefits of the AI boom.",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump"
-    },
-    {
-        "category": "Satellite Internet",
-        "title": "Amazon Leo Reaches Satellite Threshold for Service Launch",
-        "summary": "Amazon announced that its Project Kuiper (Amazon Leo) initiative now has enough satellites operating in low-Earth orbit to launch its Starlink competitor internet service. With 396 satellites deployed after the latest launch, the company has reached the necessary threshold to support continuous service across its initial latitudes, marking a significant step towards commercial operation.",
-        "link": "https://www.theverge.com/science/960563/amazon-leo-service-tipping-point"
-    },
-    {
-        "category": "Gaming Industry",
-        "title": "Sony to End PlayStation Disc Production by 2028",
-        "summary": "Sony has announced it will stop making physical discs for new PlayStation games starting January 2028, signaling a definitive shift towards digital-only distribution. This decision is viewed by some in the gaming community as a negative for gamers, impacting issues like game preservation and the future of physical game retail stores.",
-        "link": "https://www.theverge.com/games/960472/playstation-physical-games-discs-stop-production-preservation-retail-stores"
-    },
-    {
-        "category": "Gaming Industry",
-        "title": "Xbox Undergoing \"Reset\" with Layoffs and Studio Closures",
-        "summary": "Xbox is implementing significant changes, including looming layoffs and studio closures, as part of an announced 'Xbox reset.' CEO Asha Sharma and Chief Content Officer Matt Booty informed staff that the business faces substantial challenges, including a 3 percent 'accountability margin,' necessitating strategic restructuring and workforce reductions across the gaming division.",
-        "link": "https://www.theverge.com/games/959900/xbox-reset-layoffs-studio-closures"
-    },
-    {
-        "category": "Gaming Industry",
-        "title": "Xbox Testing Disc-to-Digital Feature Amid Industry Shift",
-        "summary": "Microsoft is reportedly developing a disc-to-digital feature that will allow Xbox owners to digitize their existing physical game collections. This initiative suggests that while Microsoft may eventually cease physical disc production for Xbox games, similar to Sony, it aims to provide a bridge for users to transition their libraries into a digital format.",
-        "link": "https://www.theverge.com/report/960173/microsoft-xbox-disc-to-digital-feature-physical-game-collection"
-    },
-    {
-        "category": "EV Market & Policy",
-        "title": "US Policy Shift Boosts China's Role in Affordable EVs",
-        "summary": "The repeal of US EV tax credits, which previously mandated domestically sourced materials, has inadvertently facilitated China's role in producing America\u2019s cheapest electric vehicles. Automakers like Slate are now transitioning to lower-cost batteries, perfected in China, reflecting how policy changes can influence global manufacturing strategies and supply chains for affordable EVs.",
-        "link": "https://www.wired.com/story/how-trump-helped-china-make-slate-americas-cheapest-ev/"
-    },
-    {
-        "category": "Consumer Tech",
-        "title": "Meta Charges Subscription for Smart Glasses Features",
-        "summary": "Meta is introducing a subscription model for advanced features on its smart glasses, signaling a new era in consumer technology. Users will now need to subscribe for 'expanded access' to the most advanced on-device capabilities, indicating a shift towards recurring revenue streams for features that were once expected with hardware purchases.",
-        "link": "https://www.wired.com/story/why-meta-is-charging-a-subscription-for-on-device-smart-glasses-features/"
-    },
-    {
-        "category": "AI Development Tools",
-        "title": "Z.ai Launches ZCode to Compete in AI Coding Market",
-        "summary": "Z.ai, the Beijing-based AI lab formerly known as Zhipu AI, has officially launched ZCode, a free desktop application described as an 'Agentic Development Environment' for its flagship GLM-5.2 large language model. This move marks an aggressive push into the fast-growing AI-powered coding tool market, positioning ZCode to directly compete with Cursor, Claude Code, GitHub Copilot, and Google's Antigravity.",
+        "category": "AI Breakthroughs",
+        "title": "Z.ai Launches ZCode for AI Coding Market",
+        "summary": "Beijing-based Z.ai, formerly Zhipu AI, has launched ZCode, a free desktop application described as an \"Agentic Development Environment\" for its GLM-5.2 large language model. ZCode, available on macOS, Windows, and Linux with bring-your-own-key support, marks Z.ai's aggressive entry into the AI-powered coding tool market, directly competing with established players like Cursor, Claude Code, GitHub Copilot, and Google's Antigravity.",
         "link": "https://venturebeat.com/technology/z-ai-launches-zcode-to-challenge-cursor-claude-code-and-github-copilot-in-ai-coding"
     },
     {
-        "category": "Enterprise AI Management",
-        "title": "Enterprise AI Faces \"Control Gap\" Due to Ownership Issues",
-        "summary": "Enterprise AI organizations are grappling with a widening 'control gap,' where ambition and spending on AI outpace visibility and governance capabilities. Research indicates that AI portfolios are expanding faster than they can be managed, with multiple platforms claiming to be the primary AI layer. A lack of clear ownership for AI across the stack is cited as the main barrier, leading to financial and operational failures from autonomous agents.",
+        "category": "AI Breakthroughs",
+        "title": "Enterprise AI Faces 'Control Gap' and Ownership Problems",
+        "summary": "A VentureBeat Pulse Research report highlights a significant \"control gap\" in enterprise AI organizations, where AI portfolios are expanding faster than governance capabilities. The core issue is an ownership problem, not a technology problem, with most organizations manually governing AI across contested platforms. This leads to a lack of visibility, accountability, and cost control, already resulting in financial and operational failures from autonomous agents.",
         "link": "https://venturebeat.com/resources/the-control-gap-enterprise-ai-organizations-have-an-ownership-problem-not-a-technology-problem-and-most-are-governing-it-by-hand"
     },
     {
-        "category": "AI Policy & Development",
-        "title": "US Lifts Export Controls, Restoring Global Access to Claude Fable 5",
-        "summary": "The U.S. Department of Commerce has withdrawn the emergency export controls it previously issued, leading Anthropic to restore global access to its powerful AI model, Claude Fable 5. This move de-escalates a feud with the Trump administration and allows Fable 5 to be made available again across the Anthropic ecosystem, including Claude Platform, Claude.ai, Claude Code, and Claude Cowork, after its temporary suspension.",
+        "category": "AI Breakthroughs",
+        "title": "Anthropic's Claude Fable 5 Restored Globally After Ban Lifted",
+        "summary": "Anthropic has restored global access to its powerful Claude Fable 5 AI model, along with Claude Mythos 5, after the U.S. Department of Commerce withdrew an emergency export control order issued on June 12, 2026. The ban, which temporarily suspended global access to the models, has been lifted, making Fable 5 available again across Anthropic's ecosystem including Claude Platform, Claude.ai, Claude Code, and Claude Cowork.",
         "link": "https://venturebeat.com/technology/anthropic-is-bringing-back-claude-fable-5-globally-after-us-lifts-export-control-order-where-can-enterprises-access-it"
     },
     {
-        "category": "AI Applications",
-        "title": "Square Enables ChatGPT/Claude Restaurant Orders with Low Fees",
-        "summary": "Square has launched a new integration that allows restaurants to accept orders placed directly from ChatGPT and Claude, without requiring any technical capabilities from the businesses. Consumers can now discover restaurants and seamlessly place orders within these AI platforms. Square is processing these AI-driven transactions at its typical online ordering fees (3.3% + $0.30 or 2.9% + $0.30), notably without charging the traditional marketplace commission fees, benefiting the food and beverage sector.",
-        "link": "https://venturebeat.com/technology/restaurants-can-now-accept-orders-placed-directly-from-chatgpt-and-claude-thanks-to-squares-new-low-fee-no-setup-integration"
+        "category": "AI Breakthroughs",
+        "title": "China's DeepSeek AI Impresses Silicon Valley",
+        "summary": "Silicon Valley is reportedly \"raving\" about DeepSeek AI, a Chinese startup that claims to have developed high-performing AI models cheaply without using the most advanced chips. This development is seen as \"amazing and impressive,\" suggesting that China's AI sector can achieve significant performance with potentially less reliance on cutting-edge hardware, posing a notable challenge in the global AI race.",
+        "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology"
     },
     {
-        "category": "Enterprise AI",
-        "title": "Morgan Stanley Halves Reconciliation Work with \"Less Autonomous\" AI",
-        "summary": "Morgan Stanley has successfully deployed AI agents in its crucial profit and loss (P&L) reconciliation workflow, cutting the work in half. The internal system, FIXR, operates as a 'co-worker' by keeping humans tightly in the loop, iteratively converting their decisions into repeatable rules for the system to apply. This approach, focusing on less autonomy, demonstrates an effective human-in-the-loop AI strategy for complex, accuracy-critical financial tasks.",
-        "link": "https://venturebeat.com/orchestration/morgan-stanley-cut-its-riskiest-reconciliation-job-in-half-by-making-its-agents-less-autonomous"
+        "category": "AI Breakthroughs",
+        "title": "Reid Hoffman Raises $24.6M for AI Cancer Startup",
+        "summary": "LinkedIn co-founder Reid Hoffman has raised $24.6 million for his new AI cancer-research startup, Manas AI. He is launching this venture with Siddhartha Mukherjee, author of \"The Emperor of All Maladies,\" signaling a significant investment by a prominent tech figure into leveraging artificial intelligence for drug discovery and medical advancements, specifically within oncology.",
+        "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology"
     },
     {
-        "category": "AI Development",
-        "title": "Anthropic Releases Claude Sonnet 5 at Discounted Price",
-        "summary": "Anthropic has launched Claude Sonnet 5, a new AI model designed to deliver near-flagship performance at mid-tier prices. Described as the 'most agentic Sonnet model yet,' it aims to provide cost-conscious enterprise developers with powerful agentic capabilities. This strategic release positions Anthropic favorably as the company races toward an anticipated initial public offering.",
-        "link": "https://venturebeat.com/technology/anthropic-launches-claude-sonnet-5-at-a-steep-discount-to-its-top-model-as-the-company-races-toward-a-blockbuster-ipo"
-    },
-    {
-        "category": "AI Applications",
-        "title": "Anthropic Unveils Claude Science for Research Support",
-        "summary": "Anthropic introduced Claude Science, a significant new product intended to support scientific research. Announced at an event for pharmaceutical executives, biotech founders, and researchers, Claude Science mirrors the functionality of Claude Code, enabling it to autonomously carry out meaningful work when provided with concise, high-level instructions, complete with access to relevant tools for scientific tasks.",
-        "link": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/"
-    },
-    {
-        "category": "EV Market",
-        "title": "BMW to Build New Electric SUV in South Carolina",
-        "summary": "BMW announced plans to construct a new electric SUV in South Carolina, reinforcing its commitment to electric vehicles. This strategic investment in manufacturing capacity comes even as some other automakers are reportedly pulling back from EV production plans after acknowledging billions of dollars in losses within the electric vehicle segment.",
-        "link": "https://www.nytimes.com/2026/06/30/business/bmw-electric-vehicles-south-carolina.html"
+        "category": "AI Breakthroughs",
+        "title": "Meta's Soaring AI & Data Center Investment",
+        "summary": "Meta plans to increase its spending to between $60 billion and $65 billion, primarily driven by massive investments in artificial intelligence and data center infrastructure. This substantial capital allocation highlights the social-media giant's accelerating commitment to AI, positioning it as a key player in the ongoing tech industry trend of expanding AI capabilities and underlying computational resources.",
+        "link": "https://www.wsj.com/articles/meta-spending-ai-facebook-data-centers-9452a88f?mod=rss_Technology"
     },
     {
         "category": "Tech Economy",
-        "title": "$180K Tech Salaries Insufficient in SF's AI Boom",
-        "summary": "In San Francisco's rapidly expanding AI era, even tech workers earning six-figure salaries of $180,000 are reportedly struggling to keep up with the soaring cost of living. As OpenAI and Anthropic prepare to go public, the emergence of a new 'AI elite' is exacerbating wealth disparities, causing some established tech workers to question their ability to remain in the city.",
-        "link": "https://www.nytimes.com/2026/06/29/technology/san-francisco-tech-salaries.html"
+        "title": "AI Hype Reaches New Peaks with Jersey Mike's IPO",
+        "summary": "The IPO documents for Jersey Mike's, a sandwich shop, have reportedly included mentions of AI, suggesting the extent to which artificial intelligence hype has permeated even industries with seemingly little direct connection to advanced tech. This observation serves as an indicator of the current state of market enthusiasm and potential over-inflated expectations surrounding AI.",
+        "link": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/"
     },
     {
-        "category": "AI Applications",
-        "title": "AI Transforming Political Campaigns and Voter Engagement",
-        "summary": "Artificial intelligence is fundamentally changing the landscape of political campaigning. Beyond generating public-facing images, campaigns are increasingly leveraging AI behind the scenes to analyze voter data, craft bespoke campaign materials, and write custom messages, thereby streamlining and personalizing their outreach efforts to constituents.",
-        "link": "https://www.nytimes.com/2026/06/29/us/politics/political-campaigns-ai-tech.html"
+        "category": "Tech Economy",
+        "title": "Hopper Fined $35M for Deceptive Hidden Fees",
+        "summary": "Travel app Hopper has agreed to pay $35 million to settle allegations from the FTC regarding deceptive \"dark patterns.\" The FTC claimed Hopper used misleading tactics to obscure fees and misrepresent the actual costs and benefits of its services, highlighting ongoing regulatory scrutiny of consumer protection and transparency in digital platforms, particularly within the travel sector.",
+        "link": "https://techcrunch.com/2026/07/02/travel-app-hopper-to-pay-35m-in-ftc-settlement-over-unfairly-charging-hidden-fees/"
     },
     {
-        "category": "AI Development",
-        "title": "China's DeepSeek AI Achieves High Performance Without Advanced Chips",
-        "summary": "Chinese upstart DeepSeek AI is gaining significant attention in Silicon Valley for its ability to train high-performing AI models efficiently and cheaply, notably without relying on the most advanced chips. This achievement is being hailed as 'amazing and impressive,' underscoring China's rapid advancements in AI development, potentially under resource-constrained conditions.",
-        "link": "https://www.wsj.com/articles/deepseek-ai-china-tech-stocks-explained-ee6cc80e?mod=rss_Technology"
+        "category": "Tech Economy",
+        "title": "Gadget Prices Soar Due to AI-Driven Chip Shortage",
+        "summary": "Consumer electronics, including phones, computers, and consoles, are experiencing significant price increases that are still climbing. This surge is attributed to an AI-driven chip shortage, indicating a widespread impact across the tech industry where increased demand for AI-specific components is creating scarcity and driving up costs for a broad range of gadgets.",
+        "link": "https://www.wired.com/story/we-are-in-the-knockout-round-of-price-increases-for-consumer-electronics/"
+    },
+    {
+        "category": "Tech Economy",
+        "title": "Bending Spoons IPO Values Old Internet Brands at $19B",
+        "summary": "Bending Spoons, an Italian company specializing in acquiring older internet brands, is set to go public this week. The anticipated valuation for the company, which owns assets like AOL, Vimeo, and Eventbrite, is approximately $19 billion, signaling continued investor interest in revitalizing established digital properties within the evolving tech economy.",
+        "link": "https://www.nytimes.com/2026/06/30/technology/bending-spoons-ipo-aol-vimeo-eventbrite.html"
+    },
+    {
+        "category": "Tech Economy",
+        "title": "Tesla Sales Surge 25% in Europe on Price Cuts",
+        "summary": "Tesla's sales experienced a 25% surge in the second quarter, primarily driven by a recovery in the European market. This rebound for the electric automaker was helped by recent price cuts, which successfully offset sales declines observed in the United States, indicating varying market dynamics and pricing strategies impacting electric vehicle adoption globally.",
+        "link": "https://www.nytimes.com/2026/07/02/business/tesla-electric-vehicle-auto-sales.html"
+    },
+    {
+        "category": "Tech Economy",
+        "title": "Canada Reviews Amazon Contracts Amid Quebec Layoffs",
+        "summary": "The Canadian government has announced it is reviewing its business ties with Amazon.com's cloud-computing unit following Amazon's decision to close its Quebec warehouses. This closure resulted in the layoff of 1,700 workers, prompting Canada's warning and scrutiny of the company's contracts, highlighting governmental response to significant labor changes by major tech firms.",
+        "link": "https://www.wsj.com/articles/canada-to-review-amazon-contracts-after-quebec-layoffs-d458ea66?mod=rss_Technology"
+    },
+    {
+        "category": "Major Global Shifts",
+        "title": "Pegasus Spyware Hacks EU Politician Investigating Industry",
+        "summary": "The phone of a European politician, who was serving on an EU committee investigating the spyware industry, was reportedly hacked with Pegasus spyware. This incident involved a government customer of NSO Group, the company behind Pegasus, and raises serious concerns about the abuse of sophisticated surveillance technology, directly impacting oversight efforts within the European Union.",
+        "link": "https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/"
+    },
+    {
+        "category": "Major Global Shifts",
+        "title": "Private Companies Fly Orbital Missions for US Space Force",
+        "summary": "Private space companies, specifically True Anomaly and Rocket Lab, are conducting \"Top Gun-style\" satellite fly-bys for the U.S. military. This development signifies a growing trend of private entities performing orbital missions for the U.S. Space Force, illustrating an increasing reliance on commercial space capabilities for national security and defense operations in orbit.",
+        "link": "https://techcrunch.com/2026/07/02/private-space-pilots-are-flying-orbital-missions-for-the-us-space-force/"
+    },
+    {
+        "category": "Major Global Shifts",
+        "title": "US Tech Ban Halts Polestar EV Sales for Dealerships",
+        "summary": "Electric car dealerships that invested in Polestar will be unable to sell the vehicles in the U.S. next year. This is due to the federal government denying an authorization that would have exempted Polestar from a Chinese tech ban, illustrating how geopolitical tensions and trade restrictions can significantly impact established business models and supply chains within the automotive industry.",
+        "link": "https://www.wired.com/story/when-the-law-kills-your-polestar-electric-car-dealership/"
+    },
+    {
+        "category": "Major Global Shifts",
+        "title": "Sony Erases Digital Content, Sparks Ownership Debate",
+        "summary": "Sony will remove some purchased movies and shows from PlayStation customers' libraries in September, reinforcing that digital purchases are more akin to long-term rentals than true ownership. This move underscores a significant concern regarding consumer rights in the digital age, highlighting the precarious nature of access to content once acquired through online platforms.",
+        "link": "https://www.wired.com/story/sony-erases-digital-content-from-libraries/"
+    },
+    {
+        "category": "Major Global Shifts",
+        "title": "Microsoft's Tax Haven Disclosure Highlights EU Directive Impact",
+        "summary": "A recent disclosure by Microsoft offers a rare insight into corporate tax haven strategies. This report comes as a new European directive is set to take effect, which will soon require other U.S. companies to provide similar reports. This signals an increased push for corporate transparency and a potential shift in international tax regulatory environments, particularly affecting large multinational corporations.",
+        "link": "https://www.nytimes.com/2026/07/03/technology/microsoft-europe-disclosure-tax-havens.html"
+    },
+    {
+        "category": "Major Global Shifts",
+        "title": "Tesla Driver Charged with Manslaughter in Autopilot Crash",
+        "summary": "A Tesla driver has been charged with manslaughter following a Texas crash that killed a woman inside her home. Front-door video footage showed the Tesla plowing through a driveway into the residence. This incident, involving a driver reportedly using Autopilot, raises critical questions about autonomous vehicle safety, driver responsibility, and the legal ramifications of AI-assisted driving systems.",
+        "link": "https://www.nytimes.com/2026/07/02/us/tesla-autopilot-crash-texas-manslaughter.html"
+    },
+    {
+        "category": "Major Global Shifts",
+        "title": "Data Centers Ordered to Use Backup Power Amid Heat Wave",
+        "summary": "Amid triple-digit temperatures across much of the U.S., the Trump administration has directed grid managers to mandate data centers utilize backup power, typically left unused, to alleviate electrical grid strain. This measure highlights the increasing vulnerability of critical digital infrastructure to climate events and the growing energy demands of data centers, necessitating emergency energy management strategies.",
+        "link": "https://www.nytimes.com/2026/07/02/business/energy-environment/electric-grid-data-centers-pjm.html"
     }
 ];
