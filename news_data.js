@@ -1,152 +1,152 @@
 window.NEWS_DATA = [
     {
-        "category": "Tech Economy & Investment",
-        "title": "AI Fuels Unicorn Surge",
-        "summary": "The tech landscape is witnessing a significant increase in startups achieving unicorn status, with almost 90 new unicorns minted this year. This investor frenzy is largely ignited by advancements and interest in artificial intelligence. The trend indicates a robust venture capital market and a focus on AI-driven innovation, signaling continued growth and investment in the technology sector as more companies reach valuations over a billion dollars.",
-        "link": "https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/"
-    },
-    {
-        "category": "AI Governance & Legal",
-        "title": "Midjourney Demands AI Transparency from Hollywood",
-        "summary": "In an ongoing legal dispute with three major Hollywood studios, Midjourney is seeking to compel these studios to disclose the specifics of their own AI usage. This move highlights increasing tensions and demands for transparency regarding AI adoption within creative industries. The outcome could set precedents for how AI tool providers and content creators navigate intellectual property and operational practices in the evolving landscape of generative AI.",
-        "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/"
-    },
-    {
-        "category": "Enterprise AI Policy",
-        "title": "Alibaba Flags Claude Code as High-Risk Software",
-        "summary": "Alibaba has reportedly classified Claude Code as high-risk software, leading to a ban on its use by employees. This decision by a major global tech company signals a growing concern over the security, proprietary data handling, or competitive implications associated with third-party AI development tools. Such internal policies could influence broader enterprise strategies for managing AI tool adoption and data governance, particularly in sensitive technological environments.",
-        "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/"
-    },
-    {
-        "category": "AI Competitive Landscape",
-        "title": "Mistral AI: The Open-Source OpenAI Challenger",
-        "summary": "Mistral AI, a company that provides open-source AI models, has secured substantial funding since its establishment in 2023. Positioned as a competitor to OpenAI, Mistral AI's stated ambition is to democratize \"frontier AI,\" making advanced artificial intelligence accessible to a wider audience. Its rapid growth and focus on open-source solutions mark it as a significant player in the evolving AI ecosystem, challenging dominant models.",
-        "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/"
+        "category": "Tech Economy & Workforce",
+        "title": "Microsoft Cuts 4,800 Jobs, Citing AI Displacement Fears",
+        "summary": "Microsoft reduced its global workforce by approximately 4,800 roles, or 2.1%, with significant cuts impacting its Xbox division and commercial sales. This marks the latest in a series of layoffs, fueling concerns that artificial intelligence is increasingly replacing human jobs. The company is reportedly prioritizing spending on AI, leading to these significant gaming cuts, which also involve spinning off four game studios to operate independently from Microsoft. These changes affect nearly every part of the Xbox division, initiating its new financial year.",
+        "link": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/"
     },
     {
         "category": "Cybersecurity & Geopolitics",
-        "title": "Spyware Investigator Hacked by Pegasus",
-        "summary": "A European politician, actively serving on an EU committee tasked with investigating the spyware industry, had their phone hacked using Pegasus spyware. The attack was perpetrated by a government customer of NSO Group. This incident underscores the severe and pervasive threat of state-sponsored spyware, even against those probing its misuse, raising critical questions about digital security and accountability in a globalized political landscape.",
-        "link": "https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/"
+        "title": "Canadian Spy Agency Hacked Criminals and Ransomware Gangs",
+        "summary": "Canada's spy agency disclosed in its annual report that it conducted hacking operations last year against drug traffickers, extremists, and a ransomware gang. These successful operations underscore the pressing national security threats confronting Canada and its key international allies. The report highlights the agency's active role in cyber defense and offense, targeting illicit activities that pose significant risks to national security and digital infrastructure.",
+        "link": "https://techcrunch.com/2026/07/06/canadian-spy-agency-says-it-hacked-drug-traffickers-extremists-and-a-ransomware-gang-last-year/"
     },
     {
-        "category": "AI & Creative Industries",
-        "title": "Fanfiction Community Grapples with AI Usage",
-        "summary": "The fanfiction community is experiencing internal conflict and a new movement against authors using generative AI for fanworks. The detection methods being deployed to identify AI-generated content are facing scrutiny, raising concerns that legitimate fanfic writers could be unfairly targeted. This widespread dissatisfaction with AI tools like Claude and ChatGPT highlights the ethical and authenticity debates surrounding AI's role in creative fields.",
-        "link": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector/"
+        "category": "AI & Innovation Hubs",
+        "title": "Station F Boosts Europe's AI Startup Ecosystem",
+        "summary": "Station F, the major Paris-based startup hub founded by French billionaire Xavier Niel, is scaling up its F/ai accelerator program. This initiative aims to solidify its position as a critical launchpad for Europe's most promising artificial intelligence startups. The program seeks to strengthen the region's AI ecosystem by providing a stepping stone for new ventures, fostering innovation, and helping emerging AI companies gain traction in the competitive global tech landscape.",
+        "link": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/"
     },
     {
-        "category": "Enterprise AI Efficiency",
-        "title": "Specialized AI Accelerates Document Review for Construction",
-        "summary": "Trunk Tools, a construction project management company, significantly reduced document review cycles from 60 days to 10 days by implementing a specialized AI architecture. Ditching general-purpose models, their three-layer system (perception, semantics, agents) is built on highly detailed data to address complex, proprietary documents and workflows in their vertical. This purpose-built stack prevents costly field errors and enables autonomous agents to reason over millions of pages, offering a blueprint for other industries to achieve high-accuracy automation.",
-        "link": "https://venturebeat.com/technology/trunk-tools-stack-cut-document-review-from-60-days-to-10-by-ditching-general-purpose-models"
+        "category": "Emerging Tech & Funding",
+        "title": "Even Realities Achieves Unicorn Status with $150M for Smart Glasses",
+        "summary": "Even Realities, a smart glasses maker founded by former Apple team members specializing in camera-free designs, has achieved a $1 billion valuation. This milestone follows a successful $150 million funding round led by Chinese tech giants Meituan and Tencent. The significant investment signals strong confidence in the company's innovative approach to wearable technology and the potential for discreet, advanced smart glasses in the rapidly evolving augmented reality market.",
+        "link": "https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/"
     },
     {
-        "category": "AI Strategy & Risk Management",
-        "title": "Enterprise AI Resiliency Tested by Claude Fable 5 Outage",
-        "summary": "The recent weeks-long outage of Anthropic\u2019s Claude Fable 5 model highlighted the importance of a hedged AI model strategy, with new data revealing two-thirds of enterprises already adopted this posture. A U.S. export-control order on June 12 pulled Claude Fable 5 offline for all customers without warning. This incident demonstrates why businesses are diversifying their AI capabilities to mitigate risks associated with reliance on single models or unexpected regulatory actions.",
-        "link": "https://venturebeat.com/orchestration/enterprises-lost-claude-fable-5-for-a-few-weeks-new-data-shows-two-thirds-had-already-built-their-hedge"
+        "category": "Gig Economy & AI Infrastructure",
+        "title": "Amazon's Mechanical Turk Halts New Customer Sign-ups",
+        "summary": "Amazon is discontinuing the acceptance of new customers for its Mechanical Turk platform, potentially signaling its eventual end. Mechanical Turk has been a critical crowdsourcing platform for various microtasks, including data labeling essential for AI development and human-in-the-loop processes. This move could indicate a strategic shift for Amazon in how it approaches large-scale task completion or reflects the evolving landscape of AI training data requirements, impacting both workers and the broader AI ecosystem.",
+        "link": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/"
     },
     {
-        "category": "AI Breakthroughs & Efficiency",
-        "title": "Alibaba's SkillWeaver Slashes AI Agent Token Use",
-        "summary": "Researchers at Alibaba have developed SkillWeaver, a new AI framework that significantly cuts agent token usage by 99% by skipping the loading of every tool. Addressing the challenge of routing subtasks to the right tools in complex enterprise AI workflows, SkillWeaver creates an execution graph for tasks and selects relevant skills. This compositional approach, featuring a feedback loop, distinguishes it from one-shot tool-routing methods, promising substantial efficiency gains for multi-tool AI ecosystems.",
+        "category": "AI & Society",
+        "title": "Wealthy Families Turn to AI for Children's Education",
+        "summary": "Despite widespread public distrust in artificial intelligence, a segment of America's wealthy population is increasingly opting for AI-powered education for their children over traditional schooling. Companies like Forge Prep and Alpha are serving this demand. This trend suggests a growing divide in educational approaches based on socioeconomic status and differing perceptions of AI's capabilities, potentially leading to new models of personalized learning for those who can afford it.",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep/"
+    },
+    {
+        "category": "Digital Rights & Governance",
+        "title": "ICE Watchdog Investigates Online Critics Over Doxing and Threats",
+        "summary": "The Office of Professional Responsibility, the internal watchdog for U.S. Immigration and Customs Enforcement (ICE), has opened over 100 cases to investigate online critics. These investigations stem from what ICE officials describe as 'incidents of doxing and threats' against ICE employees. This action highlights rising tensions between government agencies and online activists, raising significant concerns about digital privacy, freedom of speech, and the scope of government surveillance on public criticism.",
+        "link": "https://www.wired.com/story/ices-internal-watchdog-is-now-investigating-online-critics/"
+    },
+    {
+        "category": "Ethics of Technology & Markets",
+        "title": "Wildfire Prediction Markets Spark Ethical Concerns",
+        "summary": "New prediction markets are emerging that allow individuals to bet on the likelihood of a wildfire affecting their town. While leveraging data for predictive modeling, these markets have been labeled 'morally reprehensible' by wildfire survivors. Concerns are rising that such platforms could inadvertently increase the risk of arson. This development highlights a contentious intersection of financial speculation, data-driven predictions, and profound ethical issues surrounding disaster preparedness and community safety.",
+        "link": "https://www.wired.com/story/prediction-markets-let-you-bet-wildfire/"
+    },
+    {
+        "category": "Enterprise AI Strategy",
+        "title": "Expedia's AI Insights: Scaling AI Beyond Basic Predictions",
+        "summary": "Expedia's experience with billions of AI predictions offers key insights for the era of AI agents, emphasizing the difference between functional AI and scalable AI. The company highlights that velocity without strategic discipline is a liability, not an asset, and that building AI at scale means creating systems that consistently work, integrate across teams, and improve over time. As AI takes on autonomous decision-making, reliability, governance, and accountability are paramount, demanding robust operational principles.",
+        "link": "https://venturebeat.com/orchestration/what-billions-of-ai-predictions-taught-expedia-before-the-age-of-ai-agents/"
+    },
+    {
+        "category": "AI & Collective Intelligence",
+        "title": "AI-Powered Collective Intelligence Explores America's Innovations",
+        "summary": "America's 250th birthday became a testbed for AI-powered collective intelligence, aiming to facilitate large-scale debate and convergence on answers reflecting collective knowledge. The challenge involved asking 250 randomly selected Americans to identify the top three innovations contributed by the U.S. over 250 years, a feat typically impossible with traditional group dynamics. A new category of AI is being developed to overcome scaling limitations, enabling productive, thoughtful conversations and consensus-building at massive scales.",
+        "link": "https://venturebeat.com/technology/how-americas-250th-birthday-became-a-test-of-ai-powered-collective-intelligence/"
+    },
+    {
+        "category": "Applied AI & Efficiency",
+        "title": "Trunk Tools' Specialized AI Cuts Document Review by 83%",
+        "summary": "Trunk Tools, a construction project management company, has drastically cut document review cycles from 60 days to 10 by developing a specialized, three-layer AI architecture. This bespoke system, comprising perception, semantics, and agents, leverages highly-detailed data to achieve high-accuracy automation, moving beyond general-purpose models. The purpose-built stack has prevented costly field errors and empowered autonomous agents to reason over millions of pages of documentation, offering a blueprint for other industries grappling with complex, unstructured data.",
+        "link": "https://venturebeat.com/orchestration/trunk-tools-stack-cut-document-review-from-60-days-to-10-by-ditching-general-purpose-models/"
+    },
+    {
+        "category": "Enterprise AI Risk & Strategy",
+        "title": "Enterprises Hedged Against Claude Fable 5 Outage",
+        "summary": "New data indicates two-thirds of enterprises had diversified their AI model strategy before Anthropic\u2019s Claude Fable 5 was pulled offline for weeks due to a U.S. export-control order. This incident, impacting the market's most capable model without warning, reinforced the necessity of robust hedging strategies. Its return with tighter safeguards, coupled with China's Z.ai releasing its GLM-5.2 into the vacuum, underscores the volatile landscape of AI models and the criticality of multi-vendor approaches for business continuity.",
+        "link": "https://venturebeat.com/orchestration/enterprises-lost-claude-fable-5-for-a-few-weeks-new-data-shows-two-thirds-had-already-built-their-hedge/"
+    },
+    {
+        "category": "AI Efficiency & Frameworks",
+        "title": "Alibaba's SkillWeaver Cuts AI Agent Token Use by 99%",
+        "summary": "Alibaba researchers have introduced SkillWeaver, an AI framework designed to dramatically reduce AI agent token usage by 99% by intelligently skipping the loading of every tool. Addressing the challenge of routing subtasks in complex workflows, SkillWeaver builds an execution graph and selectively chooses the right skills for each node. Its innovative Skill-Aware Decomposition (SAD) uses a feedback loop for iterative vetting of tool candidates, distinguishing it from one-shot methods and promising significant efficiency and cost savings for multi-tool AI ecosystems.",
         "link": "https://venturebeat.com/orchestration/new-alibaba-ai-framework-skips-loading-every-tool-cutting-agent-token-use-99"
     },
     {
-        "category": "AI Competitive Landscape",
+        "category": "AI Development Tools",
         "title": "Z.ai Enters AI Coding Market with ZCode",
-        "summary": "Beijing-based Z.ai, formerly Zhipu AI, has launched ZCode, a free desktop \"Agentic Development Environment\" tailored for its GLM-5.2 large language model. This move marks an aggressive entry into the rapidly expanding AI-powered coding tool market, directly challenging established competitors such as Cursor, Claude Code, GitHub Copilot, and Google's Antigravity. ZCode supports macOS, Windows, and Linux, and offers bring-your-own-key configuration, intensifying competition in AI-driven software development.",
-        "link": "https://venturebeat.com/technology/z-ai-lunches-zcode-to-challenge-cursor-claude-code-and-github-copilot-in-ai-coding"
+        "summary": "Z.ai, the Beijing-based artificial intelligence lab, has launched ZCode, a free 'Agentic Development Environment' specifically built for its flagship GLM-5.2 large language model. This move signifies Z.ai's aggressive push into the rapidly growing AI-powered coding tool market, positioning itself to compete directly with established players such as Cursor, Claude Code, GitHub Copilot, and Google's Antigravity. ZCode is available across macOS, Windows, and Linux, supporting bring-your-own-key configurations to attract developers.",
+        "link": "https://venturebeat.com/technology/z-ai-launches-zcode-to-challenge-cursor-claude-code-and-github-copilot-in-ai-coding"
     },
     {
         "category": "Enterprise AI Governance",
-        "title": "Enterprise AI Faces Critical Control Gap",
-        "summary": "A new VentureBeat Pulse Research reveals that enterprise AI organizations face a significant \"control gap,\" primarily an ownership problem rather than a technology one. AI portfolios are expanding faster than governance capabilities, with many platforms claiming primary AI ownership. Most organizations lack the ability to confidently detect model failures in production, and governance is largely manual. This leads to increasing financial and operational failures from autonomous agents, highlighting the urgent need for clear accountability and robust cross-platform governance.",
+        "title": "AI 'Control Gap' Threatens Enterprise AI Ambitions",
+        "summary": "Enterprise AI organizations are experiencing a widening 'control gap,' with AI portfolios expanding much faster than their ability to govern them. Research reveals contested platforms, difficulty detecting model failures in production, and a lack of clear ownership for AI across the stack. This leads to ambition and spending outstripping visibility and cost control, resulting in operational and financial failures from autonomous agents. The central issue is an ownership problem, not merely a technological one, with governance often handled manually.",
         "link": "https://venturebeat.com/resources/the-control-gap-enterprise-ai-organizations-have-an-ownership-problem-not-a-technology-problem-and-most-are-governing-it-by-hand"
     },
     {
-        "category": "AI Regulation & Market Access",
-        "title": "Claude Fable 5 Returns Globally Following US Order Lift",
-        "summary": "Anthropic is restoring global access to its powerful Claude Fable 5 AI model, along with Claude Mythos 5, after the U.S. Department of Commerce withdrew its emergency export controls. The initial June 12 order had suspended global access to both models days after their introduction. Now, Fable 5 is available again across the Anthropic ecosystem, including Claude Platform, Claude.ai, Claude Code, and Claude Cowork, marking a critical development for enterprises relying on these frontier AI capabilities.",
-        "link": "https://venturebeat.com/technology/anthropic-is-bringing-back-claude-fable-5-globally-after-us-lifts-export-control-order-where-can-enterprises-access-it"
+        "category": "Information Integrity & AI Impact",
+        "title": "Wikipedia Fights for Internet's Integrity Amid Threats",
+        "summary": "Wikipedia, the world's largest repository of free knowledge, is reportedly confronting significant threats to its integrity, including challenges from political movements like MAGA, the influence of Artificial Intelligence, and foreign autocrats. A bibliophile ex-ambassador is stepping in to assist in this ongoing struggle. This situation underscores the critical battle for reliable information online and the growing pressures on platforms that aim to provide unbiased, verifiable content in an increasingly complex digital landscape influenced by AI and political agendas.",
+        "link": "https://www.nytimes.com/2026/07/05/business/media/wikipedia-ai-elon-musk.html"
     },
     {
-        "category": "Tech Economy & IPO",
-        "title": "Bending Spoons to Go Public at $19 Billion Valuation",
-        "summary": "Bending Spoons, an Italian company specializing in acquiring and revitalizing aging internet brands like AOL and Vimeo, is preparing to go public this week. The initial public offering is anticipated to value the company at a potential $19 billion. This IPO signifies a notable market trend of consolidating and monetizing established digital assets, offering a new avenue for growth within the tech economy beyond pure innovation.",
-        "link": "https://www.nytimes.com/2026/06/30/technology/bending-spoons-ipo-aol-vimeo-eventbrite.html"
-    },
-    {
-        "category": "Social Media & Competition",
-        "title": "Meta's Threads Matches X in Popularity",
-        "summary": "Meta's social platform, Threads, has achieved significant user parity with Elon Musk's X, now boasting 500 million users. Initially positioned as a direct competitor to X, Threads has increasingly adopted characteristics akin to Reddit. This surge in popularity represents a major shift in the social media landscape, demonstrating Meta's successful strategy in challenging established platforms and capturing a substantial audience.",
-        "link": "https://www.nytimes.com/2026/07/05/technology/threads-meta-twitter-x.html"
-    },
-    {
-        "category": "Corporate Finance & Regulation",
+        "category": "Corporate Governance & Global Economics",
         "title": "Microsoft Tax Haven Tactics Revealed Amid New EU Directive",
-        "summary": "A recent disclosure from Microsoft has provided a rare glimpse into its tax haven tactics. This revelation comes as a new European directive is set to take effect, requiring other U.S. companies to provide similar reports. The impending regulatory changes signal a global shift towards increased corporate tax transparency, potentially impacting the financial strategies of multinational tech giants operating within Europe.",
+        "summary": "Microsoft's recent disclosure has offered a rare look into corporate tax haven strategies. This transparency comes as a new European directive is set to mandate similar reporting from other U.S. companies. The directive aims to increase accountability and shed light on how multinational corporations manage their finances across different jurisdictions, potentially leading to greater scrutiny and changes in global tax practices, impacting major tech companies operating internationally.",
         "link": "https://www.nytimes.com/2026/07/03/technology/microsoft-europe-disclosure-tax-havens.html"
     },
     {
-        "category": "Auto Tech & Legal",
-        "title": "Tesla Autopilot Driver Charged with Manslaughter After Fatal Crash",
-        "summary": "A Tesla driver involved in a fatal Texas crash, where the vehicle was operating on Autopilot, has been charged with manslaughter. Front-door video footage captured the Tesla plowing into a house, killing a woman inside. This incident raises profound questions about liability and the legal ramifications of autonomous driving systems, setting a potentially critical precedent for how human oversight and AI responsibilities are determined in vehicular accidents.",
+        "category": "Autonomous Tech & Legal Affairs",
+        "title": "Tesla Autopilot Driver Charged with Manslaughter in Fatal Crash",
+        "summary": "A Tesla driver using the Autopilot system in Texas has been charged with manslaughter following a crash that killed a woman inside her home. Front-door video footage reportedly showed the Tesla plowing into the house through its driveway. This incident raises profound legal and ethical questions regarding the responsibilities of drivers and manufacturers concerning advanced driver-assistance systems, highlighting the ongoing challenges in regulating and ensuring the safe deployment of autonomous technologies.",
         "link": "https://www.nytimes.com/2026/07/02/us/tesla-autopilot-crash-texas-manslaughter.html"
     },
     {
-        "category": "Infrastructure & Tech Operations",
-        "title": "Data Centers Ordered to Use Backup Power Amid Heat Wave",
-        "summary": "Amid a historic heatwave causing triple-digit temperatures across much of the United States, data centers are being ordered to utilize backup power. The Trump administration wants grid managers to mandate the use of this often-unused backup capacity to alleviate strain on the electrical grid. This directive has significant implications for tech infrastructure, highlighting the vulnerability of critical data operations to climate events and the increasing demand for energy resiliency.",
+        "category": "Energy Infrastructure & Climate",
+        "title": "Data Centers Ordered to Use Backup Power Amid Heat Wave Grid Strain",
+        "summary": "To alleviate severe strain on the electrical grid during a widespread U.S. heat wave, the Trump administration has directed grid managers to mandate data centers utilize their backup power. This order, prompted by triple-digit temperatures, requires activation of often-unused power sources. The move underscores the immense energy consumption of data centers and the growing urgency for resilient infrastructure and adaptive energy policies to manage demand spikes exacerbated by climate change.",
         "link": "https://www.nytimes.com/2026/07/02/business/energy-environment/electric-grid-data-centers-pjm.html"
     },
     {
-        "category": "Auto Tech & Market",
-        "title": "Tesla European Sales Surge 25%",
-        "summary": "Tesla experienced a significant sales rebound in Europe during the second quarter, with sales surging 25%. This recovery was primarily driven by strategic price cuts in the region, which successfully offset sales declines observed in the United States. The performance highlights the dynamic and regionally varied nature of the electric vehicle market, demonstrating the impact of pricing strategies on consumer demand and market share for leading EV manufacturers.",
-        "link": "https://www.nytimes.com/2026/07/02/business/tesla-electric-vehicle-auto-sales.html"
+        "category": "Global AI Competition",
+        "title": "China's DeepSeek AI Achieves High Performance on Less Advanced Chips",
+        "summary": "China's DeepSeek AI is garnering significant attention and praise in Silicon Valley for its ability to train high-performing AI models cost-effectively, even without relying on the most advanced chips. Described as 'amazing and impressive,' DeepSeek's success demonstrates China's innovation capability in AI. This development challenges the conventional wisdom about necessary hardware for cutting-edge AI, potentially reshaping the competitive landscape and geopolitical dynamics of AI and semiconductor technology globally.",
+        "link": "https://www.wsj.com/articles/deepseek-ai-china-tech-stocks-explained-ee6cc80e?mod=rss_Technology"
     },
     {
-        "category": "AI Competitive Landscape",
-        "title": "China's DeepSeek AI Impresses Silicon Valley",
-        "summary": "A new made-in-China AI model, DeepSeek, is generating buzz in Silicon Valley, being described as \"amazing and impressive.\" Notably, DeepSeek achieved its high performance despite being developed without using the most advanced chips. This achievement underscores China's progress in AI innovation and its potential to develop competitive models with fewer hardware dependencies, signaling a shift in the global AI landscape and challenges to current chip-centric development paradigms.",
-        "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology"
-    },
-    {
-        "category": "AI & Healthcare Investment",
-        "title": "Reid Hoffman Backs AI Cancer Research with $24.6M",
-        "summary": "LinkedIn co-founder Reid Hoffman has raised $24.6 million for Manas AI, a new startup focused on AI cancer research. Hoffman co-founded the venture with Siddhartha Mukherjee, author of \"The Emperor of All Maladies.\" This significant investment highlights the increasing capital flow into AI applications within the healthcare and drug discovery sectors, signaling strong belief in AI's potential to revolutionize complex scientific and medical challenges, such as cancer treatment.",
+        "category": "AI in Health Tech",
+        "title": "Reid Hoffman's Manas AI Secures $24.6M for Cancer Research",
+        "summary": "LinkedIn co-founder Reid Hoffman has launched Manas AI, a new startup focused on AI-powered cancer research, securing $24.6 million in funding. Hoffman is collaborating with Siddhartha Mukherjee, the acclaimed author of 'The Emperor of All Maladies.' This substantial investment highlights increasing confidence in leveraging artificial intelligence to accelerate drug discovery and enhance cancer treatment research, signaling a significant push towards transformative advancements in the health technology sector from prominent figures.",
         "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology"
     },
     {
-        "category": "Tech Economy & AI Investment",
-        "title": "Meta Boosts AI Investment with $60-65B Spending Plan",
-        "summary": "Meta plans to increase its spending significantly, projecting between $60 billion and $65 billion, primarily on artificial intelligence and a massive data center. This announcement is the latest indication of tech companies' accelerating investments into AI, signaling a major capital expenditure push across the industry. Such large-scale commitments from major players like Meta underscore the strategic importance of AI development and infrastructure for future growth and competitive advantage.",
+        "category": "Tech Investment & AI Infrastructure",
+        "title": "Meta Plans $60-65 Billion Spending Surge on AI and Data Centers",
+        "summary": "Meta Platforms announced plans to significantly increase its capital expenditure to between $60 billion and $65 billion, primarily allocated for investments in artificial intelligence and the construction of massive data centers. This substantial financial commitment underscores the escalating trend among leading tech companies to invest heavily in foundational AI infrastructure. The move signals Meta's strategic prioritization of AI development and the expansion of its computational capacity necessary to support advanced AI models and services at scale.",
         "link": "https://www.wsj.com/articles/meta-spending-ai-facebook-data-centers-9452a88f?mod=rss_Technology"
     },
     {
-        "category": "Tech & Government",
-        "title": "Canada Reviews Amazon Contracts Post-Quebec Layoffs",
-        "summary": "Canada has issued a warning to Amazon.com, stating it will review business ties with the company\u2019s cloud-computing unit. This action follows Amazon\u2019s decision to close its warehouses in Quebec, resulting in the layoff of 1,700 workers. The government scrutiny indicates potential regulatory or economic repercussions for tech giants whose operational decisions impact local employment and public policy, highlighting evolving relationships between tech companies and national governments.",
+        "category": "Corporate Accountability & Labor",
+        "title": "Canada Reviews Amazon Contracts After Quebec Layoffs",
+        "summary": "Canada has informed Amazon.com that it will review its business contracts with the company\u2019s cloud-computing unit. This decision follows Amazon\u2019s closure of its warehouses in Quebec, which led to the layoff of 1,700 workers. The review signifies governmental scrutiny over corporate labor practices and economic impact, potentially leading to reassessments of Amazon's operational agreements within Canada amidst growing concerns about worker displacement and corporate social responsibility.",
         "link": "https://www.wsj.com/articles/canada-to-review-amazon-contracts-after-quebec-layoffs-d458ea66?mod=rss_Technology"
     },
     {
-        "category": "Industrial AI Applications",
-        "title": "AI Integrates into Critical Industrial Systems",
-        "summary": "While chatbots and image generators have captured public imagination, AI's most impactful applications are emerging in industrial sectors. In industries prioritizing physical infrastructure, operational continuity, and safety, AI is becoming a core operating layer. The application of AI to manage sprawling industrial systems, like turbines, and process constant streams of operational data demonstrates its crucial role in improving efficiency and reliability for critical infrastructure beyond consumer-facing tools.",
-        "link": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/"
+        "category": "Bio-Tech Breakthroughs",
+        "title": "Device Revives Donor Eyeballs, Enabling Eye Transplants",
+        "summary": "Researchers have developed a new device that can maintain the viability of eyeballs from deceased donors, a critical advancement for whole human eye transplantation. Previous attempts to transplant eyes have failed to restore vision due to rapid degeneration once removed from the body. This innovation offers a potential solution by preserving the donor eyes, making the complex surgical procedure more feasible and bringing the possibility of successful sight restoration through complete eye transplants closer to clinical reality.",
+        "link": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/"
     },
     {
-        "category": "AI Breakthroughs & Research",
-        "title": "Startup Tackles LLM Groupthink Problem",
-        "summary": "A new startup is addressing a significant challenge in large language models (LLMs): a tendency towards \"groupthink\" or predictable, non-random responses. When prompted for a random number between 1 and 10, LLMs like Claude, ChatGPT, and Gemini frequently default to 7, followed by 3 or 4, then 8 or 9. This issue, where models get stuck in a \"groupthink groove,\" highlights a fundamental limitation in current AI randomness and creativity, which the startup aims to resolve.",
+        "category": "AI Research & Development",
+        "title": "Startup Aims to Combat LLM 'Groupthink'",
+        "summary": "A new startup is tackling the 'groupthink' issue prevalent in Large Language Models (LLMs) such as Claude, ChatGPT, and Gemini, where they frequently produce predictable, non-random outputs. An example is the tendency to return '7' when asked for a random number between 1 and 10. The company's efforts focus on developing strategies to break these repetitive patterns, aiming to enhance the creativity, diversity, and genuine randomness of AI responses, thereby pushing the boundaries of next-generation AI capabilities.",
         "link": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/"
-    },
-    {
-        "category": "AI Product Launch & Applications",
-        "title": "Anthropic Unveils Claude Science for Researchers",
-        "summary": "Anthropic has launched Claude Science, its newest flagship product, designed to support scientific research. Introduced at an event for pharmaceutical executives, biotech founders, and researchers, Claude Science aims to function for science much like Claude Code does for software engineering. The model is capable of autonomously executing meaningful work from concise, high-level instructions and has access to various tools, signifying a major expansion of advanced AI capabilities into the scientific discovery process.",
-        "link": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/"
     }
 ];
