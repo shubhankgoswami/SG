@@ -1,128 +1,152 @@
 window.NEWS_DATA = [
     {
-        "category": "AI Security",
-        "title": "Savi Secures $7M to Combat Realistic AI Scams",
-        "summary": "Savi, a company focusing on combating realistic AI scams, has secured $7 million in seed funding to launch its new app for iPhone and Android. The application is designed to protect consumers from sophisticated AI-powered scams, such as those involving fabricated kidnappings demanding ransom. This funding and Tuesday's launch highlight a growing market response to the increasing threat posed by advanced AI-driven deceptive tactics, aiming to provide a protective layer against evolving cybercrimes.",
-        "link": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/"
+        "category": "AI Infrastructure & Optimization",
+        "title": "ZML Unveils Free AI Inference Software",
+        "summary": "French AI startup ZML, supported by Turing Award winner Yann LeCun, has launched ZML/LLMD. This new software aims to reduce the cost of running AI by speeding up inference across a multitude of AI chips. The release targets efficiency, potentially making advanced AI operations more economically viable for a broader range of users and organizations.",
+        "link": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/"
     },
     {
-        "category": "AI Cybercrime",
-        "title": "First 'AI-Run' Ransomware Attack Still Needed Human Oversight",
-        "summary": "While an AI agent technically executed a real-world ransomware attack for the first reported time, new details reveal the incident was not fully autonomous. A human operator was still responsible for selecting the victim, establishing the necessary infrastructure, and providing stolen credentials. This nuanced revelation clarifies that despite initial headlines, the debut of fully autonomous cybercrime has not yet occurred, emphasizing the continued requirement for human involvement in orchestrating sophisticated digital threats.",
-        "link": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/"
+        "category": "AI Investment & Funding",
+        "title": "SambaNova Secures $1B at $11B Valuation",
+        "summary": "AI chip maker SambaNova has successfully raised $1 billion, pushing its valuation to $11 billion. This significant funding round comes just months after Intel was reportedly considering acquiring the company for approximately $1.6 billion. The substantial new investment highlights continued strong investor confidence in the AI chip market and SambaNova's position within it, indicating aggressive growth and market expectations.",
+        "link": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/"
     },
     {
-        "category": "Consumer AI",
-        "title": "Solos Debuts Lighter, Camera-Less Smart Glasses with AI Assistant",
-        "summary": "Solos has unveiled its new AirGo A6 smart glasses, which prioritize a sleeker design and an AI assistant relying solely on voice interactions by foregoing cameras. This latest iteration marks a significant weight reduction, with the AirGo A6 weighing approximately 19 grams, a considerable drop from the 36-40 grams of its predecessor, the AirGo A5. This design choice highlights a trend towards integrating AI assistants into more discreet and privacy-conscious wearable technology, focusing on functionality over visual capture.",
-        "link": "https://www.theverge.com/tech/961711/solos-airgo-a6-smart-glasses-ai-assistant-privacy/"
+        "category": "Generative AI & Ethics",
+        "title": "Meta Launches AI Image Generator Muse Image",
+        "summary": "Meta has unveiled Muse Image, a new AI image generation model, as its latest effort to compete in the global artificial intelligence race. This model, which can create realistic images for users on platforms like Instagram and WhatsApp, has generated enthusiasm for applications in advertising and creator-based opportunities. However, the launch is also facing immediate user pushback concerning the potential use of their personal photos in the model's development or operation.",
+        "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/"
     },
     {
-        "category": "AI Breakthrough",
-        "title": "Anthropic's Claude Develops 'Consciousness-Like' Internal Workspace",
-        "summary": "Anthropic has published a research paper revealing that its Claude language models have spontaneously developed an internal structure, termed a 'J-lens' or 'global workspace,' that mirrors a leading theory of human consciousness. This finding, based on a new mathematical technique to peer inside Claude's neural network, is already reshaping how Anthropic monitors its AI systems for safety risks. The discovery adds significant fuel to the intensifying scientific debate surrounding whether machines can possess anything akin to a mind, marking a notable AI breakthrough.",
+        "category": "AI Market Dynamics",
+        "title": "Open Source AI Not Undermining Frontier Labs",
+        "summary": "The growing success of open-source AI models is not currently detrimental to frontier AI labs like Anthropic. Instead, these two segments of the AI landscape appear to be capturing distinct phases within the same lifecycle of AI development and adoption. This suggests a symbiotic or segmented market rather than a direct competitive threat, indicating different user bases or application stages for proprietary and open-source solutions.",
+        "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/"
+    },
+    {
+        "category": "Enterprise AI Strategy",
+        "title": "Microsoft Shifts to In-House AI Models to Cut Costs",
+        "summary": "Microsoft is adopting a cost-cutting strategy within its AI operations, following a trend seen among other major Silicon Valley tech companies. This involves an increased reliance on its internally developed AI models, rather than external solutions. This strategic shift indicates a move towards greater self-sufficiency in AI development and deployment, aiming to optimize spending and potentially leverage proprietary advancements more effectively.",
+        "link": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/"
+    },
+    {
+        "category": "Autonomous Vehicle Regulation",
+        "title": "New Jersey Robotaxi Bill Could Impact Tesla",
+        "summary": "New Jersey is considering a robotaxi law that could significantly affect the autonomous vehicle industry, particularly companies like Tesla. The long-standing debate revolves around whether cameras alone are sufficient for safe driverless operation, or if additional sensors like lidar and radar are necessary. Tesla has heavily invested in an AI- and camera-only approach, making this legislative development a critical point for its strategy and market access in the state.",
+        "link": "https://www.theverge.com/transportation/962309/new-jersey-robotaxi-bill-lidar-tesla/"
+    },
+    {
+        "category": "Geopolitical Cybersecurity",
+        "title": "War Game Simulates China Hack on US Water Supply",
+        "summary": "A confidential war game scenario explored the potential consequences of a mass disruption by China's Volt Typhoon hackers targeting the US water supply. Insurers playing out their response encountered a 'nightmare scenario' involving burst water mains and evacuated hospitals. This simulation highlights critical infrastructure vulnerability and the severe widespread impact of state-sponsored cyberattacks, urging a reassessment of national security and emergency preparedness against such threats.",
+        "link": "https://www.wired.com/story/what-happens-if-china-hacks-the-us-water-supply-war-game-volt- typhoon/"
+    },
+    {
+        "category": "AI Safety & Policy",
+        "title": "Ex-DeepMind Exec Warns of AI Arms Race Disaster",
+        "summary": "Verity Harding, a former DeepMind executive, asserts that the current nationalistic stance of the U.S. government regarding AI development indicates a potential progression towards a 'worst-case scenario' for the AI arms race. Her comments suggest concerns about the lack of international cooperation and the dangers inherent in prioritizing national advantage over global safety protocols in the rapid advancement of artificial intelligence.",
+        "link": "https://www.wired.com/story/verity-harding-ai-arms-race-dangers-anthology/"
+    },
+    {
+        "category": "Enterprise AI Applications",
+        "title": "Slackbot Integrates with Salesforce for Comprehensive AI Tasks",
+        "summary": "Five years post-acquisition, Salesforce and Slack are merging capabilities as Slackbot now integrates with the entire Salesforce platform. Utilizing Model Context Protocol (MCP) servers, Slackbot can access CRM data, Tableau analytics, Data 360 profiles, and third-party apps via conversational prompts. This allows salespersons, for example, to perform complex tasks like pulling CRM data, generating charts, and sending DocuSigns directly from a chat, streamlining enterprise workflows.",
+        "link": "https://venturebeat.com/orchestration/slacks-slackbot-can-now-pull-your-crm-data-generate-charts-and-send-docusigns-all-from-a-chat-message"
+    },
+    {
+        "category": "Enterprise AI Challenges",
+        "title": "Addressing Enterprise AI Agent Adoption Hurdles",
+        "summary": "Discussions at VentureBeat's AI Impact event, led by Red Hat's Brian Gracely, highlighted the practical challenges enterprises face when scaling agentic AI. Key issues include cost discipline, security vulnerabilities unique to autonomous systems, and organizational resistance that can hinder widespread adoption beyond initial pilots. Despite leaders' anxieties about falling behind, Gracely suggests organizations often learn faster than expected once they begin building, emphasizing the need to proactively address these production-level problems.",
+        "link": "https://venturebeat.com/security/the-real-cost-security-and-culture-problems-behind-enterprise-ai-agents"
+    },
+    {
+        "category": "AI Adoption & Leadership",
+        "title": "Content, Governance Key to Enterprise AI Success",
+        "summary": "A Box report, surveying 1,640 IT decision-makers, reveals that content access, governance, and platform flexibility are critical differentiators for enterprise AI leaders. The survey found a rapid shift, with organizations describing themselves as advanced or leading edge soaring from 8% to 64% in one year. Eighty percent reported a notable return on AI investment (at least 10% improvement), with over half seeing measurable business impact within six months, underscoring the importance of foundational elements for AI success.",
+        "link": "https://venturebeat.com/orchestration/box-survey-why-enterprise-ai-leaders-are-outperforming-their-peers"
+    },
+    {
+        "category": "AI Agent Accessibility",
+        "title": "Anthropic Expands Claude Cowork to Mobile and Web",
+        "summary": "Anthropic has launched Claude Cowork on mobile and web, a strategic move to bridge the gap between developer-centric AI coding agents and the larger market of knowledge workers. Starting in beta for Max subscribers, this expansion transforms Cowork into a cross-device platform where tasks can begin on a laptop, continue autonomously, and be reviewed from a phone, even with the app closed. This reflects Anthropic's focus on non-coding users and ubiquitous access.",
+        "link": "https://venturebeat.com/technology/anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-data-shows-most-users-arent-coding"
+    },
+    {
+        "category": "AI Infrastructure & Databases",
+        "title": "Startups Adopt Flexible Databases for Agentic AI Stacks",
+        "summary": "Digital-native startups are moving away from traditional rigid databases to address the 'architectural drag' of the agentic AI era. Legacy systems struggle with variable schemas, vector embeddings, real-time retrieval, and multi-tenant scaling required by AI agents. Companies like Huntr, Modelence, and Tavily are adopting unified platforms like MongoDB Atlas, which offers native vector search, hybrid search, and managed autoscaling, demonstrating a shift towards agent-native data layers designed for AI capabilities and document flexibility.",
+        "link": "https://venturebeat.com/data/digital-native-startups-are-ditching-rigid-databases-for-their-agentic-stacks"
+    },
+    {
+        "category": "AI Research & Consciousness",
+        "title": "Anthropic's Claude Develops 'Consciousness-Like' Workspace",
+        "summary": "Anthropic researchers have published a study revealing that their Claude language models have spontaneously developed an internal structure, termed a 'J-lens' or 'workspace,' which resembles influential theories of human consciousness. Using a new mathematical technique, researchers peered into Claude's neural network to discover this verbalizable representation. This finding is already influencing how Anthropic monitors AI systems for safety risks and contributes to the ongoing scientific debate about whether machines can possess any form of mind.",
         "link": "https://venturebeat.com/technology/anthropics-new-j-lens-reveals-a-silent-workspace-inside-claude-that-mirrors-a-leading-theory-of-consciousness"
     },
     {
-        "category": "Global AI Competition",
-        "title": "Tencent's Hy3 Model Challenges Rivals with Open Apache 2.0 License",
-        "summary": "Tencent's Hunyuan team has released the full version of Hy3, a 295-billion-parameter Mixture-of-Experts (MoE) model with 21 billion active parameters, under the permissive Apache 2.0 license. This strategic move eliminates previous licensing obstacles that excluded enterprises in regions like the EU, UK, and South Korea. Hy3 demonstrates strong performance against competitors like GLM-5.2, notably at half the size, though coding performance needs improvement. This signals a significant shift in the competitive landscape for open-weight AI models, broadening access to powerful Chinese AI technology.",
+        "category": "Open-Source AI & Geopolitics",
+        "title": "Tencent Releases Apache-Licensed Hy3 AI Model",
+        "summary": "Tencent's Hunyuan team has released Hy3, a 295-billion-parameter Mixture-of-Experts (MoE) model with 21 billion active parameters, under the permissive Apache 2.0 license. This licensing change removes prior geographical restrictions that had limited adoption of strong Chinese open-weight models in regions like the EU, UK, and South Korea. Hy3 reportedly outperforms GLM-5.2 in most areas, despite being half its size, though it doesn't surpass it in coding, marking a significant entry into the global open-model community.",
         "link": "https://venturebeat.com/technology/tencents-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-size-and-wins-everywhere-except-coding"
     },
     {
-        "category": "Enterprise AI",
-        "title": "Expedia Shares Lessons from Scaling AI Before Agent Era",
-        "summary": "Expedia emphasizes the critical distinction between AI that functions initially and AI that truly scales and endures over time. The company highlights that successful AI at scale requires systems that continuously improve, extend beyond individual teams and use cases, and operate with discipline. As AI agents increasingly take autonomous actions on behalf of travelers, expectations for reliability, governance, and accountability become paramount. Expedia's extensive experience in applying AI and machine learning across the traveler journey underscores the necessity of a strategic, disciplined approach to long-term AI development.",
-        "link": "https://venturebeat.com/orchestration/what-bilions-of-ai-predictions-taught-expedia-before-the-age-of-ai-agents"
-    },
-    {
-        "category": "AI Social Impact",
-        "title": "AI-Powered Collective Intelligence Tested for America's 250th",
-        "summary": "A new category of AI-powered collective intelligence platforms is demonstrating the ability to scale complex discussions and debates far beyond traditional group limits. For America\u2019s 250th birthday, this technology could hypothetically convene 250 randomly selected Americans to collectively identify the top three innovations the nation has contributed. This approach aims to accurately synthesize collective knowledge, wisdom, values, and sensibilities, offering a structured method for large groups to achieve thoughtful consensus, addressing the inherent unscalability of conventional real-time conversations.",
-        "link": "https://venturebeat.com/technology/how-americas-250th-birthday-became-a-test-of-ai-powered-collective-intelligence"
-    },
-    {
-        "category": "Specialized AI",
-        "title": "Trunk Tools' Custom AI Cuts Document Review from 60 to 10 Days",
-        "summary": "Trunk Tools, a construction project management company, has dramatically reduced document review times from two months to ten days by developing a specialized, three-layer AI architecture. This architecture, comprising perception, semantics, and agents, was purpose-built to navigate the complexities of industry-specific documents, proprietary schemas, and implicit workflows that general-purpose models struggle with. The company's approach, based on highly-detailed data and a knowledge graph, has also prevented costly field errors and empowered autonomous agents to reason over millions of pages of documentation, showcasing the power of specialized AI in vertical industries.",
-        "link": "https://venturebeat.com/orchestration/trunk-tools-stack-cut-document-review-from-60-days-to-10-by-ditching-general-purpose-models"
-    },
-    {
-        "category": "AI Policy & Strategy",
-        "title": "Enterprises Hedged Against Claude Fable 5 Ban, Data Shows",
-        "summary": "Two-thirds of enterprises had already implemented hedged AI model strategies, a decision validated by the recent, unannounced U.S. export-control order that temporarily pulled Anthropic\u2019s Claude Fable 5 offline. The leading model was unavailable to all customers from June 12 until its return this week, now with stricter safeguards. This incident occurred as China's Z.ai released its open-weights GLM-5.2 model, filling the market vacuum. The episode highlights the critical importance for enterprises to diversify their AI model dependencies to mitigate geopolitical and regulatory risks, reinforcing the mainstream adoption of multi-model strategies.",
-        "link": "https://venturebeat.com/orchestration/enterprises-lost-claude-fable-5-for-a-few-weeks-new-data-shows-two-thirds-had-already-built-their-hedge"
-    },
-    {
-        "category": "AI Agent Research",
-        "title": "Alibaba AI Framework Cuts Agent Token Use by 99% with SkillWeaver",
-        "summary": "Alibaba researchers have developed SkillWeaver, a new AI framework that significantly reduces agent token usage by 99% by selectively loading tools for complex workflows. The framework addresses the challenge of agents managing hundreds of tools by creating an execution graph for tasks and intelligently choosing relevant skills for each step. SkillWeaver also introduces Skill-Aware Decomposition (SAD), a novel technique using a feedback loop to enable agents to iteratively fetch and vet tool candidates. This compositional approach, unlike one-shot tool-routing, enhances efficiency and autonomous orchestration in multi-tool AI ecosystems.",
-        "link": "https://venturebeat.com/orchestration/new-alibaba-ai-framework-skips-loading-every-tool-cutting-agent-token-use-99"
-    },
-    {
-        "category": "US-China Tech Race",
-        "title": "AI Distillation Emerges as Key Battleground in US-China Tech Race",
-        "summary": "A.I. distillation has become a contentious topic in the technological competition between the U.S. and China, with American companies accusing Chinese competitors of unfairly copying their A.I. systems. This technique, which has existed for years, is now at the forefront of the race for artificial intelligence dominance. The complaints highlight growing concerns over intellectual property protection and fair competitive practices in the rapidly advancing AI landscape, as both nations intensify efforts to lead in AI development and deployment.",
+        "category": "AI Geopolitics & Technology Transfer",
+        "title": "AI Distillation Fuels US-China Tech Race Concerns",
+        "summary": "AI distillation, a technique that has existed for years, has become a contentious issue in the U.S.-China AI race. U.S. companies are expressing concerns that competitors in China are unfairly replicating their AI systems using this method. This highlights challenges in protecting intellectual property and maintaining a competitive edge in advanced AI development, raising questions about technology transfer and ethical practices amidst the escalating global competition.",
         "link": "https://www.nytimes.com/2026/07/06/technology/ai-distillation-china.html"
     },
     {
-        "category": "AI Business Models",
-        "title": "Alibaba's Popular AI Models Face Monetization Challenge",
-        "summary": "Alibaba's artificial intelligence models have achieved global acclaim and widespread adoption among developers. However, the Chinese company faces a significant challenge in monetizing these successful AI tools, primarily because they are open source. This open-source approach allows anyone to freely use and modify the models, fostering innovation and broad reach but simultaneously creating hurdles for converting technological prowess into direct revenue streams. This situation highlights a common dilemma in the evolving AI landscape where accessibility often complicates profitability.",
+        "category": "Open-Source AI Economy",
+        "title": "Alibaba\u2019s Open-Source AI Success Struggles with Monetization",
+        "summary": "Alibaba's AI models have achieved widespread popularity among developers globally. However, the company faces challenges in effectively monetizing these models because they are open source, allowing them to be freely used and modified by anyone. This scenario underscores a key dilemma in the open-source AI ecosystem: while fostering rapid adoption and innovation, it complicates direct revenue generation from the underlying technology, impacting profitability strategies for leading developers.",
         "link": "https://www.nytimes.com/2026/07/06/business/alibaba-ai-qwen.html"
     },
     {
-        "category": "Tech Economy",
-        "title": "Microsoft Lays Off Thousands at Xbox, Prioritizes AI Spending",
-        "summary": "Microsoft has announced layoffs affecting thousands of Xbox employees and the closure of several game studios. These cuts are part of wider restructuring efforts within the company, with a stated strategic prioritization of investments in artificial intelligence. This move signifies a major shift in Microsoft's resource allocation, indicating a stronger focus on AI development and integration across its business units, even at the expense of established divisions like gaming, reflecting a broader industry trend towards AI-centric growth.",
+        "category": "Tech Economy & AI Prioritization",
+        "title": "Microsoft Lays Off Xbox Staff, Prioritizes AI",
+        "summary": "Microsoft has initiated widespread layoffs affecting thousands of Xbox employees and resulting in the closure of game studios. These cuts are part of broader reductions across the company, driven by a strategic re-prioritization of spending towards artificial intelligence. This move signals a significant shift in Microsoft's investment focus, underscoring the company's commitment to advancing its AI initiatives even at the cost of traditional divisions within its vast portfolio.",
         "link": "https://www.nytimes.com/2026/07/06/technology/microsoft-xbox-layoffs-ai.html"
     },
     {
-        "category": "Autonomous Vehicle Safety",
-        "title": "Tesla Autopilot Driver Charged with Manslaughter in Texas Crash",
-        "summary": "A Tesla driver has been charged with manslaughter following a fatal crash in Texas where the vehicle was allegedly operating on Autopilot. A front-door video camera captured the Tesla veering off its path and plowing into a house through its driveway, resulting in the death of a woman inside her home. This incident brings renewed scrutiny to the safety and ethical implications of advanced driver-assistance systems like Autopilot, raising critical questions about autonomous vehicle technology's role in accidents and the legal accountability of their operators.",
+        "category": "Global Shifts & Regulation",
+        "title": "Businesses Eye Regulatory Volatility Amid SCOTUS Ruling",
+        "summary": "A recent Supreme Court ruling affirming presidential authority to fire independent regulators without cause has introduced increased volatility for industries, particularly those that prefer stable enforcement environments. Businesses are now expressing concerns about the potential politicization of U.S. agencies as former President Trump gains more influence over these bodies. This shift could lead to unpredictable regulatory changes and impact long-term business planning across various sectors.",
+        "link": "https://www.nytimes.com/2026/07/07/technology/scotus-agencies-companies-regulation.html"
+    },
+    {
+        "category": "AI Regulation & Policy",
+        "title": "Government Reverses Ban on Powerful AI Models",
+        "summary": "The government has reversed its most significant attempt to control access to powerful new AI models, particularly evidenced by the 'Fable Ban' reversal. This development offers insights into the evolving dynamics of government oversight and regulation within the rapidly advancing artificial intelligence sector. It highlights the complexities and challenges involved in balancing innovation with control over cutting-edge AI technologies, impacting who can access and utilize these advanced systems.",
+        "link": "https://www.nytimes.com/2026/07/03/podcasts/fable-ban-reversed-dr-dana-suskind-on-parenting-with-ai-prediction-market-drama.html"
+    },
+    {
+        "category": "Autonomous Vehicle Safety & Legal",
+        "title": "Tesla Autopilot User Charged with Manslaughter",
+        "summary": "A Tesla driver involved in a fatal Texas crash, where the vehicle was operating on Autopilot, has been charged with manslaughter. Front-door video footage reportedly captured the Tesla plowing into a house, resulting in the death of a woman inside. This incident marks a significant legal development regarding the responsibility and safety implications of advanced driver-assistance systems, potentially setting precedents for autonomous vehicle technology and its users.",
         "link": "https://www.nytimes.com/2026/07/02/us/tesla-autopilot-crash-texas-manslaughter.html"
     },
     {
-        "category": "Energy & Infrastructure",
-        "title": "Data Centers Ordered to Use Backup Power Amid Heat Wave Grid Strain",
-        "summary": "As triple-digit temperatures grip much of the United States, the Trump administration has mandated that grid managers require data centers to utilize their backup power systems. This directive aims to alleviate severe strain on the electrical grid caused by the ongoing heat wave, ensuring energy supply stability. Data centers, which typically consume vast amounts of electricity, often have backup generators that remain unused. Their deployment is a critical measure to prevent potential outages and maintain essential services during periods of peak energy demand.",
+        "category": "Energy Infrastructure & Tech Operations",
+        "title": "Data Centers Mandated to Use Backup Power Amid Heat Wave",
+        "summary": "In response to triple-digit temperatures across much of the United States, the Trump administration has mandated that grid managers require data centers to activate their backup power systems. This directive aims to alleviate strain on the electrical grid during the severe heat wave by utilizing backup capacity that typically remains unused. The measure highlights the increasing impact of climate-related events on critical energy infrastructure and the operational demands on large tech facilities.",
         "link": "https://www.nytimes.com/2026/07/02/business/energy-environment/electric-grid-data-centers-pjm.html"
     },
     {
         "category": "Global AI Competition",
-        "title": "Silicon Valley Praises China's DeepSeek AI for Efficiency",
-        "summary": "China's DeepSeek AI is gaining significant attention and praise in Silicon Valley, being described as 'amazing and impressive.' The Chinese upstart claims to have developed high-performing AI models cost-effectively, even without relying on the most advanced chips available. This development highlights China's growing capabilities in artificial intelligence, demonstrating that competitive AI models can be trained with less cutting-edge hardware. It intensifies the global AI race and presents a new challenge to established AI leaders regarding efficiency and accessibility, prompting closer examination of its underlying technology.",
-        "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology"
+        "title": "China's DeepSeek AI Shakes Up Global Competition",
+        "summary": "DeepSeek AI, a Chinese upstart, is making waves in Silicon Valley with its claims of training high-performing AI models cheaply and without relying on the most advanced chips. The models are described as 'amazing and impressive' despite their resource-efficient development. This development signals a significant competitive advancement from China, demonstrating that formidable AI capabilities can be achieved through alternative methods, potentially shifting the dynamics of the global AI arms race and chip dependency.",
+        "link": "https://www.wsj.com/articles/deepseek-ai-china-tech-stocks-explained-ee6cc80e?mod=rss_Technology"
     },
     {
-        "category": "AI Funding & Biotech",
-        "title": "Reid Hoffman Raises $24.6M for AI Cancer-Research Startup Manas AI",
-        "summary": "Reid Hoffman, co-founder of LinkedIn, has successfully raised $24.6 million in funding for his new artificial intelligence cancer-research startup, Manas AI. Hoffman is collaborating with Siddhartha Mukherjee, the Pulitzer-winning author of 'The Emperor of All Maladies,' on this venture. The substantial seed funding underscores a growing trend of significant investment into AI applications within the biotech and healthcare sectors, particularly for complex challenges like cancer research, aiming to leverage advanced AI capabilities for drug discovery and medical breakthroughs.",
+        "category": "AI & Healthcare Investment",
+        "title": "Reid Hoffman Backs AI Cancer Research with $24.6M",
+        "summary": "LinkedIn co-founder Reid Hoffman has raised $24.6 million for his new AI cancer-research startup, Manas AI. He is partnering with Siddhartha Mukherjee, author of 'The Emperor of All Maladies,' on this venture. The substantial investment highlights the increasing focus on leveraging artificial intelligence for breakthroughs in medical research, particularly in combating complex diseases like cancer, attracting significant capital and prominent figures from both tech and science fields.",
         "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology"
     },
     {
-        "category": "Tech Economy",
-        "title": "Meta to Boost Spending on AI and Data Centers to $65 Billion",
-        "summary": "Meta, the social-media giant, announced plans to significantly increase its capital expenditure, projecting between $60 billion and $65 billion in spending. This substantial investment is primarily directed towards artificial intelligence initiatives and the construction of massive data centers. This move is the latest indication of the accelerating trend among major tech companies to pour vast resources into AI development and supporting infrastructure, signaling a strategic prioritization of AI as a core driver for future growth and innovation across the technology sector.",
+        "category": "AI Infrastructure Investment",
+        "title": "Meta Plans Massive AI and Data Center Spending Hike",
+        "summary": "Meta is projecting a significant increase in its spending, estimating between $60 billion and $65 billion, primarily allocated towards artificial intelligence initiatives and the development of massive data centers. This announcement serves as the latest indication of tech companies' escalating investments in AI infrastructure. The substantial capital commitment underscores Meta's strategy to bolster its foundational capabilities for advancing AI, which is expected to drive its future product and service offerings.",
         "link": "https://www.wsj.com/articles/meta-spending-ai-facebook-data-centers-9452a88f?mod=rss_Technology"
-    },
-    {
-        "category": "AI & Wealth Distribution",
-        "title": "Sam Altman's OpenAI Stake Proposal Re-Emerges",
-        "summary": "Sam Altman\u2019s long-discussed proposal for Americans to share in the wealth generated by artificial intelligence is once again under the spotlight. Recent reports indicate that the OpenAI CEO is in discussions regarding a plan to distribute a $300 stake in the company to every American family. This initiative aims to address concerns about wealth concentration resulting from rapid AI advancement and ensure a broader societal benefit from technological progress, reflecting ongoing debates about the economic impact and equitable distribution of AI's future gains.",
-        "link": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/"
-    },
-    {
-        "category": "AI Infrastructure",
-        "title": "IT Leaders Advised to Focus on Foundational AI Architecture for Scaling",
-        "summary": "With the rapid advancement of AI capabilities and the shift towards agentic systems, organizations are continuously expanding their AI use cases, which introduces new risks for IT leaders. The challenge lies in making strategic investments that will remain valuable as the technology evolves. This necessitates that IT leaders prioritize the foundational elements of AI architecture. A strong focus on these core components is crucial for effectively scaling AI deployments, mitigating future risks, and ensuring that current technological investments yield sustained growth and innovation within the enterprise.",
-        "link": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/"
-    },
-    {
-        "category": "AI Business Operations",
-        "title": "Achieving Operational Excellence with AI Through Established Frameworks",
-        "summary": "As AI advances, organizations are turning to established frameworks like Lean Six Sigma and Business Process Management (BPM) to achieve operational excellence. These methodologies, historically valued for bringing structure and clarity to complex operations, are now being adapted to integrate AI. Lean Six Sigma's emphasis on statistical rigor and quality control, alongside BPM's end-to-end process mapping, offers a repeatable way to deploy AI effectively. This strategic integration helps businesses leverage AI to streamline operations, enhance efficiency, and ensure consistent improvement in an increasingly AI-driven environment.",
-        "link": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/"
     }
 ];
