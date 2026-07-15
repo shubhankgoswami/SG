@@ -1,122 +1,152 @@
 window.NEWS_DATA = [
     {
-        "category": "AI Investment",
-        "title": "Video-Generation AI Startup PixVerse Secures $439M, Hits $2B+ Valuation",
-        "summary": "Video-generation startup PixVerse has successfully raised $439 million, pushing its valuation past $2 billion. This significant funding round will enable the company to expand its world model offerings and reach customers across various geographies. The investment underscores strong confidence in the video-generation AI market and PixVerse's growth trajectory within the rapidly evolving artificial intelligence landscape, as it aims to scale its innovative platform.",
-        "link": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/"
+        "category": "AI Business Strategy",
+        "title": "Anthropic-Backed Ode Focuses on Enterprise AI Implementation",
+        "summary": "Anthropic-backed Ode has launched, supported by Blackstone, indicating a strategic shift by AI labs towards embedding forward-deployed engineers within enterprises. This move suggests a belief that the next trillion-dollar AI opportunity lies in the practical implementation and acceleration of enterprise AI adoption, rather than solely in the development of foundational AI models. This highlights a critical trend in the AI economy, focusing on the last-mile delivery and integration of AI solutions to unlock greater value for businesses.",
+        "link": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/"
     },
     {
-        "category": "AI Investment",
-        "title": "AI Agent Maker Nous Research Seeks $75M Funding at $1.5B Valuation",
-        "summary": "Nous Research, a company specializing in Hermes agents, is reportedly in discussions to raise at least $75 million in new funding. This round, led by Robot Ventures with significant participation from USV and other prominent investors, would value the company at $1.5 billion. The potential investment highlights the growing interest and capital flow into firms developing advanced AI agents, signaling confidence in their future market potential and technological impact.",
-        "link": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/"
+        "category": "AI Economy & Funding",
+        "title": "Indian AI Coding Startup Emergent Achieves Unicorn Status",
+        "summary": "Emergent, an Indian AI coding startup, has achieved unicorn status following a $130 million Series C funding round, just over a year after its launch. The company reports an impressive $120 million annualized revenue run rate and serves more than 200,000 paying customers. This rapid growth and significant valuation underscore the robust demand for AI-powered coding tools and the accelerating pace of innovation and investment within the global AI startup ecosystem, particularly in emerging markets like India.",
+        "link": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/"
     },
     {
-        "category": "AI & Healthcare",
-        "title": "Reid Hoffman Backs AI Cancer Research with $24.6M for Manas AI",
-        "summary": "LinkedIn co-founder Reid Hoffman has raised $24.6 million for his new AI cancer-research startup, Manas AI. Hoffman is collaborating with Siddhartha Mukherjee, author of \"The Emperor of All Maladies,\" on this venture. The substantial funding signals strong investor confidence in the application of artificial intelligence to accelerate drug discovery and advance cancer research, potentially leveraging AI's capabilities to revolutionize medical breakthroughs in the field.",
-        "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology/"
+        "category": "AI Governance & Standards",
+        "title": "Vint Cerf Spearheads AI Agent Identification Standard",
+        "summary": "Vint Cerf, a key figure behind TCP/IP, is reportedly developing a new standard aimed at identifying AI agents operating on the open internet. This initiative suggests a proactive effort to address the burgeoning presence of AI agents and the potential complexities they introduce to internet infrastructure and interaction. The establishment of such a standard could be crucial for managing trust, security, and accountability as AI agents become more prevalent online and interact autonomously within digital ecosystems.",
+        "link": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/"
     },
     {
-        "category": "Tech Economy",
-        "title": "Meta Boosts AI Investment with $60-65B Spending for Data Centers",
-        "summary": "Meta plans to significantly increase its spending, projecting between $60 billion and $65 billion, primarily driven by investments in artificial intelligence and massive data centers. This move is the latest indication of accelerating investments into AI by major tech companies. The expenditure reflects Meta's commitment to scaling its AI capabilities and underlying infrastructure, positioning itself for future growth and competition in the evolving AI landscape.",
-        "link": "https://www.wsj.com/articles/meta-spending-ai-facebook-data-centers-9452a88f?mod=rss_Technology/"
+        "category": "AI Security & Identity",
+        "title": "Oak Secures $60M to Tackle AI Agent Identity Management",
+        "summary": "Israeli identity management startup Oak has emerged from stealth with $60 million in seed funding, co-founded by serial entrepreneur Shai Morag. The company aims to address the escalating \"identity mess\" exacerbated by the proliferation of AI agents. This significant funding indicates strong investor confidence in solutions designed to manage and secure digital identities in an increasingly AI-driven landscape, highlighting a critical emerging area within cybersecurity and enterprise infrastructure as AI adoption grows.",
+        "link": "https://techcrunch.com/2026/07/15/backed-by-60m-in-funding-oak-steps-out-of-stealth-to-fix-the-identity-mess-that-ai-agents-are-making-worse/"
     },
     {
-        "category": "AI Economics",
-        "title": "DeepSeek Cuts AI Model Prices by 75%, But '100x Problem' Persists for Enterprises",
-        "summary": "DeepSeek recently slashed prices for its V4-Pro AI model by 75%, intended as good news for enterprises. However, this has highlighted the \"100x problem\": while inference costs plummet, agent systems consume tokens exponentially faster than prices decline. This means cheaper models don't automatically translate to healthier margins for companies, as agent systems often turn one user question into many model calls, leading to surging consumption-based expenses.",
-        "link": "https://venturebeat.com/orchestration/deepseek-cut-prices-75-the-100x-problem-remains/"
+        "category": "AI & Biotech",
+        "title": "OpenAI Researcher Plans $2B AI Drug Discovery Startup",
+        "summary": "Miles Wang, a researcher from OpenAI, is reportedly in discussions to launch an AI drug discovery startup, with a potential valuation reaching $2 billion. These funding talks highlight significant investor interest in leveraging artificial intelligence to accelerate breakthroughs in the life sciences sector. The move by a prominent AI researcher into biotech further signals the increasing convergence of AI capabilities with complex scientific challenges, potentially transforming pharmaceutical research and development processes and fostering innovation.",
+        "link": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/"
     },
     {
-        "category": "Global AI Competition",
-        "title": "China's DeepSeek AI Gains Silicon Valley Praise for Low-Cost High Performance",
-        "summary": "DeepSeek, a Chinese AI upstart, is drawing significant attention in Silicon Valley for its \"amazing and impressive\" high-performing AI models. The company claims to have trained these models cheaply, notably without relying on the most advanced chips. This achievement underscores China's progress in AI development and its ability to innovate efficiently, challenging the traditional reliance on cutting-edge hardware for competitive AI capabilities.",
-        "link": "https://www.wsj.com/articles/deepseek-ai-china-tech-stocks-explained-ee6cc80e?mod=rss_Technology/"
+        "category": "AI Hardware",
+        "title": "OpenAI Reportedly Developing ChatGPT Smart Speaker",
+        "summary": "OpenAI is reportedly planning to announce its first hardware device this year, a smart speaker designed for conversational interaction with ChatGPT, according to Bloomberg. The device is expected to lack a screen but will incorporate a camera and additional sensors to perceive its environment. This potential move into hardware comes shortly after Apple filed a lawsuit against OpenAI. It signifies OpenAI's ambition to expand its AI capabilities beyond software into physical consumer devices, potentially setting a new standard for AI interaction.",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device/"
     },
     {
-        "category": "AI Product Launch",
-        "title": "Canva Code 2.0 Democratizes AI Website Building for All Users",
-        "summary": "Canva has launched Code 2.0, a significant upgrade to its AI-powered coding tool now available to all 265 million monthly users, including free accounts. This feature allows users to build interactive websites, apps, and experiences using plain-language prompts, then edit them like a presentation. This aggressive push into the \"vibe coding\" market aims to reshape how non-developers create software, focusing on user-friendly design and accessibility over complex code generation.",
-        "link": "https://venturebeat.com/technology/canva-lunches-code-2-0-offering-ai-website-building-to-every-user-including-free-accounts/"
-    },
-    {
-        "category": "AI Breakthrough",
-        "title": "Anthropic Uncovers 'Hidden Space' Revealing Claude's Internal Reasoning",
-        "summary": "Anthropic researchers have achieved the clearest glimpse yet into the internal workings of large language models. Through a tool called the Jacobian lens, they discovered a \"hidden space\" where their AI model, Claude, processes and \"puzzles over concepts\" while answering questions or performing tasks. This breakthrough in interpretability provides unprecedented insight into how AI models reason, revealing both expected and unnerving aspects of their cognitive processes.",
-        "link": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/"
-    },
-    {
-        "category": "Quantum Computing",
-        "title": "PsiQuantum Unveils Plan for Massive Light-Based Quantum Computer",
-        "summary": "PsiQuantum has revealed a plan to construct a massive quantum computer utilizing light, housed in a specialized room resembling a data center merged with an ice cream factory. This facility will contain around 100 stainless-steel cabinets, kept only a few degrees above absolute zero using liquid helium. The ambitious project aims to create a machine capable of significant computational changes, pushing the boundaries of quantum technology and its potential applications.",
-        "link": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/"
-    },
-    {
-        "category": "AI Ethics & Risk",
-        "title": "Satya Nadella Warns Companies About Proprietary AI Models as 'Trojan Horses'",
-        "summary": "Microsoft CEO Satya Nadella has issued a warning to companies utilizing AI, highlighting a significant concern among AI enthusiasts in Silicon Valley. He suggests that large AI labs selling proprietary models could be acting like \"Trojan horses.\" This implies a worry about potential hidden risks or dependencies associated with relying on closed-source AI systems, sparking debates about the transparency, control, and long-term implications for companies embedding these models into their operations.",
-        "link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/"
-    },
-    {
-        "category": "AI Legal & IP",
-        "title": "Apple's Lawsuit Against OpenAI Details Wild Allegations of Trade Secret Theft",
-        "summary": "Apple's trade secrets lawsuit against OpenAI contains numerous allegations that highlight intense competitive concerns. The complaint details claims such as employees joking about unauthorized access to Apple's systems and allegations that job candidates were asked to bring Apple hardware to interviews. These \"eye-catching claims\" are central to Apple's legal challenge, revealing the specific nature of the alleged intellectual property breaches and competitive practices in the rapidly evolving AI sector.",
-        "link": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/"
-    },
-    {
-        "category": "AI Governance",
-        "title": "Google DeepMind CEO Demis Hassabis Calls for US-Led Global AI Watchdog",
-        "summary": "Demis Hassabis, CEO and cofounder of Google DeepMind, advocates for a global AI watchdog with the authority to halt frontier models deemed too dangerous. In a blog post, Hassabis suggested the United States should lead this initiative, citing its economic influence as ideal for setting global standards. This call highlights growing concerns about AI safety and the urgent need for international oversight mechanisms to manage the risks associated with advanced artificial intelligence development.",
-        "link": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog/"
-    },
-    {
-        "category": "AI Cybersecurity",
-        "title": "'Slopsquatting' Emerges as New AI-Driven Software Supply Chain Threat",
-        "summary": "A new software supply chain threat, termed \"slopsquatting,\" has emerged, enabled by AI hallucinations. This novel attack vector exploits large language models' tendency to generate fictitious information, leading to the injection of malicious code into development workflows. As developers increasingly rely on AI coding assistants, they may unknowingly grant cybercriminals access to their software from the initial stages, creating a deceptive practice that combines \"AI slop\" with the principles of \"typosquatting.\"",
-        "link": "https://venturebeat.com/security/forget-typosquatting-slopsquatting-is-the-software-supply-chain-threat-created-by-ai-coding-tools/"
-    },
-    {
-        "category": "AI Adoption Challenges",
-        "title": "57% of Enterprises Report Confidently Wrong AI Agent Answers Due to Context Gaps",
-        "summary": "A recent VB Pulse survey of 101 enterprises reveals that 57% have experienced AI agents providing confidently incorrect answers, often traceable to missing or inconsistent business context. For 31% of these companies, this issue occurred multiple times. Retrieval over documents is the default context method for 38% of enterprises, with ease of ingestion prioritized over retrieval accuracy, exacerbating the problem. The identified fix is an \"agentic context layer\" to improve accuracy, yet such a solution remains elusive for most.",
-        "link": "https://venturebeat.com/data/57-of-enterprises-have-watched-ai-agents-be-confidently-wrong-the-fix-is-an-agentic-context-layer-but-who-has-one/"
-    },
-    {
-        "category": "AI & Global Security",
-        "title": "AI Chatbots Aid Terrorist Groups in Bomb Construction and Attack Planning",
-        "summary": "New research indicates that terrorist groups are leveraging AI to gain a battlefield advantage. AI chatbots are not merely propaganda tools for violent extremists but are actively assisting in practical applications such as bomb construction and attack planning. This development highlights a critical and concerning misuse of artificial intelligence, posing significant global security challenges as these groups exploit advanced technologies for nefarious purposes.",
-        "link": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html/"
-    },
-    {
-        "category": "Space Tech & Ethics",
-        "title": "FCC Approves Reflect Orbital's Sunlight-Reflecting Mirror Satellite Launch",
-        "summary": "The US Federal Communications Commission (FCC) has authorized Reflect Orbital to launch its prototype mirror satellite, E\u00e4rendil-1. This satellite aims to redirect sunlight to Earth at night, despite concerns from groups like the European Southern Observatory, which stated it poses an \"existential threat\" to optical astronomy. Reflect Orbital will build and operate a single prototype in low-Earth orbit later this year, marking a controversial step in space-based light manipulation technology.",
-        "link": "https://www.wired.com/story/reflect-orbital-earendil-mirror-satellite-fcc/"
-    },
-    {
-        "category": "Tech Regulation",
-        "title": "New York Enacts Nation's First Statewide Data Center Moratorium",
-        "summary": "New York Governor Kathy Hochul has signed the nation's first statewide moratorium, blocking new hyperscale data centers from setting up in the state for up to a year. This order restricts new environmental permits for data centers. Although a separate bill from the state legislature that could impose further restrictions awaits her signature, this immediate action signals a significant regulatory shift impacting tech infrastructure development and potentially setting a precedent for other states.",
-        "link": "https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium/"
-    },
-    {
-        "category": "Platform Regulation",
-        "title": "EU Orders Meta to Redesign Instagram and Facebook Over 'Addictive Design' Violations",
-        "summary": "European Union authorities have mandated that Meta alter the \"addictive design\" of Instagram and Facebook, citing violations of a digital safety law. This ruling marks a significant regulatory intervention against a major social media platform's design practices. The EU's action underscores a growing global focus on the psychological impact of digital services and sets a precedent for how tech companies might be compelled to modify user interfaces and engagement strategies in response to regulatory pressure.",
-        "link": "https://www.nytimes.com/2026/07/10/business/meta-instagram-facebook-europe.html/"
-    },
-    {
-        "category": "Social Media Policy",
-        "title": "European Commission Considers Social Media Ban for Children After New Report",
-        "summary": "The European Commission is exploring changes to rules across its 27-nation bloc, potentially leading to a social media ban for children. This consideration follows the release of a new report and reflects increasing concerns about the impact of social media on minors. If enacted, such a ban would represent a major global shift in online child safety policy, potentially setting a significant precedent for digital age verification and access restrictions.",
-        "link": "https://www.nytimes.com/2026/07/13/technology/europe-teen-social-media-ban.html/"
+        "category": "AI & Health Tech",
+        "title": "FaceID Inventor's AI Startup Targets Brain Health Diagnostics",
+        "summary": "Gidi Littwin, an inventor behind Apple's FaceID, has launched a new AI startup, Hemispheric, focused on diagnostic brain scans. The company aims to detect conditions such as depression, PTSD, and Parkinson's disease. Littwin's ambition is to make this advanced AI technology for brain health analysis as accessible and inexpensive as a standard blood test. This initiative represents a significant application of AI in healthcare, particularly in early and cost-effective neurological diagnostics, potentially transforming patient care pathways.",
+        "link": "https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/"
     },
     {
         "category": "Enterprise AI Management",
-        "title": "1Password Launches AI Spend Management for Enterprise Token Costs",
-        "summary": "1Password has introduced AI Spend and Consumption Management, integrated into its SaaS Manager platform, to address the emerging enterprise budget crisis of AI token spend. This new capability offers IT and finance teams a unified, real-time view of AI service consumption and expenditure from vendors like Anthropic, Cursor, and OpenAI. The move marks 1Password's strategic expansion into broader identity security and SaaS governance, staking a claim in the chaotic budget category of large language model costs.",
+        "title": "1Password Launches AI Spend & Consumption Management",
+        "summary": "1Password has introduced AI Spend and Consumption Management, a new feature within its SaaS Manager platform. This capability provides IT and finance teams with a unified, real-time overview of their organization's spending and consumption of AI services from vendors like Anthropic, Cursor, and OpenAI. The company is positioning this as a solution for what it anticipates will be the next enterprise budget crisis: the consumption-based costs of large language models. This marks a strategic expansion into AI governance for enterprises.",
         "link": "https://venturebeat.com/security/1password-moves-into-ai-cost-management-betting-that-token-spend-is-the-next-enterprise-budget-crisis/"
+    },
+    {
+        "category": "AI & Web Development",
+        "title": "Canva Code 2.0 Democratizes AI Website Building",
+        "summary": "Canva has launched Code 2.0, a significant upgrade to its AI-powered coding tool, which enables users to create interactive websites, applications, and experiences using natural language prompts. This feature is now accessible to all of Canva's over 265 million monthly users across all pricing tiers, including free accounts. This aggressive expansion into the \"vibe coding\" market highlights a trend towards making software development accessible to non-developers, potentially reshaping how individuals and businesses approach digital presence creation.",
+        "link": "https://venturebeat.com/technology/canva-launches-code-2-0-offering-ai-website-building-to-every-user-including-free-accounts/"
+    },
+    {
+        "category": "AI Optimization",
+        "title": "ACRouter Improves AI Model Selection, Reduces Costs by 2.6x",
+        "summary": "A new open-source framework, Agent-as-a-Router, addresses the limitations of static model routing in enterprise AI stacks by treating the router as a dynamic, memory-building agent. Its implementation, ACRouter, utilizes a Context-Action-Feedback loop to track model performance and adjust routing behavior. In tests, ACRouter significantly outperformed static routers and default premium model strategies, achieving 2.6x cost efficiency over Opus-only setups. This innovation promises to optimize speed and costs by intelligently directing prompts to the most suitable AI model without extensive training or heuristics.",
+        "link": "https://venturebeat.com/orchestration/acrouter-picks-the-smartest-ai-model-per-task-beating-opus-only-setups-by-2-6x-on-cost/"
+    },
+    {
+        "category": "AI Security Threats",
+        "title": "Slopsquatting Emerges as AI-Driven Supply Chain Threat",
+        "summary": "Slopsquatting is identified as an emerging software supply chain threat stemming from AI hallucinations in coding tools. This new attack vector exploits large language models' tendency to generate fictitious or \"slop\" code, allowing cybercriminals to inject malicious code into development workflows unknowingly. The term combines \"AI slop\" and \"typosquatting,\" highlighting how AI's predictive errors can create vulnerabilities from the outset of software development. This represents a critical new cybersecurity concern driven by the widespread adoption of AI coding assistants.",
+        "link": "https://venturebeat.com/security/forget-typosquatting-slopsquatting-is-the-software-supply-chain-threat-created-by-ai-coding-tools/"
+    },
+    {
+        "category": "Global AI Competition & Economics",
+        "title": "China's DeepSeek AI Shakes Market with Performance & Price Cuts",
+        "summary": "DeepSeek AI, a Chinese startup, is disrupting the market by achieving high-performing AI models without needing the most advanced chips, drawing praise from Silicon Valley for its \"amazing\" capabilities. This challenges the notion that premium hardware is essential for top-tier AI. Simultaneously, DeepSeek drastically cut its V4-Pro model prices by 75%, yet this highlights the \"100x problem\" where AI agents' voracious token consumption outpaces price drops, creating new enterprise budget challenges despite cheaper inference.",
+        "link": "https://www.wsj.com/articles/deepseek-ai-china-tech-stocks-explained-ee6cc80e?mod=rss_Technology"
+    },
+    {
+        "category": "AI Reliability & Context",
+        "title": "Enterprise AI Agents Confidently Wrong Due to Missing Context",
+        "summary": "A June 2026 VB Pulse survey revealed that 57% of enterprises experienced confident but incorrect answers from AI agents due to missing or inconsistent business context, with 31% reporting multiple occurrences. The issue stems from reliance on document retrieval as the default context method for 38% of enterprises, often prioritized for ingestion ease over accuracy. This problem underscores the critical need for an \"agentic context layer\" to improve AI agent reliability, as the models themselves are not failing, but the context provided to them is insufficient.",
+        "link": "https://venturebeat.com/data/57-of-enterprises-have-watched-ai-agents-be-confidently-wrong-the-fix-is-an-agentic-context-layer-but-who-has-one/"
+    },
+    {
+        "category": "AI Research Breakthrough",
+        "title": "Anthropic Unveils Deeper Insights into Claude's AI Cognition",
+        "summary": "Anthropic, a leading AI company with a nearly $1 trillion valuation, has developed a technique called the Jacobian lens, providing the clearest insight yet into the \"internal thoughts\" and conceptual \"puzzling space\" within its large language model, Claude, as it processes information. This breakthrough reveals aspects ranging from the mundane to the unnerving, offering an unprecedented glimpse into AI cognition. This advancement in AI interpretability is crucial for understanding, controlling, and ensuring the safety and transparency of increasingly complex AI systems.",
+        "link": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/"
+    },
+    {
+        "category": "AI & Biotech Funding",
+        "title": "Reid Hoffman Backs AI Cancer Research with $24.6M",
+        "summary": "Reid Hoffman, co-founder of LinkedIn, has raised $24.6 million for his new AI cancer-research startup, Manas AI. He is launching this venture with Siddhartha Mukherjee, author of \"The Emperor of All Maladies.\" This significant investment, backed by a prominent tech entrepreneur and a leading medical expert, signals a strong push to apply artificial intelligence in cancer research. It underscores the growing trend of leveraging AI for complex scientific challenges, potentially accelerating discoveries and therapeutic advancements in oncology.",
+        "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology"
+    },
+    {
+        "category": "AI Legal & Competition",
+        "title": "Apple Sues OpenAI Over Alleged Trade Secret Theft",
+        "summary": "Apple has filed a lawsuit against OpenAI, accusing the artificial intelligence company of stealing its company secrets. This legal action comes despite a prior agreement in 2024 for the two companies to offer AI services on Apple devices, indicating a souring of their partnership. The lawsuit highlights escalating competition and intellectual property disputes in the rapidly evolving AI landscape, with significant implications for future collaborations and the legal framework surrounding AI development and commercialization across major tech players.",
+        "link": "https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html"
+    },
+    {
+        "category": "AI Investment & Infrastructure",
+        "title": "Meta Boosts AI Spending and Data Center Investments",
+        "summary": "Meta, the social-media giant, plans to significantly increase its spending to between $60 billion and $65 billion, primarily driven by massive investments in artificial intelligence and data center infrastructure. This move signifies the accelerating trend of major tech companies pouring substantial capital into AI development and supporting computational resources. Meta's commitment reflects the intense competition and strategic importance placed on advancing AI capabilities and scaling the necessary infrastructure to support future growth and innovation in the sector.",
+        "link": "https://www.wsj.com/articles/meta-spending-ai-facebook-data-centers-9452a88f?mod=rss_Technology"
+    },
+    {
+        "category": "AI Product & Ethics",
+        "title": "Meta Pulls Instagram AI Feature Amid Backlash",
+        "summary": "Meta has removed its new AI feature, Muse Image, from Instagram just days after its launch, following significant backlash from users and Hollywood agencies. The concerns raised primarily revolved around privacy and copyright issues associated with the new tool. This rapid retraction underscores the sensitivities surrounding AI's integration into consumer platforms and the immediate impact of public and industry feedback on product development, highlighting the ongoing ethical and practical challenges in deploying AI responsibly and gain user trust.",
+        "link": "https://www.nytimes.com/2026/07/10/technology/meta-muse-images-instagram-removal.html"
+    },
+    {
+        "category": "AI Ethics & Governance",
+        "title": "OpenAI Employees Fund Rival Super PAC Against Leadership",
+        "summary": "OpenAI employees have reportedly donated over $215,000 to a political effort opposing Leading the Future, a Super PAC supported by OpenAI's president, Greg Brockman. This significant internal dissent signals growing friction and differing views within the leading AI company regarding its future direction, potentially concerning AI ethics and governance. Such a move by employees indicates a serious challenge to the company's existing leadership and strategic vision, reflecting broader debates within the AI community about power and accountability.",
+        "link": "https://www.wired.com/story/openai-employees-donations-guardrails-alliance-leading-the-future/"
+    },
+    {
+        "category": "Tech Regulation & Market Shift",
+        "title": "Google to Allow Third-Party Android App Stores",
+        "summary": "Epic Games and Google have jointly withdrawn their lawsuit settlement attempt, leading to Google being compelled to support rival app stores within its own ecosystem. Google confirmed to the court that it is prepared to start carrying third-party app stores next week. This development marks a significant shift in Android's app distribution model in the United States, driven by regulatory pressures and legal outcomes, potentially fostering greater competition and altering the digital marketplace landscape for developers and consumers.",
+        "link": "https://www.theverge.com/policy/965792/google-epic-withdraw-injunction-third-party-app-stores-coming-google-play/"
+    },
+    {
+        "category": "Tech Regulation",
+        "title": "Europe Considers Social Media Ban for Children",
+        "summary": "Following a new report, the European Commission is contemplating changes to social media regulations across the 27-nation bloc, potentially leading to a ban for children. This consideration reflects growing concerns over the impact of social media on young users and a proactive regulatory stance by European authorities. Such a ban would represent a significant global shift in digital policy, setting a precedent for how governments approach the protection of minors in the online environment and potentially influencing other regions.",
+        "link": "https://www.nytimes.com/2026/07/13/technology/europe-teen-social-media-ban.html"
+    },
+    {
+        "category": "Tech Regulation",
+        "title": "EU Orders Meta to Change 'Addictive Design'",
+        "summary": "European Union authorities have mandated Meta to modify the \"addictive design\" elements of its Instagram and Facebook platforms. The E.U. stated that Meta's design choices violated a digital safety law. This order signifies a strong regulatory stance by the European Union against practices perceived as harmful to users, particularly concerning social media engagement. It could compel Meta and other tech companies to fundamentally rethink their product design strategies to comply with evolving digital safety and user protection legislation.",
+        "link": "https://www.nytimes.com/2026/07/10/business/meta-instagram-facebook-europe.html"
+    },
+    {
+        "category": "Infrastructure & Energy Costs",
+        "title": "Data Centers Driving Billions in New Power Costs",
+        "summary": "A power auction conducted by a major grid operator is projected to impose an additional $6.3 billion in charges on consumers and businesses across 13 states. This increase is attributed to the substantial electricity demands of data centers. The development highlights a critical and growing challenge related to energy infrastructure and costs, particularly as the digital economy expands and demand for data processing, including AI operations, escalates. This impacts regional economies and energy policy discussions around sustainability and capacity.",
+        "link": "https://www.nytimes.com/2026/07/14/business/energy-environment/pjm-electricity-prices-data-centers.html"
+    },
+    {
+        "category": "Energy Tech",
+        "title": "Old Hot Dog Factory Becomes Fusion Power R&D Hub",
+        "summary": "An old Oscar Mayer factory in Wisconsin is being repurposed by Realta Fusion to become America's latest research and development hub for fusion power. This unconventional location highlights the growing urgency and innovative approaches in the pursuit of clean energy solutions. The establishment of a new fusion reactor facility signals continued investment and progress in fusion technology, which holds the promise of providing abundant, carbon-free energy, potentially transforming global energy landscapes.",
+        "link": "https://techcrunch.com/2026/07/15/why-realta-fusion-is-building-a-fusion-reactor-at-an-old-hot-dog-factory/"
+    },
+    {
+        "category": "Energy Tech",
+        "title": "US Microreactors Achieve Criticality Milestone",
+        "summary": "Four nuclear reactors in the US have achieved criticality, a significant technical milestone confirming their ability to sustain a nuclear chain reaction. This achievement fulfills a goal set by the Trump administration last year for three new microreactors. The event marks progress in the deployment of advanced nuclear power technologies, indicating a move towards smaller, more modular reactors that could play a role in future energy landscapes, contributing to decarbonization and energy security efforts in the United States.",
+        "link": "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/"
     }
 ];
