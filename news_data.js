@@ -1,152 +1,152 @@
 window.NEWS_DATA = [
     {
-        "category": "AI Software Investment",
-        "title": "Blacksmith AI Valuation Soars 10x to $550M",
-        "summary": "AI code-testing startup Blacksmith has seen its valuation jump almost tenfold in under a year, reaching $550 million. The company reports a revenue increase of more than tenfold over the past year, fueled by the growing demand for AI coding solutions in software validation. This significant growth highlights the rapid expansion and investment interest in the AI software development sector, as businesses increasingly adopt AI for efficiency and accuracy.",
-        "link": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/"
+        "category": "AI Breakthrough",
+        "title": "SpaceXAI Grok 4.6 Overtakes Kimi K3, Matches GPT-5.6 Sol",
+        "summary": "Elon Musk's SpaceXAI (formerly xAI) has released Grok 4.6, its latest frontier AI model, achieving a score of 61 on the Artificial Analysis Intelligence Index. This places Grok 4.6 ahead of Moonshot's Kimi K3 and on par with OpenAI's GPT-5.6 Sol Max, improving five points over its predecessor. The model focuses on long-running agents, coding, and knowledge work, with a pricing strategy aimed at making these workloads more cost-effective.",
+        "link": "https://venturebeat.com/technology/spacexai-debuts-grok-4-6-overtaking-kimi-k3s-performance-and-matching-gpt-5-6-sol-for-worlds-third-best-on-artificial-analysis/"
     },
     {
-        "category": "Venture Capital",
-        "title": "Accel Closes Oversubscribed $550M India Fund",
-        "summary": "U.S. venture capital firm Accel has successfully closed an oversubscribed $550 million fund for India, achieved within weeks and just 19 months after its previous fund. The firm still has over 55% of its prior $650 million India fund available for deployment, indicating strong investor confidence and continued investment focus on the Indian tech market. This signals sustained growth and opportunity in the region's startup ecosystem and a robust appetite for emerging market tech ventures.",
-        "link": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/"
-    },
-    {
-        "category": "Generative AI Adoption",
-        "title": "ChatGPT and Gemini Both Reach 1 Billion Users",
-        "summary": "Both OpenAI's ChatGPT and Google's Gemini have now surpassed one billion monthly active users. Google CEO Sundar Pichai announced Gemini as Google's fastest-growing product ever, with 63% of its users utilizing the voice feature and generating over 150 million images daily. This dual milestone underscores the unprecedented global adoption and integration of generative AI applications into daily life and work, solidifying their positions as mainstream AI tools.",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users"
-    },
-    {
-        "category": "AI Biotech Startup",
-        "title": "AI-Driven Dog Cancer Vaccine Inspires New Startup",
-        "summary": "Following a much-publicized story where an entrepreneur used ChatGPT, Grok, and other AI tools to develop a personalized cancer vaccine for his dog, a new startup called Gamgee has launched. Paul Conyngham, the entrepreneur, aims to offer 'personalized mRNA cancer vaccines for dogs.' This initiative highlights the accelerating application of AI tools in complex biological and medical research, potentially opening new avenues for personalized medicine, initially in veterinary science.",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee"
-    },
-    {
-        "category": "AI Agent Technology",
-        "title": "SpaceXAI Launches Grok Bot for Persistent Digital Coworkers",
-        "summary": "SpaceXAI has launched an early beta of Grok Bot, an agent service designed to move AI assistants beyond prompts to continuously execute work. For $120 per month, users can create persistent Bots with specific jobs, granting them access to applications and websites. Each Bot operates in its own computer environment, working independently even when the user's laptop is closed, returning when tasks are done or approval is needed, signifying a step towards autonomous AI teammates.",
-        "link": "https://venturebeat.com/orchestration/spacexais-grok-bot-turns-agents-into-persistent-digital-coworkers-that-can-operate-your-apps-for-120-per-month"
-    },
-    {
-        "category": "AI in Journalism",
-        "title": "AI Newsrooms Are Breaking Major Stories",
-        "summary": "An AI newsroom has reportedly scooped mainstream journalists, including WIRED, on a story concerning OpenAI and hacking. This incident is highlighted as an early indication of AI's growing capability in journalistic reporting. The development suggests a significant shift in the media landscape, where AI-powered platforms are beginning to compete with human journalists in breaking major news, raising questions about the future of news production.",
-        "link": "https://www.wired.com/story/ai-newsrooms-are-breaking-news-now-haha-im-in-danger/"
-    },
-    {
-        "category": "Neurotechnology & Privacy",
-        "title": "Big Tech Pursues Brain Activity Tracking",
-        "summary": "Silicon Valley companies are actively developing neurotechnology products designed to track brain activity. This emerging field suggests that the next frontier in privacy concerns will involve the mining of individual thoughts. The development raises significant ethical and privacy questions as technology advances into direct interpretation of neural data, potentially impacting personal autonomy and data security.",
-        "link": "https://www.wired.com/story/book-excerpt-the-vanishing-earth-james-crawford-brain-mining/"
-    },
-    {
-        "category": "Enterprise AI Investment",
-        "title": "Skan AI Raises $63M for Employee Work Monitoring",
-        "summary": "Skan AI, a startup focused on building a 'context graph of work' by observing employee performance across enterprise software, has secured $63 million in Series C funding. Co-led by Cathay Innovation and Dell Technologies Capital, this round brings their total funding to approximately $120 million. The company also announced the general availability of two new products, indicating an expansion in its enterprise AI offerings and a belief that monitoring actual work is key to enterprise AI adoption.",
-        "link": "https://venturebeat.com/data/skan-ai-raises-63-million-betting-that-watching-how-employees-actually-work-is-the-missing-layer-of-enterprise-ai"
-    },
-    {
-        "category": "AI Infrastructure Spending",
-        "title": "Enterprises Prioritize AI Performance Over Cost",
-        "summary": "A study across 170 enterprises reveals that two-thirds now run AI workloads in production, with three in ten at scale, yet cost accounting for AI infrastructure lags. Performance and GPU availability now outweigh total cost of ownership in buying decisions, while reliability is prioritized over price. Fewer than half of companies can rigorously track AI compute costs, and most GPUs operate at half capacity or less, indicating a current focus on speed and deployment over financial optimization.",
-        "link": "https://venturebeat.com/resources/infrastructure-and-compute-enterprises-are-buying-ai-compute-for-speed-while-flying-blind-on-what-it-costs/"
-    },
-    {
-        "category": "AI Agent Reliability",
-        "title": "Automated AI Agent Evaluations Gain Trust Despite Real-World Failures",
-        "summary": "A study of 108 enterprises shows a sharp increase in trust for automated agent evaluation in July, yet the actual failure rate of agents in production remains unchanged. The share of organizations fully trusting automated evaluation nearly tripled to 13%, but nearly half still ship agents that pass evaluations only to fail customers. Paradoxically, enterprises that have experienced failures are more likely to remove humans from the loop, accelerating the push for autonomy despite risks.",
-        "link": "https://venturebeat.com/resources/agentic-reliability-and-evaluations-enterprises-that-got-burned-by-a-bad-eval-are-the-most-likely-to-remove-humans-from-the-loop-not-the-least/"
-    },
-    {
-        "category": "AI Agent Context",
-        "title": "Enterprise AI Agents Struggle with Inconsistent Business Context",
-        "summary": "A survey of 101 enterprises reveals that 68% have traced confident but incorrect AI agent answers to missing or inconsistent business context within the last six months, often repeatedly. Surprisingly, companies utilizing a governed semantic layer for their AI data report recurring failures at more than double the rate of those without one. This suggests infrastructure designed to fix bad context is primarily uncovering its prevalence, indicating ongoing challenges in AI agent accuracy and the complexity of managing AI data.",
-        "link": "https://venturebeat.com/resources/agent-context-layers-enterprises-governing-their-ai-data-are-catching-twice-as-many-bad-answers-as-the-ones-who-arent/"
-    },
-    {
-        "category": "AI Agent Orchestration",
-        "title": "Enterprises Deploy Multiple AI Orchestration Platforms",
-        "summary": "A study of 107 enterprises indicates that agentic orchestration is not confined to a single platform; the typical enterprise uses three simultaneously, prioritizing flexibility across models. Microsoft leads in primary usage, while Anthropic shows strong forward consideration. Enterprises anticipate a hybrid AI control plane, valuing provider-independent technologies, and fear provider security/permission limits more than lock-in. Critically, one in five lacks real-time cost metering for runaway agents.",
-        "link": "https://venturebeat.com/resources/agentic-orchestration-enterprise-ai-organizations-know-how-to-govern-agents-but-still-cant-meter-what-they-cost/"
-    },
-    {
-        "category": "AI Agent Security",
-        "title": "Enterprise AI Agents Face Growing Security Incidents",
-        "summary": "A survey of 116 enterprises reveals that a majority have already experienced a confirmed agent security event or near-miss. While two-thirds enforce scoped permissions at runtime, fewer than one in five isolates its highest-risk agents, making containment a weak point as AI autonomy scales. Credential sharing persists across nearly two-thirds of agent fleets, contributing to declining confidence in agentic security, with many believing AI-armed attackers are ahead of defenses.",
-        "link": "https://venturebeat.com/resources/agentic-security-enterprises-enforce-agent-permissions-two-thirds-of-the-time-and-isolate-high-risk-agents-less-than-one-in-five/"
-    },
-    {
-        "category": "AI Development Strategy",
-        "title": "xAI Co-founder Backs Open-Source AI",
-        "summary": "A co-founder of xAI is committing to building open-source artificial intelligence, aiming to empower individuals to 'control and shape A.I. for their own needs.' This initiative highlights a push towards democratizing AI development, contrasting with the proprietary models often developed by major tech companies. It intensifies the ongoing debate about the accessibility and control of powerful AI technologies, advocating for a more community-driven approach to AI innovation.",
-        "link": "https://www.nytimes.com/2026/08/11/technology/igor-babuschkin-xai-river-ai.html"
-    },
-    {
-        "category": "AI Investment",
-        "title": "Wall St. Pursues $500B for AI Compute Power",
-        "summary": "Six major investment firms have announced a $500 billion initiative to raise capital for Nvidia's customers, intended to finance the increasing demand for computing power crucial to the AI boom. This massive financial mobilization by Wall Street underscores the immense capital requirements and investor confidence in the growth trajectory of artificial intelligence infrastructure and its key providers. It highlights the vast scale of investment flowing into foundational AI technologies.",
-        "link": "https://www.nytimes.com/2026/08/10/business/ai-nvidia-lenders-500-billion.html"
-    },
-    {
-        "category": "AI-Focused Acquisitions",
-        "title": "Thrive Holdings Raises $2B for AI Infusion Strategy",
-        "summary": "Thrive Holdings, a company focused on acquiring service businesses and integrating artificial intelligence into their operations, has successfully raised $2 billion. The funding round attracted significant interest from backers, including SoftBank. This substantial capital infusion underscores a growing trend of leveraging AI to transform and optimize traditional service industries, indicating strong investor confidence in AI-driven business model innovation and consolidation across various sectors.",
-        "link": "https://www.nytimes.com/2026/08/12/business/dealbook/thrive-holdings-ai-funding.html"
-    },
-    {
-        "category": "AI & Music Industry",
-        "title": "Spotify to Label and Deprioritize AI-Generated Music",
-        "summary": "Spotify plans to introduce a new label next month to identify AI-generated music and will avoid promoting such content on its platform. This initiative reflects the streaming service's effort to increase transparency regarding artificial intelligence's role in music creation. It signals a significant response from the music industry to the proliferation of AI-generated content, addressing concerns about authenticity, fair compensation for human artists, and the integrity of its music catalog.",
-        "link": "https://www.nytimes.com/2026/08/11/arts/music/spotify-artificial-intelligence-music.html"
-    },
-    {
-        "category": "Open-Source AI",
-        "title": "Meta Releases Open Version of Muse Glimmer AI Model",
-        "summary": "Meta has unveiled an open version of its powerful AI model, Muse Glimmer, allowing it to be freely downloaded and modified. This release is expected to intensify the ongoing debate surrounding the unrestricted access and use of advanced artificial intelligence. Meta's move highlights a commitment to democratizing AI development, enabling broader experimentation and innovation, but also raises questions about potential misuse and the responsible governance of powerful AI technologies.",
-        "link": "https://www.nytimes.com/2026/08/10/technology/meta-ai-open-source.html"
-    },
-    {
-        "category": "AI Supply Chain",
-        "title": "AI Fuels Memory Chip Shortage, Sparks Lobbying Push",
-        "summary": "The escalating demand from data centers for memory chips, driven by artificial intelligence, is causing a significant chip crunch. This shortage is prompting other industries that rely on these components, such as electronics companies like Apple and medical device manufacturers, to seek government intervention. The situation underscores the far-reaching impact of the AI boom on global supply chains, industrial policy, and inter-industry competition for critical hardware resources.",
-        "link": "https://www.nytimes.com/2026/08/10/technology/memory-chip-shortage-ai.html"
-    },
-    {
-        "category": "Global AI Innovation",
-        "title": "China's DeepSeek AI Achieves High Performance Without Advanced Chips",
-        "summary": "Chinese AI upstart DeepSeek is garnering significant attention in Silicon Valley for its high-performing AI models, developed without relying on the most advanced chips. Described as 'amazing and impressive,' DeepSeek's achievement signals China's ability to innovate in AI even under technology restrictions. This development could reshape geopolitical competition in AI by demonstrating alternative pathways to advanced AI capabilities and potentially reducing reliance on cutting-edge hardware.",
+        "category": "AI Breakthrough",
+        "title": "China's DeepSeek AI Impresses With Low-Cost Models",
+        "summary": "Chinese AI upstart DeepSeek is garnering significant attention in Silicon Valley for its high-performing AI models. The company reportedly trained these models cheaply, without relying on the most advanced chips, a feat described as 'amazing and impressive.' This development highlights China's advancements in artificial intelligence and its ability to innovate efficiently, potentially reshaping competition in the global AI landscape despite hardware limitations.",
         "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology"
     },
     {
-        "category": "AI Biotech Investment",
-        "title": "Reid Hoffman Backs AI Cancer Research Startup with $24.6M",
-        "summary": "LinkedIn co-founder Reid Hoffman is launching Manas AI, a cancer-research startup, with 'The Emperor of All Maladies' author Siddhartha Mukherjee, raising $24.6 million. This investment highlights the growing fusion of AI and biotechnology, aiming to leverage advanced algorithms for drug discovery and medical breakthroughs. Hoffman's involvement underscores the continued flow of significant venture capital into AI applications with high societal impact potential, particularly in healthcare.",
-        "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology"
+        "category": "AI Application",
+        "title": "AI Tools Could Help Combat Fatty Liver Epidemic",
+        "summary": "With over a billion people worldwide affected by fatty liver disease, which can lead to various medical problems, researchers are turning to artificial intelligence for solutions. AI tools are being developed to help detect the condition early enough, potentially saving lives by spotting the disease and assisting in its prevention. This application underscores AI's growing role in proactive healthcare and managing widespread public health challenges.",
+        "link": "https://www.wired.com/story/fatty-liver-disease-ai-detection-cancer/"
     },
     {
-        "category": "AI Infrastructure Investment",
-        "title": "Meta Boosts AI Spending to $60-65 Billion",
-        "summary": "Meta plans to increase its spending to between $60 billion and $65 billion, primarily driven by accelerated investments in artificial intelligence and massive data center expansion. This significant capital allocation is the latest indicator of major tech companies intensifying their commitment to building out robust AI infrastructure. It reflects the competitive landscape and high resource demands of advanced AI development and deployment, signaling a continued arms race in AI capabilities.",
+        "category": "AI Economy",
+        "title": "Cognition Reportedly in Talks for $40B Valuation",
+        "summary": "AI coding startup Cognition is reportedly in discussions to raise a new mega-round of funding, potentially at a $40 billion valuation. This comes just a few months after the company successfully raised $1 billion at a $26 billion valuation, indicating rapid growth and strong investor confidence in its technology. The potential new valuation reflects the intense capital flow and high stakes in the artificial intelligence startup market.",
+        "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/"
+    },
+    {
+        "category": "AI Economy",
+        "title": "Thrive Holdings Raises $2B for Enterprise AI",
+        "summary": "OpenAI-backed Thrive Holdings has successfully raised $2 billion in new funding, achieving a $12 billion valuation. The investment round saw participation from prominent backers including SoftBank, D1 Capital Partners, and Altimeter Capital. Thrive Holdings specializes in acquiring service firms with the strategic goal of integrating and infusing them with artificial intelligence capabilities, demonstrating a significant push to bring AI solutions to the enterprise sector.",
+        "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/"
+    },
+    {
+        "category": "AI Investment",
+        "title": "Wall Street Seeks $500B for AI Computing Power",
+        "summary": "Six major investment firms have announced a collective $500 billion effort to raise funds, intended to help Nvidia customers finance the high costs of computing power required for artificial intelligence. This massive initiative underscores the immense financial demand generated by the expanding AI boom and Wall Street's increasing involvement in facilitating the infrastructure necessary for AI development and deployment.",
+        "link": "https://www.nytimes.com/2026/08/10/business/ai-nvidia-lenders-500-billion.html"
+    },
+    {
+        "category": "AI Investment",
+        "title": "Meta Plans $60B-$65B Spending on AI, Data Centers",
+        "summary": "Meta, the social media giant, is planning to dramatically increase its spending, with projections of $60 billion to $65 billion. This substantial investment is earmarked for artificial intelligence initiatives and the construction of massive data centers. The move signals a significant acceleration in tech companies' commitments to AI infrastructure, reflecting the intensifying competition and strategic importance of AI development within the industry.",
         "link": "https://www.wsj.com/articles/meta-spending-ai-facebook-data-centers-9452a88f?mod=rss_Technology"
     },
     {
-        "category": "Digital Policy & Free Speech",
-        "title": "'Censorship-Industrial Complex' Reshaping Internet Policy",
-        "summary": "Narratives about a 'censorship-industrial complex'\u2014a theory claiming government and tech companies collaborate on censorship\u2014have moved from online fringe discussions to influencing US policy, even leading to the proposed shutdown of a State Department office focused on countering foreign disinformation. This shift highlights an evolving and contentious debate over free speech, content moderation, and the potential for government influence over information online, impacting global digital policy frameworks.",
-        "link": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/"
+        "category": "AI Application & Funding",
+        "title": "Reid Hoffman Launches AI Cancer Research Startup with $24.6M",
+        "summary": "LinkedIn co-founder Reid Hoffman is venturing into the health tech sector with Manas AI, a new startup focused on artificial intelligence for cancer research. The company has successfully raised $24.6 million in funding. Hoffman is collaborating with Siddhartha Mukherjee, author of 'The Emperor of All Maladies,' indicating a serious commitment to leveraging AI to make significant strides in understanding and combating cancer.",
+        "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology"
     },
     {
-        "category": "Large Language Models (LLMs)",
-        "title": "Startups Pursue Next-Gen LLM Innovations Beyond Transformers",
-        "summary": "Nine years after Google researchers introduced the transformer architecture, which powers every major large language model, startups are now actively pursuing the 'next big thing' in LLMs. This indicates a shift in AI academic research and commercial development, moving beyond established neural network families. The focus is on evolving LLM capabilities and architectures, hinting at future breakthroughs in artificial intelligence processing, understanding, and the next generation of AI models.",
-        "link": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/"
+        "category": "AI Enterprise Tech",
+        "title": "Skan AI Secures $63M for Employee Work Observation",
+        "summary": "Skan AI, a startup specializing in building a 'context graph of work' by observing how employees operate across enterprise software, has raised $63 million in Series C funding. This round, co-led by Cathay Innovation and Dell Technologies Capital, brings Skan AI's total funding to approximately $120 million. The company is also launching new products, emphasizing its approach to enhance enterprise AI through insights into actual job performance.",
+        "link": "https://venturebeat.com/data/skan-ai-raises-63-million-betting-that-watching-how-employees-actually-work-is-the-missing-layer-of-enterprise-ai/"
     },
     {
-        "category": "AI Security Risk",
-        "title": "First AI-Created Virus Raises Security Concerns",
-        "summary": "The emergence of the 'first virus created by AI' signals a significant and concerning development in cybersecurity. This event underscores the potential for artificial intelligence to be leveraged for malicious purposes, posing new and complex threats to digital infrastructure and data security. It highlights the urgent need for robust AI safety protocols and defensive measures to counteract such advanced cyber threats, as AI-powered attacks could become increasingly sophisticated.",
-        "link": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/"
+        "category": "AI Ethics & Policy",
+        "title": "Anthropic's Claude Watermarks Spark User Outrage",
+        "summary": "Anthropic's new watermarking system for Claude AI has provoked significant complaints from users on social media. Many are upset that the system will identify their use of the AI in professional or academic settings, raising concerns about privacy and accountability. The backlash highlights user anxieties regarding AI detection technologies and their potential impact on individual privacy and the integrity of work or academic submissions.",
+        "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/"
+    },
+    {
+        "category": "AI Ethics & Policy",
+        "title": "Amazon to Train AI on Twitch Content by Default",
+        "summary": "Amazon will, by default, utilize Twitch streamers' content to train its generative AI models, requiring users to actively opt-out. Twitch CPO Mike Minton acknowledged that few users would opt-in if given the choice. This policy means streams, VODs, clips, stream chats, pictures, and text on channels will be used for future AI model training, sparking concerns among the streaming community about consent and data usage.",
+        "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/"
+    },
+    {
+        "category": "AI Policy",
+        "title": "Pioneers Debate AI Safety, Open Source, US-China Competition",
+        "summary": "At the Ai4 conference, prominent AI experts Geoffrey Hinton, Fei-Fei Li, and Andrew Ng engaged in a debate over critical issues shaping the future of artificial intelligence. Their discussions centered on the necessity of regulation, the benefits and risks of open-source access to AI models, and how the United States can maintain its competitive edge as China rapidly advances its AI capabilities across Asia.",
+        "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/"
+    },
+    {
+        "category": "AI Ethics & Media",
+        "title": "Spotify to Label, Avoid Promoting AI Artists",
+        "summary": "Spotify will implement a new policy next month to label music created by AI artists and will actively avoid promoting such content on its platform. This initiative aims to increase transparency for listeners regarding AI-generated music available on the app. The move signifies a growing trend in the media industry to address the rise of artificial intelligence in content creation and its implications for human artistry and consumption.",
+        "link": "https://www.nytimes.com/2026/08/11/arts/music/spotify-artificial-intelligence-music.html"
+    },
+    {
+        "category": "AI Policy",
+        "title": "xAI Co-founder Advocates Open-Source AI for User Control",
+        "summary": "Igor Babuschkin, a co-founder of xAI, is committing to building open-source artificial intelligence with the goal of enabling individuals to 'control and shape A.I. for their own needs.' His venture aims to democratize access to and influence over AI technology, contrasting with models predominantly controlled by large corporations. This initiative underscores a growing movement to foster transparency and user agency in the development and deployment of advanced AI systems.",
+        "link": "https://www.nytimes.com/2026/08/11/technology/igor-babuschkin-xai-river-ai.html"
+    },
+    {
+        "category": "AI Enterprise Security",
+        "title": "Enterprises Struggle with AI Agent Containment and Incidents",
+        "summary": "A majority of enterprises have already experienced a confirmed AI agent security event or near-miss. While two-thirds enforce scoped permissions at runtime, fewer than one in five isolate their highest-risk agents, making containment a weak point as autonomy scales. Credential sharing persists across nearly two-thirds of agent fleets, leading to a decline in confidence in agentic security and raising concerns that AI-armed attackers are ahead of current defenses.",
+        "link": "https://venturebeat.com/resources/agentic-security-enterprises-enforce-agent-permissions-two-thirds-of-the-time-and-isolate-high-risk-agents-less-than-one-in-five/"
+    },
+    {
+        "category": "AI Enterprise Operations",
+        "title": "AI Agent Cost Metering Remains a Challenge for Enterprises",
+        "summary": "Enterprises leveraging AI agents often run three orchestration platforms simultaneously, prioritizing flexibility across models. While they understand how to govern agents, a significant challenge remains in accurately metering their operational costs. Crucially, one in five enterprises still lacks a real-time mechanism to halt a runaway agent before incurring substantial billing, highlighting a critical gap in cost control and resource management for agentic AI deployments.",
+        "link": "https://venturebeat.com/resources/agentic-orchestration-enterprise-ai-organizations-know-how-to-govern-agents-but-still-cant-meter-what-they-cost/"
+    },
+    {
+        "category": "AI Enterprise Data",
+        "title": "Context Layers Improve AI Agent Accuracy, Reveal Data Gaps",
+        "summary": "Enterprises that implement a governed semantic layer for their AI data are reporting recurring failures due to missing or inconsistent business context at more than twice the rate of those without one. This indicates that while such infrastructure helps catch bad agent answers\u201468% traced confident but wrong answers to context issues\u2014it also reveals the pervasive extent of underlying data quality problems, showing that the solution is also highlighting the problem itself.",
+        "link": "https://venturebeat.com/resources/agent-context-layers-enterprises-governing-their-ai-data-are-catching-twice-as-many-bad-answers-as-the-ones-who-arent/"
+    },
+    {
+        "category": "AI Enterprise Trust",
+        "title": "Automated AI Agent Evaluations Fail to Prevent Customer Issues",
+        "summary": "Despite a sharp increase in trust for automated AI agent evaluations among enterprises, the actual rate of agent failures has remained unchanged. Nearly half of organizations deployed agents that passed internal evaluations but subsequently failed customers. Enterprises that have experienced such failures are, counter-intuitively, more inclined to remove humans from the loop, suggesting a complex and evolving relationship between trust in AI tools and human oversight.",
+        "link": "https://venturebeat.com/resources/agentic-reliability-and-evaluations-enterprises-that-got-burned-by-a-bad-eval-are-the-most-likely-to-remove-humans-from-the-loop-not-the-least/"
+    },
+    {
+        "category": "Global Shift & Tech Impact",
+        "title": "Social Media Disinformation Fuels Refugee Crisis, 90 Deaths",
+        "summary": "Online disinformation played a significant role in escalating a refugee crisis between Spain and Morocco, leading to a surge of migrants attempting to reach Europe through the Spanish enclave of Ceuta. This surge tragically resulted in approximately 90 deaths. The incident highlights the profound and dangerous real-world consequences of misinformation spread through social media platforms, impacting international relations and human lives.",
+        "link": "https://www.nytimes.com/2026/08/11/technology/social-media-ceuta-spain-morocco.html"
+    },
+    {
+        "category": "Policy & Tech Ethics",
+        "title": "ICE Explores Electrified Gloves for Compliance",
+        "summary": "Immigration and Customs Enforcement (ICE) is reportedly planning to spend up to $20 million on equipping its officers and agents with specialized gloves designed to deliver painful electric shocks. These devices, set for delivery by March, are intended to enforce compliance. The proposal, outlined in a Department of Homeland Security notice, raises significant ethical and human rights concerns regarding the use of such technology by law enforcement.",
+        "link": "https://www.theverge.com/policy/979010/ice-agents-electric-shock-gloves"
+    },
+    {
+        "category": "Privacy & Security",
+        "title": "CBP Workers Accused of Misusing Databases to Spy",
+        "summary": "Records obtained by WIRED detail hundreds of allegations against Customs and Border Protection (CBP) workers for misusing internal government databases. These alleged abuses include looking up romantic interests and tracking colleagues\u2019 cell phones. This exposes a serious breach of privacy and an ethical lapse within a federal agency, fueling a broader debate over the oversight and accountability of government access to sensitive data and surveillance tools.",
+        "link": "https://www.wired.com/story/cbp-workers-allegedly-used-government-databases-to-spy-on-exes-crushes-and-colleagues/"
+    },
+    {
+        "category": "Consumer Tech",
+        "title": "Google Unveils Pixel 11 Series and Watches",
+        "summary": "Google officially unveiled its next generation of Pixel phones and watches at the Made by Google keynote. The new lineup includes the Pixel 11 ($899), Pixel 11 Pro ($1,099), Pixel 11 Pro XL ($1,299), and the Pixel 11 Pro Fold ($1,899). These models feature notable upgrades like improved cameras and a new Tensor G6 chip for faster performance, with preorders offering up to $350 in gift cards.",
+        "link": "https://www.theverge.com/gadgets/975970/google-pixel-11-series-where-to-buy-preorder-release-date"
+    },
+    {
+        "category": "Consumer Tech",
+        "title": "Apple's Base iPhone 18 Launch Delayed to Q1 Next Year",
+        "summary": "Apple's base model iPhone 18 is expected to see a delay in its launch, now anticipated for the first quarter of next year, according to statements from Apple supplier Pegatron executives. In contrast, the iPhone 18 Pro series phones are still scheduled for a fall launch this year. This staggered release strategy will affect consumers looking for the more affordable base iPhone 18, along with new iPhone 18e and iPhone Air models.",
+        "link": "https://www.theverge.com/tech/979231/apple-base-iphone-18-launch-delayed"
+    },
+    {
+        "category": "Space Innovation",
+        "title": "Northrop's Robot Mechanic to Extend Satellite Life",
+        "summary": "Northrop Grumman's Mission Robotic Vehicle (MRV) is undertaking a pioneering mission to extend the operational life of aging satellites in orbit. The MRV is making its first attempt to attach a new thruster to a satellite, a capability that could revolutionize space infrastructure. This robotic space mechanic offers a novel solution to maintain and upgrade existing satellites, potentially reducing the need for costly and time-consuming replacements.",
+        "link": "https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/"
+    },
+    {
+        "category": "Business Strategy",
+        "title": "Amazon Steps Back from MMO Game Development",
+        "summary": "Amazon is discontinuing its involvement in the Massively Multiplayer Online (MMO) game genre. Following a previous announcement last year about halting a 'significant amount' of first-party AAA game work, specifically in MMOs, Amazon will now transfer the live operations of Throne and Liberty and Lost Ark in the West to other companies. This strategic shift marks a full withdrawal from the MMO market for the tech giant.",
+        "link": "https://www.theverge.com/tech/979070/amazon-mmo-throne-and-liberty-lost-ark-live-operations"
     }
 ];
