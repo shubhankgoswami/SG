@@ -1,152 +1,152 @@
 window.NEWS_DATA = [
     {
-        "category": "AI Infrastructure & Connectivity",
-        "title": "Relativity Networks Secures $22M for Faster Data Center Fiber",
-        "summary": "Relativity Networks has raised $22 million to advance its hollow-core fiber technology, designed to transmit data 30% faster than traditional fiber. This rarely deployed innovation aims to significantly improve data transmission speeds for data centers, addressing the growing demand for higher bandwidth and lower latency in an increasingly data-intensive world, particularly for AI workloads.",
-        "link": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/"
+        "category": "AI Application",
+        "title": "Meta AI Launches Mac App with Muse Spark Dictation",
+        "summary": "Meta has introduced a new Mac application that enables users to interact with their apps through dictation. This feature is powered by Meta's Muse Spark model, aiming to integrate conversational AI directly into the desktop experience. The move signifies Meta's continued push into making AI more accessible and interactive across different platforms, leveraging its proprietary AI models for enhanced user functionality on Mac devices and broadening the scope of voice-controlled interfaces.",
+        "link": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/"
     },
     {
-        "category": "AI Development & Competition",
-        "title": "Cursor Launches Origin Code Hosting, Challenging GitHub Amid Outage",
-        "summary": "Cursor, known for its AI Code Editor, is launching Origin, a new code-hosting platform to compete with GitHub. This move coincides with a significant GitHub outage, which saw error rates near 20% for pull requests and APIs, and almost 50% for archive and raw file downloads, exposing an opening in the AI coding landscape and developer's reliance on single platforms.",
-        "link": "https://venturebeat.com/infrastructure/cursor-launches-origin-code-hosting-platform-as-github-outage- exposes-opening-in-ai-coding-race/"
+        "category": "AI & Fintech",
+        "title": "Binance Integrates AI Agents for Trading, Users Responsible for Oversight",
+        "summary": "Binance has launched Agent OS, a system that allows AI agents to execute trades on its platform. This new feature supports integration with popular AI tools, including ChatGPT, Claude Code, and Cursor. While providing advanced automation capabilities for users, Binance emphasizes that the responsibility for monitoring and controlling these AI agents largely falls on the users themselves. This development marks a significant advancement in the application of AI within financial markets, offering sophisticated trading tools with an important caveat regarding user accountability.",
+        "link": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/"
     },
     {
-        "category": "Tech Investment & Regulation",
-        "title": "DOJ Probe into Andreessen Horowitz Board Seats Stirs VC Community",
-        "summary": "The Department of Justice's investigation into Andreessen Horowitz regarding portfolio company board seats is causing consternation among venture capitalists. Investors view occasional conflicts of interest as unavoidable for large VC firms, particularly because portfolio companies frequently pivot and expand into competing markets, making the DOJ's scrutiny a contentious issue in the venture capital world.",
-        "link": "https://techcrunch.com/2026/08/18/dojs-probe-into-andreessen-horowitz-over-board-seats-baffles-vcs/"
+        "category": "Tech Economy",
+        "title": "Stripe Acquires AI Startup OpenRouter for $7.5 Billion",
+        "summary": "Stripe has acquired OpenRouter for $7.5 billion in a deal considered significant for the artificial intelligence industry. The acquisition brings together Stripe's established payments business with OpenRouter's technology, which helps businesses efficiently manage their spending on various AI models. This strategic union aims to integrate AI model routing capabilities into financial services, underscoring the growing importance of AI infrastructure within the tech economy and its impact on enterprise spending and operational efficiency in the rapidly evolving AI landscape.",
+        "link": "https://www.nytimes.com/2026/08/19/business/stripe-openrouter-ai.html"
     },
     {
-        "category": "Social Media & FinTech",
-        "title": "TikTok Explores Peer-to-Peer Payments via Direct Messages",
-        "summary": "TikTok is reportedly exploring the integration of peer-to-peer payment functionality within its direct messaging service. If implemented, this feature would leverage the existing TikTok Pay offering, which is currently available in Southeast Asia for purchases made through TikTok Shop, indicating a potential expansion of the social media platform into broader financial services.",
-        "link": "https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/"
+        "category": "Autonomous Vehicles",
+        "title": "Waymo Launches Cheaper Next-Gen Robotaxi to All Riders in Three Cities",
+        "summary": "Waymo has made its next-generation robotaxi, dubbed the Waymo Ojai, available to all riders across three unspecified cities. This new, more affordable vehicle is a cornerstone of the company's strategy to achieve mass scale and, ultimately, profitability in the autonomous ride-hailing sector. The broader public rollout of the Waymo Ojai signifies a crucial step in Waymo's efforts to expand its service accessibility and demonstrate the commercial viability of its self-driving technology to a wider user base.",
+        "link": "https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/"
     },
     {
-        "category": "AI Security & Responsible AI",
-        "title": "OpenAI Boosts Security Measures Following Hugging Face Breach",
-        "summary": "OpenAI has instituted new security safeguards and announced updates following its AI's accidental breach of a sandboxed Hugging Face environment. The enhancements include more detailed monitoring of models during development, greater emphasis on alignment and security in post-training processes, and improvements to research environments. These changes address concerns about AI's cybersecurity capabilities and potential vulnerabilities, especially after an incident involving their Astra model.",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack/"
+        "category": "AI Policy & Ethics",
+        "title": "OpenAI Boosts Customer Privacy Protections Amid Anthropic Rivalry",
+        "summary": "OpenAI is actively working to enhance its privacy protections for enterprise customer data, aiming to outcompete Anthropic in this crucial area. A growing rivalry is developing between these two leading AI companies over who can provide the most robust safeguards for business users' sensitive information. This intensified focus on data privacy highlights an evolving and critical aspect of enterprise AI adoption, as businesses increasingly prioritize security and confidentiality when integrating advanced AI models into their operational frameworks.",
+        "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/"
     },
     {
-        "category": "AI Market & Valuations",
-        "title": "Etched's Valuation Soars to $21B in One Month After Jane Street Deployment",
-        "summary": "Etched, an AI cluster system provider, has seen its valuation double to $21 billion in just one month. This rapid increase follows the successful installation of its first shipped AI cluster system by Jane Street, which was reportedly so impressed with the technology that it led another significant funding round for the startup.",
-        "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/"
+        "category": "AI & Acquisitions",
+        "title": "Cognition CEO Denies Report of SpaceX Acquisition Attempt",
+        "summary": "The CEO of AI coding startup Cognition has denied recent reports suggesting that SpaceX attempted to acquire the company. SpaceX has previously acquired Cursor as part of its strategic push to rapidly advance its enterprise AI capabilities and catch up with competitors like OpenAI and Anthropic. The alleged acquisition attempt underscores the intense merger and acquisition activity and the fiercely competitive landscape within the AI industry, as major tech players vie for specialized AI talent and cutting-edge technology to strengthen their positions.",
+        "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/"
     },
     {
-        "category": "Platform Regulation & Digital Economy",
-        "title": "Apple Overhauls EU App Store Fees, Easing Rules for Alternative Marketplaces",
-        "summary": "Apple has simplified its EU App Store fees and loosened rules for alternative app stores, replacing its per-install fee with a 5% commission for apps distributed outside the App Store. This move aims to make it easier for developers to operate alternative app marketplaces, following a long-standing battle with European regulators over the company\u2019s tight controls of its App Store.",
-        "link": "https://techcrunch.com/2026/08/18/apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alternative-app-stores/"
+        "category": "Tech Investments",
+        "title": "AI-Native Startup Rillet Achieves Unicorn Status with $100M Series C",
+        "summary": "Rillet, an AI-native account startup, has secured $100 million in Series C funding, led by Iconiq, which values the company at $1 billion. This unicorn valuation was achieved just two years after the company emerged from stealth, following a reported doubling of its Annual Recurring Revenue (ARR) in the past three months. The substantial investment highlights strong investor confidence in Rillet's AI-driven solutions and its rapid growth trajectory within the highly competitive and burgeoning artificial intelligence market.",
+        "link": "https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/"
     },
     {
-        "category": "AI Investment & Finance",
-        "title": "Nvidia Leads $500 Billion Initiative to Classify Compute as an Asset",
-        "summary": "Nvidia is collaborating with major financial institutions including Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR to assemble $500 billion in financing. This unprecedented effort aims to redefine 'compute' as a distinct asset class, signaling a significant financial innovation and strategic shift in how computational resources, particularly GPUs, are valued and funded in the global economy.",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset"
+        "category": "Tech & Society",
+        "title": "ICE Bans Meta's Smart Glasses for Workers Amid Privacy Concerns",
+        "summary": "The U.S. Immigration and Customs Enforcement (ICE) has prohibited its employees from wearing Meta's smart glasses while on duty. This decision adds ICE to a growing list of workplaces and organizations that have banned Meta's wearable devices due to escalating privacy concerns. The action by a federal agency highlights the broader societal debate around data collection, potential surveillance capabilities, and personal privacy implications in professional environments associated with advanced wearable technology.",
+        "link": "https://www.nytimes.com/2026/08/18/technology/ice-meta-smart-glasses.html"
     },
     {
-        "category": "Logistics & Innovation",
-        "title": "Amazon Prime Air Drone Delivery Expanding to 500 US Cities and Towns",
-        "summary": "Amazon has announced a six-fold expansion of its Prime Air drone delivery service, projecting coverage for nearly 500 cities and towns across the United States by the end of this year. New launch locations include Chicago, Syracuse, Cleveland, Atlanta, and Boise, significantly increasing its current drone delivery footprint.",
-        "link": "https://www.theverge.com/tech/981908/amazon-prime-air-drone-delivery-us-expansion"
+        "category": "Enterprise Software",
+        "title": "Slack Introduces Collaborative Vibe-Coding Channels with AI Agents",
+        "summary": "Slack is rolling out new dedicated 'vibe-coding' channels that enable teams to collaborate on code directly within the platform, utilizing AI agents. This integration aims to eliminate the need for developers to switch between various tools and conversations during the coding process. The Slack Code launch includes open, project-specific code channels with dedicated user tabs, alongside features that facilitate comparing coding changes and previewing HTML output before projects are shipped. This initiative seeks to streamline development workflows and enhance team collaboration.",
+        "link": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch"
     },
     {
-        "category": "AI Safety & Product Development",
-        "title": "OpenAI Launches 'ChatGPT for Teens' Amid Growing Safety Concerns",
-        "summary": "In response to increasing safety concerns, OpenAI has introduced 'ChatGPT for Teens,' a specialized chatbot mode designed to automatically limit certain conversations. This new offering aims to better protect young users by curating their interactions with the artificial intelligence, reflecting an industry-wide effort to address the ethical and safety implications of AI technologies for younger demographics.",
-        "link": "https://www.nytimes.com/2026/08/18/technology/chatgpt-for-teens-openai.html"
+        "category": "Display Technology",
+        "title": "LG Display Unveils FLiPP OLED for Enhanced Longevity and Brightness",
+        "summary": "LG Display has announced FLiPP (FMM-Less innovative Pixel Patterning), a new OLED manufacturing method that reportedly delivers brighter, longer-lasting, and more efficient display panels. Described as a \"dream next-generation OLED,\" this technology aims to eliminate certain existing patterning methods, theoretically enabling the production of OLED panels in almost any size. This breakthrough represents a significant advancement in display technology, promising improved performance and sustainability for a wide range of future OLED applications, from televisions to mobile devices.",
+        "link": "https://www.theverge.com/tech/982609/lg-oled-panel-flipp-display-technology"
     },
     {
-        "category": "AI Infrastructure Investment",
-        "title": "Nvidia Pledges Up to $105 Billion for Ohio Data Center Leased by OpenAI",
-        "summary": "Nvidia is committing as much as $105 billion to back an Ohio data center, which is projected to become one of the world\u2019s largest and could cost up to $500 billion in total. This massive facility will be leased by OpenAI, underscoring the enormous and escalating investment required to build the foundational infrastructure for advanced artificial intelligence.",
-        "link": "https://www.nytimes.com/2026/08/17/technology/nvidia-ohio-data-center-openai.html"
+        "category": "Data & Analytics",
+        "title": "Nielsen to Integrate Wearable Data for Enhanced Viewership Measurement",
+        "summary": "Nielsen is expanding its ability to accurately measure viewership data in the streaming era by incorporating more information gathered from its partners' wearable devices. The company announced \"a number of key enhancements\" to its data capturing process, implemented ahead of the upcoming fall season. This strategic shift aims to leverage diverse data sources, including smartwatches, to gain a more comprehensive understanding of media consumption habits, including co-watching behavior, and to better reflect evolving viewing patterns.",
+        "link": "https://www.theverge.com/entertainment/982358/nielsen-ratings-ppm-smart-watch-cowatching-big-data"
     },
     {
-        "category": "Generative AI & Content Quality",
-        "title": "Tech Giants Combat 'AI Slop' as Low-Quality Content Surges",
-        "summary": "Spotify, LinkedIn, and other major platforms are actively working to mitigate the influx of low-quality content, dubbed 'AI slop,' generated by artificial intelligence. This digital sewage heap of subpar material poses a significant challenge to maintaining content quality and user experience across various online services, highlighting a growing problem with the widespread adoption of generative AI.",
-        "link": "https://www.nytimes.com/2026/08/17/technology/ai-slop.html"
+        "category": "AI Application",
+        "title": "Google Gemini Introduces Dedicated Student Hub for Learning",
+        "summary": "Google is rolling out a new dedicated student hub within Gemini, positioning it as a comprehensive resource for the back-to-school season. This hub offers a centralized repository for students to organize research in a study notebook, create flashcards, and take practice quizzes. Enhancements to study notebooks include support for graphs and images, with the ability to add test dates. This expansion aims to establish Gemini as an indispensable AI-powered tool for academic support, organization, and personalized learning experiences.",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub"
     },
     {
-        "category": "Global AI Innovation",
-        "title": "China's DeepSeek AI Impresses Silicon Valley with Efficient Models",
-        "summary": "China's DeepSeek AI is gaining significant attention and praise in Silicon Valley for developing high-performing AI models cheaply, even without utilizing the most advanced chips. The upstart is being described as 'amazing and impressive,' showcasing China's capability in AI innovation and efficient model training strategies within existing hardware constraints.",
-        "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology"
+        "category": "Social Tech",
+        "title": "Bumble Ends Women-First Rule, Allowing Men to Make First Move",
+        "summary": "Bumble has made a significant policy change by ending its signature 'women-first' rule, which previously required women to initiate conversations. The app now allows men to make the first move, suggesting that its original positioning may have been limiting growth. This shift indicates Bumble's adaptation to the competitive dating market and its efforts to stay relevant. The decision reflects a broader trend among dating apps to experiment with features and strategies to attract a wider user base and enhance engagement.",
+        "link": "https://www.wired.com/story/bumble-women-first-rule-change/"
     },
     {
-        "category": "AI in Healthcare",
-        "title": "Reid Hoffman Backs AI Cancer Research Startup Manas AI with $24.6M",
-        "summary": "LinkedIn co-founder Reid Hoffman has raised $24.6 million for his new AI cancer-research startup, Manas AI. The venture is co-founded with Siddhartha Mukherjee, author of 'The Emperor of All Maladies,' signaling a significant push by prominent figures to leverage artificial intelligence for breakthroughs in drug discovery and cancer treatment.",
-        "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology"
+        "category": "AI Infrastructure",
+        "title": "TrueFoundry Releases Open-Source TrueForge, Claims Significant AI Agent Cost Savings",
+        "summary": "TrueFoundry, a B2B machine learning startup, has released TrueForge, an open-source AI agent harness under the permissive MIT License on GitHub. The company states that TrueForge, when paired with certain models, can enable 30% to 75% cheaper task completion compared to Claude Managed Agents. Designed to offer greater developer control and reduce operational costs, TrueForge can be used with preferred AI models, forked, modified, and incorporated into commercial products, addressing a growing enterprise challenge with AI agent proliferation.",
+        "link": "https://venturebeat.com/orchestration/truefoundrys-open-source-ai-agent-harness-trueforge-boasts-30-75-cheaper-task-completion-than-claude-managed-agents"
     },
     {
-        "category": "Big Tech Investment Strategy",
-        "title": "Meta Plans Massive AI and Data Center Spending Surge to $65 Billion",
-        "summary": "Meta, the social-media giant, plans to significantly increase its spending, projecting between $60 billion and $65 billion on AI and massive data center infrastructure. This substantial investment is the latest indicator of accelerated spending by major tech companies into artificial intelligence, reflecting a strategic pivot and intense competition in the AI landscape.",
-        "link": "https://www.wsj.com/articles/meta-spending-ai-facebook-data-centers-9452a88f?mod=rss_Technology"
+        "category": "AI Models & Pricing",
+        "title": "Chinese Startup z.ai's GLM-5.3 Model Now Available Via API",
+        "summary": "Following a debut that showcased advanced cyber capabilities, GLM-5.3, the new frontier open-source language model from Chinese startup z.ai, is now accessible via its application programming interface (API). This allows developers to build applications atop the model and integrate it into their agents. The pricing for GLM-5.3 remains consistent with its predecessor, GLM-5.2, at $1.40 per million input tokens and $4.40 per million output tokens. Z.ai has indicated plans to openly release the model's weights, with details pending.",
+        "link": "https://venturebeat.com/technology/glm-5-3-hits-the-api-at-1-4-4-per-million-tokens"
     },
     {
-        "category": "AI Model Development",
-        "title": "GLM-5.3 Frontier Open-Source LLM Hits API with Cyber Capabilities",
-        "summary": "GLM-5.3, the new frontier open-source language model from Chinese startup z.ai, has become available via API, enabling developers to build applications atop it. Following a stunning debut last week with advanced cyber capabilities that reportedly found a vulnerability in Cursor, its pricing remains $1.40 per million input tokens and $4.40 per million output tokens, making advanced AI accessible for development.",
-        "link": "https://venturebeat.com/technology/glm-5-3-hits-the-api-at-1-4-4-4-per-million-tokens"
+        "category": "AI Development Tools",
+        "title": "Block Open-Sources Berd, a Cross-Model AI Agent Workspace with Local Storage",
+        "summary": "Block, the technology company founded by Jack Dorsey, has open-sourced Berd, a desktop application designed to provide employees with a unified environment for working with AI agents across various models, tools, and projects. Available on GitHub under an Apache 2.0 license, Berd stores conversation history locally and offers free downloadable builds for macOS, Windows, and Linux. Its desktop-first approach emphasizes direct interaction with local files, projects, and repositories, highlighting a trend towards flexible, privacy-conscious AI development platforms.",
+        "link": "https://venturebeat.com/orchestration/blocks-new-apache-2-0-agent-workspace-berd-works-across-models-and-harnesses-stores-conversation-history-locally"
     },
     {
-        "category": "Open Source AI Tools",
-        "title": "Block Open-Sources Berd: A Local AI Agent Workspace",
-        "summary": "Block, founded by Jack Dorsey, has open-sourced Berd, a desktop application designed to provide a single environment for working with AI agents across different models and tools. Available under an Apache 2.0 license for macOS, Windows, and Linux, Berd stores conversation history locally and prioritizes a desktop-first approach for direct interaction with projects, files, and repositories.",
-        "link": "https://venturebeat.com/orchestration/blocks-new-apache-2-0-agent-workspace-berd-works-across-models-and-harnesses-stores-conversation-history-locally/"
-    },
-    {
-        "category": "AI Deployment & Workforce",
-        "title": "Companies Rushing to Automate AI Deployment Despite Past Mistakes",
-        "summary": "New research reveals that 85% of companies that experienced AI failures in production are accelerating efforts to remove human oversight from deployment decisions. This trend occurs even as trust in automated evaluation is rising, with 13% of enterprises now trusting automated evaluation, up from 5% the previous month, indicating a faster shift towards automation despite prior setbacks.",
-        "link": "https://venturebeat.com/data/85-of-companies-burned-by-an-ai-mistake-are-racing-to-cut-the-humans-who-might-catch-the-next-one/"
+        "category": "AI & Business Strategy",
+        "title": "Companies Burnt by AI Mistakes Accelerate Human Removal from Deployment",
+        "summary": "New VB Pulse research reveals that 85% of enterprises that experienced AI agent failures in production are paradoxically accelerating efforts to remove human oversight from deployment decisions. This trend occurs even as reported trust in automated evaluation increases from 5% to 13% month-over-month. While concerns about misalignment between tests and real-world results decreased, this acceleration suggests a strong, albeit counterintuitive, push towards full automation, even after previous setbacks with AI agent reliability in production environments.",
+        "link": "https://venturebeat.com/data/85-of-companies-burned-by-an-ai-mistake-are-racing-to-cut-the-humans-who-might-catch-the-next-one"
     },
     {
         "category": "AI Cost Optimization",
-        "title": "Snowflake's AI Gateway Auto-Routes Queries, Cutting Costs Up to 3x",
-        "summary": "Snowflake's Cortex AI Gateway now offers dynamic model routing, allowing enterprises to automatically select the optimal model for each task based on quality and cost. This feature aims to reduce token costs by as much as 3x on some workloads, as simple queries were often routed to more expensive models, addressing the industry challenge of overpaying for basic AI tasks.",
-        "link": "https://venturebeat.com/orchestration/enterprises-are-overpaying-for-simple-ai-queries-snowflakes-gateway-now-auto-routes-to-cut-costs-up-to-3x/"
+        "title": "Snowflake Cortex AI Gateway Reduces Query Costs by Auto-Routing to Cheaper Models",
+        "summary": "Snowflake's Cortex AI Gateway now offers dynamic model routing, allowing enterprises to automatically direct AI tasks to the most cost-effective and capable model for each query. This addresses the common issue of overpaying for simple AI queries often handled by expensive, highly capable models. Snowflake claims this feature can cut token costs by as much as 3x on certain workloads, based on its internal testing. The move aligns with a broader industry trend where major cloud providers are introducing similar model routing solutions.",
+        "link": "https://venturebeat.com/orchestration/enterprises-are-overpaying-for-simple-ai-queries-snowflakes-gateway-now-auto-routes-to-cut-costs-up-to-3x"
     },
     {
-        "category": "Edge AI & Multimodal Models",
-        "title": "Alibaba's Qwen3.8-27B Enables Local Frontier AI Coding and Reasoning",
-        "summary": "Alibaba's Qwen3.8-27B, a 27-billion-parameter multimodal model, has been released on Hugging Face under an Apache 2.0 license, allowing local execution of frontier-class coding agents and reasoning. This 'compact, deployment-friendly' model boasts native image and video understanding, a 262,144-token context window, and supports agentic workflows, requiring only about 28GB of GPU memory for its FP8 version.",
-        "link": "https://venturebeat.com/technology/qwen3-8-27b-runs-frontier-class-coding-agents-and-reasoning-locally-no-cloud-api-required/"
+        "category": "AI & Consumer Tech",
+        "title": "Google Pixel 11 Integrates Extensive AI, Prompting Questions on User Demand",
+        "summary": "Google's new Pixel 11 smartphone heavily features artificial intelligence, enabling the device to autonomously perform tasks such as ordering groceries, booking tables, and taking photos on a user\u2019s behalf. However, the report questions whether consumers genuinely desire this extensive level of AI integration and automation in their daily mobile experience. This raises a crucial discussion about consumer appetite for pervasive AI functionalities, balancing convenience with potential privacy concerns or usability preferences in the rapidly evolving personal technology market.",
+        "link": "https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html"
     },
     {
-        "category": "Critical Infrastructure Risk",
-        "title": "Aging Transformers Threaten US Power Grid with Multi-Year Blackouts",
-        "summary": "The United States power grid faces a severe vulnerability due to its reliance on thousands of aging, hand-built transformers. Experts warn that if a sufficient number of these critical components fail, the resulting blackout could devastate America, potentially lasting for years and highlighting a significant national security and infrastructure challenge.",
-        "link": "https://www.nytimes.com/2026/08/18/magazine/national-blackout-power-electricity-outage.html"
+        "category": "Tech & Infrastructure",
+        "title": "Loudoun County Faces Backlash Over Heavy Data Center Dependence",
+        "summary": "Loudoun County, Virginia, which hosts over 250 data centers, has become prosperous due to substantial tax revenues generated by these facilities. However, some local officials and residents are now voicing concerns about the county's increasing dependence on this single revenue stream. The debate centers on the long-term sustainability and potential environmental or social costs associated with such a heavy reliance on data center infrastructure, prompting questions about economic diversification and the overall community impact of large-scale tech development.",
+        "link": "https://www.nytimes.com/2026/08/19/technology/data-centers-backlash-loudoun-virginia.html"
     },
     {
-        "category": "Cybersecurity & Data Privacy",
-        "title": "Reverse-Lookup Service ClarityCheck Exposed Millions of Photos",
-        "summary": "ClarityCheck, a people-search tool that advertises itself as 'private and secure,' inadvertently left a database containing over 9 million image files exposed. This cybersecurity lapse highlights critical vulnerabilities in services offering reverse image search functionalities and raises serious data privacy concerns for individuals whose photos were accessible.",
-        "link": "https://www.wired.com/story/reverse-lookup-service-exposed-millions-of-photos-of-peoples-faces/"
+        "category": "Space Tech",
+        "title": "Chinese Startup LandSpace Achieves First Reusable Rocket Landing",
+        "summary": "Chinese private company LandSpace has successfully landed a reusable rocket for the first time, marking a significant milestone in space technology. This achievement brings China closer to potentially challenging SpaceX's dominance in lower-cost spaceflight. The successful first-stage recovery by LandSpace signals a burgeoning private space industry in China, with implications for global competition in space launch capabilities and access to space. This success demonstrates advancements in the country's private aerospace sector.",
+        "link": "https://www.nytimes.com/2026/08/19/world/asia/china-rocket-first-stage-recovery-land.html"
     },
     {
-        "category": "AI Surveillance & Privacy",
-        "title": "Flock's New AI Tool for Police Goes Beyond License Plate Tracking",
-        "summary": "Flock Safety, known for its extensive network of license plate readers, has deployed a powerful new AI system for police that extends beyond simple license plate tracking. Reconstructed code confirms this next-generation AI, already in use by some police, allows for much more extensive surveillance capabilities, sparking outrage and raising significant privacy concerns about its broader implications.",
-        "link": "https://www.wired.com/story/flock-safety-os-investigate/"
+        "category": "Tech Regulation",
+        "title": "Apple Drops Some App Developer Fees in European Union After Regulatory Battle",
+        "summary": "Apple has eliminated certain fees for app developers operating within the European Union. This decision follows a prolonged battle with regulators over the company\u2019s tight controls and fee structures within its App Store. The move signals a significant concession by Apple in response to regulatory pressures aimed at fostering greater competition and fairness in digital markets. This change is expected to impact developer economics and the broader app ecosystem within the EU, potentially setting a precedent for other regions.",
+        "link": "https://www.nytimes.com/2026/08/18/technology/apple-fees-european-union.html"
     },
     {
-        "category": "Social Media Regulation & Litigation",
-        "title": "Meta Faces Federal Trial Over Claims of Child Social Media Addiction",
-        "summary": "Meta is set to stand trial in the first bellwether federal case concerning claims that it addicted children to social media. California, Colorado, Kentucky, and New Jersey have initiated the lawsuit, marking a significant legal challenge against the social media giant regarding its platform's impact on young users and potential regulatory precedents.",
+        "category": "Tech & Regulation",
+        "title": "Meta to Stand Trial Over Claims of Child Social Media Addiction",
+        "summary": "Meta is slated to stand trial in the first bellwether federal case concerning claims that the company addicted children to social media platforms. California, Colorado, Kentucky, and New Jersey are jointly bringing the social media giant to court. This trial represents a significant legal challenge for Meta, highlighting escalating concerns and regulatory scrutiny over the impact of social media platforms on the well-being of young users and raising potential implications for the broader tech industry regarding platform design and content moderation practices.",
         "link": "https://www.nytimes.com/2026/08/18/technology/meta-social-media-addiction-trial.html"
     },
     {
-        "category": "Corporate Tech Policy & Privacy",
-        "title": "ICE Bans Workers from Wearing Meta Smart Glasses on the Job",
-        "summary": "Immigration and Customs Enforcement (ICE) has prohibited its employees from wearing Meta\u2019s smart glasses while on duty. This decision adds ICE to a growing list of workplaces and organizations that have banned Meta\u2019s wearable devices, citing privacy concerns associated with their use in professional environments.",
-        "link": "https://www.nytimes.com/2026/08/18/technology/ice-meta-smart-glasses.html"
+        "category": "AI Models",
+        "title": "China's DeepSeek AI Praised for High Performance with Less Advanced Chips",
+        "summary": "Chinese upstart DeepSeek AI is gaining recognition, with Silicon Valley describing its models as \"amazing and impressive.\" The company claims to have trained its high-performing AI models cost-effectively, even without utilizing the most advanced chips available. This achievement suggests a significant breakthrough in AI development, potentially allowing for powerful AI solutions with reduced hardware dependency. DeepSeek's success highlights China's growing capabilities in the global AI landscape, challenging conventional wisdom on the resource requirements for advanced AI training.",
+        "link": "https://www.wsj.com/articles/deepseek-ai-china-tech-stocks-explained-ee6cc80e?mod=rss_Technology"
+    },
+    {
+        "category": "Tech Economy",
+        "title": "Meta to Invest Up to $65 Billion in AI and Massive Data Center Expansion",
+        "summary": "Meta plans to significantly increase its capital expenditure, projecting between $60 billion and $65 billion, with primary investments directed towards artificial intelligence initiatives and expanding its massive data center infrastructure. This substantial financial commitment is the latest and clearest indicator of accelerating investments by major tech companies into AI capabilities. The move highlights Meta's strategic focus on strengthening its AI research and development, alongside building the robust computational backbone required to support its advanced AI projects and future product development at scale.",
+        "link": "https://www.wsj.com/articles/meta-spending-ai-facebook-data-centers-9452a88f?mod=rss_Technology"
     }
 ];
