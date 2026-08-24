@@ -1,152 +1,152 @@
 window.NEWS_DATA = [
     {
-        "category": "Global E-commerce",
-        "title": "Flipkart's India Quick-Commerce Soars",
-        "summary": "Walmart-owned Flipkart's quick-commerce venture in India is rapidly gaining ground, now fulfilling 1.1 million to 1.2 million orders daily. This represents a nearly threefold increase in volume since November, indicating significant growth and aggressive competition against established leaders in the lucrative Indian market. The expansion highlights Flipkart's strategic push to capture a larger share of the fast-growing quick-commerce sector, demonstrating its increasing operational scale and market penetration within two years of launch.",
-        "link": "https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/"
+        "category": "AI Breakthroughs",
+        "title": "'Stealth Model' Ox Alpha Sparks AI Speculation",
+        "summary": "A mysterious new AI model, \"Ox Alpha,\" has ignited significant speculation across various internet communities. Details surrounding its origin and capabilities are currently undisclosed, leading to a frenzy of discussion about who might be behind this unannounced development. The emergence of such a \"stealth model\" suggests a potentially significant, yet opaque, advancement in artificial intelligence, prompting observers to consider its implications for the broader AI landscape and competitive dynamics.",
+        "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/"
     },
     {
-        "category": "AI in Education",
-        "title": "Harvard Business School Launches AI Avatar Bootcamp",
-        "summary": "Harvard Business School's new HBS Foundry program, priced at $699, is integrating AI avatars of its instructors to enhance the learning experience. These AI-powered avatars are designed to provide real-time feedback to participants during critical activities such as practice pitches and simulated board meetings. This innovative application of AI aims to offer personalized and scalable coaching, marking a notable step in how educational institutions leverage artificial intelligence for specialized professional development and entrepreneurial training.",
-        "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/"
+        "category": "Regulatory Enforcement",
+        "title": "Uber Hit with Near $1B GDPR Fine Over Driver Suspensions",
+        "summary": "Uber has been issued a substantial \u20ac825 million (nearly $1 billion) fine by the Dutch Data Protection Authority, marking Europe\u2019s second-largest penalty under GDPR. The fine stems from concerns regarding Uber's automated systems used for suspending drivers. This significant regulatory action highlights increasing scrutiny over algorithmic decision-making, particularly concerning employment and personal data, and sets a precedent for how automated processes in the gig economy must comply with stringent European privacy regulations.",
+        "link": "https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/"
     },
     {
-        "category": "AI Breakthrough",
-        "title": "DeepMind Alumni Lab's AI Outperforms Giants in Research Replication",
-        "summary": "British AI lab Inherent, founded by DeepMind alumni, has launched Faraday, an AI agent that reportedly outperformed models from Anthropic and OpenAI in replicating scientific research papers. This achievement signifies a significant advancement in AI's ability to understand and reproduce complex scientific methodologies, potentially serving as a crucial stepping stone for accelerating innovation and discovery across various scientific fields. The breakthrough suggests a new contender in the frontier AI landscape challenging established leaders.",
+        "category": "AI Legal & Ethics",
+        "title": "Copyright Quandary: AI Training on Books Questioned",
+        "summary": "The legality of training AI models on copyrighted books is a complex and contentious issue. Many published authors find their work, often without their knowledge or consent, contributes to the development of AI tools that subsequently threaten their livelihoods. This practice raises significant questions about intellectual property rights and fair use in the age of generative AI, prompting a debate over whether current legal frameworks are adequate to protect creators whose works are used to build these powerful new systems.",
+        "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/"
+    },
+    {
+        "category": "Tech Economy & Regulation",
+        "title": "DOJ Investigation into a16z Board Seats Raises VC Concerns",
+        "summary": "The Department of Justice's investigation into venture capital firms, specifically scrutinizing startup board seats held by entities like Andreessen Horowitz (a16z), is generating unease within the VC community. This inquiry questions the influence and potential anti-competitive practices associated with venture capitalists holding multiple board positions across portfolio companies. The outcome could significantly impact the established norms of startup governance and venture investment strategies, potentially leading to increased regulatory oversight for the tech funding landscape.",
+        "link": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/"
+    },
+    {
+        "category": "AI Breakthroughs",
+        "title": "DeepMind Alumni AI Outperforms Competitors in Research Replication",
+        "summary": "British AI lab Inherent, founded by DeepMind alumni, has announced the release of Faraday, an AI agent reportedly capable of replicating scientific papers more effectively than models from Anthropic and OpenAI. This breakthrough suggests a significant advancement in AI agents' ability to understand and reproduce complex research, which could serve as a crucial stepping stone for accelerating scientific innovation and discovery. The development indicates growing competition and specialized capabilities emerging in the advanced AI research space.",
         "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/"
     },
     {
-        "category": "AI Policy & Regulation",
-        "title": "OpenAI Urges Stronger California AI Safety Bill",
-        "summary": "OpenAI is now advocating for California to strengthen SB 53, an AI safety bill that the company had previously opposed. This shift in stance indicates a growing recognition among leading AI developers for more robust regulatory frameworks to address potential risks associated with advanced AI systems. The call for stronger legislation from a major AI lab highlights evolving perspectives on the necessity of external oversight and safety measures as AI capabilities continue to advance.",
-        "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/"
+        "category": "Robotics & AI",
+        "title": "Humanoid Robots Shatter Usain Bolt's 100m Record",
+        "summary": "Humanoid robots have outpaced Usain Bolt\u2019s 9.58-second 100-meter dash record, set in 2009. At the World Humanoid Robot Games in Beijing, Tiangong Ultra, developed by the Beijing Humanoid Robot Innovation Center, completed the sprint in 9.39 seconds. This was followed by Honor-developed Lightning at 9.47 seconds. This significant achievement highlights rapid advancements in robotics and AI, demonstrating humanoids' increasing speed and athletic capabilities, potentially signaling new frontiers in robotic mobility and performance.",
+        "link": "https://www.theverge.com/tech/983688/world-humanoid-robot-games-sprint-record-2026"
     },
     {
-        "category": "AI Safety & Governance",
-        "title": "Top AI Labs Lack Public Plans for Rogue Model Containment",
-        "summary": "A recent study reveals that leading AI laboratories have few publicly documented strategies for containing \"rogue\" AI models. This finding raises significant concerns about preparedness, especially as AI systems increasingly exhibit unexpected and potentially hazardous behaviors. The absence of transparent containment protocols from frontier AI developers underscores a critical gap in the industry's approach to AI safety and governance, prompting questions about the industry's readiness for unforeseen challenges.",
-        "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/"
-    },
-    {
-        "category": "Green Tech & Defense",
-        "title": "US Battery Startups Secure $500M Lifeline from DOE",
-        "summary": "U.S. battery startups have received a crucial financial boost, securing $500 million in grants from the Department of Energy. This funding provides a lifeline to an industry that faced challenges after significant cuts to EV incentives. The strategic investment from the defense sector highlights a growing recognition of domestic battery technology's importance not only for sustainable energy but also for national security applications, bolstering a critical American manufacturing sector.",
-        "link": "https://techcrunch.com/2026/08/22/us-battery-startups-have-found-a-lifeline-in-defense/"
-    },
-    {
-        "category": "AI & Bio-tech Innovation",
-        "title": "AI Trained on Living Human Skin for Skincare Discovery",
-        "summary": "Michael Polansky, known for his association with Lady Gaga and Sean Parker, has revealed his AI-driven startup focused on novel skincare compound discovery. The company is training an AI model on living human skin tissue, which is kept alive for weeks outside the body. This unique approach aims to accelerate the identification of new skincare solutions by leveraging AI to analyze biological responses, potentially revolutionizing the development process for cosmetic and dermatological products.",
-        "link": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/"
-    },
-    {
-        "category": "Consumer Tech & Market Shifts",
-        "title": "Amazon Raises Device Prices Up to 60%",
-        "summary": "Amazon has announced significant price increases, up to 60 percent, for its Echo, Fire TV, and Kindle product lines, citing \"significant increases in memory and storage component costs.\" The steepest hikes were observed in its most affordable devices, with the Echo Dot smart speaker increasing from $49.99 to $79.99. This move reflects broader inflationary pressures on hardware components and could impact consumer adoption of Amazon's ecosystem of devices.",
+        "category": "Tech Economy & Consumer",
+        "title": "Amazon Hikes Device Prices Up To 60% Amid Component Costs",
+        "summary": "Amazon has significantly increased prices for its Echo, Fire TV, and Kindle product lines by up to 60 percent, citing \"significant increases in memory and storage component costs.\" The most affordable devices were hit hardest, with the Echo Dot smart speaker seeing a jump from $49.99 to $79.99. This move reflects broader industry pressures from rising hardware component expenses, impacting consumer electronics pricing and potentially affecting market adoption of popular smart home and e-reader devices.",
         "link": "https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv"
     },
     {
-        "category": "Tech Regulation & Social Media",
-        "title": "TikTok Settles Child Privacy Lawsuit for $400 Million",
-        "summary": "TikTok will pay $400 million to settle a lawsuit filed by the U.S. Department of Justice in 2024, alleging violations of the Children's Online Privacy Protection Act (COPPA). The lawsuit claimed TikTok collected data from children without parental notification or consent and failed to delete non-compliant accounts. This substantial settlement underscores intensifying regulatory scrutiny over social media platforms' data handling practices concerning minors, setting a precedent for privacy compliance in the tech industry.",
-        "link": "https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa"
+        "category": "AI Ethics & Social Impact",
+        "title": "Deepfakes Target Teachers, Sparking Accountability Crisis",
+        "summary": "A growing deepfake epidemic is significantly impacting teachers, who are becoming targets of sexualized, AI-generated content. This phenomenon extends beyond students, creating severe personal and professional repercussions for educators. The affected teachers recount the profound difficulty they face in seeking accountability and removing such harmful content. This situation underscores a critical ethical challenge posed by AI deepfake technology, highlighting the urgent need for robust mechanisms to protect individuals and ensure digital safety in educational and broader societal contexts.",
+        "link": "https://www.wired.com/story/teachers-deepfake-ai-students-content/"
     },
     {
-        "category": "Corporate Tech & AI",
-        "title": "Apple Announces Layoffs in Vision Pro and Siri Teams",
-        "summary": "Apple is reportedly laying off over 200 staff members across its Siri and Vision Pro teams, according to Bloomberg. The cuts include a significant reduction in the Vision Pro gaming team and a smaller team working on Vision Pro immersive content. These layoffs signal potential strategic adjustments within Apple's AI and mixed-reality initiatives, suggesting a re-evaluation of resource allocation in these key areas despite ongoing investments in future technologies.",
-        "link": "https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri"
+        "category": "Enterprise Hardware & AI",
+        "title": "IBM Unveils Dual-Architecture Mainframe Chip for Arm & Z Workloads",
+        "summary": "IBM has announced a significant architectural shift with its next-generation mainframe chip, which will natively execute both IBM's own instruction set (Z) and Arm's instruction set on the same cores, switching in nanoseconds. This innovation, powering future IBM Z and LinuxONE systems, allows enterprises to run the fast-growing Arm-native Linux software ecosystem\u2014including modern AI frameworks\u2014directly alongside traditional z/OS transaction-processing workloads. This dual-architecture design aims to bridge critical infrastructure needs for global financial and governmental institutions.",
+        "link": "https://venturebeat.com/infrastructure/ibms-next-gen-mainframe-chip-is-the-first-to-run-arm-and-z-workloads-on-the-same-cores/"
     },
     {
-        "category": "Enterprise AI Strategy",
-        "title": "Enterprises Restrict AI Agent Autonomy for Success",
-        "summary": "Contrary to earlier beliefs, enterprises successfully deploying AI agents are finding that limiting their autonomy leads to better performance. This shift in strategy emerges from real-world production environments where a significant number of fully autonomous AI projects are failing, with Gartner forecasting over 40% of such projects will be canceled by late 2027. Companies are now focusing on creating AI agents with specific responsibilities and clear operational rules, prioritizing controlled execution over extensive unsupervised flexibility.",
-        "link": "https://venturebeat.com/orchestration/enterprises-winning-with-ai-agents-are-limiting-how-much-the-agents-can-do-alone"
+        "category": "AI Strategy & Challenges",
+        "title": "Enterprise AI Reliability Hinges on Data Quality",
+        "summary": "Enterprise AI agents' reliability is directly tied to the quality of underlying documents. Current context engineering approaches, which connect systems to generate embeddings for individual AI applications, are proving insufficient as organizations deploy more agents. This leads to different teams processing the same documents, maintaining separate indexes, and creating inconsistent knowledge representations. The core challenge shifts from merely providing context to AI systems to effectively managing enterprise knowledge as a shared asset, which is crucial for scalable and consistent AI performance.",
+        "link": "https://venturebeat.com/orchestration/enterprise-ai-agents-are-only-as-reliable-as-the-messiest-documents-behind-them/"
     },
     {
-        "category": "AI Infrastructure Breakthrough",
-        "title": "Nvidia's Linear Math Streamlines AI Model Handoffs",
-        "summary": "Nvidia researchers have developed a \"cross-model KV cache transfer\" technique that uses simple linear math to significantly reduce compute costs and latency in multi-LLM workflows. This innovation directly maps the prefilled KV cache between AI models, eliminating the need for the receiving model to recompute entire conversations from scratch during task handoffs. This solution addresses a major bottleneck in agentic AI systems, promising more efficient and cost-effective deployment of long-horizon AI applications without relying on expensive deep learning models.",
-        "link": "https://venturebeat.com/technology/nvidia-finds-that-simple-linear-math-can-replace-costly-ai-model-handoffs"
+        "category": "AI Strategy & Governance",
+        "title": "Limiting AI Agent Autonomy Boosts Enterprise Success",
+        "summary": "Contrary to earlier beliefs that more autonomy for AI agents equates to better performance, enterprises are now finding success by limiting agent flexibility and assigning specific responsibilities within clear rules. This shift comes as large-scale deployments reveal high failure rates; Gartner forecasts over 40% of current agentic AI projects will be canceled by late 2027. Companies benefiting from agentic AI are those prioritizing controlled environments, demonstrating that strategic constraint, rather than unchecked autonomy, is key for real-world production environments.",
+        "link": "https://venturebeat.com/orchestration/enterprises-winning-with-ai-agents-are-limiting-how-much-the-agents-can-do-alone/"
     },
     {
-        "category": "AI & Collaboration Tools",
-        "title": "Slack Integrates AI Coding Agents into Group Chat",
-        "summary": "Slack has introduced \"Slack Code,\" a new product designed to embed leading AI coding agents like Anthropic's Claude Code, Cognition's Devin, GitHub Copilot, and Vercel's agent directly into dedicated Slack channels. This initiative aims to transform AI-assisted coding from a solitary activity into a collaborative team effort, allowing developers to watch, steer, review, and ship software together within their existing communication platform. Slack Code is available on any plan, requiring customers to have their own access to the partner agents.",
-        "link": "https://venturebeat.com/orchestration/slack-wants-to-drag-ai-coding-out-of-the-terminal-and-into-the-group-chat"
+        "category": "AI Efficiency & Breakthroughs",
+        "title": "Nvidia Optimizes AI Model Handoffs with Linear Math",
+        "summary": "Nvidia researchers have developed a cross-model KV cache transfer technique using simple linear math to replace costly AI model handoffs. This innovation directly maps prefilled KV cache between source and target models, addressing a major bottleneck in multi-LLM workflows where large contexts accumulate. The method significantly reduces compute costs and latency, running 2.7 to 25 times faster on compatible model pairs. This advancement improves efficiency for agentic AI systems that frequently transfer tasks between different-sized models, making long-horizon workflows more feasible.",
+        "link": "https://venturebeat.com/technology/nvidia-finds-that-simple-linear-math-can-replace-costly-ai-model-handoffs/"
     },
     {
         "category": "AI Governance & Costs",
-        "title": "Enterprises Struggle with Runaway AI Agent Spending",
-        "summary": "A recent VB Pulse analysis reveals that one in five enterprises cannot stop a runaway AI agent's spending in real time, highlighting significant governance challenges. The median enterprise utilizes three orchestration platforms, not for flexibility, but due to distrust in single vendors' security and permissioning. Despite Microsoft leading in primary usage and Anthropic in consideration, enterprises continue to struggle with token usage visibility and real-time control over agent expenditures, indicating a critical need for improved cost management and trust in AI orchestration solutions.",
-        "link": "https://venturebeat.com/orchestration/one-in-five-enterprises-cant-stop-a-runaway-ai-agents-spending-in-real-time"
+        "title": "Enterprises Struggle to Control AI Agent Spending",
+        "summary": "A significant challenge for enterprises deploying AI agents is the inability of one in five organizations to stop runaway agent spending in real-time. This issue stems from a lack of trust in single vendor security and permissioning capabilities, leading the median enterprise to use three orchestration platforms simultaneously. While Microsoft leads in primary usage and Anthropic is considered for future adoption, companies face ongoing struggles with token usage visibility and cost control, highlighting critical gaps in current AI governance and financial management tools.",
+        "link": "https://venturebeat.com/orchestration/one-in-five-enterprises-cant-stop-a-runaway-ai-agents-spending-in-real-time/"
     },
     {
-        "category": "AI Infrastructure & Open Source",
-        "title": "TrueFoundry's TrueForge Offers Cheaper Open-Source AI Agent Harness",
-        "summary": "TrueFoundry, a B2B machine learning startup, has released TrueForge, an open-source AI agent harness under the MIT License, aimed at reducing costs and increasing developer control. Benchmarks indicate that TrueForge can achieve 30% to 75% cheaper task completion compared to Claude Managed Agents when paired with Claude 3 Opus. This solution allows developers to use their preferred AI models, fork, modify, and self-host the harness, offering a flexible and cost-effective alternative for enterprise AI agent deployment.",
-        "link": "https://venturebeat.com/orchestration/truefoundrys-open-source-ai-agent-harness-trueforge-boasts-30-75%25-cheaper-task-completion-than-claude-managed-agents/"
+        "category": "Tech Ethics & Social Impact",
+        "title": "Big Tech's Influence Dominates American Schools",
+        "summary": "Major tech companies, including Google and Microsoft, have significantly influenced American schools by leveraging their financial resources, market power, and extensive reach across the entire education supply chain. This pervasive influence has allowed them to shape nearly every aspect of educational technology and infrastructure. The phenomenon raises questions about data privacy, pedagogical independence, and potential monopolistic practices, as schools become increasingly reliant on tools and platforms provided by a few dominant tech giants, affecting millions of students and educators.",
+        "link": "https://www.nytimes.com/2026/08/23/business/schools-big-tech-google-microsoft.html"
     },
     {
-        "category": "AI Investment & Tech Economy",
-        "title": "Anthropic Eyeing $100 Billion IPO, $2 Trillion Valuation",
-        "summary": "Leading AI startup Anthropic is reportedly considering a blockbuster initial public offering aiming to raise $100 billion. Its bankers have informed potential investors that this offering could value the five-year-old company at an staggering $2 trillion, which would surpass the valuation of Elon Musk\u2019s SpaceX. This potential IPO signifies the immense investor appetite and anticipated growth within the artificial intelligence sector, positioning Anthropic as a major force in the global tech economy.",
+        "category": "Infrastructure & Politics",
+        "title": "Data Center Backlash Emerges in Midterm Elections",
+        "summary": "Mounting opposition to data centers is becoming a significant political issue, impacting midterm elections as both Democrats and a growing number of Republicans campaign against their proliferation. Concerns often relate to environmental impact, resource consumption (especially water and energy), and local community disruption. This widespread backlash signals a shift in public perception towards large-scale tech infrastructure, suggesting that future data center developments may face increased political and regulatory hurdles, potentially influencing infrastructure growth strategies for tech companies.",
+        "link": "https://www.nytimes.com/2026/08/23/us/politics/data-centers-midterm-elections.html"
+    },
+    {
+        "category": "Geopolitics & Defense Tech",
+        "title": "US Startup Develops Low-Cost Counter-Drone Tech for Iran War",
+        "summary": "Florida-based startup Powerus is emerging as a global supplier of low-cost counter-drone technology, specifically developing interceptors for the Iran War. The company's unique approach involves an unconventional business model, including connections to the Trumps and a golf course, signifying a departure from traditional defense contracting. This development highlights the rapid innovation in defense technology driven by current geopolitical conflicts and the emergence of new players addressing critical security needs with potentially disruptive economic models.",
+        "link": "https://www.nytimes.com/2026/08/23/business/powerus-counter-drone-iran-war.html"
+    },
+    {
+        "category": "AI Economy & Finance",
+        "title": "Anthropic Targets $100B IPO, Could Reach $2 Trillion Valuation",
+        "summary": "AI startup Anthropic is reportedly aiming for a blockbuster Initial Public Offering (IPO) of $100 billion, with its bankers suggesting a potential valuation of up to $2 trillion to prospective investors. This valuation would position the five-year-old company beyond Elon Musk\u2019s SpaceX, underscoring the explosive growth and investor confidence in leading artificial intelligence developers. Such a monumental offering would mark a significant milestone in the burgeoning AI economy, potentially reshaping market dynamics and investment trends within the tech sector.",
         "link": "https://www.nytimes.com/2026/08/21/technology/anthropic-ipo-100-billion.html"
     },
     {
-        "category": "Global AI Landscape",
-        "title": "China's DeepSeek AI Impresses Silicon Valley with Cost-Effective Models",
-        "summary": "China's DeepSeek AI is drawing significant attention from Silicon Valley, being described as \"amazing and impressive\" for its ability to train high-performing AI models cheaply. Crucially, DeepSeek achieved this without utilizing the most advanced chips, challenging conventional wisdom in AI development. This breakthrough suggests a potential shift in the competitive landscape of artificial intelligence, demonstrating that cutting-edge AI can be developed with more accessible resources, with implications for global tech dominance and resource allocation.",
+        "category": "Regulatory Enforcement & Privacy",
+        "title": "TikTok Settles Child Privacy Lawsuit for $400 Million",
+        "summary": "TikTok has reached a $400 million settlement with the U.S. Justice Department to resolve a lawsuit alleging the social media company illegally gathered children's information. This significant penalty addresses concerns over child privacy and compliance with data protection regulations. The settlement underscores heightened regulatory scrutiny on platforms targeting young users and the severe financial repercussions for failing to adhere to privacy laws designed to protect minors, emphasizing the ongoing challenges for large tech companies in managing user data responsibly.",
+        "link": "https://www.nytimes.com/2026/08/21/technology/tiktok-settlement-justice-department.html"
+    },
+    {
+        "category": "AI Governance & Ethics",
+        "title": "OpenAI's Voluntary Two-Week Pause Signals AI Reflection",
+        "summary": "OpenAI has undertaken an unprecedented two-week voluntary pause, marking the first known instance of a major AI lab deliberately slowing its development. This pause comes amidst broader discussions, including academic perspectives like Jill Lepore's views on the \"Artificial State\" threat. The voluntary deceleration suggests a period of internal reflection or recalibration, highlighting the industry's growing awareness of AI's societal implications and the complex ethical considerations surrounding advanced AI development, potentially setting a new precedent for responsible innovation.",
+        "link": "https://www.nytimes.com/2026/08/21/podcasts/openais-two-week-pause-jill-lepore-on-the-threat-of-the-artificial-state-train-of-thought.html"
+    },
+    {
+        "category": "AI Breakthroughs & Geopolitics",
+        "title": "China's DeepSeek AI Achieves High Performance on Basic Chips",
+        "summary": "Chinese AI upstart DeepSeek AI has garnered significant attention from Silicon Valley for developing high-performing artificial intelligence models cost-effectively, even without utilizing the most advanced chips. Described as \"amazing and impressive,\" DeepSeek's achievements highlight a potential shift in the competitive AI landscape, demonstrating that significant AI capabilities can be achieved through optimized algorithms and engineering rather than solely relying on cutting-edge hardware. This development has geopolitical implications, showcasing China's ability to innovate within technological constraints.",
         "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology"
     },
     {
-        "category": "AI & Healthcare Investment",
-        "title": "Reid Hoffman Backs AI Cancer Research with $24.6M",
-        "summary": "LinkedIn co-founder Reid Hoffman has raised $24.6 million for his new AI-driven cancer-research startup, Manas AI. He co-founded the venture with Siddhartha Mukherjee, author of \"The Emperor of All Maladies.\" This significant funding highlights the continued investment by prominent tech figures into applications of artificial intelligence within the healthcare sector, specifically targeting complex diseases like cancer. The initiative signals optimism for AI's potential to accelerate medical discovery and treatment development.",
-        "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology"
-    },
-    {
-        "category": "AI Infrastructure Investment",
-        "title": "Meta Plans $60-65 Billion AI & Data Center Spending",
-        "summary": "Meta Platforms, the social media giant, announced plans to spend between $60 billion and $65 billion on artificial intelligence initiatives and the construction of massive data centers. This substantial investment is the latest indicator of accelerating capital expenditure by major tech companies into AI infrastructure. The move underscores Meta's commitment to advancing its AI capabilities across its platforms and services, reflecting a broader industry trend of aggressive investment to secure a leading position in the AI race.",
+        "category": "AI Economy & Investment",
+        "title": "Meta Allocates Up to $65B for AI and Data Centers",
+        "summary": "Meta plans to significantly increase its spending, allocating between $60 billion and $65 billion towards artificial intelligence initiatives and the construction of massive data centers. This substantial investment is the latest indicator of accelerated spending across tech companies dedicated to advancing AI capabilities and supporting the infrastructure required for these demanding workloads. The move underscores Meta's commitment to strengthening its position in the AI race, signaling a continued period of intense investment in the foundational technologies driving future digital platforms.",
         "link": "https://www.wsj.com/articles/meta-spending-ai-facebook-data-centers-9452a88f?mod=rss_Technology"
     },
     {
-        "category": "Tech & Government Relations",
-        "title": "Canada to Review Amazon Contracts Post-Quebec Layoffs",
-        "summary": "The Canadian government has notified Amazon.com of its intention to review business ties with the company's cloud-computing unit. This action follows Amazon's decision to close its warehouses in Quebec, resulting in the layoff of 1,700 workers. The review signifies increased government scrutiny over major tech companies' operational decisions and their impact on local employment, potentially leading to adjustments in how public sector entities engage with large tech contractors.",
-        "link": "https://www.wsj.com/articles/canada-to-review-amazon-contracts-after-quebec-layoffs-d458ea66?mod=rss_Technology"
+        "category": "AI Science & Cognition",
+        "title": "Children Still Outperform AI in Language Learning",
+        "summary": "Despite advancements, human children continue to outlearn AI in achieving perfect fluency in human language, a process that remains largely unexplained. While large language models (LLMs) require vast datasets\u2014hundreds of thousands of times more data than a child\u2014to learn, the unique efficiency of human language acquisition persists. This fundamental difference highlights a critical area of ongoing research into cognitive science and artificial intelligence, seeking to understand the underlying mechanisms that allow children to master language with such remarkable speed and precision.",
+        "link": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/"
     },
     {
         "category": "AI Ethics & Healthcare",
-        "title": "Debate Ignites Over Credit for AI-Designed Drugs",
-        "summary": "The biotech company Insilico Medicine's claim that its generative AI platform \"discovered\" a promising drug for pulmonary fibrosis has sparked debate over who receives credit when AI designs a new medication. This raises ethical and intellectual property questions for the rapidly growing field where AI is increasingly used to propose drug candidates that humans might not conceive. The issue highlights the evolving relationship between human and artificial intelligence in scientific innovation and its implications for recognition and ownership.",
+        "title": "Who Gets Credit When AI Designs New Drugs?",
+        "summary": "The advent of AI-designed drugs raises complex questions about intellectual property and credit. When biotech companies like Insilico Medicine utilize generative AI platforms to propose promising molecules, such as a drug for pulmonary fibrosis, they enthusiastically claim the AI \"discovered\" it. This prompts a debate: should the credit go to the AI itself, its developers, or the human scientists involved? This challenge underscores the evolving nature of scientific discovery and authorship in an era where AI increasingly plays a central, creative role in groundbreaking research.",
         "link": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/"
     },
     {
         "category": "Space Tech & Environmental Impact",
-        "title": "Space Mirrors Threaten Night Sky, Study Warns",
-        "summary": "Reflect Orbital, a US company planning to beam sunlight from space to Earth on demand, is facing scrutiny after a new study warned its space mirrors could unintentionally brighten the night sky for many. Later this year, the company plans to launch E\u00e4rendil-1, a test satellite deploying an 18-by-18-meter mirror. This initiative, while intended for terrestrial light control, highlights potential environmental impacts of large-scale space infrastructure on astronomical observations and natural light cycles.",
+        "title": "Space Mirrors Threaten Night Sky Brightness",
+        "summary": "Plans by the US company Reflect Orbital to deploy space mirrors for beaming sunlight to Earth on demand could unintentionally brighten the night sky for many, according to a new study. Later this year, a test satellite, E\u00e4rendil-1, will launch with an 18-by-18-meter mirror. While intended for specific applications, the potential for widespread light pollution raises concerns about astronomical observation, natural ecosystems, and the human experience of the night sky, sparking debate over the environmental consequences of such large-scale space interventions.",
         "link": "https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/"
     },
     {
-        "category": "Tech & Education Policy",
-        "title": "Big Tech's Pervasive Influence in US Schools Exposed",
-        "summary": "A report highlights how major technology companies, including Google and Microsoft, have leveraged their financial resources, market dominance, and extensive reach to influence nearly every aspect of the American education supply chain. This pervasive influence raises concerns about data privacy, curriculum development, and the potential for vendor lock-in within educational institutions. The analysis underscores a significant global shift in the public education sector, where corporate tech interests increasingly shape learning environments and infrastructure.",
-        "link": "https://www.nytimes.com/2026/08/23/business/schools-big-tech-google-microsoft.html"
-    },
-    {
-        "category": "Cryptocurrency & Financial Crime",
-        "title": "Another Crypto Boss Vanishes Amid Exchange Collapse",
-        "summary": "The mysterious collapse of a European cryptocurrency exchange is drawing renewed attention as its successor has also gone missing, following the disappearance of the original boss four years prior. This incident further illustrates the persistent challenges the cryptocurrency industry faces in shaking off its reputation as a magnet for criminals and illicit activities. The repeated disappearances underscore a lack of regulatory oversight and accountability, contributing to investor distrust and highlighting the volatile nature of some crypto ventures.",
-        "link": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html"
-    },
-    {
-        "category": "Auto Tech & Global Markets",
-        "title": "China Recalls Tesla & 8 Others for Door Safety",
-        "summary": "China's regulator has ordered a massive car recall, its biggest ever, involving Tesla and eight other automakers, to address critical door safety issues. The recall targets electric vehicles where occupants reportedly had difficulty exiting cars, an issue that has also led to lawsuits against Tesla in the United States. This significant regulatory action underscores increasing global scrutiny on EV safety standards and highlights a major operational challenge for car manufacturers in the world's largest automotive market.",
-        "link": "https://www.nytimes.com/2026/08/21/business/china-car-recall-doors.html"
+        "category": "Energy & Climate Tech",
+        "title": "New Hydrogen Gold Rush Focuses Underground Sources",
+        "summary": "A global hunt is underway for new sources of hydrogen, with significant attention turning to underground reserves or conditions conducive to its natural production, dubbed \"geologic hydrogen.\" Hydrogen is widely regarded as a crucial climate solution due to its clean-burning properties, making it a viable fuel for various applications from transportation to industrial processes. This potential \"hydrogen gold rush\" highlights a growing focus on innovative, potentially abundant energy sources beneath our feet, aiming to accelerate the transition towards a decarbonized global economy.",
+        "link": "https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/"
     }
 ];
