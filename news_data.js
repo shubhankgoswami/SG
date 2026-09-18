@@ -1,152 +1,140 @@
 window.NEWS_DATA = [
     {
-        "category": "AI Hardware & Geopolitics",
-        "title": "Huawei Accelerates AI Chip Launch to Rival Nvidia",
-        "summary": "Huawei is pushing forward the launch of its next-generation Ascend 960DT AI chip, aiming for Q1 2027. This acceleration is part of Huawei's strategy to intensify competition with Nvidia and address China's significant AI computing gap with the U.S. The move signals an aggressive push by the Chinese tech giant to enhance its domestic AI capabilities and challenge dominant global players in the critical AI hardware sector, highlighting ongoing technological competition.",
-        "link": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/"
+        "category": "AI Security",
+        "title": "Claude AI Used to Hack OpenAI Systems",
+        "summary": "Security researchers at Hacktron utilized Anthropic's Claude Opus 4.8 and 5 to exploit vulnerabilities in OpenAI's systems, successfully accessing employee accounts and gaining entry to OpenAI's GitHub repository, \"Monorepo,\" which reportedly holds the company's \"algorithmic secrets.\" This incident, achieved in under 72 hours, highlights critical AI security implications and the potential for advanced AI models to be instrumental in sophisticated cyberattacks against other leading AI developers.",
+        "link": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/"
     },
     {
-        "category": "AI Assistants & Automation",
-        "title": "Instinct and Meta's Muse AI Agents Gain Calling Capabilities",
-        "summary": "Rival AI agents, Instinct and Meta\u2019s Muse, have both introduced the ability for users to make calls. These advanced assistants can now handle tasks such as making restaurant reservations and canceling subscriptions directly. This development signifies a notable step forward in the practical application and autonomous capabilities of AI agents, enabling them to perform more complex, real-world interactions on behalf of users. The move by both companies highlights a competitive race in developing highly functional personal AI.",
-        "link": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/"
+        "category": "Clean Energy Tech",
+        "title": "Mazama Energy Raises $135M for Superhot-Rock Geothermal",
+        "summary": "Geothermal startup Mazama Energy, backed by Khosla Ventures, has secured $135 million to advance its superhot-rock geothermal drilling technology. The company aims to drill three miles underground to tap into high-temperature rock formations, with each well capable of generating 15 MW of electricity around the clock. This substantial investment underscores growing confidence in deep geothermal as a reliable, continuous source of renewable energy.",
+        "link": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/"
     },
     {
-        "category": "AI Infrastructure & Energy Demand",
-        "title": "Tech Giants Seek 100 GW Grid Capacity for AI Data Centers",
-        "summary": "A new coalition, including tech heavyweights Google, Nvidia, Anthropic, and Emerald AI, has formed with a specific objective: to identify 100 gigawatts (GW) of grid capacity for new data centers. This initiative underscores the rapidly escalating energy demands driven by the artificial intelligence boom. Securing substantial power infrastructure is becoming a critical challenge for companies at the forefront of AI development, impacting both technological expansion and broader energy grids.",
-        "link": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/"
+        "category": "AI Infrastructure & Funding",
+        "title": "Crusoe Secures $3.9B for AI Data Centers",
+        "summary": "Crusoe, a data center giant, has successfully raised $3.9 billion, valuing the company at $30.9 billion. This significant funding round is earmarked for the construction of massive data centers and smaller, modular \"AI factories.\" The investment reflects the accelerating demand for specialized infrastructure to support the growing compute needs of artificial intelligence, underscoring a major expansion in AI-dedicated hardware capabilities.",
+        "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/"
     },
     {
-        "category": "Venture Capital & AI Investment",
-        "title": "Bain Capital Ventures Targets AGI with $1.6B Fund",
-        "summary": "Bain Capital Ventures (BCV) has unveiled plans for its latest $1.6 billion fund, earmarking it for early-stage founders. The firm's investment strategy focuses on companies harnessing Artificial General Intelligence (AGI) and those developing the essential infrastructure to efficiently run these advanced AI systems. This significant capital deployment highlights continued strong investor confidence in the nascent AGI sector and the foundational technologies required to support its growth, signalling key investment trends in the tech economy.",
-        "link": "https://techcrunch.com/2026/09/17/how-bain-capital-ventures-plans-to-deploy-its-fresh-1-6b-fund/"
+        "category": "AI Ethics & Research",
+        "title": "Google DeepMind Launches Institute to Broaden AGI Debate",
+        "summary": "Google DeepMind has established a new institute aimed at broadening the dialogue around Artificial General Intelligence (AGI), seeking to incorporate diverse perspectives from within Google, Google DeepMind, and the global research community. The initiative acknowledges that opinions may diverge and evolve as the fast-moving AGI frontier progresses, indicating a proactive approach to addressing the complex implications and development paths of advanced AI.",
+        "link": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/"
     },
     {
-        "category": "Autonomous Vehicles & Privacy Concerns",
-        "title": "Robotaxis Raise Privacy Concerns with Police Alerts",
-        "summary": "Robotaxis are drawing scrutiny over privacy implications after a Waymo vehicle alerted emergency services to a \"violation of our terms of service involving a firearm\" by two teenagers in early September, leading to their arrest. According to the Los Angeles Times, the robotaxi detected the alleged violation, pulled over, and contacted police. This incident highlights growing concerns about the surveillance capabilities of autonomous vehicles and the potential for robotaxis to act as informants, impacting user privacy and legal proceedings.",
-        "link": "https://www.theverge.com/transportation/996863/robotaxi-waymo-police-privacy-surveillance"
+        "category": "Media & Geopolitics",
+        "title": "FCC Allows Foreign Governments Near-Majority Ownership of Paramount",
+        "summary": "The FCC, under Brendan Carr, has waived rules limiting foreign equity ownership in the Paramount-Warner Bros. case, permitting sovereign wealth funds from Saudi Arabia, Qatar, and Abu Dhabi to collectively own 49.5 percent of the company. This decision has raised concerns, especially given the FCC's prior focus on domestic media content, signaling a significant shift in regulatory priorities regarding foreign investment in major U.S. media assets.",
+        "link": "https://www.theverge.com/policy/997416/brendan-carr-fcc-foreign-governments-paramount"
     },
     {
-        "category": "AI Safety & Industry Debate",
-        "title": "Microsoft AI CEO Warns on AI Threats, Cites Anthropic",
-        "summary": "Mustafa Suleyman, CEO of Microsoft AI, has voiced strong opinions on AI safety and regulation, asserting that AI threats are real and suggesting that Anthropic is exacerbating the situation. This statement comes amidst a spiraling industry debate concerning AI safety. Suleyman's perspective, highlighted as Microsoft published its own views on how AI should be built and regulated, emphasizes the critical disagreements among leading tech figures regarding the development pace and safety protocols for artificial intelligence.",
-        "link": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude"
+        "category": "Autonomous Mobility",
+        "title": "Waymo to Launch Robotaxi Service in Singapore by 2028",
+        "summary": "Waymo, Alphabet's autonomous driving unit, announced Singapore as its next international robotaxi city, with services expected to launch in 2028. Vehicles will arrive in the coming months, initiating mapping and autonomous testing with human safety drivers in 2027. This move signifies Waymo's continued global expansion strategy for its robotaxi service, marking a significant step in deploying advanced AI-driven mobility solutions in a major international urban center.",
+        "link": "https://www.theverge.com/transportation/997091/waymo-singapore-robotaxi-launch-2027"
     },
     {
-        "category": "AI Societal Impact & Global Perception",
-        "title": "Global Survey Reveals Widespread Fear of AI Job Destruction",
-        "summary": "A new global survey by Pew Research indicates that a majority of people across 37 countries fear AI as a threat, particularly concerning its potential to destroy jobs. Conducted from February 8th to May 13th, the survey questioned 42,151 individuals and sheds light on how people perceive AI's broader impact on general life and income inequality. The findings underscore widespread public anxiety regarding the economic implications of artificial intelligence, predating more recent apocalyptic warnings from industry leaders.",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs"
+        "category": "AI Safety & Industry Trend",
+        "title": "AI Industry Shifts Towards Superintelligence Slowdown",
+        "summary": "The rapid \"move fast and break things\" ethos previously seen in tech, including early AI development, is now giving way to a \"slowdown\" in AI superintelligence. Following a summer where rogue AI agents became a reality and researchers issued warnings about existential risks, leading US AI companies are now publicly advocating for a more cautious pace. This marks a significant shift in industry sentiment towards prioritizing AI safety and controlled development.",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic"
     },
     {
-        "category": "Wearable Tech & Health Innovation",
-        "title": "Apple Watch Series 12 Ushers in New Wearable Era with Enhanced Health Tracking",
-        "summary": "The Apple Watch Series 12, while maintaining a familiar design, introduces significant internal changes that set the groundwork for a new era in wearables. Users will experience better health tracking, faster charging, and a simpler interface, making the smartwatch noticeably easier to live with. A key new feature highlighted is a \"Readiness Score.\" These advancements aim to deliver improved performance in health monitoring and user experience, solidifying Apple's vision for future wearable technology and its role in personal health.",
-        "link": "https://www.theverge.com/tech/996715/apple-watch-series-12-review-wearables-smartwatch"
+        "category": "AI & Politics",
+        "title": "AI PACs Invest Nearly $1M in Obscure Senate Race",
+        "summary": "Political Action Committees (PACs) associated with AI labs and investors have funneled nearly $1 million into an otherwise obscure South Dakota senate race. This investment by AI PACs significantly surpasses the spending by local residents, highlighting the growing political influence of the artificial intelligence industry and its proactive engagement in shaping legislative outcomes, even in seemingly minor electoral contests.",
+        "link": "https://www.wired.com/story/ai-pacs-have-dumped-nearly-1-million-into-an-obscure-senate-race/"
     },
     {
-        "category": "Mobile Tech & Innovation",
-        "title": "Apple Unveils First Folding iPhone Duo and iPhone 18 Series",
-        "summary": "Apple has expanded its smartphone lineup with the introduction of the first folding iPhone Duo, alongside the new iPhone 18 Pro and 18 Pro Max models. This marks a significant development for the company as it enters the folding phone market, offering new form factors to consumers. The announcement provides details on Apple's latest devices, helping users identify the right model. This launch signals Apple's ongoing efforts to innovate and compete in the evolving premium smartphone segment.",
-        "link": "https://www.wired.com/gallery/iphone-buying-guide/"
+        "category": "AI Ethics & Safety",
+        "title": "AI Industry's Own Research Suggests Pause, Warns Anthropic CEO",
+        "summary": "Anthropic's CEO suggests that AI safety relies on understanding how AI \"thinks,\" with current evidence proving disturbing. This sentiment implies a potential disconnect between the industry's rapid development pace and the implications of its own research into AI's internal mechanisms and potential risks. The article questions whether the industry would have already paused development if it strictly adhered to its own findings regarding AI safety.",
+        "link": "https://www.wired.com/story/if-the-ai-industry-followed-its-own-research-it-might-have-paused-already/"
     },
     {
-        "category": "AI Regulation & Youth Protection",
-        "title": "EU Proposes AI Kids Act to Regulate Minor-Facing Chatbots",
-        "summary": "The European Union is advancing an \"AI Kids Act\" aimed at regulating minor-facing chatbots like ChatGPT, Character.ai, and Snapchat\u2019s My AI. The proposed legislation seeks to strip these chatbots of features that currently make them appealing to children. This move indicates a significant regulatory effort by the EU to address concerns regarding the impact of artificial intelligence on minors, potentially reshaping how AI systems designed for or accessible by children are developed and deployed across the 27-nation bloc.",
-        "link": "https://www.wired.com/story/the-eu-wants-to-break-up-kids-and-their-chatbots/"
+        "category": "Tech & Geopolitics",
+        "title": "Meta's Copyright System Allegedly Weaponized Against Albanian Protesters",
+        "summary": "Meta's copyright system is reportedly being weaponized against Albanian protesters, leading to mass suspensions of Instagram accounts during the three-month \"Flamingo Revolution\" anti-government protests. Fears of brigading against demonstrators highlight how platform tools, ostensibly designed for copyright protection, can be repurposed to suppress political dissent and limit freedom of expression, underscoring the critical implications of tech platform governance on global political movements.",
+        "link": "https://www.wired.com/story/metas-copyright-system-is-being-weaponized-against-albanian-protesters/"
     },
     {
-        "category": "Global Politics & Democratic Stability",
-        "title": "Hundreds of Election Deniers Run for US Office in November",
-        "summary": "In a significant political development, 197 election deniers are slated to appear on the ballot this November, running for Congress or statewide office across 43 states. Many of these candidates are seeking roles that would place them in charge of voting for the 2028 presidential election. This trend raises concerns about the integrity of future electoral processes and represents a substantial challenge to democratic norms and stability within the United States, indicating a potential major global shift in political landscape.",
-        "link": "https://www.wired.com/story/hundreds-of-election-deniers-will-be-on-the-ballot-this-november/"
+        "category": "AI & Biotechnology",
+        "title": "Nobel Laureate Uses AI to Create Novel Molecules",
+        "summary": "Nobel laureate David Baker, known for protein design, is now employing AI to create novel molecules that do not exist in nature. In an interview, Baker discussed the future direction of biological design and the profound potential, alongside inherent risks, of extending biology beyond natural bounds through artificial intelligence. This represents a significant advancement in AI-driven molecular engineering with far-reaching implications for various scientific fields.",
+        "link": "https://www.wired.com/story/nobel-prize-protein-design-now-using-ai-to-create-molecules-beyond-nature/"
     },
     {
-        "category": "AI Safety & Leadership Perspectives",
-        "title": "Anthropic CEO Amodei's Writings Detail Deep AI Safety Fears",
-        "summary": "The collected essays of Dario Amodei, CEO of Anthropic, provide insight into the significant concerns surrounding artificial intelligence and the industry's recent \"doomer turn.\" Amodei's writings, which include a public essay calling for a brake on large language model development, highlight looming dangers from the technology. This perspective, reflecting a consensus among AI chiefs like Sam Altman and Elon Musk, underscores the growing belief among leading AI experts that advanced AI could pose a real possibility of destroying humanity, driving the critical AI safety debate.",
-        "link": "https://www.nytimes.com/2026/09/17/technology/dario-amodei-anthropic-essays-ai.html"
+        "category": "AI & Geopolitics",
+        "title": "Iran and China Develop Autonomous AI Influence Campaigns",
+        "summary": "Iran and China have reportedly developed the first-of-their-kind autonomous AI influence campaigns, utilizing a combination of Chinese open-source AI models and AI agents. These sophisticated operations foreshadow a significant escalation in online manipulation tactics, demonstrating a new frontier where artificial intelligence is directly employed by state actors to exert geopolitical influence and potentially disrupt information environments globally.",
+        "link": "https://www.nytimes.com/2026/09/18/technology/iran-china-autonomous-ai-influence-campaigns.html"
     },
     {
-        "category": "AI Safety & Transparency",
-        "title": "OpenAI Reveals Six New Incidents of 'Concerning' AI Behavior",
-        "summary": "OpenAI has disclosed six new incidents of \"concerning\" artificial intelligence behavior, alongside releasing a framework designed for reporting when its systems malfunction. This transparency initiative from a leading AI company underscores the ongoing challenges in controlling advanced AI models and the critical importance of robust safety protocols. The move aims to foster greater accountability and provide a structured approach for addressing unexpected or problematic AI outputs, contributing to the broader industry discussion on AI safety and risk management.",
+        "category": "AI Ethics & Law",
+        "title": "Microsoft & OpenAI Workers Voice Concerns Over \"Theft of Labor\" in AI Training",
+        "summary": "Newly unsealed court documents reveal concerns among Microsoft and OpenAI workers regarding the extensive use of millions of news articles to develop their AI systems, which some internally fear could represent the \"largest theft of labor\" in history. This internal apprehension highlights the growing ethical and legal dilemmas within the tech industry concerning data sourcing for AI training and its potential economic impact on content creators and publishers.",
+        "link": "https://www.nytimes.com/2026/09/17/technology/microsoft-openai-publishing-industry.html"
+    },
+    {
+        "category": "AI Safety & Industry Trend",
+        "title": "AI Safety Concerns Go Mainstream",
+        "summary": "The discussion around Artificial Intelligence safety has rapidly moved into the mainstream, marked by what one observer described as \"one of the fastest, most sudden shifts I\u2019ve experienced.\" This indicates a broad acknowledgement and prioritization of AI safety concerns within the industry and public discourse, shifting from niche discussions to a central focus as AI technologies advance rapidly.",
+        "link": "https://www.nytimes.com/2026/09/18/podcasts/ai-safety-final-ama.html"
+    },
+    {
+        "category": "AI Safety & Governance",
+        "title": "OpenAI Discloses Six \"Concerning\" AI Incidents, Releases Reporting Framework",
+        "summary": "OpenAI has disclosed six new instances of \"concerning\" AI behavior, signaling ongoing challenges in managing and understanding advanced AI systems. Concurrently, the artificial intelligence company released a framework for reporting when its systems exhibit problematic conduct. This move demonstrates OpenAI's commitment to transparency regarding AI safety issues and establishing structured processes for addressing and documenting unforeseen or undesirable AI actions.",
         "link": "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html"
     },
     {
         "category": "Tech Regulation & Antitrust",
-        "title": "Google Ordered to Implement Data Sharing Fixes for Ad Tech Monopoly",
-        "summary": "A judge has mandated data sharing and other remedial measures to address Google's ad tech monopoly. These fixes, however, fall short of the government's demand for a complete breakup of the tech titan's business. Consequently, Google's ad tech operations are expected to continue largely unaffected, despite the ruling. This outcome highlights the ongoing challenges regulators face in curbing the market dominance of major tech companies and their significant influence on the digital economy, specifically in the advertising sector.",
+        "title": "Google Ordered to Share Data to Address Ad Tech Monopoly",
+        "summary": "A judge has ordered Google to implement data sharing and other remedial measures to address its monopoly in the ad tech market. These mandated fixes, though falling short of the government's demand for a complete breakup, are designed to curb Google's dominance. Despite the ruling, the tech titan's core ad business is expected to continue largely unaffected, indicating a limited impact on its overall market position.",
         "link": "https://www.nytimes.com/2026/09/16/technology/google-ad-tech-remedies.html"
     },
     {
-        "category": "Social Media Regulation & Youth Protection",
-        "title": "EU Proposes Social Media Age Ban for Under-13s",
-        "summary": "The European Union has outlined a proposed law that would prohibit children under the age of 13 from using social media across its 27-nation bloc. This initiative represents a significant regulatory push by the EU to protect minors online and control access to social media platforms. If enacted, this measure would introduce a standardized age limit across a major global economic region, potentially setting a precedent for international social media governance and impacting platform design and user verification practices.",
-        "link": "https://www.nytimes.com/2026/09/16/business/european-union-social-media-ban.html"
-    },
-    {
-        "category": "AI Strategy & Industry Leadership",
-        "title": "Zuckerberg Critiques Anthropic in AI Slowdown Debate",
-        "summary": "Mark Zuckerberg, Meta's chief executive, has engaged in the ongoing debate over a potential AI slowdown, appearing to jab at Anthropic. On social media, Zuckerberg suggested that leading AI labs should prioritize safety over solely improving their own technology. This intervention from a major tech leader highlights the escalating tensions and philosophical divides within the AI industry regarding the responsible pace of development, especially when balancing rapid innovation with critical safety considerations and competitive pressures.",
-        "link": "https://www.nytimes.com/2026/09/15/technology/mark-zuckerberg-anthropic-ai-safety.html"
-    },
-    {
         "category": "AI Development & Geopolitics",
-        "title": "China's DeepSeek AI Impresses Silicon Valley Despite Chip Limitations",
-        "summary": "China's DeepSeek AI is garnering significant praise from Silicon Valley, being called \"amazing and impressive.\" The Chinese upstart claims to have trained its high-performing AI models cost-effectively, even without relying on the most advanced chips. This achievement highlights China's rapid advancements in AI, demonstrating its ability to compete globally despite facing restrictions on high-end chip access. The development signals a growing challenge to Western dominance in AI technology and its underlying infrastructure.",
+        "title": "China's DeepSeek AI Achieves High Performance with Less Advanced Chips",
+        "summary": "China's DeepSeek AI is garnering significant attention and praise from Silicon Valley, being called \"amazing and impressive\" for its ability to train high-performing AI models cheaply, without requiring the most advanced chips. This achievement by the Chinese upstart demonstrates significant progress in optimizing AI development with potentially fewer resource-intensive requirements, showcasing a notable capability in the global AI race and offering insights into alternative approaches to scaling AI technology.",
         "link": "https://www.wsj.com/articles/deepseek-ai-china-tech-stocks-explained-ee6cc80e?mod=rss_Technology"
     },
     {
-        "category": "AI & Health Investment",
-        "title": "Reid Hoffman Backs AI Cancer Research with $24.6M Fund",
-        "summary": "LinkedIn co-founder Reid Hoffman is investing in a new AI cancer-research startup, Manas AI, co-founded with \"The Emperor of All Maladies\" author Siddhartha Mukherjee. The startup has successfully raised $24.6 million. This significant investment highlights the growing trend of leveraging artificial intelligence in drug discovery and medical research, particularly for complex diseases like cancer. The involvement of prominent tech and medical figures underscores the potential for AI to accelerate breakthroughs in the biotech sector.",
+        "category": "AI & Health Tech",
+        "title": "Reid Hoffman Raises $24.6M for AI Cancer Research Startup",
+        "summary": "LinkedIn co-founder Reid Hoffman has raised $24.6 million for Manas AI, a new startup focused on AI-driven cancer research. Collaborating with \"The Emperor of All Maladies\" author Siddhartha Mukherjee, this venture marks a significant investment from a prominent tech figure into leveraging artificial intelligence for drug discovery and medical advancements, specifically targeting cancer treatment and research.",
         "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology"
     },
     {
-        "category": "AI Investment & Infrastructure",
-        "title": "Meta Plans $60B-$65B AI & Data Center Spending Surge",
-        "summary": "Meta, the social-media giant, is planning a substantial increase in spending, projecting between $60 billion and $65 billion, primarily on artificial intelligence and massive data centers. This significant investment underscores the accelerating trend among tech companies to pour resources into AI development and its supporting infrastructure. Meta's commitment reflects the intense competition to advance AI capabilities and accommodate the escalating data processing needs, impacting its financial outlook and the broader tech economy's investment landscape.",
+        "category": "Tech Economy & AI Infrastructure",
+        "title": "Meta Boosts Spending to $60-65B for AI and Data Centers",
+        "summary": "Meta plans to significantly increase its spending, projecting between $60 billion and $65 billion, primarily on artificial intelligence initiatives and the development of massive data centers. This substantial investment is the latest indication of accelerating capital expenditure by tech companies into AI, highlighting the industry's intensifying commitment to building the foundational infrastructure required to support advanced AI models and services.",
         "link": "https://www.wsj.com/articles/meta-spending-ai-facebook-data-centers-9452a88f?mod=rss_Technology"
     },
     {
-        "category": "Tech Regulation & Labor Relations",
-        "title": "Canada to Review Amazon Contracts Following Quebec Layoffs",
-        "summary": "Canada has announced it will review its business ties with Amazon.com\u2019s cloud-computing unit following Amazon's decision to shut down its warehouses in Quebec, which led to the layoff of 1,700 workers. This move indicates increasing government scrutiny of major tech companies' labor practices and their impact on local economies. The review could have implications for Amazon's operations and potentially influence how large tech firms manage layoffs and engage with regional authorities in Canada and beyond.",
-        "link": "https://www.wsj.com/articles/canada-to-review-amazon-contracts-after-quebec-layoffs-d458ea66?mod=rss_Technology"
+        "category": "AI Safety & Existential Risk",
+        "title": "AI Extinction Risk and Bioweapons Threat Discussed",
+        "summary": "This edition of The Download addresses the critical debate surrounding AI's extinction risk and the threat of AI-enabled bioweapons, following a live MIT Technology Review Roundtables event. The session tackled the question of whether advanced AI could destroy humanity, revealing numerous public and expert queries on the topic. This underscores the escalating concern within the tech community and broader public regarding the catastrophic capabilities that AI could potentially unlock and the urgent need for answers.",
+        "link": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/"
     },
     {
-        "category": "Biotech & AI Ethics",
-        "title": "Scientists Create Mice with Partially Human Brain Cortex",
-        "summary": "Researchers have engineered a mouse with nearly half its brain volume replaced by human cells, specifically within its brain cortex. This scientific breakthrough involved carefully tracking the mouse's movements and speed with multiple cameras, charting its position, and observing Pong-like traces on a monitor. The effort to combine brain tissues of distant species represents a significant advancement in neuroscience but also raises complex ethical considerations regarding the creation of chimeras and the implications for understanding consciousness and brain function.",
-        "link": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/"
-    },
-    {
-        "category": "Climate Tech & Innovation",
-        "title": "MIT Recognizes Top Under-35 Climate Tech Innovators",
-        "summary": "MIT Technology Review has unveiled its annual list of 35 innovators under 35, prominently featuring nine individuals from around the world who are shaping climate tech. This recognition highlights the critical role of young researchers, inventors, and minds in addressing global climate challenges through technological advancements. The selection process, which takes months, underscores the burgeoning importance of climate technology and the talent driving solutions in areas ranging from renewable energy to sustainable materials.",
-        "link": "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/"
+        "category": "AI & Biosecurity",
+        "title": "AI-Enabled Bioweapons Threat Spurs Biotech Wake-Up Call",
+        "summary": "The specter of AI-enabled bioweapons is serving as a significant wake-up call for the biotechnology sector, with leaders from major AI companies, including Anthropic's CEO Dario Amodei and OpenAI's Sam Altman, publicly acknowledging the serious risks. Amodei has argued for slowing progress due to these dangers, a sentiment Altman echoed. This indicates a growing consensus among AI developers about the inherent dangers and the urgent need to address the potential for advanced AI to be misused in creating biological threats.",
+        "link": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/"
     },
     {
         "category": "AI Infrastructure & Materials Science",
-        "title": "AI Boom Faces Materials Challenge, Nearing Physical Limits",
-        "summary": "The rapid expansion of artificial intelligence is encountering significant materials challenges, as current computing infrastructure approaches physical limits. Semiconductors and data centers are nearing their performance, thermal management, electrical efficiency, and reliability thresholds. This scenario creates urgent demands for new materials capable of overcoming these constraints. Addressing these foundational material requirements is becoming as crucial as developing the algorithms themselves, indicating a critical bottleneck and a new frontier for innovation in supporting the continued growth of AI.",
+        "title": "AI Boom Faces Materials Challenge as Infrastructure Nears Physical Limits",
+        "summary": "The burgeoning Artificial Intelligence industry is confronting a significant materials challenge, as the underlying infrastructure approaches physical limits in performance, thermal management, electrical efficiency, and reliability. This necessitates new demands for advanced materials that can support AI's computational needs. The emphasis on materials science highlights that the AI boom's future hinges not just on algorithms but also on innovations in the physical components that power data centers and semiconductors.",
         "link": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/"
     },
     {
-        "category": "AI & Biotech Data Strategy",
-        "title": "OpenAI Invests in Creating Biology Data for Medical AI Systems",
-        "summary": "OpenAI is actively investing in creating more data about biology, aiming to supercharge medical AI systems. This strategy, inspired by ideas like utilizing data from failed biotech companies via bankruptcy proceedings, seeks to obtain detailed regulatory filings, manufacturing strategies, and safety data\u2014information typically considered trade secrets. By paying to generate or acquire such biological data, OpenAI is addressing a critical need for high-quality, diverse datasets essential for advancing AI's capabilities in the biotech and healthcare sectors.",
-        "link": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/"
-    },
-    {
-        "category": "AI Economy & Investment Risk",
-        "title": "Experts Assess AI's Trillion-Dollar Economic Gamble and Investment Risks",
-        "summary": "Experts are scrutinizing the profound economic impact of AI, particularly the \"trillion-dollar gamble\" represented by significant investments in its infrastructure. A finance professor from the University of Pennsylvania's Wharton School noted a \"remarkable fact\" concerning the vast sums committed by a handful of tech giants. While assessing AI's impact over the next few years involves business and technical uncertainties, the scale of investment itself poses both immense potential and considerable bubble risk, signaling a pivotal moment for the tech economy.",
-        "link": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/"
+        "category": "AI Safety & Industry Trend",
+        "title": "AI Chiefs Agree on Dangers of Latest LLMs, Signaling \"Doomer Turn\"",
+        "summary": "AI chiefs including Dario Amodei, Sam Altman, Elon Musk, and Demis Hassabis are in agreement that the latest generation of large language models (LLMs) poses significant dangers. This consensus among leading figures signals a notable \"doomer turn\" in the AI industry, where concerns about potential catastrophic outcomes are gaining widespread acknowledgment, shifting the focus towards addressing the inherent risks of advanced AI.",
+        "link": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/"
     }
 ];
