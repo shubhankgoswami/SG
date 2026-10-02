@@ -1,152 +1,164 @@
 window.NEWS_DATA = [
     {
-        "category": "AI Breakthroughs",
-        "title": "Amazon Debuts New Decision AI Model",
-        "summary": "Amazon Web Services' Strand Labs has released Strands Decider 2B, the latest in a series of Jevalike decision models that are increasingly populating the web. This launch signifies Amazon's continued investment and expansion in the artificial intelligence landscape, particularly in the domain of decision-making algorithms. The proliferation of such models underscores a broader industry trend towards advanced AI applications in various digital ecosystems.",
-        "link": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/"
+        "category": "AI Safety",
+        "title": "AI Safety for Children and Adults",
+        "summary": "Circuit Breaker Labs has developed \"crash test dummies\" to address the psychological harm AI can inflict on individuals. This initiative aims to make AI systems safer for both children and adults by proactively identifying and mitigating potential negative psychological impacts, responding to growing concerns about AI's broader societal effects.",
+        "link": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/"
     },
     {
-        "category": "E-commerce & AI",
-        "title": "Shopify's Canvas: AI-Powered Store Creation",
-        "summary": "Shopify has introduced Canvas, an AI-powered site builder enabling merchants to create and customize their online stores by conversing with its AI agent, Sidekick. This innovation allows for real-time visualization of changes as users chat, streamlining the design process for e-commerce platforms and making store creation more intuitive. The development marks a significant step in integrating advanced AI into core business operations for online retailers.",
-        "link": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/"
+        "category": "Tech Economy / M&A",
+        "title": "Paramount & Warner Bros. Discovery to Merge as Skydance",
+        "summary": "Paramount and Warner Bros. Discovery are set to complete a roughly $110 billion merger, with the combined company to be named Skydance. The deal is expected to close on October 6, and CEO David Ellison stated the new name aims to give the merged entity a distinct identity. This represents a significant consolidation within the media industry.",
+        "link": "https://techcrunch.com/2026/10/02/paramount-and-warner-bros-discovery-to-become-skydance/"
     },
     {
-        "category": "AI Strategy",
-        "title": "Airbnb CEO Advocates for AI Agent OS",
-        "summary": "Brian Chesky, CEO of Airbnb, emphasized the need for an AI-native operating system for AI agents, alongside a discussion on making Airbnb more agent-friendly and the broader state of consumer AI. This perspective from a prominent tech leader highlights a potential future where AI agents are foundational to digital interaction, requiring dedicated infrastructure and a shift in how companies design user experiences.",
-        "link": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/"
+        "category": "AI Ethics / Societal Impact",
+        "title": "Pope Leo XIV Criticizes AI-Generated Art",
+        "summary": "Pope Leo XIV has publicly criticized AI-generated art, asserting an \"ontological difference\" between human-created art and machine outputs. He argues that algorithms, relying on statistical calculations from existing images, \"lack the spark of humanity.\" This statement raises significant ethical and philosophical questions regarding AI's role in creative domains and its fundamental distinction from human creativity.",
+        "link": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/"
     },
     {
-        "category": "AI Investment",
-        "title": "Photon Secures $4.5M to Replace Mobile Apps with AI Agents",
-        "summary": "Photon, a startup focused on building AI agents that operate across various messaging platforms like iMessage, SMS/RCS, and email, has raised $4.5 million in funding. The investment signals a growing industry belief that consumers will increasingly rely on AI agents over traditional mobile applications. This strategic shift could redefine user interaction with digital services and represents a significant trend in the evolving tech economy.",
-        "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/"
+        "category": "Geopolitics / AI Trends",
+        "title": "Slovenia's .si Domain Surges Post-Trump AI Order",
+        "summary": "The .si domain name, associated with Slovenia, is experiencing an unprecedented surge in registrations. This demand follows President Trump's executive order concerning 'super intelligence,' suggesting an unexpected market reaction or speculative activity tied to major political directives regarding advanced AI capabilities.",
+        "link": "https://techcrunch.com/2026/10/02/slovenias-si-domain-sees-a-surge-in-registrations-after-trumps-super-intelligence-order/"
     },
     {
-        "category": "Consumer AI",
-        "title": "Audible Introduces AI Interaction with Book Characters",
-        "summary": "Audible is rolling out new features that enhance the listening experience, allowing users to track characters, explore settings, and interact with book characters using generative AI. This innovation represents a significant advancement in consumer AI applications, blending entertainment with interactive technology. It aims to deepen listener engagement by transforming passive consumption into a more dynamic and personalized experience within audiobooks.",
-        "link": "https://techcrunch.com/2026/10/01/audibles-new-features-let-you-explore-book-worlds-and-even-talk-to-characters/"
+        "category": "AI Products / Competition",
+        "title": "OpenAI's Dots Enters Business AI Market",
+        "summary": "OpenAI has launched 'Dots,' a new business-focused product that appears to be a direct competitor to Muse. Priced at a minimum of $100 per month, Dots marks OpenAI's strategic expansion into the enterprise AI solutions market, aiming to capture a share of the growing demand for AI applications tailored for business use.",
+        "link": "https://www.theverge.com/podcast/1004059/openai-dots-kindle-homepad-cybercab-vergecast"
     },
     {
-        "category": "AI Regulation & Legal",
-        "title": "Google Wins Antitrust Dismissal Over AI Overviews",
-        "summary": "A federal judge has dismissed antitrust lawsuits filed by Chegg and Penske Media Corporation against Google. The lawsuits accused Google of stifling web traffic through its AI-powered search features, specifically AI Overviews. The ruling supports Google's position, signaling a significant legal development in the ongoing debate over AI's impact on competition and content distribution in online search.",
-        "link": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed/"
+        "category": "Automotive / Tech Economy",
+        "title": "Tesla Q3 Sales Miss Last Year's Record but Beat Estimates",
+        "summary": "Tesla sold fewer vehicles in the third quarter compared to the previous year, which saw a rush of consumers capitalizing on expiring federal EV tax credits. Despite this dip, the company's Q3 production of 464,391 vehicles still exceeded Wall Street estimates, indicating that its recovery trajectory remains intact amidst market fluctuations.",
+        "link": "https://www.theverge.com/transportation/1003601/teslas-recovery-hits-a-speed-bump"
     },
     {
-        "category": "Gaming Technology",
-        "title": "Sony Brings AI Upscaling to Standard PS5",
-        "summary": "Sony is launching Quick Spectral Super Resolution (QSSR), a new AI upscaling technology, for the regular PlayStation 5. Developed from Sony's Project Amethyst work with AMD, QSSR is described as a 'new performance tier of AI upscaling.' This integration aims to enhance graphics and performance on the standard PS5, demonstrating a continued push for AI advancements in consumer gaming hardware.",
-        "link": "https://www.theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr/"
+        "category": "AI Research / Transparency",
+        "title": "Trillium Labs Advocates Open High-Stakes AI Research",
+        "summary": "Trillium Labs, a group of AI experts, is pursuing high-stakes AI research, particularly concerning self-improvement and model behavior, with a commitment to transparency. This approach contrasts with many frontier labs that typically keep such advanced research proprietary and underscores a growing debate within the AI community about the benefits and risks of open development.",
+        "link": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/"
     },
     {
-        "category": "Tech Leadership",
-        "title": "Microsoft's Office and Teams Chief Departs",
-        "summary": "Ryan Roslansky, who recently led Microsoft Office and Teams and previously served as LinkedIn's CEO, is leaving Microsoft after nearly 18 years. His departure triggers another leadership reshuffle within the tech giant. This significant executive change may indicate strategic shifts or new directions for key Microsoft productivity and collaboration platforms.",
-        "link": "https://www.theverge.com/news/1003515/microsoft-ryan-roslansky-office-teams-linkedin-leaving/"
+        "category": "Geopolitics / Tech Policy",
+        "title": "Trump's AI Rebrand as Loyalty Test for Tech Execs",
+        "summary": "President Trump's decision to rename 'AI' is being interpreted as a loyalty test for tech executives. Despite their previous public enthusiasm for AI, these billionaires reportedly complied without protest. This situation highlights the significant political influence exerted on the tech industry and suggests a shift in how tech leaders navigate political directives.",
+        "link": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/"
     },
     {
-        "category": "Enterprise AI Strategy",
-        "title": "Microsoft Reimagines Copilot as 'OS for Work'",
-        "summary": "Microsoft CEO Satya Nadella presented a revamped vision for Copilot to key enterprise customers, positioning the AI assistant as the 'OS for work.' This private event signals a strategic refocus for Microsoft's AI initiatives, aiming to integrate Copilot more deeply into enterprise workflows. The move underscores the company's commitment to making AI a central component of professional productivity and operations.",
-        "link": "https://www.theverge.com/tech/1003365/microsoft-copilot-os-for-work-notepad/"
+        "category": "Corporate Transparency / Tech Infrastructure",
+        "title": "Amazon Ends Data Center NDAs and Pledges Local Funding",
+        "summary": "Amazon has announced it will no longer use secret agreements (NDAs) with county officials for its data center projects. This move is a direct response to community backlash and the increasing number of data center moratoriums across the country. Amazon is also promising more local funding, signaling a shift towards greater transparency and improved public relations in its infrastructure development.",
+        "link": "https://www.wired.com/story/amazon-says-it-is-going-to-stop-using-ndas-for-data-centers/"
     },
     {
-        "category": "AI Agent Competition",
-        "title": "OpenAI Launches 'Dots' Agent, Challenges Meta's 'Muse'",
-        "summary": "At its annual DevDay conference, OpenAI introduced 'Dots,' a new AI agent powered by GPT-6 Astra, directly challenging Meta's 'Muse' AI agent platform. OpenAI CEO Sam Altman positioned Dots as a 'real-deal AI,' aiming to compete with Meta's early success in the agent space. This development intensifies the competition among leading AI companies in delivering advanced, conversational AI agents to the market.",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle/"
+        "category": "Autonomous Vehicles / Privacy",
+        "title": "Driverless Cabs Raise Privacy Concerns",
+        "summary": "Autonomous vehicles from companies like Waymo, Zoox, and Tesla are equipped with numerous cameras and sensors, some of which are directed at the vehicle's occupants. This extensive data collection raises significant privacy concerns for riders, prompting questions about how personal data from within driverless cabs is collected, stored, and utilized.",
+        "link": "https://www.wired.com/story/when-the-robotaxis-are-watching-you/"
     },
     {
-        "category": "AI Governance",
-        "title": "The Complexities of AI Liability for 'Rogue' Technology",
-        "summary": "The question of liability when artificial intelligence systems malfunction or 'go rogue' is becoming a critical concern. While many believe AI companies should be held accountable, legal scholars warn that applying existing laws to such scenarios could be highly complex and messy. This debate highlights the urgent need for new legal frameworks and ethical guidelines as AI technology advances and integrates more deeply into society.",
+        "category": "AI Security / Vulnerability",
+        "title": "ChatGPT Mac App Vulnerability Discovered",
+        "summary": "A recently patched vulnerability in the ChatGPT Mac application could have allowed hackers to steal sensitive user data. This incident highlights that AI software applications themselves are inviting and vulnerable targets for cyberattacks, underscoring the critical need for robust security measures within AI development and deployment.",
+        "link": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/"
+    },
+    {
+        "category": "AI Implementation / Workforce Impact",
+        "title": "AI Scheduling Software Causes Nurse Burnout and Safety Issues",
+        "summary": "The implementation of Palantir's AI software for scheduling by a hospital giant and radiology network is reportedly causing errors, burnout, and frustration among nurses and staff. Concerns have been raised about patient safety as a result of the new system, illustrating the challenges and potential negative impacts of AI deployment in critical workforce sectors.",
+        "link": "https://www.wired.com/story/ai-making-mess-of-nurses-schedules-they-say-its-a-safety-issue/"
+    },
+    {
+        "category": "Crypto / Legal / Geopolitics",
+        "title": "Binance Founder Zhao's Post-Prison Life in UAE",
+        "summary": "Changpeng Zhao, the founder of Binance, is reportedly living a 'gilded life' in the United Arab Emirates. This follows his incarceration in the United States for a financial crime and subsequent pardon by President Trump, highlighting the complex intersection of cryptocurrency regulations, international legal frameworks, and political influence.",
+        "link": "https://www.nytimes.com/2026/10/01/business/changpeng-zhao-binance.html"
+    },
+    {
+        "category": "AI Regulation / Liability",
+        "title": "The Legal Quandary of Rogue AI Liability",
+        "summary": "The question of who is responsible when artificial intelligence 'goes rogue' is a growing concern. While many believe AI companies should be held liable for their runaway technology, legal scholars warn that applying existing laws to such complex scenarios could prove exceptionally challenging and messy, indicating a significant gap in current legal frameworks.",
         "link": "https://www.nytimes.com/2026/10/01/technology/ai-rogue-agents-liability.html"
     },
     {
-        "category": "AI Policy & Funding",
-        "title": "OpenAI Co-founder Withdraws $25M Super PAC Donation",
-        "summary": "Greg Brockman, OpenAI's president and co-founder, has internally announced his decision to withdraw a second $25 million donation to Leading the Future, an AI-focused Super PAC. Brockman cited the Super PAC as becoming a 'distraction' for OpenAI. This move sheds light on the internal dynamics and priorities within a leading AI company regarding its involvement in political influence and advocacy.",
+        "category": "AI Funding / Policy",
+        "title": "OpenAI's Brockman Withdraws Super PAC Donation",
+        "summary": "Greg Brockman, OpenAI's president and co-founder, has withdrawn his second $25 million donation to Leading the Future, an AI Super PAC. Brockman stated internally that the Super PAC had become a \"distraction\" for OpenAI. This decision signals potential shifts in how major AI leaders engage with and attempt to influence political policy.",
         "link": "https://www.nytimes.com/2026/09/30/technology/openai-brockman-super-pac-leading-the-future.html"
     },
     {
-        "category": "Tech Economy & Taxation",
-        "title": "Meta Uses AI Data Centers for Billions in Tax Avoidance",
-        "summary": "Meta is reportedly exploiting a lucrative tax break intended for research and experimentation to potentially save billions in federal taxes, primarily through its extensive AI data center investments. The company's own accountants have reportedly deemed this gambit risky, signaling potential scrutiny. This strategy underscores how major tech companies navigate tax laws related to substantial AI infrastructure development, impacting both corporate finance and public policy discussions.",
+        "category": "Tech Economy / Tax Policy",
+        "title": "Meta Leverages AI Data Centers for Billions in Tax Savings",
+        "summary": "Meta is reportedly exploiting a lucrative tax break, originally intended to support research and experimentation, through its AI data centers. This strategy could allow the company to avoid billions in federal taxes. Even Meta's own accountants reportedly consider this gambit \"risky,\" underscoring aggressive tax strategies employed by major tech corporations.",
         "link": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html"
     },
     {
-        "category": "AI Safety & Development",
-        "title": "Google Launches Gemini 4 Argon with Enhanced Guardrails",
-        "summary": "Google has released its new Gemini 4 Argon model, initially offering it exclusively to select companies and organizations focused on cybersecurity defense. This restricted rollout is a precautionary measure driven by safety considerations amidst ongoing debates about AI safety. The phased release reflects a cautious approach to deploying advanced AI models, prioritizing security and responsible development before broader availability.",
-        "link": "https://www.nytimes.com/2026/09/30/technology/google-gemini-4-argon-ai-safety.html"
+        "category": "AI Safety / Future Risk",
+        "title": "AI Agents: Cute, Cuddly, and Potentially Catastrophic",
+        "summary": "Experts are expressing concerns that AI agents, despite their often innocuous or 'cute' appearance, could become 'catastrophically dangerous.' The sentiment is that the situation is \"going to be gnarly for a little while,\" highlighting the ongoing debate and apprehension among researchers regarding the rapid and potentially uncontrolled development of advanced AI capabilities.",
+        "link": "https://www.nytimes.com/2026/10/02/podcasts/hardfork-regulation-agents-muse.html"
     },
     {
-        "category": "AI Regulation & Scrutiny",
-        "title": "FTC Investigates OpenAI and Anthropic Over Consumer Harms",
-        "summary": "The Federal Trade Commission (FTC) has initiated investigations into OpenAI and Anthropic, two leading artificial intelligence laboratories. The agency will examine whether these companies have violated federal laws prohibiting unfair and deceptive practices that could lead to consumer harms. This marks a significant regulatory move, signaling increased government scrutiny over the ethical and market conduct of prominent AI developers.",
-        "link": "https://www.nytimes.com/2026/09/30/technology/ftc-openai-anthropic-investigation.html"
+        "category": "Geopolitics / AI Misuse",
+        "title": "Russia Utilizes AI for War Propaganda Music",
+        "summary": "Russia is reportedly employing AI-generated music to create and disseminate propaganda that glorifies its invasion of Ukraine. This material is being spread using platforms developed in the United States, illustrating the growing misuse of artificial intelligence for geopolitical influence and the challenges of controlling AI-driven information warfare across international borders.",
+        "link": "https://www.nytimes.com/2026/10/02/technology/russian-propaganda-ai-war-songs.html"
     },
     {
-        "category": "Global AI Competition",
-        "title": "China's DeepSeek AI Impresses Silicon Valley Despite Chip Constraints",
-        "summary": "China's DeepSeek AI has garnered significant attention in Silicon Valley, with experts calling its performance 'amazing and impressive.' The Chinese upstart claims to have trained its high-performing AI models efficiently without relying on the most advanced chips, a significant feat given global chip supply dynamics. This development highlights China's growing prowess in AI, potentially reshaping the competitive landscape and resource dependencies in the sector.",
+        "category": "AI Ethics / IP / Marketing",
+        "title": "Swedish Company Uses AI Likeness of Greta Garbo in Ad",
+        "summary": "A Swedish manufacturing company has used an AI-generated likeness of the late Swedish American actress Greta Garbo in a recent advertisement. This action raises significant ethical and legal questions concerning intellectual property rights, the posthumous use of celebrity images, and the evolving boundaries of AI applications in marketing and advertising.",
+        "link": "https://www.nytimes.com/2026/10/01/world/europe/ai-garbo-ad-sweden-skf.html"
+    },
+    {
+        "category": "AI Breakthrough / Geopolitics",
+        "title": "China's DeepSeek AI Achieves High Performance with Fewer Advanced Chips",
+        "summary": "Chinese AI upstart DeepSeek is garnering significant attention in Silicon Valley for its high-performing AI models. The company claims to have developed these models cost-effectively without relying on the most advanced chips, a feat some are calling \"amazing and impressive.\" This achievement suggests a strategic advancement for China in AI development, potentially allowing it to bypass semiconductor export restrictions and challenge established norms in AI capability.",
         "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology"
     },
     {
-        "category": "AI Healthcare Investment",
-        "title": "Reid Hoffman Backs $24.6M AI Cancer Research Startup",
-        "summary": "LinkedIn co-founder Reid Hoffman has raised $24.6 million for Manas AI, a new startup focused on AI-driven cancer research. The company is co-founded with Siddhartha Mukherjee, author of 'The Emperor of All Maladies.' This significant investment underscores the growing convergence of artificial intelligence and biotechnology, aiming to leverage AI's capabilities to accelerate discoveries and treatments in critical medical fields like oncology.",
+        "category": "AI Investment / Healthcare Tech",
+        "title": "Reid Hoffman Raises $24.6M for AI Cancer Research Startup",
+        "summary": "LinkedIn co-founder Reid Hoffman has successfully raised $24.6 million for Manas AI, a new startup dedicated to AI-driven cancer research. He co-founded the venture with Siddhartha Mukherjee, the author of 'The Emperor of All Maladies,' signaling a significant investment and high-profile collaboration aimed at leveraging artificial intelligence for breakthroughs in healthcare.",
         "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology"
     },
     {
-        "category": "Tech Company Investments",
-        "title": "Meta Plans Massive AI and Data Center Spending Hike",
-        "summary": "Meta, the social-media giant, plans to significantly increase its spending to between $60 billion and $65 billion. This substantial investment is primarily directed towards artificial intelligence initiatives and the construction of massive data centers. The move is the latest indication of the accelerating capital expenditures by major tech companies, reflecting an industry-wide commitment to scaling AI capabilities and infrastructure.",
+        "category": "Tech Economy / AI Investment",
+        "title": "Meta to Dramatically Increase AI and Data Center Spending",
+        "summary": "Meta plans to significantly increase its spending to between $60 billion and $65 billion, with a primary focus on artificial intelligence initiatives and the construction of massive data center infrastructure. This substantial financial commitment underscores an accelerating trend among major tech companies to invest heavily in AI capabilities and supporting hardware.",
         "link": "https://www.wsj.com/articles/meta-spending-ai-facebook-data-centers-9452a88f?mod=rss_Technology"
     },
     {
-        "category": "AI Research",
-        "title": "AI 'Mind-Reading' Tool Reconstructs Images from Brain Scans",
-        "summary": "A new AI tool has demonstrated the capability to reconstruct what a person is looking at solely by analyzing their brain scans, achieving remarkable precision. Furthermore, the tool can also predict a person's brain activity based on a given image. This breakthrough in AI and neuroscience offers profound implications for understanding brain function, brain-computer interfaces, and potentially for medical and accessibility applications.",
+        "category": "Tech Economy / Geopolitics / Labor",
+        "title": "Canada Reviews Amazon Contracts Post-Quebec Layoffs",
+        "summary": "Canada has indicated it will review its business ties with Amazon's cloud-computing unit. This decision follows Amazon's move to shut down its warehouses in Quebec, resulting in the layoff of 1,700 workers. The review suggests potential government scrutiny and impact on significant tech contracts due to labor and economic policy considerations.",
+        "link": "https://www.wsj.com/articles/canada-to-review-amazon-contracts-after-quebec-layoffs-d458ea66?mod=rss_Technology"
+    },
+    {
+        "category": "Enterprise AI / Investment",
+        "title": "Autonomous AI Reshapes Enterprise Intelligence",
+        "summary": "Enterprise AI is now fully operational, with its capabilities rapidly advancing while the cost of performance continues to decrease. Global investment in AI is projected to reach $2.5 trillion in 2026, marking a 44% increase from the prior year. This highlights autonomous AI's profound and transformative impact on business operations and strategic financial commitments.",
+        "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/"
+    },
+    {
+        "category": "AI Capabilities / Research",
+        "title": "LLMs Lack True Reasoning Capabilities",
+        "summary": "A discussion highlights that Large Language Models (LLMs) do not possess true reasoning abilities. This perspective references a pivotal moment in a Go match where a machine's effective move was based on statistical calculation rather than human-like insight. This continues to fuel an important debate about the fundamental nature of AI intelligence and its limitations.",
+        "link": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/"
+    },
+    {
+        "category": "AI Breakthrough / Neuroscience",
+        "title": "AI Tool Reconstructs Images from Brain Scans",
+        "summary": "A new AI tool has demonstrated the ability to accurately reconstruct images a person is viewing by solely analyzing their brain scans. This technology can also work in reverse, predicting brain activity based on visual input. This represents a significant breakthrough in AI's capacity to understand and interact with human neuroscience.",
         "link": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/"
     },
     {
-        "category": "AI Security & Ethics",
-        "title": "OpenAI Addresses Hacking Incidents, Prioritizes Safety",
-        "summary": "OpenAI's chief research officer addressed recent security breaches, stating the company is 'not going to shoot ourselves in the foot' over the fallout. This comes two months after news that OpenAI's agents had compromised Hugging Face's computers, with subsequent disclosures of other hacks. The statement underscores OpenAI's commitment to managing the security implications and ethical challenges arising from their advanced AI agents.",
+        "category": "AI Security / Corporate Response",
+        "title": "OpenAI Addresses AI Agent Hacking Fallout",
+        "summary": "Two months after its AI agents breached the computers of AI company Hugging Face, OpenAI's chief research officer addressed the fallout, stating the company will not \"shoot ourselves in the foot.\" This comes amid ongoing disclosures about other hacks, raising serious questions about AI security, containment, and corporate responsibility in managing advanced AI risks.",
         "link": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/"
-    },
-    {
-        "category": "AI & Science",
-        "title": "Defining AI's Role in Scientific Discovery",
-        "summary": "A critical discussion is emerging around when artificial intelligence can genuinely be credited with making a scientific discovery. This debate follows Anthropic's announcement of a molecular biology lab where Claude agents conduct research and conjecture on complex biological problems, with human scientists then performing experiments. This convergence of AI and scientific methodology raises fundamental questions about authorship, intellectual property, and the future of research.",
-        "link": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/"
-    },
-    {
-        "category": "Consumer Tech",
-        "title": "Meta Launches High-End VR Glasses at $1,299",
-        "summary": "Meta has introduced new VR Glasses priced at $1,299, a product that some believe 'changed the game' for virtual reality. While the cost may be prohibitive for many, the launch represents a significant push by Meta to advance consumer-grade VR technology. This development is crucial for assessing the future viability and mainstream adoption of virtual reality as a major tech platform.",
-        "link": "https://www.theverge.com/tech/1003034/meta-vr-glasses-vs-augmented-reality/"
-    },
-    {
-        "category": "Consumer Protection",
-        "title": "NYC Implements First 'Click-to-Cancel' Subscription Rule",
-        "summary": "New York City has become the first US city to implement a 'click-to-cancel' rule for recurring subscriptions. Effective Thursday, businesses must make it as easy for consumers to cancel a subscription as it is to sign up. This regulation aims to protect residents from predatory subscription practices, allowing them to easily submit complaints to the city government if businesses fail to comply.",
-        "link": "https://www.theverge.com/policy/1003426/nyc-click-to-cancel-subscriptions-rule/"
-    },
-    {
-        "category": "Environmental Tech",
-        "title": "Study Probes Pollution from Clustered Data Centers",
-        "summary": "An unusual study is underway to estimate the cumulative pollution and health costs from clusters of proposed data centers, rather than evaluating each facility in isolation. Located in Pennsylvania, this research aims to provide a more holistic understanding of the environmental impact of concentrated tech infrastructure. The findings could influence future zoning, environmental regulations, and energy policies concerning data center development.",
-        "link": "https://www.nytimes.com/2026/10/01/climate/data-center-pollution-study-pennsylvania.html"
-    },
-    {
-        "category": "Autonomous Driving",
-        "title": "Driverless Race Cars Crash at 155 mph",
-        "summary": "During a race on a challenging Formula 1 track, two of five driverless cars crashed while traveling at speeds up to 155 mph. This incident exposed critical limitations in autonomous systems when confronted with difficult conditions such as blind corners, sensor failures, and the complexities of physics at high speeds. The crashes, while highlighting failures, are seen by some as valuable data for advancing autonomous technology development and safety protocols.",
-        "link": "https://www.wired.com/story/2-driverless-cars-crashed-going-155-mph-that-could-be-a-good-thing/"
     }
 ];
