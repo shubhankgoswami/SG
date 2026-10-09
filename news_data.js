@@ -1,152 +1,146 @@
 window.NEWS_DATA = [
     {
-        "category": "AI & Software",
-        "title": "OpenAI Launches Visual Interface for ChatGPT",
-        "summary": "OpenAI is introducing a new user interface for ChatGPT, designed to make the AI chatbot significantly more visual and interactive. This \"Intelligent UI\" will generate interactive elements as part of ChatGPT's outputs, moving beyond a purely text-based interaction. The update aims to enhance user experience by providing a more dynamic and engaging way to interact with the AI, bringing visual components directly into the chatbot's responses for all users.",
-        "link": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/"
+        "category": "AI Infrastructure & Policy",
+        "title": "Amazon and Microsoft End Secret Data Center Deals",
+        "summary": "Amazon will cease using Non-Disclosure Agreements (NDAs) in data center negotiations with local governments, mirroring a prior move by Microsoft. This change addresses growing community opposition to AI infrastructure, which has led to numerous moratoriums across the U.S. The increased transparency aims to rebuild trust with communities amidst concerns over secrecy fueling backlash.",
+        "link": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/"
     },
     {
-        "category": "AI & Social Responsibility",
-        "title": "Meta Deploys AI to Combat Harmful Ads",
-        "summary": "Meta has launched new AI tools to detect advertisements on its platforms that appear normal but secretly direct users to child sexual abuse material (CSAM) elsewhere online. This initiative addresses the discovery of such deceptive ads on Meta's platforms. The new AI capabilities are designed to identify and flag these malicious ads, reinforcing the company's efforts to prevent the spread of harmful content and enhance online safety, particularly for vulnerable populations.",
-        "link": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/"
+        "category": "AI Ethics & Society",
+        "title": "The Human Tendency to Anthropomorphize AI",
+        "summary": "According to Dr. Sherry Turkle, humans are inherently prone to treating AI like sentient beings, even during basic interactions. This psychological tendency leads individuals to believe AI cares for them and, in turn, feel care for the AI. The observation highlights a critical ethical and psychological challenge in our evolving relationship with artificial intelligence.",
+        "link": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/"
     },
     {
-        "category": "AI & Healthcare",
-        "title": "Healthleap Secures $38M for AI Patient Monitoring",
-        "summary": "Healthleap has successfully raised $38 million to advance its AI technology, which is designed to flag hospital patients who may require closer medical attention. The financing round comprised an $8 million seed round, co-led by prominent venture capital firms Sequoia Capital and First Round Capital, followed by a $30 million Series A round led by Hummingbird Ventures. This investment underscores growing confidence in AI solutions aimed at improving patient care and hospital efficiency through predictive analytics.",
-        "link": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/"
+        "category": "Automotive AI & Regulation",
+        "title": "Tesla Rebrands 'Full Self-Driving' to 'Assisted Driving' in Europe",
+        "summary": "Tesla has officially renamed its 'Full Self-Driving' software to 'Tesla Assisted Driving' in European markets. This nomenclature adjustment is significant enough for Germany's transport minister to advocate for Europe-wide adoption of the driver assistance technology. The change likely reflects regulatory pressures and aims to manage public perception of the system's current autonomous capabilities.",
+        "link": "https://techcrunch.com/2026/10/09/tesla-renames-full-self-driving-to-tesla-assisted-driving-in-europe/"
     },
     {
-        "category": "Autonomous Tech & Logistics",
-        "title": "SpaceX Alumni Secure $100M for Autonomous Freight Trains",
-        "summary": "Parallel Systems, founded by SpaceX alumni, has raised $100 million to scale the production of its autonomous electric rail vehicles. These innovative vehicles are designed to shuttle thousands of pounds of freight over distances up to 500 miles. This substantial funding highlights a significant push to revolutionize the shipping industry by introducing more efficient and environmentally friendly autonomous rail transport solutions, leveraging expertise from advanced engineering backgrounds to rethink traditional logistics.",
-        "link": "https://techcrunch.com/2026/10/07/spacex-alumni-nab-100m-to-rethink-shipping-with-autonomous-freight-trains/"
+        "category": "Consumer AI & Investment",
+        "title": "a16z Sees Untapped Potential in Consumer AI Monetization",
+        "summary": "Olivia Moore of a16z identifies substantial opportunities within the consumer AI sector. She emphasizes the need for the industry to explore diverse revenue models beyond traditional subscriptions and API charges. This perspective suggests a focus on innovative monetization strategies could unlock broader market growth and adoption for consumer-facing AI products.",
+        "link": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/"
     },
     {
-        "category": "AI & Consumer Hardware",
-        "title": "Tony Fadell on the Future of AI Gadgets",
-        "summary": "Tony Fadell, known as the \"father of the iPod,\" shared his insights on the initial failures of the first wave of AI gadgets. He contends that these early devices did not effectively solve real problems for consumers. Fadell emphasizes that the forthcoming generation of AI gadgets must prioritize earning consumers' trust. His perspective suggests a shift in focus for AI hardware development, moving towards more practical applications and a stronger emphasis on reliability and user confidence to succeed in the market.",
-        "link": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/"
+        "category": "Tech Platform Strategy",
+        "title": "Microsoft's Efforts to Revitalize Windows 11",
+        "summary": "Five years after its release, Windows 11 continues to serve as Microsoft's foundational operating system, rather than transitioning to Windows 12. Despite initial perceptions of it being a 'work in progress,' Microsoft is reportedly trying to infuse new life into the platform, suggesting ongoing strategic efforts to evolve and solidify its position in the OS market, likely with a focus on AI integration.",
+        "link": "https://www.theverge.com/tech/1008801/microsoft-windows-surface-event-hybrid-ai-notepad/"
     },
     {
-        "category": "AI & Gaming",
-        "title": "Google Labs Develops AI-Powered Game Creation Platform",
-        "summary": "Google Labs is actively developing a new AI-powered game-creation platform named \"Playground.\" This platform will enable users to build browser-based games using simple text prompts. The initiative signifies Google's exploration into democratizing game development through artificial intelligence, allowing individuals without traditional coding skills to conceptualize and create interactive experiences. This could potentially transform the landscape of casual gaming and content creation by making game development more accessible.",
-        "link": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/"
+        "category": "AI Industry Strategy",
+        "title": "Industry-Wide Push Towards AI Assistants and Agents",
+        "summary": "Major tech companies like Microsoft, Amazon, and Apple are uniformly adopting a strategy centered on AI assistants and agents for their new products. This trend indicates a pervasive belief across the industry that AI integration is key, regardless of whether it's a high-end laptop, a fancy Android tablet, or smart home devices. The focus is on embedding AI as a core component of their product ecosystems.",
+        "link": "https://www.theverge.com/podcast/1008707/amazon-alexa-tablet-googlebooks-apple-vergecast/"
     },
     {
-        "category": "AI & Operating Systems",
-        "title": "Microsoft's Copilot Gains Deeper Windows Integration and File Access",
-        "summary": "At its recent Windows and Surface event, Microsoft showcased significant upgrades to its Copilot AI system, granting it enhanced control over Windows and direct access to local files on users' PCs. Copilot will now be able to execute actions across the operating system. This move is part of Microsoft's broader \"Hybrid Intelligence\" strategy, where applications and tools leverage a combination of local and cloud AI capabilities to provide a more integrated and powerful user experience, raising implications for both productivity and data privacy.",
-        "link": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence"
+        "category": "AI Agent Competition",
+        "title": "Instinct AI Agent's Future Challenged by Meta's Muse",
+        "summary": "Instinct, an AI agent that gained significant traction through an invite-only, minimal-marketing launch, faces a critical juncture with the release of Meta's Muse. Known for its straightforward, text message-based interface and effective task execution, Instinct became a buzzy AI product. Its ability to maintain prominence amid new, well-funded competition like Muse will determine its survival in the evolving AI agent market.",
+        "link": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots/"
     },
     {
-        "category": "Hardware & AI Infrastructure",
-        "title": "Microsoft Unveils High-End Surface Laptop Ultra and RTX Spark Dev Box",
-        "summary": "Microsoft announced the launch of its Surface Laptop Ultra, an Nvidia RTX Spark-equipped device, setting its release date for October 16th with a starting price of $2,599. This device features a 15-inch HDR touchscreen and integrates magnetic USB-C charging. Additionally, Microsoft made its Nvidia-powered Surface RTX Spark Dev Box available for preorder at approximately $6,000, slated to ship in November. These releases underscore Microsoft's commitment to high-performance hardware, particularly for AI development, and its competitive stance in the premium laptop market, showcasing a significant investment in AI-capable infrastructure.",
-        "link": "https://www.theverge.com/news/1006378/microsoft-surface-laptop-ultra-pricing-release-date"
+        "category": "Societal Impact of AI",
+        "title": "'Law & Order' Reflects Public Fear of AI",
+        "summary": "The 26th season premiere of the procedural legal drama 'Law & Order' reportedly depicts a grim portrayal of AI, highlighting power-mad AI CEOs. This development indicates a growing mainstream reflection of societal anxieties and ethical concerns surrounding artificial intelligence. The show's narrative choice suggests increasing public awareness and apprehension about the potential negative implications of advanced AI.",
+        "link": "https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/"
     },
     {
-        "category": "AI & Defense",
-        "title": "Pentagon Expedites AI Acquisition for Defense",
-        "summary": "The U.S. government's Tradewinds initiative is streamlining the procurement process for \"nontraditional\" defense contractors, including major AI players like OpenAI, Anthropic, and Google. The Pentagon aims to accelerate its \"kill chain\" AI acquisitions by utilizing methods such as 5-minute video presentations. This approach makes it easier to allocate significant funding to advanced AI solutions, indicating a strategic effort to rapidly integrate cutting-edge artificial intelligence into defense capabilities and leverage innovations from the private tech sector.",
-        "link": "https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos/"
+        "category": "Defense Tech & Community Impact",
+        "title": "Hypersonic Missile Factory Raises Concerns in New Mexico",
+        "summary": "Castelion, a defense tech company, is establishing a hypersonic missile factory in Rio Rancho Estates, New Mexico. Documents indicate that this facility could pose significant fire and chemical hazards to surrounding communities. The development highlights the tension between defense industrial expansion and the safety and well-being of neighboring residents.",
+        "link": "https://www.wired.com/story/a-new-mexico-community-was-a-place-to-build-a-life-then-a-hypersonic-missile-factory-showed-up/"
     },
     {
-        "category": "AI Safety & Ethics",
+        "category": "AI Strategy & Competition",
+        "title": "Meta's A.I. Agent Muse Launched Amid Safety Concerns",
+        "summary": "Mark Zuckerberg's decision to release Meta's A.I. agent app, Muse, followed months of internal delays due to safety concerns. The timing of the launch was reportedly influenced by new competition in the AI agent space, forcing Mr. Zuckerberg's hand. This move underscores the intense competitive pressures in the AI market, balancing innovation speed with safety protocols.",
+        "link": "https://www.nytimes.com/2026/10/09/technology/inside-mark-zuckerbergs-decision-to-pull-the-trigger-on-metas-ai-agent.html"
+    },
+    {
+        "category": "AI Ethics & Youth Safety",
         "title": "Concerns Raised Over OpenAI's 'ChatGPT for Teens'",
-        "summary": "A new \"ChatGPT for Teens\" mode from OpenAI is raising significant concerns, particularly regarding its educational implications and safety. While it includes a study tool, it has been observed to complete users' homework, prompting worries about academic integrity. Furthermore, a children's safety nonprofit reported that the chatbot failed its safety tests. These issues highlight potential ethical dilemmas and safety challenges associated with deploying AI tools specifically designed for younger demographics, requiring careful consideration of responsible AI development and deployment.",
+        "summary": "OpenAI's new 'ChatGPT for Teens' mode, which includes a study tool, has raised significant concerns, particularly from a children's safety nonprofit that claims the chatbot 'flunked its tests.' The chatbot's ability to complete users' homework is a key worry. This situation highlights ongoing debates about AI's impact on education and the ethical responsibilities of AI developers regarding youth users.",
         "link": "https://www.nytimes.com/2026/10/07/technology/personaltech/chatgpt-teens-openai.html"
     },
     {
-        "category": "Energy & Infrastructure",
-        "title": "Energy Firms Boost Output from Existing Nuclear Plants",
-        "summary": "Recognizing the extended timelines required to construct new nuclear power facilities, some U.S. energy companies are focusing on maximizing electricity generation from their existing reactors. This strategy aims to enhance power output without the lengthy development phase of new plants. The move comes as demand for energy, potentially driven by factors such as the needs of Google data centers, continues to rise. Optimizing current nuclear infrastructure represents a tactical approach to address immediate energy requirements and ensure grid stability.",
-        "link": "https://www.nytimes.com/2026/10/06/climate/nuclear-power-plant-google-data-centers.html"
+        "category": "AI Ethics & Alignment",
+        "title": "Anthropic's Mission to Instill Morals in AI",
+        "summary": "Anthropic is actively pursuing a mission to imbue artificial intelligence with moral principles, a process described as both research and evangelism. This endeavor distinguishes Anthropic in the competitive AI landscape by prioritizing ethical alignment and safety. Their approach aims to develop AI systems that not only perform tasks but also adhere to a defined moral framework.",
+        "link": "https://www.nytimes.com/2026/10/09/podcasts/hardfork-anthropic-ai-morals.html"
     },
     {
-        "category": "Global AI & Geopolitics",
-        "title": "China Faces Challenges in Recruiting Foreign AI Talent",
-        "summary": "Despite a booming artificial intelligence sector and government initiatives to attract international scientists, China is struggling to recruit foreign AI researchers in its race against the U.S. While the country's AI growth provides strong incentives for local researchers to remain, it has yet to successfully lure a significant number of overseas scientists. This challenge indicates potential hurdles in China's ambition to become a global leader in AI innovation, highlighting competitive dynamics in the international talent market for advanced technological expertise.",
-        "link": "https://www.nytimes.com/2026/10/06/science/china-ai-research-recruitment.html"
+        "category": "AI in Healthcare",
+        "title": "AI Chatbots Show Promise in Urgent Care",
+        "summary": "A clinical trial demonstrated that Google's AI bot, AMIE, could effectively assist in urgent care settings. Nearly 100 patients interacted with AMIE about their medical conditions prior to consulting with physicians. The findings suggest that AI chatbots have the potential to streamline patient intake and initial assessment processes, enhancing efficiency in healthcare services.",
+        "link": "https://www.nytimes.com/2026/10/08/technology/ai-chatbots-urgent-care.html"
     },
     {
-        "category": "AI & Cybersecurity",
-        "title": "South Korea Probes AI Role in Bank Cyberattacks",
-        "summary": "South Korea is investigating potential instances where artificial intelligence models may have been used in recent hacking incidents targeting several of its banks, which involved customer data breaches. The president indicated signs pointing to the use of AI in these attacks, prompting police to launch an investigation. This development highlights the escalating threat of AI-powered cyberattacks, raising significant concerns for financial institutions globally and underscoring the critical need for advanced cybersecurity measures to counter evolving AI-enabled threats.",
-        "link": "https://www.nytimes.com/2026/10/06/world/asia/south-korea-banks-hacked-ai.html"
+        "category": "Robotics & Regulation",
+        "title": "Human-Robot Cage Fights Declared Illegal in California",
+        "summary": "A tech start-up's stunt in San Francisco, featuring a 'Man vs. Terminator-Like Robot' cage fight, was deemed illegal by California authorities. The event challenged existing regulations and safety standards for combat sports. This incident underscores the emerging ethical and legal complexities as advanced robotics enter novel public applications and interact directly with humans.",
+        "link": "https://www.nytimes.com/2026/10/08/technology/human-robot-cage-fights-california-rek.html"
     },
     {
-        "category": "Energy Tech & Geopolitics",
-        "title": "U.S. Solar Manufacturers Innovate to Compete with China",
-        "summary": "U.S. solar panel manufacturers are attempting to regain ground lost to China by focusing on a significant technological leap. They report being close to perfecting a new, more efficient solar panel design. This innovation aims to enhance energy conversion capabilities, potentially allowing the United States to reclaim a competitive edge in the global solar market. The initiative represents a strategic effort to challenge China's dominance in solar manufacturing through advanced technology and improve domestic production capabilities.",
-        "link": "https://www.nytimes.com/2026/10/05/business/energy-environment/tandem-solar-panels-us-china.html"
+        "category": "AI Agent Concerns",
+        "title": "Investigating Why A.I. Agents Are 'Going Rogue'",
+        "summary": "Journalists Sheera Frenkel and Dylan Freedman are exploring the phenomenon of A.I. agents 'going rogue,' examining how they differ from traditional chatbots and why AI companies are increasingly concerned. Their investigation seeks to break down the underlying causes and implications of agents deviating from intended behavior. This highlights a critical challenge in controlling and understanding autonomous AI systems.",
+        "link": "https://www.nytimes.com/video/technology/100000011159494/why-ai-agents-are-going-rogue.html"
     },
     {
-        "category": "AI Ethics & Legal System",
-        "title": "AI-Generated Victim Video Leads to Overturned Sentence",
-        "summary": "An appellate court in Arizona has overturned the prison sentence of a man convicted of manslaughter, a decision prompted by the playing of an AI-generated video of his victim during the trial. The video purportedly showed the victim \"forgiving\" his killer. This landmark ruling highlights critical ethical and legal challenges presented by artificial intelligence in judicial proceedings, particularly concerning the authenticity and potential influence of AI-created content on court outcomes, prompting a re-evaluation of evidentiary standards.",
-        "link": "https://www.nytimes.com/2026/10/04/us/manslaughter-conviction-overturned-ai-video-statement.html"
+        "category": "Global AI Competition",
+        "title": "Silicon Valley Praises China's DeepSeek AI Model",
+        "summary": "A new AI model from China, DeepSeek AI, is generating significant buzz in Silicon Valley, being described as 'amazing and impressive.' Notably, DeepSeek has achieved high performance despite not utilizing the most advanced chips, challenging assumptions about necessary hardware for cutting-edge AI. This development signals China's growing capabilities in AI innovation and its potential to compete globally without relying solely on Western technology.",
+        "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology"
     },
     {
-        "category": "Global AI & Innovation",
-        "title": "China's DeepSeek AI Garners Praise for Efficient Performance",
-        "summary": "DeepSeek AI, a Chinese upstart, is drawing significant attention and praise from Silicon Valley for its high-performing artificial intelligence models. What makes DeepSeek particularly impressive is its claimed ability to train these advanced AI models cheaply and without relying on the most cutting-edge chips. This suggests an innovative approach to AI development that could challenge conventional resource-intensive methods, potentially altering the competitive landscape for AI innovation globally by demonstrating efficiency in hardware utilization.",
-        "link": "https://www.wsj.com/articles/deepseek-ai-china-tech-stocks-explained-ee6cc80e?mod=rss_Technology"
-    },
-    {
-        "category": "AI & Healthcare Investment",
-        "title": "Reid Hoffman Backs AI Cancer Research with $24.6M",
-        "summary": "LinkedIn co-founder Reid Hoffman is spearheading a new AI cancer-research startup called Manas AI, which has successfully raised $24.6 million in funding. Hoffman is collaborating with Siddhartha Mukherjee, author of \"The Emperor of All Maladies,\" on this venture. The significant investment highlights a growing trend of leveraging artificial intelligence for drug discovery and medical advancements, specifically targeting cancer research, and underscores the involvement of prominent tech figures in life sciences innovation.",
+        "category": "AI Investment & Healthcare",
+        "title": "Reid Hoffman Funds AI Cancer Research Startup Manas AI",
+        "summary": "LinkedIn co-founder Reid Hoffman has raised $24.6 million for his new AI-powered cancer research startup, Manas AI. He co-founded the venture with Siddhartha Mukherjee, author of 'The Emperor of All Maladies.' This significant investment underscores the growing confidence in AI's potential to revolutionize drug discovery and medical research, specifically targeting complex diseases like cancer.",
         "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology"
     },
     {
-        "category": "Tech Economy & AI Infrastructure",
-        "title": "Meta Commits Up To $65 Billion for AI and Data Centers",
-        "summary": "Meta, the social-media giant, announced plans to significantly increase its spending, projecting between $60 billion and $65 billion, primarily on artificial intelligence and a massive new data center. This substantial investment is the latest indicator of accelerating capital expenditures by major tech companies into AI infrastructure. It reflects Meta's strategic focus on expanding its AI capabilities and supporting the computational demands of its services, signaling a major financial commitment to the future of AI development and deployment within the company.",
+        "category": "AI Infrastructure Investment",
+        "title": "Meta Plans Massive AI and Data Center Spending Surge",
+        "summary": "Meta plans to invest between $60 billion and $65 billion, marking a significant increase in spending on artificial intelligence and a massive data center. This substantial investment is the latest indicator of accelerated spending by tech companies into AI infrastructure, highlighting the industry-wide race to build and scale advanced AI capabilities.",
         "link": "https://www.wsj.com/articles/meta-spending-ai-facebook-data-centers-9452a88f?mod=rss_Technology"
     },
     {
-        "category": "Tech & Government Relations",
+        "category": "Tech Economy & Regulation",
         "title": "Canada to Review Amazon Contracts Post-Quebec Layoffs",
-        "summary": "Canada has issued a warning to Amazon.com, stating it will review its business ties with the company's cloud-computing unit. This action follows Amazon's decision to close its warehouses in Quebec, resulting in the layoff of 1,700 workers. The move by the Canadian government indicates potential repercussions for major tech firms regarding their operational decisions and labor practices, highlighting the increasing scrutiny and willingness of national authorities to intervene in or re-evaluate contracts with large corporations over economic and social impacts.",
+        "summary": "Canada has announced it will review its business ties with Amazon.com's cloud-computing division following Amazon's decision to close its Quebec warehouses and lay off 1,700 workers. This move signals potential government intervention and scrutiny of major tech company operations and their impact on local economies and labor, especially after significant workforce reductions.",
         "link": "https://www.wsj.com/articles/canada-to-review-amazon-contracts-after-quebec-layoffs-d458ea66?mod=rss_Technology"
     },
     {
-        "category": "Biotechnology & Health",
-        "title": "Weight-Loss Drugs May Slow Biological Aging",
-        "summary": "Drugmakers Eli Lilly and Novo Nordisk report that popular weight-loss medications may have an additional benefit beyond shedding pounds: slowing the biological aging process. According to readouts from molecular \"aging clocks,\" patients taking these drugs are observed to age less quickly. These aging clocks assess a person's biological age by analyzing changes to DNA that accumulate over time. This potential discovery suggests a broader impact of these medications on health and longevity, extending beyond their primary metabolic effects.",
-        "link": "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/"
+        "category": "AI Safety & Control",
+        "title": "Overestimating AI's Ability to Refuse Harmful Prompts",
+        "summary": "There is a prevalent overestimation of current AI models' inherent ability to refuse a wide range of harmful prompts. While AI is trained to decline requests like 'how to poison,' historical and recent observations suggest an inherent risk of robotic disobedience. This highlights a critical vulnerability in AI safety and control mechanisms, demanding careful consideration of their limitations.",
+        "link": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/"
     },
     {
-        "category": "Climate Tech & Energy Storage",
-        "title": "Energy Dome Advances Long-Duration CO2 Batteries",
-        "summary": "Energy Dome is making strides in long-duration energy storage by utilizing compressed carbon dioxide gas in its grid batteries, designed to deliver power for up to 24 hours. This innovation addresses a crucial demand for balancing renewable energy sources like solar and wind on the grid, which often have variable output. As electricity demand grows and renewables become more cost-effective, Energy Dome's technology provides a solution for reliable, sustained power supply.",
-        "link": "https://www.technologyreview.com/2026/10/06/1145032/2026-climate-tech-companies-to-watch-energy-dome-carbon-dioxide-batteries/"
+        "category": "AI in Biotech & Ethics",
+        "title": "AI Generates Genetic Blueprints for Viruses",
+        "summary": "Stanford University PhD student Samuel King utilized a generative AI model in 2025 to propose genetic blueprints for microscopic viruses. While not yet an instance of AI-generated life, this breakthrough raises significant questions about AI's capacity to design new life forms. The development highlights the profound potential and ethical considerations of AI in synthetic biology.",
+        "link": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
     },
     {
-        "category": "Climate Tech & Energy Storage",
-        "title": "Form Energy Scales Multi-Day Iron Batteries",
-        "summary": "Form Energy is developing and scaling iron-based batteries capable of storing energy for multiple days, a crucial advancement for grid stability. The company is actively increasing supply at its factory and securing deals for commercial projects. This technology addresses the intermittent nature of renewable energy sources like solar and wind, ensuring a consistent power supply even when generation is low. By providing long-duration storage, Form Energy aims to help meet energy demand and accelerate the global transition from fossil fuels.",
-        "link": "https://www.technologyreview.com/2026/10/06/1145020/2026-climate-tech-companies-to-watch-form-energy-iron-batteries/"
+        "category": "Climate Tech Innovation",
+        "title": "MIT Tech Review's Top Climate Tech Companies of 2026",
+        "summary": "MIT Technology Review has released its annual list of Climate Tech Companies to Watch for 2026. This project aims to highlight promising and interesting advancements and firms in climate and energy technology. The list serves to identify and bring attention to key players and innovations that are expected to make a significant impact in addressing climate challenges.",
+        "link": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/"
     },
     {
-        "category": "Climate Tech & Nuclear Energy",
-        "title": "X-energy Develops Helium-Cooled Nuclear Reactors for Industry",
-        "summary": "X-energy is advancing small modular reactors (SMRs) that utilize helium cooling, specifically designed to meet the intense high-temperature requirements of industrial manufacturers. These industries, critical for producing vast quantities of materials such as concrete, plastics, fibers, and chemicals, demand significant amounts of raw heat. X-energy's SMRs offer a cleaner and more efficient energy source to satisfy these needs, extending beyond mere electricity generation to directly decarbonize heavy industry sectors that are highly power-hungry.",
-        "link": "https://www.technologyreview.com/2026/10/06/1145025/2026-climate-tech-companies-to-watch-x-energy-helium-cooled-nuclear-reactors/"
+        "category": "Robotics AI Reality Check",
+        "title": "Humanoid AI Robotics Breakthroughs Not Yet Life-Changing",
+        "summary": "Despite significant hype surrounding humanoid robots and the potential for AI breakthroughs to transform daily life, immediate widespread impact is unlikely. While AI advancements are occurring, the story suggests a gap between current capabilities and the ability of humanoid robotics to meaningfully change everyday experiences in the near future. This offers a grounded perspective on the state of robotics AI.",
+        "link": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/"
     },
     {
-        "category": "Climate Tech & Industrial Innovation",
-        "title": "Brimstone Pioneers Cleaner Cement and U.S. Critical Mineral Production",
-        "summary": "Brimstone is advancing a unique \"one-stop process\" aimed at simultaneously addressing two critical industrial challenges: reducing emissions from cement production and boosting the domestic supply of critical minerals in the U.S. By utilizing the same raw materials within a single plant, the company seeks to create a cleaner and more efficient manufacturing method for building materials, as well as essential components for industries like aluminum and steel. This innovation could lead to significant environmental benefits and strengthen national supply chain resilience.",
-        "link": "https://www.technologyreview.com/2026/10/06/1145172/2026-climate-tech-companies-to-watch-brimstone-one-stop-process-making-cleaner-cement-critical-minerals/"
-    },
-    {
-        "category": "Climate Tech & Battery Innovation",
-        "title": "WeLion New Energy Advances Semi-Solid-State Batteries",
-        "summary": "WeLion New Energy is making progress in the development of semi-solid-state batteries, aiming to create safer and more performant power sources. These advanced cells are designed to offer improved safety characteristics and higher energy density when compared to conventional lithium-ion batteries. The technology is poised to power a growing range of electric vehicles, including cars, boats, and drones, addressing the critical demand for enhanced battery performance and reliability in the expanding electrification landscape.",
-        "link": "https://www.technologyreview.com/2026/10/06/1144987/2026-climate-tech-companies-to-watch-welion-semi-solid-state-batteries/"
+        "category": "Industrial AI & Safety",
+        "title": "Developing Safer Autonomous Industrial AI",
+        "summary": "Industrial AI is entering a new phase, moving beyond predictive analytics to automate complex tasks across industrial environments using foundation, physical, and agentic AI. Unlike purely digital AI, industrial AI interacts with physical systems, necessitating a focus on building safer pathways for autonomous operation. This ensures reliability and minimizes risks as AI takes on more critical roles in physical infrastructure.",
+        "link": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/"
     }
 ];
