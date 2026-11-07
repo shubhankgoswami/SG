@@ -1,152 +1,140 @@
 window.NEWS_DATA = [
     {
-        "category": "AI & Policy",
-        "title": "Midterm Elections Signal Tougher Road Ahead for AI Industry",
-        "summary": "Democrats\u2019 historic victories in this week\u2019s U.S. midterm elections are expected to transform the tech industry. Voters approved more restrictions on data center development in almost all 41 ballot measures, indicating public and legislative pushback against infrastructure vital for AI. This outcome suggests increased scrutiny and potential regulatory challenges for AI companies, impacting future growth and investment in critical infrastructure. The 'decidedly anti-tech' sentiment means the sector will navigate a new landscape of political opposition.",
-        "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/"
+        "category": "AI Economy & Investment",
+        "title": "OpenAI's Valuation Skyrockets to $1.25 Trillion",
+        "summary": "OpenAI has reportedly secured an additional $11 billion in funding, boosting its valuation to an estimated $1.25 trillion. This significant investment round, which is expected to finalize in the coming weeks, positions OpenAI as one of the world's most valuable companies. The news also comes as rival AI firm Anthropic is reportedly nearing its initial public offering, signaling a dynamic and rapidly expanding landscape for AI development and investment.",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation"
     },
     {
-        "category": "Manufacturing & Defense Tech",
-        "title": "Pentagon Approves $250M Loan for US Battery Factory",
-        "summary": "The Pentagon has conditionally approved a $250 million loan to 6K, a battery startup. This funding aims to help 6K scale up its microwave-plasma battery material manufacturing process. The investment signifies a strategic move to bolster domestic production capabilities for critical components, potentially reducing reliance on foreign supply chains. It also supports advanced technology development within the United States for both defense and broader industrial applications.",
-        "link": "https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/"
-    },
-    {
-        "category": "Media & Acquisitions",
-        "title": "Fox Finalizes $22 Billion Roku Acquisition After DOJ Scrutiny",
-        "summary": "Fox has completed its $22 billion acquisition of streaming giant Roku, several months after the U.S. Department of Justice investigated the deal. This significant transaction marks a major consolidation within the media and streaming landscape. The merger could lead to substantial shifts in content distribution, advertising strategies, and competitive dynamics within the rapidly evolving digital entertainment market, impacting both consumers and industry rivals.",
-        "link": "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/"
-    },
-    {
-        "category": "AI Economy",
-        "title": "AI Spending Slows Ahead of Anthropic IPO, Challenging Growth Assumptions",
-        "summary": "Ramp data indicates that while AI usage continues to climb, overall spending on AI has stalled. This trend, attributed to price cuts and smarter cost controls among the biggest spenders, could challenge prevailing investor assumptions about 'AI hypergrowth.' The spending deceleration comes as AI company Anthropic nears its IPO, potentially impacting investor sentiment and valuations for the broader AI sector as the market adjusts to more efficient, rather than simply expanding, AI utilization.",
-        "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/"
-    },
-    {
-        "category": "AI Breakthroughs",
-        "title": "Underdog Unveils 32MB Speech Model Capable of Music Generation",
-        "summary": "Underdog has showcased a new 32MB speech model, demonstrating its ability to generate both speech and music despite its remarkably small size. This breakthrough highlights advancements in creating highly efficient and compact AI models. Such models could significantly reduce computational requirements and deployment costs, enabling broader integration of sophisticated AI capabilities into devices with limited resources, from mobile applications to embedded systems, potentially expanding accessibility and application areas for AI-driven audio content.",
-        "link": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/"
-    },
-    {
-        "category": "Cybersecurity & AI",
-        "title": "Palo Alto Networks in Talks to Acquire AI Agent Security Startup Clutch for $500M",
-        "summary": "Palo Alto Networks is reportedly in discussions to acquire Clutch, an AI agent security startup, for $500 million. Clutch, previously valued at $85 million, is backed by Lightspeed and SignalFire. This potential acquisition underscores the increasing importance of securing AI-driven systems and agents within the enterprise. It reflects a growing trend of major cybersecurity firms integrating specialized AI security capabilities to address emerging threats and protect critical AI infrastructure.",
-        "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/"
-    },
-    {
-        "category": "AI Products & Platforms",
-        "title": "Meta's Muse AI Introduces Customizable 'Spaces' for Personalized App Experiences",
-        "summary": "Meta's Muse AI assistant will now allow users to build customized, app-like experiences called 'spaces' directly within the app. This new feature enables Muse to create functionalities such as a shopping hub, school dashboard, music tracker, or trivia game, which users can interact with. Connecting these spaces to relevant external applications further enhances their utility, offering a more personalized and integrated user experience within Meta's AI ecosystem.",
-        "link": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces"
-    },
-    {
-        "category": "Cybersecurity & Government",
-        "title": "Reports Indicate White House IP Addresses Rentable by Outsiders for 'A Few Dollars'",
-        "summary": "Security firms Layer3 Intel and Synthient have reported findings of residential proxy activity on the White House network, suggesting that software running there could enable outsiders to rent access to presidential network IP addresses for 'a few dollars.' This discovery, reported by Krebs on Security and The Register, raises significant cybersecurity concerns regarding potential vulnerabilities and unauthorized access to government networks, highlighting critical security gaps.",
-        "link": "https://www.theverge.com/tech/1028835/white-house-residential-proxy"
-    },
-    {
-        "category": "Mobile Tech & Ecosystem",
-        "title": "Apple Announces Over 100,000 Optimized Apps for iPhone Duo",
-        "summary": "Two weeks after its official launch, Apple's iPhone Duo now features over 100,000 apps specifically built for the foldable device, according to the company. Susan Prescott, Apple's VP, expressed gratitude for developers' rapid adoption and innovation. This milestone indicates strong developer support and a growing ecosystem for Apple's foldable offering, suggesting significant market acceptance and potential for further growth in specialized applications for the new form factor.",
-        "link": "https://www.theverge.com/tech/1028813/apple-iphone-duo-optimized-apps"
-    },
-    {
-        "category": "Social Impact of AI",
-        "title": "AI Proficiency Emerges as New Relationship Filter in Dating Landscape",
-        "summary": "As AI becomes more prevalent, it is reportedly emerging as a new 'dealbreaker' in dating. A 25-year-old analyst in San Francisco noticed a trend on dating apps like Hinge where AI-related prompts reveal preferences, indicating that individuals are increasingly considering potential partners' views or usage of AI. This suggests a growing societal impact of AI, influencing personal connections and shaping social interactions, reflecting a broader integration of tech ethics into personal values.",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity"
-    },
-    {
-        "category": "AI & Data Privacy",
-        "title": "Data Brokers Actively Acquiring Work Files and Emails for AI Training",
-        "summary": "Data brokers are reportedly collecting internal corporate files, including work documents and emails, to help train AI models. This practice, aimed at enhancing AI capabilities, is not universally welcomed, with some individuals and organizations expressing significant concerns. The trend highlights growing tensions around data privacy, intellectual property, and consent in the context of AI development, as companies navigate the ethical and legal implications of sourcing vast amounts of proprietary and personal data for model refinement.",
-        "link": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/"
-    },
-    {
-        "category": "Automotive Tech & Strategy",
-        "title": "Tesla to Halt Cybertruck Production in 2027, Focus on Cybercabs",
-        "summary": "Elon Musk has announced that Tesla will cease production of the Cybertruck in 2027. The company plans to reallocate the factory space previously used for the Cybertruck to manufacture more Cybercabs. This strategic shift indicates a pivot in Tesla's production priorities, moving away from the polarizing pickup truck and towards its autonomous taxi service. The decision marks an end to the Cybertruck's production, re-aligning resources towards future mobility solutions.",
-        "link": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/"
-    },
-    {
-        "category": "Tech Economy & Workforce",
-        "title": "Microsoft Offers Buyouts to 60,000 Employees Amid Billions in AI Investment",
-        "summary": "Microsoft has offered buyouts to approximately 60,000 employees as it continues to invest billions into artificial intelligence. This move comes at a time when the workforce was already unsettled. The buyouts likely signal a strategic restructuring, potentially reallocating resources towards AI-centric roles and initiatives, and away from other areas. This significant workforce adjustment highlights the profound impact of AI integration on the tech industry's employment landscape and major corporations' operational strategies.",
-        "link": "https://www.nytimes.com/2026/11/06/technology/microsoft-buyouts.html"
-    },
-    {
-        "category": "Geopolitics & AI Regulation",
-        "title": "House GOP Leaders Request Nvidia CEO Jensen Huang for Closed-Door Briefing",
-        "summary": "House G.O.P. leaders have requested Nvidia CEO Jensen Huang to speak in a closed-door briefing. This follows a New York Times report detailing Huang's close relationship with an executive whom U.S. officials identified as funneling information to Chinese intelligence. The briefing underscores heightened congressional scrutiny over U.S. technology leaders' ties to foreign entities, particularly concerning national security implications and intellectual property, amidst ongoing geopolitical tensions in the tech sector.",
-        "link": "https://www.nytimes.com/2026/11/05/technology/house-republicans-nvidia-jensen-huang-china.html"
-    },
-    {
-        "category": "Tech Regulation & Social Media",
-        "title": "Google, Meta, and TikTok Sue California Over Ban on Child-Targeted Features",
-        "summary": "Google, Meta, and TikTok have filed separate lawsuits against California, challenging the state's ban on certain features for kids. These lawsuits come amidst a surge of claims alleging that their services are addictive. The legal battle highlights the ongoing tension between tech companies and regulators over child online safety, data privacy, and the design of digital platforms, potentially setting precedents for how social media and online services operate for younger users in the future.",
-        "link": "https://www.nytimes.com/2026/11/05/technology/social-media-child-safety-california.html"
-    },
-    {
-        "category": "AI & Infrastructure Policy",
-        "title": "OpenAI Pledges Greater Local Say in Data Center Development Projects",
-        "summary": "OpenAI has committed to being more collaborative with communities where it is constructing its data centers. This pledge comes amid increased public scrutiny and local resistance to data center development, especially following recent midterm election results that saw voters impose more restrictions on such projects. The move indicates a shift in strategy for major AI companies, acknowledging the need for better community relations and local input to facilitate the expansion of critical AI infrastructure.",
-        "link": "https://www.nytimes.com/2026/11/05/technology/openai-data-centers-midterms.html"
-    },
-    {
-        "category": "AI Safety & Education",
-        "title": "Parents Sue Google Over AI Safety Risks, Citing Student Harm on School Chromebooks",
-        "summary": "A new lawsuit has been filed against Google by parents, alleging AI safety risks on school Chromebooks. The lawsuit claims that a student made plans to end her life after interacting with Google's artificial intelligence. This legal action underscores mounting concerns about potential online harms to children stemming from AI interactions in educational settings. It brings to the forefront the critical need for robust safety measures and responsible AI deployment in tools used by minors.",
-        "link": "https://www.nytimes.com/2026/11/05/technology/ai-safety-school-chromebooks-google-lawsuit.html"
-    },
-    {
-        "category": "Global AI Competition",
-        "title": "China's DeepSeek AI Garners Praise in Silicon Valley for Efficient Performance",
-        "summary": "China's DeepSeek AI is receiving significant attention in Silicon Valley, with experts calling it 'amazing and impressive.' The Chinese upstart claims to have trained its high-performing AI models cheaply, without relying on the most advanced chips. This development highlights China's growing prowess in artificial intelligence and its ability to innovate with fewer resources, potentially challenging the dominance of Western AI firms and influencing global competition in AI technology.",
-        "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology"
-    },
-    {
-        "category": "AI & Health Tech",
-        "title": "Reid Hoffman Raises $24.6M for AI Cancer-Research Startup Manas AI",
-        "summary": "LinkedIn co-founder Reid Hoffman has raised $24.6 million for his new AI cancer-research startup, Manas AI. He is launching the venture with Siddhartha Mukherjee, author of 'The Emperor of All Maladies.' This significant investment by a prominent tech figure into AI-driven drug discovery underscores the increasing application of artificial intelligence in healthcare, specifically in tackling complex diseases like cancer. It suggests a growing confidence in AI's potential to accelerate medical breakthroughs.",
-        "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology"
-    },
-    {
-        "category": "AI & Tech Economy",
-        "title": "Meta Plans $60B-$65B Spending Surge for AI and Data Centers",
-        "summary": "Meta, the social media giant, announced plans to significantly increase its spending to between $60 billion and $65 billion. This massive investment is primarily earmarked for artificial intelligence initiatives and building out massive data centers. This move serves as the latest indication of accelerating investments by major tech companies into AI, reflecting a strategic pivot and commitment to enhancing their AI capabilities and underlying infrastructure to support future growth and competitive advantage in the rapidly evolving AI landscape.",
+        "category": "AI Infrastructure & Investment",
+        "title": "Meta Boosts AI Spending to $65 Billion",
+        "summary": "Meta Platforms is poised to increase its spending significantly, projecting outlays between $60 billion and $65 billion. This surge in investment is primarily directed towards artificial intelligence initiatives and the development of massive data centers. The planned expenditure underscores the accelerating trend among major tech companies to allocate substantial capital towards advancing AI capabilities and supporting the necessary infrastructure for its expansion.",
         "link": "https://www.wsj.com/articles/meta-spending-ai-facebook-data-centers-9452a88f?mod=rss_Technology"
     },
     {
-        "category": "Tech & Government Relations",
-        "title": "Canada Reviews Amazon Contracts Following Quebec Warehouse Layoffs",
-        "summary": "Canada has issued a warning to Amazon.com, stating it is reviewing business ties with the company\u2019s cloud-computing unit. This action follows Amazon\u2019s decision to close its warehouses in Quebec, resulting in the layoff of 1,700 workers. The review indicates potential repercussions for Amazon\u2019s operations and government relations in Canada, highlighting the impact of corporate decisions on local employment and the readiness of governments to re-evaluate partnerships with major tech entities.",
-        "link": "https://www.wsj.com/articles/canada-to-review-amazon-contracts-after-quebec-layoffs-d458ea66?mod=rss_Technology"
+        "category": "AI Infrastructure & Development",
+        "title": "Google Acquires Crusoe's Wyoming Data Center Project",
+        "summary": "Google has acquired a troubled data center project in Wyoming from Crusoe, highlighting the inherent complexities and challenges associated with developing large-scale AI data centers. The acquisition suggests Google's continued commitment to expanding its AI infrastructure, even as other companies face difficulties in such ambitious undertakings. This deal underscores the intense demand for compute capacity to power advanced AI models.",
+        "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/"
     },
     {
-        "category": "AI & Infrastructure Policy",
-        "title": "Texas's AI Data Center Expansion Imperiled by Democratic Midterm Victories",
-        "summary": "Texas, previously the fastest-growing data center market and a key hub for Big Tech's AI buildouts, faces uncertainty after a 'blue wave' swept the state in the midterms. Democratic victories, including James Talarico winning the US Senate seat and Gina Hinojosa the governorship, jeopardize the state's position. This political shift, coupled with increased public restrictions on data center development, suggests a potential halt or slowdown for AI infrastructure growth in a critical region.",
+        "category": "Tech Policy & Regulation",
+        "title": "Midterms Cast Shadow Over AI Industry's Future",
+        "summary": "Democrats' significant victories in the recent U.S. midterm elections are poised to reshape the tech industry, particularly impacting AI development. Public sentiment, reflected in 41 data center-related ballot measures, largely favored imposing more restrictions on such developments. Even when not directly on the ballot, data centers were a pervasive concern. This political shift suggests that the AI industry might face increased regulatory scrutiny and developmental hurdles in the next two years.",
+        "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/"
+    },
+    {
+        "category": "Regional Tech Policy & AI",
+        "title": "Texas AI Data Center Boom Jeopardized by Blue Wave",
+        "summary": "Texas, previously the fastest-growing data center market in the U.S. and a key hub for Big Tech's AI buildouts, now faces uncertainty. The recent \"blue wave\" that swept the Lone Star State in the midterm elections, with Democrats securing key gubernatorial and Senate seats, may jeopardize this position. The shift in political landscape could lead to new regulations or community resistance, potentially stalling future AI infrastructure expansion in the region.",
         "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/"
     },
     {
-        "category": "Policy & Infrastructure",
-        "title": "Democratic Midterm Sweep Poised to Reshape US Energy Policy",
-        "summary": "Following the Democratic Party's capture of both the U.S. House and Senate in the midterms, significant shifts in energy policy are anticipated. A new bill, the Bipartisan American Affordability and Jobs Act (BAAJA), set for a Senate vote on November 9, aims to cut red tape and accelerate energy infrastructure development. This legislative shift could impact the energy demands of the tech sector, particularly for large-scale AI data centers, by potentially streamlining or altering the landscape for power grid expansions and overall energy buildout in the US.",
+        "category": "AI Infrastructure & Community Relations",
+        "title": "OpenAI Pledges Greater Local Input for Data Centers",
+        "summary": "In response to growing community concerns, OpenAI has pledged to adopt a more collaborative approach with local communities regarding its data center projects. This commitment follows recent midterm election results that saw public opposition to unchecked data center expansion. The artificial intelligence company aims to ensure greater local involvement and address community feedback throughout the planning and development phases of its critical infrastructure.",
+        "link": "https://www.nytimes.com/2026/11/05/technology/openai-data-centers-midterms.html"
+    },
+    {
+        "category": "Cybersecurity & AI Impact",
+        "title": "AI Disrupts Cybersecurity World, Prompts Concern",
+        "summary": "Artificial intelligence has significantly altered the cybersecurity landscape, creating a \"mess\" according to experts like Alex Stamos, chief security officer at Cognition. This impact is part of a special series examining AI in real life, suggesting that the integration of AI is presenting unprecedented challenges and complexities for cybersecurity professionals. The conversation highlights the urgent need to understand and address AI's transformative effects on digital security.",
+        "link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos"
+    },
+    {
+        "category": "Cybersecurity Threat",
+        "title": "Hundreds of Artex AI Hacking Tools Publicly Exposed",
+        "summary": "Security researchers have discovered hundreds of servers hosting the AI-powered penetration testing tool, Artex, publicly exposed to the internet. This critical vulnerability allows unauthorized individuals to access and utilize the sophisticated hacking tool. The exposure of such advanced AI-enabled instruments raises significant cybersecurity concerns, potentially enabling widespread malicious activities and highlighting the urgent need for enhanced security protocols around AI development and deployment.",
+        "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/"
+    },
+    {
+        "category": "AI Research & Safety",
+        "title": "Anthropic Accelerates AI Development, Alarming Researchers",
+        "summary": "A new report from the AI safety research organization METR indicates that Anthropic is leveraging AI to build more powerful AI models, a process that appears to be remarkably effective. The company's models are reportedly improving at roughly twice the speed observed a year ago, with no signs of deceleration. This rapid acceleration in AI development is causing alarm among some researchers, prompting concerns about the implications for AI safety and control.",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development"
+    },
+    {
+        "category": "Global AI & Innovation",
+        "title": "China's DeepSeek AI Model Garners Silicon Valley Praise",
+        "summary": "A new AI model from China, DeepSeek AI, is generating significant buzz in Silicon Valley, being described as \"amazing and impressive.\" Notably, the Chinese upstart claims to have trained its high-performing AI models cheaply and without relying on the most advanced chips. This achievement challenges conventional wisdom regarding AI development and signals China's growing prowess in creating powerful AI solutions with potentially fewer resource constraints.",
+        "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology"
+    },
+    {
+        "category": "Geopolitics & AI Hardware",
+        "title": "US Scrutiny on Nvidia's China AI Chip Sales",
+        "summary": "Concerns are escalating regarding Nvidia's due diligence in vetting Chinese firms approved to handle its H200 AI chips, following reports that the US permitted sales to an empty office. The New York Times reported that \"New Matrix,\" an approved firm, has empty offices, raising questions about whether the Commerce Department or Nvidia are adequately verifying recipients. This situation highlights potential loopholes in export controls and the broader challenge of preventing sensitive AI technology from reaching unintended parties.",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government"
+    },
+    {
+        "category": "Tech Workforce & Strategy",
+        "title": "Microsoft Offers Buyouts to 60,000 Employees Amid AI Push",
+        "summary": "Microsoft is offering buyouts to approximately 60,000 employees, placing its workforce on edge as the company concurrently invests billions into artificial intelligence. This strategic move suggests a significant restructuring within the tech giant, potentially reallocating resources and talent towards its burgeoning AI initiatives. The buyouts indicate a shift in workforce needs as Microsoft prioritizes AI development and integration across its operations.",
+        "link": "https://www.nytimes.com/2026/11/06/technology/microsoft-buyouts.html"
+    },
+    {
+        "category": "AI for Health & Investment",
+        "title": "Reid Hoffman Backs $24.6M AI Cancer Research Startup",
+        "summary": "LinkedIn co-founder Reid Hoffman has raised $24.6 million for his new AI cancer-research startup, Manas AI. He is launching the venture alongside Siddhartha Mukherjee, author of \"The Emperor of All Maladies.\" This significant investment into AI-driven drug discovery and cancer research highlights the growing trend of applying advanced artificial intelligence to complex scientific and medical challenges, attracting prominent figures and substantial capital from the tech sector.",
+        "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology"
+    },
+    {
+        "category": "Strategic Tech & Manufacturing",
+        "title": "Pentagon Approves $250M Loan for US Battery Factory",
+        "summary": "The Pentagon has granted conditional approval for a $250 million loan to battery startup 6K. This funding is intended to help 6K scale up its microwave-plasma battery material manufacturing process within the United States. The investment underscores a strategic national interest in bolstering domestic production capabilities for critical technologies, ensuring supply chain resilience and reducing reliance on foreign sources for essential components like advanced battery materials.",
+        "link": "https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/"
+    },
+    {
+        "category": "Venture Capital Trends",
+        "title": "Sequoia Ends Influential Scouts Program",
+        "summary": "Sequoia, a pioneering venture capital firm, is shutting down its long-standing Scouts program. This move signals a broader shift in the VC landscape, as a consensus appears to be forming that the highly influential \"scouts model,\" which many other firms adopted, has reached its limitations in its current form. The closure marks the end of an era for a model that significantly shaped early-stage investment strategies.",
+        "link": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/"
+    },
+    {
+        "category": "Media & Tech M&A",
+        "title": "Fox Finalizes $22 Billion Roku Acquisition",
+        "summary": "Fox has successfully completed its $22 billion acquisition of the streaming giant Roku. This major transaction comes a few months after the deal faced scrutiny from DOJ investigators. The completion signifies a significant consolidation within the streaming and media landscape, potentially reshaping competition and content distribution strategies across the industry.",
+        "link": "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/"
+    },
+    {
+        "category": "Tech Policy & Government Relations",
+        "title": "Big Tech Navigates Post-Midterm Political Landscape",
+        "summary": "Following the U.S. midterm elections, Big Tech companies are undergoing a significant political repositioning. After two years of close ties with the White House, the industry is now actively seeking to build relationships with Democrats. The core challenge lies in whether this image makeover can withstand potential pressures from states, local communities, and market forces, which are expected to exert influence on tech policies and operations.",
+        "link": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/"
+    },
+    {
+        "category": "Tech Regulation & Child Safety",
+        "title": "Google, Meta, TikTok Sue California Over Kids' Features Ban",
+        "summary": "Google, Meta, and TikTok have each filed separate lawsuits against California in response to the state's ban on certain features for children. The social media giants have been consistently battling numerous claims that their services are addictive, leading to increased legislative efforts to protect younger users. These lawsuits highlight an ongoing legal battle between tech companies and regulators regarding online child safety and platform design.",
+        "link": "https://www.nytimes.com/2026/11/05/technology/social-media-child-safety-california.html"
+    },
+    {
+        "category": "Energy Policy & Climate",
+        "title": "Democrats' Midterm Wins Signal US Energy Policy Shift",
+        "summary": "The U.S. midterm elections have resulted in a dramatic \"blue wave,\" with Democrats gaining control of both the House of Representatives and the Senate. This significant political shift, two years after Donald Trump's victory, is expected to have profound implications for U.S. energy policy. The new legislative landscape suggests potential changes in climate initiatives, energy infrastructure development, and environmental regulations in the coming years.",
+        "link": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/"
+    },
+    {
+        "category": "Infrastructure Policy & Energy",
+        "title": "New Bill Aims to Streamline US Energy Infrastructure Buildout",
+        "summary": "A sweeping piece of legislation, the Bipartisan American Affordability and Jobs Act (BAAJA), is scheduled for a Senate vote on November 9. Designed to reduce bureaucratic hurdles, this bill could significantly accelerate the development of energy infrastructure across the United States. Following the recent midterm elections, its passage would represent a critical step towards modernizing and expanding the nation's energy capabilities and supporting strategic infrastructure goals.",
         "link": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/"
     },
     {
-        "category": "AI Security & Enterprise AI",
-        "title": "Data Lineage Crucial for Securing Agentic Enterprise AI Applications",
-        "summary": "As AI agents become integral to enterprise operations, such as sales representatives asking agents for customer pricing, securing these systems is paramount. With agents pulling data from multiple sources like restricted systems and internal communications, and even drafting proposals without human oversight, ensuring data lineage is critical. This approach, which tracks data origins and transformations, is essential for maintaining accuracy, ensuring compliance, and preventing errors in automated processes where human checks are bypassed.",
-        "link": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/"
+        "category": "IoT Security & Critical Infrastructure",
+        "title": "IoT Fridge Hacking Spree Exposes Critical Infrastructure Risk",
+        "summary": "An escalating series of hacks targeting internet-connected refrigeration systems at blood labs and grocery stores serves as a critical wake-up call for Internet-of-Things (IoT) security. These incidents demonstrate the very real and severe risks posed to essential critical infrastructure due to basic security lapses in networked devices. The spree underscores the urgent need for robust security measures across all IoT deployments to prevent disruptions to vital services.",
+        "link": "https://www.wired.com/story/kernel-panic-refrigeration-hacks-internet-of-things/"
     },
     {
-        "category": "AI Safety & Control",
-        "title": "'Reverse Game Theory' Proposed to Control Powerful AI Agents",
-        "summary": "A new approach called 'reverse game theory' is being explored as a method to control powerful AI models. This strategy aims to design systems that incentivize AI agents to behave as intended, rather than simply imposing rules. By engineering the underlying incentives, this method seeks to keep AI agents in check, preventing unintended outcomes and ensuring alignment with human objectives. This represents an advanced theoretical step in addressing the complex challenge of AI safety and governance.",
-        "link": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/"
+        "category": "Legacy Tech & Modernization",
+        "title": "FAA to Finally Ground Floppy Disks by 2028",
+        "summary": "Decades after the rest of the computer industry abandoned them, federal officials at the F.A.A. plan to finally phase out floppy disks in the nation\u2019s air traffic control centers by 2028. This long-awaited modernization initiative will replace the once-vaunted tech relic, addressing a significant legacy technology challenge within critical national infrastructure and bringing air traffic management systems into the modern digital era.",
+        "link": "https://www.nytimes.com/2026/11/06/us/faa-floppy-disks-atc-2028.html"
+    },
+    {
+        "category": "AI Applications & Societal Impact",
+        "title": "AI Enhances Caregiver Apps, But Broader Well-being Unsolved",
+        "summary": "Apps and platforms designed to assist family caregivers in managing their loved ones\u2019 needs are becoming increasingly sophisticated with the integration of AI. While these applications offer enhanced capabilities, the broader issue of caregivers\u2019 overall well-being and support remains largely unaddressed. The advancement highlights AI's potential to streamline logistical tasks, yet it also underscores the limitations of technology alone in solving complex human and social challenges.",
+        "link": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/"
     }
 ];
