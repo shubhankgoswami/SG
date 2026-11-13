@@ -1,152 +1,140 @@
 window.NEWS_DATA = [
     {
-        "category": "AI Business Automation",
-        "title": "Nectar Unveils AI Agent for Influencer Marketing",
-        "summary": "Nectar has launched a new AI agent designed to automate influencer marketing processes for brands. This tool assists with discovering suitable creators, managing outreach and partnerships, and tracking campaign results, streamlining a key aspect of modern marketing strategies.",
-        "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/"
+        "category": "AI Geopolitics",
+        "title": "China's Advanced AI Trained on Banned Nvidia Chips",
+        "summary": "New research indicates that China's most advanced artificial intelligence models were developed and trained using Nvidia chips subject to export bans. This revelation raises concerns regarding the effectiveness of current export controls and highlights potential challenges in the national security race between the U.S. and China to establish superior AI infrastructure. The situation could have significant ramifications for Nvidia's operational landscape and broader international tech policies.",
+        "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/"
     },
     {
-        "category": "Tech Operations",
-        "title": "Microsoft Outlook Experiences New Global Outage",
-        "summary": "Microsoft's Outlook email service has been hit by a new outage, affecting users globally who are unable to access their email via web or apps. Microsoft 365 Status acknowledged the issue, stating that a portion of infrastructure is experiencing elevated load across multiple regions, but a specific cause has not yet been provided.",
-        "link": "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/"
+        "category": "AI Applications",
+        "title": "ChatGPT Unveils AI-Powered Shopping Wallet",
+        "summary": "ChatGPT has launched a new 'Wallet' feature, enabling its AI agents to shop and complete purchases on behalf of users. This functionality is being rolled out initially to a limited number of U.S. Pro subscribers. The introduction of an AI agent capable of managing transactions marks a significant step towards more autonomous AI integration in daily consumer activities, potentially streamlining online shopping and personal finance management for users.",
+        "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
     },
     {
-        "category": "AI Industry Leadership",
-        "title": "Nvidia CEO Jensen Huang Resigns Amid Spy & Internal Affair Allegations",
-        "summary": "Jensen Huang has resigned as CEO of Nvidia, a company he co-founded in 1993, following a board investigation into multiple extramarital affairs, including one with an alleged Chinese spy and another with a direct report. His ouster comes amidst reports that the scandal threatened to engulf the AI chip company. Nvidia's finance chief, Colette Kress, has been named interim leader. Huang has also agreed to testify before Congress after being threatened with a subpoena.",
+        "category": "Executive Leadership & AI Industry",
+        "title": "Jensen Huang Resigns as Nvidia CEO Amid Scandal",
+        "summary": "Jensen Huang has resigned from his position as Nvidia's CEO, with finance chief Colette Kress named interim leader. Huang's departure follows scrutiny over an affair, including one with a woman alleged to be a Chinese spy, and a reported relationship with a subordinate. This major leadership change at a crucial AI chip company carries potential ramifications for national security and the U.S.-China AI race, worrying the AI start-up world given Nvidia's significant stakes in 229 private companies.",
         "link": "https://www.nytimes.com/2026/11/12/technology/nvidia-jensen-huang.html"
     },
     {
-        "category": "AI Industry Strategy",
-        "title": "Huang's Exit Puts Nvidia's Open Source AI Support in Question",
-        "summary": "Jensen Huang\u2019s resignation as Nvidia CEO raises significant questions about the company\u2019s future commitment to open source AI. This includes the fate of its Hugging Face acquisition, its development of open-weight models, and its advocacy against restrictions, as Nvidia navigates a critical leadership transition in the highly competitive AI sector. Hugging Face's CEO has already pledged to continue fighting for open source AI after Huang's exit.",
-        "link": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/"
+        "category": "Cybersecurity",
+        "title": "Uber Data Breach Exposes Driver License Info",
+        "summary": "Uber has confirmed a data breach where hackers stole thousands of drivers' license information. The ridesharing giant stated that the sensitive data was compromised during a security incident involving Fireworks AI, an AI cloud company. This incident underscores the cybersecurity risks associated with third-party cloud service providers, particularly those handling personal identifiable information for large platforms like Uber.",
+        "link": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/"
     },
     {
-        "category": "AI Policy & Security",
-        "title": "United Airlines Blocks AI Agents from Booking Flights",
-        "summary": "United Airlines has announced it will not allow customers to use AI agents for booking flights and managing reservations. The carrier stated this decision is aimed at protecting customers\u2019 information and ensuring compliance with regulations, effectively barring digital assistants from logging into accounts. This move highlights growing concerns over AI agent use in sensitive consumer transactions.",
-        "link": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/"
+        "category": "Cloud Infrastructure",
+        "title": "Microsoft's Global Cloud Crisis Persists",
+        "summary": "Microsoft's day-long outage, which began with Outlook and Teams, escalated into a full-blown global cloud crisis, taking many of the company's cloud services offline. Service is gradually recovering for Outlook and 365 after an almost two-day disruption impacting millions of users worldwide. This extensive outage highlights the critical reliance of businesses, schools, hospitals, and governments on single company cloud systems, posing a warning for global digital infrastructure.",
+        "link": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/"
     },
     {
-        "category": "AI Infrastructure & Economy",
-        "title": "SoftBank's Billion-Dollar Loss Caps AI Natural Gas Ambitions",
-        "summary": "SoftBank incurred a loss exceeding $3 billion from preordering natural gas turbines intended to power AI data centers. This significant financial setback may place a limit on the AI industry's reliance on natural gas for its burgeoning energy needs, potentially signaling shifts in power market strategies for large-scale AI infrastructure development.",
-        "link": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/"
+        "category": "Tech Regulation & Geopolitics",
+        "title": "Democrats Launch Investigation into Nvidia's China Sales",
+        "summary": "Democrats in Congress have initiated a second investigation into Nvidia's sales to China and its dealings with former President Trump. This inquiry comes after news broke of the alleged spy affair involving former CEO Jensen Huang. The investigation underscores growing concerns over national security implications related to advanced AI chip technology, U.S.-China tech rivalry, and the potential for regulatory action against major tech firms.",
+        "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/"
     },
     {
-        "category": "AI Ethics & Consumer Safety",
-        "title": "Study Finds AI Chatbots Recommending Fake Retail Websites",
-        "summary": "A new study by IP protection firm Podqi reveals that AI chatbots like ChatGPT, Gemini, and Perplexity are directing shoppers to imposter and other risky websites when queried about products or purchasing locations. This poses a significant cybersecurity risk for consumers using AI for shopping research, highlighting the need for improved AI safety measures and citation reliability.",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations/"
+        "category": "AI Industry Dynamics",
+        "title": "Israel VCs Eye Opportunities Amid Nvidia Turmoil",
+        "summary": "Amid the turmoil at Nvidia following Jensen Huang's departure, Israel's venture capitalists are observing potential opportunities for challengers. Given Nvidia's dominant position in the AI sector and its significant importance within Israel's startup ecosystem, there is concern about the impact of Huang's exit. However, some VCs perceive this as a moment for new entrants and innovative solutions to gain traction and potentially disrupt the established AI chip market.",
+        "link": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/"
     },
     {
-        "category": "AI Industry Adoption",
-        "title": "Generative AI Use Rises Among Game Developers",
-        "summary": "A new GDC Festival of Gaming annual industry survey indicates a growing adoption of generative AI tools among video game developers. Forty percent of surveyed developers now report using generative AI as part of their job, an increase from 36 percent in 2025, with usage being higher among game developers associated with larger companies.",
-        "link": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs/"
+        "category": "Environmental Impact of AI",
+        "title": "Nvidia Under Huang Blamed for Environmental Recklessness",
+        "summary": "Under co-founder Jensen Huang, Nvidia, while fueling the AI boom, has emerged as one of the tech industry's most significant environmental liabilities. The high demand for its chips has led to the proliferation of water- and chemical-intensive factories, strained power grids through massive data centers, and created a looming e-waste challenge. This perspective highlights the often-overlooked ecological cost associated with rapid AI infrastructure expansion.",
+        "link": "https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution/"
     },
     {
-        "category": "Global AI Innovation",
-        "title": "Silicon Valley Raves About China's DeepSeek AI Model",
-        "summary": "China's DeepSeek AI model is drawing significant praise in Silicon Valley, being called 'amazing and impressive.' The Chinese upstart claims to have trained its high-performing AI models cost-effectively without relying on the most advanced chips, challenging traditional assumptions about necessary hardware for top-tier AI development and highlighting China's growing prowess in the field.",
+        "category": "Smart Home Technology",
+        "title": "Apple Unveils Home Collection Device Release Dates",
+        "summary": "Apple has announced the release dates for the initial smart home devices and accessories from its new Apple Home Collection. Co-developed with LG Electronics and Schneider Electric, these products are now available for preorder via Apple's online store, with deliveries anticipated in mid-December. This initiative signifies a strengthened push by Apple into the smart home market, expanding its ecosystem with co-designed hardware.",
+        "link": "https://www.theverge.com/tech/1032920/apple-smart-home-collection-release-ship-dates-available-pricing/"
+    },
+    {
+        "category": "Economic Forecast",
+        "title": "Black Friday Prices to Rise Due to AI Memory Crunch",
+        "summary": "Consumers can expect Black Friday to be more expensive than usual this year, with prices rising across the board. The 'AI memory crunch' is cited as a factor impacting holiday shopping lists. This suggests that the increasing demand for components vital to artificial intelligence technologies is creating supply chain pressures, consequently driving up costs for a wider range of goods and services.",
+        "link": "https://www.wired.com/story/even-black-friday-2026-will-be-more-expensive-than-usual/"
+    },
+    {
+        "category": "AI Infrastructure",
+        "title": "Data Center Construction Continues Despite Opposition",
+        "summary": "Despite facing increased opposition in midterm elections, big technology companies are expected to continue building giant AI projects, including data centers. Although voters saw a tide turn against these projects, tech companies possess the financial and strategic means to navigate potential delays and local backlashes. This trend indicates the unwavering commitment of tech giants to expanding AI infrastructure, even in the face of community and political resistance.",
+        "link": "https://www.nytimes.com/2026/11/12/technology/voters-data-centers-construction.html"
+    },
+    {
+        "category": "AI Investment",
+        "title": "Wall Street Braces for Anthropic's Significant Spending",
+        "summary": "Wall Street is preparing for substantial spending by Anthropic, indicating potential murkiness in the company's financial outlook. The AI firm is dealing with significant employee stock compensation and the escalating costs inherent in developing advanced artificial intelligence. This focus on Anthropic's finances highlights the immense capital requirements and complex financial structures associated with leading players in the rapidly expanding AI industry.",
+        "link": "https://www.nytimes.com/2026/11/13/technology/anthropic-ipo-spending-plans.html"
+    },
+    {
+        "category": "AI Ethics & Competition",
+        "title": "Anthropic CEO Angers AI Peers with AI Safety Stance",
+        "summary": "Dario Amodei, CEO of Anthropic, has reportedly angered OpenAI and other AI peers due to his public concerns about the dangers of artificial intelligence. Amodei's vocal position on AI safety has created friction among leading figures in the AI industry. This reflects a growing ideological divide within the AI community regarding the pace of development versus the emphasis on ethical considerations and risk mitigation.",
+        "link": "https://www.nytimes.com/2026/11/13/technology/anthropic-dario-amodei-ai-openai.html"
+    },
+    {
+        "category": "Tech Leadership Transition",
+        "title": "Nvidia's Future Momentum Questioned Post-Huang",
+        "summary": "Following the loss of its founding CEO, Jensen Huang, questions are being raised about whether Nvidia can maintain its momentum. History shows mixed records for tech giants after losing visionary founders who were crucial to their success. The ability of successors with strong tech expertise is seen as a factor for future success, as Nvidia navigates this critical leadership transition amidst its dominant position in the AI chip market.",
+        "link": "https://www.nytimes.com/2026/11/13/technology/nvidia-ceo-jen-huang-loss.html"
+    },
+    {
+        "category": "Government & Tech",
+        "title": "Commerce Secretary Lutnick Criticized for Soft Nvidia Stance",
+        "summary": "Howard Lutnick, the Commerce Secretary, adopted a softer stance on Nvidia as calls for tougher controls grew, drawing criticism. Critics argue that Lutnick and his department have shielded Nvidia despite increasing concerns over AI chip sales to firms like Megaspeed. This situation highlights the ongoing tension between government oversight, national security interests, and the commercial objectives of major technology companies in critical sectors like AI.",
+        "link": "https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html"
+    },
+    {
+        "category": "Global AI Competition",
+        "title": "China's DeepSeek AI Impresses with Less Advanced Chips",
+        "summary": "DeepSeek, a Chinese AI upstart, is drawing praise from Silicon Valley for its 'amazing and impressive' high-performing AI models. Remarkably, the company claims to have trained these models cheaply and without relying on the most advanced chips. This development signals China's potential to innovate efficiently in AI, potentially mitigating the impact of export restrictions on advanced semiconductors and intensifying the global AI competition.",
         "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology"
     },
     {
-        "category": "AI Investment & Health",
-        "title": "Reid Hoffman Raises $24.6M for AI Cancer-Research Startup",
-        "summary": "LinkedIn co-founder Reid Hoffman has raised $24.6 million for his new AI cancer-research startup, Manas AI. He is launching the venture with Siddhartha Mukherjee, author of 'The Emperor of All Maladies.' This investment signals continued confidence in AI's potential to revolutionize drug discovery and accelerate advancements in medical science.",
+        "category": "AI Healthcare",
+        "title": "Reid Hoffman Funds AI Cancer Research Startup",
+        "summary": "LinkedIn co-founder Reid Hoffman has raised $24.6 million for Manas AI, a new startup focused on AI cancer research. Hoffman is collaborating with Siddhartha Mukherjee, author of 'The Emperor of All Maladies,' on this venture. The substantial funding underscores growing investor confidence in the application of artificial intelligence to complex medical challenges, particularly in drug discovery and disease research.",
         "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology"
     },
     {
-        "category": "Tech Economy & AI Infrastructure",
+        "category": "Big Tech Investment",
         "title": "Meta's AI Spending and Data Center Investment to Soar",
-        "summary": "Meta plans to significantly increase its spending, projecting between $60 billion and $65 billion, as it accelerates investments into artificial intelligence and massive data centers. This substantial outlay is the latest indicator of major tech companies' escalating commitment to AI development, reflecting the intense competition and infrastructure demands of the AI race.",
+        "summary": "Meta plans to significantly increase its spending, projecting between $60 billion and $65 billion, primarily on artificial intelligence and massive data centers. This announced investment is the latest indication of accelerating capital expenditure by technology companies into AI infrastructure. The move highlights Meta's commitment to advancing its AI capabilities and expanding the foundational hardware necessary to support its future ambitions in the AI space.",
         "link": "https://www.wsj.com/articles/meta-spending-ai-facebook-data-centers-9452a88f?mod=rss_Technology"
     },
     {
-        "category": "Global Shifts & Climate Change",
-        "title": "UN Climate Talks (COP31) Underway in Turkey",
-        "summary": "Thousands of delegates, lobbyists, and journalists have gathered in Antalya, Turkey, for COP31, the annual UN climate talks, which officially commenced on November 8. Co-hosted by Turkey and Australia, these negotiations represent a critical stage for global discussions on climate action, with countries expected to commit to ensuring AI supports climate initiatives, although the climate case for AI has yet to be fully established.",
+        "category": "Tech Regulation & Geopolitics",
+        "title": "Nvidia Confirms Chip Tracking Feasibility for Anti-Smuggling",
+        "summary": "Nvidia representatives privately confirmed to Illinois Representative Bill Foster that it is technically feasible to implement anti-smuggling measures for chips, as called for in the Chip Security Act. This confirmation comes despite an industry group publicly questioning the feasibility of such measures. The revelation suggests Nvidia possesses capabilities to track its chips, impacting discussions around enforcing export controls and preventing illicit trade of advanced technology.",
+        "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/"
+    },
+    {
+        "category": "Global Climate Policy",
+        "title": "COP31 UN Climate Talks Underway in Turkey",
+        "summary": "Thousands of delegates, lobbyists, and journalists have gathered in Antalya, Turkey, for COP31, the annual UN climate talks. The negotiations officially commenced on November 8, marking the beginning of discussions on global climate challenges on one of the largest international stages. Turkey and Australia are cohosting this year's conference, where crucial decisions regarding climate policy and environmental initiatives will be deliberated.",
         "link": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/"
     },
     {
-        "category": "AI Regulation & Policy",
-        "title": "Pelosi\u2019s Successor Set to Champion Federal AI Regulation",
-        "summary": "Scott Wiener, who authored legislation to curb advanced AI risks as a California state senator, is now poised to play a key role in federal AI policy. Having won former Speaker Nancy Pelosi\u2019s open San Francisco congressional seat, Wiener is ready to regulate AI, signaling a potential new era of federal oversight for the rapidly evolving artificial intelligence industry.",
-        "link": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/"
+        "category": "AI Regulation & Infrastructure",
+        "title": "Pelosi's Successor Targets AI Regulation and Data Center Power",
+        "summary": "Nancy Pelosi's replacement in Congress, Scott Wiener, is poised to target AI regulation. As a California state senator, Wiener previously authored legislation aimed at mitigating risks associated with advanced AI. His transition to Congress suggests a continued legislative focus on AI governance. Simultaneously, the issue of power demands from data centers is gaining prominence, creating a dual challenge for the tech sector concerning regulation and infrastructure strain.",
+        "link": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/"
     },
     {
-        "category": "AI Infrastructure & Energy Policy",
-        "title": "Data Center Backlash Linked to Electricity Concerns",
-        "summary": "The growing public backlash against data centers, particularly in areas like Data Center Alley in Ashburn, Virginia, is increasingly being attributed to concerns over electricity consumption. As voters went to polls, the underlying issue for opposition to these massive AI infrastructure projects appears to be less about data centers themselves and more about their immense power demands.",
+        "category": "AI Infrastructure",
+        "title": "Data Center Backlash Linked to Electricity Demand",
+        "summary": "The growing backlash against data centers is increasingly linked to concerns about electricity consumption. Ashburn, Virginia, known as Data Center Alley and the world's largest data center hub, exemplifies this issue. As voters went to the polls across the U.S., the intense energy demands of these facilities are becoming a central point of contention, suggesting that future data center expansion will face heightened scrutiny over power grid impacts.",
         "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/"
     },
     {
-        "category": "AI Industry Leadership",
-        "title": "Colette Kress Named Nvidia\u2019s New Interim CEO",
-        "summary": "Colette Kress, Nvidia\u2019s longtime chief financial officer, has been appointed as the interim CEO following Jensen Huang\u2019s resignation. Kress played a crucial role in transforming Nvidia into an AI powerhouse, and her immediate appointment puts her at the helm during an extraordinarily difficult period for the company as it navigates the scandal and leadership transition.",
-        "link": "https://www.wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang/"
-    },
-    {
-        "category": "Tech Economy & Market Impact",
-        "title": "Jensen Huang Scandal Wipes $1 Trillion from Nvidia's Value",
-        "summary": "Nvidia's market value has plummeted by over $1 trillion in less than a month since the scandal involving former CEO Jensen Huang and an alleged Chinese spy became public. This eye-watering sum highlights the profound financial impact of the controversy on the company, reflecting investor concerns amidst the leadership crisis and geopolitical implications.",
-        "link": "https://www.wired.com/story/jensen-huang-tanked-a-trillion-dollars-in-less-than-a-month/"
-    },
-    {
-        "category": "Biotech & BCI",
-        "title": "Synchron Pauses Brain Implant Trials Due to Performance Issues",
-        "summary": "Brain-computer interface startup Synchron has halted clinical trials for its brain implant after the latest device struggled with performance issues. The company announced plans to upgrade the implant\u2019s hardware and is actively working on developing a new device, indicating a temporary setback but continued commitment to advancing its neurotechnology.",
-        "link": "https://www.wired.com/story/synchron-pauses-trials-of-its-brain-implant-due-to-performance-issues/"
-    },
-    {
-        "category": "XR & Wearable Tech",
-        "title": "Google and Samsung Launch Android XR Smart Glasses",
-        "summary": "Google and Samsung have officially launched their Android XR smart glasses, with frames available from Warby Parker and Gentle Monster. Priced at $395 and $449 respectively, these glasses come in a handful of styles, marking a significant entry into the intelligent eyewear market. Google is positioning them as a privacy-minded option, aiming to differentiate from competitors.",
-        "link": "https://www.wired.com/story/google-samsung-intelligent-eyewear-launch-warby-parker-gentle-monster-smart-glasses/"
-    },
-    {
-        "category": "AI Ethics & Misinformation",
-        "title": "Deceptive AI Fakes Emerge as Election Memes, Not Predicted Scams",
-        "summary": "The surge of AI-generated fakes during the recent election season manifested differently than researchers had anticipated. Instead of sophisticated, deceptive scams, the primary form was AI-created memes. This unexpected outcome presents a new reckoning for understanding and combating AI-powered misinformation, shifting the focus from high-fidelity deepfakes to more accessible, pervasive content.",
-        "link": "https://www.nytimes.com/2026/11/12/technology/artifical-intelligence-fakes-midterm-memes.html"
-    },
-    {
-        "category": "Tech Labor & AI Industry",
-        "title": "Google DeepMind Staff Escalate Unionization Fight to UK Government",
-        "summary": "Workers at Google DeepMind are escalating their unionization efforts by seeking intervention from the UK Government. This move comes after initial talks with company management stalled, indicating a determination to bypass internal channels in their bid to organize. The struggle highlights growing labor activism within major AI companies.",
-        "link": "https://www.wired.com/story/google-deepmind-staff-escalate-their-union-fight/"
-    },
-    {
-        "category": "Smart Home & Biometrics",
-        "title": "Apple HomeView Experiments with \"Person Recognition\" Over FaceID",
-        "summary": "For its smart home device, HomeView, Apple is exploring new \"person recognition\" technology for authentication, moving away from its established FaceID system. This novel approach, which has yet to be challenged in real-world scenarios, signifies Apple's attempt to provide robust authentication in smart home environments, with potential implications for privacy and security.",
-        "link": "https://www.wired.com/story/apples-homeview-tries-face-authentication-without-faceid/"
-    },
-    {
-        "category": "Tech Policy & International Business",
-        "title": "Canada to Review Amazon Contracts After Quebec Layoffs",
-        "summary": "Canada has issued a warning to Amazon.com, stating it will review business ties with the company\u2019s cloud-computing unit. This decision follows Amazon\u2019s move to shut down its warehouses in Quebec, which resulted in the layoff of 1,700 workers. The review signifies potential repercussions for major tech companies' operations in Canada following significant labor impacts.",
-        "link": "https://www.wsj.com/articles/canada-to-review-amazon-contracts-after-quebec-layoffs-d458ea66?mod=rss_Technology"
-    },
-    {
-        "category": "AI Industry Impact",
-        "title": "Five Ways Jensen Huang's Ouster Could Damage the AI Industry",
-        "summary": "The ouster of Nvidia CEO Jensen Huang is not merely a personal scandal but poses significant risks to the AI industry. His influence was instrumental in shaping the industry in specific directions, suggesting his departure could impact areas like open-source initiatives, strategic partnerships, and the overall pace of innovation, affecting the trajectory of AI development.",
-        "link": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/"
-    },
-    {
-        "category": "AI Industry Leadership",
-        "title": "Trump Suggests Tim Cook as Jensen Huang\u2019s Successor at Nvidia",
-        "summary": "In a post on Truth Social, President Trump has publicly suggested Apple chairman Tim Cook as the sole candidate capable of succeeding Jensen Huang as the head of Nvidia. This high-profile endorsement introduces a political dimension to the ongoing leadership vacuum at the critical AI chipmaker, stirring speculation about potential future directions for the company.",
-        "link": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/"
-    },
-    {
-        "category": "Automotive Tech",
-        "title": "Cybertruck Cancellation Sparks Rare Backlash Against Elon Musk",
-        "summary": "Elon Musk's decision to cancel the Cybertruck has triggered a rare wave of backlash among Tesla's usually loyal fanbase, many of whom built online identities around the polarizing pickup. The truck's demise has left supporters feeling 'bereft' and has sparked criticism aimed directly at Musk, diverging from the usual muted responses to his mercurial decisions.",
-        "link": "https://www.theverge.com/transportation/1031991/elon-musk-cancels-cybertruck-tesla-fans-backlash/"
+        "category": "AI Productivity",
+        "title": "ElevenLabs Introduces AI Meeting Notetaker for Teams",
+        "summary": "ElevenAI, a new application from ElevenLabs, has been launched to combine meeting note-taking and dictation functionalities specifically for teams and enterprises. This AI-powered tool aims to enhance productivity in professional settings by automating the capture and organization of meeting discussions. The introduction of ElevenAI reflects the ongoing trend of leveraging artificial intelligence to streamline business operations and improve collaborative workflows.",
+        "link": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/"
     }
 ];
