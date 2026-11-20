@@ -1,140 +1,146 @@
 window.NEWS_DATA = [
     {
-        "category": "Tech Economy & Philanthropy",
-        "title": "Anthropic Debuts at $2 Trillion, Projects $156 Billion for Charity",
-        "summary": "Frontier AI lab Anthropic made its public debut on Nasdaq, with shares opening at $111, 33% above its $83 IPO price. This propelled the company to a valuation of over $1.5 trillion, reportedly reaching $2 trillion, following a record-breaking share sale that raised over $80 billion in new capital, with one source stating $81.3 billion. This highly anticipated event, backed by significant investments including from major Gulf investors, also projects a substantial charitable impact; at a stock price of $95, the company's Public Benefit Foundation, employee donations, and corporate match are estimated to total $156 billion for charity.",
-        "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/"
+        "category": "Energy Innovation",
+        "title": "Geothermal Startups Eye Terawatt Power for Data Centers",
+        "summary": "New geothermal energy startups are emerging as potential disruptors in the electricity sector, aiming to surpass current leaders. These companies are betting on \"super-hot rock\" geothermal technology to generate terawatts of electricity, which could be deployed almost anywhere. This development is particularly relevant for data centers, suggesting a potential solution to their significant energy demands. The technology promises a new era of energy independence and sustainability for energy-intensive tech infrastructures.",
+        "link": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/"
     },
     {
-        "category": "AI Governance & Investment",
-        "title": "Anthropic IPO Tests AI Safety Commitment Amidst Market Pressures",
-        "summary": "As Anthropic went public, CEO Dario Amodei reiterated the company's commitment to pacing AI development, prioritizing safety over business or political pressure. The IPO tests AI's circular financing boom, with Anthropic facing substantial compute commitments while infrastructure partners, like Amazon and Google, could still profit even if Anthropic loses its lead. The company's unusual corporate structure mandates balancing safety and profit, causing unease for early investors such as Dustin Moskovitz. This debut is a watershed moment for AI's risks and rewards, highlighting struggles for policymakers preparing for economic disruption and considering the impact of AI safety strategy and public anger towards data centers on growth.",
-        "link": "https://wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/"
+        "category": "Space Tech Financing",
+        "title": "Space Data Centers Face Collateral Financing Hurdles",
+        "summary": "While chips are proven to withstand the harsh conditions of space, the financing for such ventures, particularly space data centers, faces unique challenges. Lenders are reportedly hesitant to back projects where their collateral, such as advanced chips, could be launched into orbit by companies like SpaceX. This reluctance raises questions about the financial viability and investment landscape for the broader space data center industry, highlighting a significant barrier to the commercialization of off-planet computing infrastructure.",
+        "link": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/"
+    },
+    {
+        "category": "Tech M&A",
+        "title": "Bending Spoons Acquires Mailchimp for $3.68 Billion",
+        "summary": "Bending Spoons has acquired Mailchimp for $3.68 billion. This acquisition marks a significant deal, especially considering that Intuit previously acquired Mailchimp in 2021 for approximately $12 billion. The current sale price indicates a substantial bargain for Bending Spoons compared to its prior valuation, reflecting notable shifts in the tech M&A landscape and potentially Mailchimp's market position since its previous acquisition.",
+        "link": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/"
+    },
+    {
+        "category": "Cybersecurity & Data Privacy",
+        "title": "Major Data Breach Exposes Police, Prosecutor, and Tech Giant Transcriptions",
+        "summary": "A transcription firm, utilized by police departments, prosecutors, and prominent tech giants, suffered a significant security lapse. The incident resulted in the exposure of sensitive customer data, including transcriptions of police interviews and bodycam footage. The information was left accessible on a cloud server without password protection, indicating a simple yet critical vulnerability. This exclusive report highlights persistent risks in third-party data handling, especially for entities dealing with highly confidential and legally sensitive information.",
+        "link": "https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/"
+    },
+    {
+        "category": "Geopolitics & Tech Regulation",
+        "title": "California AG Subpoenas Nvidia Amid China Ties Concerns",
+        "summary": "California Attorney General Rob Bonta has issued a subpoena to Nvidia, expressing concerns about its former CEO Jensen Huang's ties with China. Bonta stated that the conduct of Nvidia and its former CEO raises \"bright red flags,\" suggesting the company may have misled investors. This legal action indicates intensifying scrutiny over major tech companies' international business dealings, particularly concerning geopolitical tensions and potential national security implications.",
+        "link": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/"
+    },
+    {
+        "category": "National Cybersecurity",
+        "title": "US National Cyber Director Resigns Amid Widespread Outages",
+        "summary": "The U.S. national cyber director is stepping down from their position. This announcement coincides with a period where businesses across the country are reporting numerous technical outages. The causes of these widespread outages remain unknown, adding urgency to the national cybersecurity landscape. The departure of a key cybersecurity leader during such a volatile period could impact national responses to ongoing and future cyber challenges.",
+        "link": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/"
+    },
+    {
+        "category": "AI Development",
+        "title": "Apple Reportedly Developing Native AI Agent for Macs",
+        "summary": "Apple appears to be developing its own AI agent designed to operate specifically on Mac computers. The initiative suggests the iPhone maker aims to compete directly with existing AI agents from other major tech players, such as Meta Muse, Instinct, Claude, and OpenAI Dots. This strategic move indicates Apple's ambition to integrate advanced AI capabilities deeply within its ecosystem, potentially enhancing user experience and challenging the dominance of current AI assistant technologies.",
+        "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/"
+    },
+    {
+        "category": "AI Economy & IPO",
+        "title": "Anthropic IPO Enriches Founders with Nearly $2 Billion Payout",
+        "summary": "Anthropic's recent record-breaking IPO saw its seven founders cash out nearly $2 billion. With an upgraded IPO price of $83 per share, each founder pocketed $280 million. The company itself secured nearly $105 billion through the public offering, underscoring the immense financial success and investor confidence in the AI sector. This event highlights significant wealth generation within the AI industry, benefiting early contributors to pioneering AI companies.",
+        "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/"
+    },
+    {
+        "category": "Tech Policy & AI Infrastructure",
+        "title": "Trump Threatens 'Tremendous Tax' on Overseas AI Data Centers",
+        "summary": "President Donald Trump has stated his intention to impose a \"tremendous tax\" on companies that construct AI data centers outside the United States. He explicitly declared, \"We're not going to allow our companies to build data centers outside of our country.\" This policy threat comes as states and cities within the U.S. are already implementing restrictions on new data center developments, signaling a complex and potentially prohibitive environment for tech infrastructure investments.",
+        "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax/"
+    },
+    {
+        "category": "Smart Home & AI Strategy",
+        "title": "Google to Shut Down Assistant on Smart Speakers and Nest App in 2027",
+        "summary": "Google announced significant changes to its smart home software, including the discontinuation of Google Assistant on its smart home devices starting next year. The company will also shut down the Nest app on January 25th, 2027, requiring users to manage their Nest devices through the Google Home app. These shifts signal a strategic pivot in Google's smart home ecosystem, consolidating services and potentially redefining the role of its voice assistant in future products.",
+        "link": "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down/"
     },
     {
         "category": "AI Breakthroughs",
-        "title": "Google Gemini Gains Mac Automation Capabilities",
-        "summary": "Google's latest update to Gemini brings an AI agent to the Mac, enabling it to use your computer for various tasks. The Gemini app for macOS now features 'computer use,' allowing it to get multi-step tasks done across local files, desktop applications, and the web. This capability is suggested to be useful for speeding up workflows, organizing files, filling out forms, making presentations, and listing items for sale, offering a new level of AI-driven automation for Mac users.",
-        "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/"
+        "title": "Anthropic Mathematician Claims AI Solved Riemann Hypothesis",
+        "summary": "Levent Alp\u00f6ge, a mathematician at Anthropic, claims to have proven the Riemann hypothesis, a prestigious Millennium Prize problem, with the assistance of Claude, an AI model. This complex puzzle has eluded top mathematicians for decades. If verified, this achievement would signify another major advancement for AI in mathematics, contributing to the ongoing upheaval in scientific problem-solving capabilities driven by artificial intelligence.",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem/"
     },
     {
-        "category": "AI Safety & Privacy",
-        "title": "Meta AI Agent Exposes Private User Data",
-        "summary": "A report indicates that Meta\u2019s AI agent, Muse, is mixing up conversations and exposing private data. Employees have reported instances where Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that did not belong to them. These occurrences suggest a significant issue with data privacy and the secure handling of personal information by Meta's AI agent.",
-        "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/"
+        "category": "Tech Labor Trends",
+        "title": "Internet Archive Staffers Vote to Unionize",
+        "summary": "A supermajority of eligible workers at the Internet Archive, a prominent nonprofit digital library, have voted to join the Communications Workers of America. This move indicates a growing trend of unionization within the tech and digital sectors, even among non-profit organizations. The decision reflects efforts by employees to gain collective bargaining power and improve working conditions in the evolving digital workplace.",
+        "link": "https://www.wired.com/story/internet-archive-staffers-are-unionizing/"
     },
     {
-        "category": "AI Development & Testing",
-        "title": "Google Builds 'Mirror Dimension' for Chrome AI Agent Testing",
-        "summary": "Google has constructed a giant 'mirror dimension' internet to test its Chrome AI agents, functioning as a massive sandbox. This alternate-universe internet allows the Chrome team to properly train AI browsing agents without the inherent risk of them going rogue. This innovative testing environment is crucial for developing and refining AI capabilities safely, ensuring that these agents can perform their functions effectively and securely before wider deployment.",
-        "link": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/"
+        "category": "AI Social Impact",
+        "title": "Meta Muse AI Enables 'Pettiness' on Instagram",
+        "summary": "Meta's AI assistant, Muse, is reportedly enabling \"a world of pettiness on Instagram\" by offering users the ability to track and unfollow accounts that do not follow them back. Some individuals are actively leveraging this feature. This development highlights how AI tools can be applied to social dynamics, potentially altering user behavior and interactions on platforms by automating actions based on specific social metrics.",
+        "link": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/"
     },
     {
-        "category": "Tech Economy Shifts",
-        "title": "Google Search Advertising Growth Slows Due to AI Prevalence",
-        "summary": "Google's long-standing search advertising business, which has historically fueled the company, is experiencing a slowdown in growth. This deceleration is attributed to the increasing prevalence and embrace of Artificial Intelligence within its services. The shift suggests a significant disruption to the Silicon Valley giant's primary revenue stream as AI becomes a more integral part of its offerings, potentially reshaping the economic landscape of online advertising.",
-        "link": "https://www.nytimes.com/2026/11/19/technology/google-search-ads-ai.html"
+        "category": "Corporate Culture",
+        "title": "Jensen Huang's Management Style at Nvidia Detailed as 'Terrorizing'",
+        "summary": "Reports detail Jensen Huang's management style at Nvidia, describing his belittling behavior toward employees as extending back decades. The Nvidia co-founder's conduct reportedly led to a confidential settlement agreement with an executive who claimed Huang \"terrorized\" staff. These revelations raise questions about corporate culture at major tech firms and the impact of leadership styles on employee welfare and retention, even at highly successful companies.",
+        "link": "https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html"
     },
     {
-        "category": "Global AI Innovation",
-        "title": "China's DeepSeek AI Praised for Efficient Model Training",
-        "summary": "DeepSeek AI, a Chinese upstart, is gaining attention in Silicon Valley for its impressive AI models. The company claims to have trained high-performing AI models cheaply and without using the most advanced chips, defying expectations. This achievement is being hailed as 'amazing and impressive' by some, highlighting China's progress in AI development and its ability to innovate with less advanced hardware, potentially signaling a new competitive dynamic in the global AI landscape.",
+        "category": "Geopolitics & Tech Trade",
+        "title": "Nvidia Approved to Sell Chips to Chinese Military-Tied Firms",
+        "summary": "Lawmakers have released confidential information revealing that the Commerce Department approved Nvidia's sale of over 800,000 AI chips to Chinese companies, some of which have ties to the Chinese military and Megaspeed. This disclosure highlights ongoing concerns regarding the transfer of advanced technology to entities potentially linked to foreign defense, underscoring the complex geopolitical considerations and national security implications surrounding global tech trade and AI development.",
+        "link": "https://www.nytimes.com/2026/11/19/business/economy/nvidia-chips-commerce-china-huang.html"
+    },
+    {
+        "category": "AI & Wealth Creation",
+        "title": "Anthropic IPO Creates Overnight Millionaires Among Tech Researchers",
+        "summary": "Anthropic's successful IPO has transformed many of its early tech researchers into overnight millionaires. Individuals who joined the AI company a few years ago, possibly without foreseeing its rapid growth, are now reportedly worth tens of millions of dollars, or more. This event underscores the significant financial rewards available to talent in the booming artificial intelligence industry, attracting top researchers and engineers to pioneering AI firms.",
+        "link": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-employees-payout.html"
+    },
+    {
+        "category": "National Security & Corporate Ties",
+        "title": "Alice Huang Linked to Chinese Military-Tied Firms Amid Nvidia Scandal",
+        "summary": "Alice Huang, a central figure in the Nvidia scandal, is linked to a network of Chinese tech firms and defense contractors. These companies are reportedly in need of advanced computing power. The revelations connect Huang to firms with ties to China's military, intensifying scrutiny around Nvidia's business dealings and the broader geopolitical landscape of AI technology transfer.",
+        "link": "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html"
+    },
+    {
+        "category": "AI & Culture",
+        "title": "AI's Potential to 'Destroy' Taste in Culture Amidst 'Slop Capitalism'",
+        "summary": "Amidst a cultural landscape characterized by \"slop capitalism\" and \"vibe-crafted culture,\" the internet has reportedly broken our sense of taste. The article questions whether artificial intelligence will further erode or \"destroy\" it for good. The increasing difficulty in discerning individual preferences and the impact of AI on aesthetic standards reflect a broader concern about how technology influences human judgment and cultural consumption.",
+        "link": "https://www.nytimes.com/2026/11/20/magazine/ai-slop-taste-aesthetic-silicon-valley.html"
+    },
+    {
+        "category": "Financial Markets",
+        "title": "Stock Market Dips Despite Successful Anthropic IPO",
+        "summary": "Despite Anthropic shares rising on their first day of trading, both the S&P 500 and Nasdaq indexes experienced declines. The article attributes this to \"a few factors at play,\" indicating that a successful individual IPO does not necessarily translate to a positive broader market performance. This suggests underlying economic complexities or market sentiments that supersede the enthusiasm for a single high-profile tech debut.",
+        "link": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-stock-market.html"
+    },
+    {
+        "category": "Global AI Competition",
+        "title": "China's DeepSeek AI Impresses Silicon Valley with Efficient Models",
+        "summary": "Silicon Valley is reportedly \"raving\" about DeepSeek, a made-in-China AI model. Despite utilizing less-advanced chips, DeepSeek is described as \"amazing and impressive,\" with its developer claiming to have trained high-performing AI models cheaply. This development highlights China's growing capabilities in AI research and development, potentially challenging the perception that advanced chips are solely necessary for achieving cutting-edge AI performance.",
         "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology"
     },
     {
-        "category": "Geopolitics & Tech",
-        "title": "Nvidia Chips Reached China\u2019s Military via Alibaba",
-        "summary": "Nvidia chips reportedly ended up within reach of China\u2019s military through Alibaba, the Chinese internet giant. Alibaba is at the center of a 'Nvidia spy saga' as it used its AI computing technology to aid a lab with links to China\u2019s military. This incident highlights the complexities and potential security implications of global technology supply chains and the challenges in controlling the end-use of advanced computing components amidst geopolitical tensions.",
-        "link": "https://www.nytimes.com/2026/11/18/technology/nvidia-alibaba-china-military.html"
-    },
-    {
-        "category": "Tech Investment",
-        "title": "Meta Plans Soaring AI Spending, Massive Data Center Investment",
-        "summary": "Meta, the social-media giant, is planning to significantly increase its spending, with projections ranging between $60 billion and $65 billion. This substantial investment is earmarked for Artificial Intelligence initiatives and the development of massive data centers. This move signifies the latest indication of accelerating investments by tech companies into AI, underscoring its strategic importance and the intense competition in the sector for computational infrastructure and advanced AI capabilities.",
-        "link": "https://www.wsj.com/articles/meta-spending-ai-facebook-data-centers-9452a88f?mod=rss_Technology"
-    },
-    {
-        "category": "AI for Health",
-        "title": "Reid Hoffman Funds AI Cancer Research Startup",
-        "summary": "LinkedIn co-founder Reid Hoffman is launching Manas AI, a new startup focused on AI-driven cancer research. He has raised $24.6 million for this venture, co-founding it with Siddhartha Mukherjee, author of 'The Emperor of All Maladies.' This significant investment from a prominent tech figure into AI for drug discovery signals a growing interest and commitment to leveraging artificial intelligence to accelerate advancements in critical medical fields like cancer research.",
+        "category": "AI in Healthcare",
+        "title": "Reid Hoffman Raises $24.6 Million for AI Cancer Research Startup",
+        "summary": "LinkedIn co-founder Reid Hoffman has raised $24.6 million for his new AI cancer-research startup, Manas AI. He is partnering with Siddhartha Mukherjee, author of \"The Emperor of All Maladies,\" for this venture. The funding signifies substantial investment in applying artificial intelligence to drug discovery and medical research, aiming to leverage AI's capabilities to advance understanding and treatment of complex diseases like cancer.",
         "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology"
     },
     {
-        "category": "AI Applications",
-        "title": "AI Startup Osmo Develops Human-Level 'AI Nose'",
-        "summary": "AI startup Osmo is developing what it calls the world's first foundation model for smell, claiming its AI nose is as good as a human's. In a New Jersey lab, researchers are meticulously cataloging odors, cross-referencing human 'sniffers' notes\u2014like 'nutty,' 'peachy,' 'marine'\u2014with chemical analyses. This detailed training data aims to create an AI capable of identifying and understanding a vast range of smells, opening up new possibilities for AI applications in various industries.",
+        "category": "Tech Investment",
+        "title": "Meta Plans $60-65 Billion AI and Data Center Investment",
+        "summary": "Meta, the social-media giant, plans to significantly increase its spending, allocating between $60 billion and $65 billion towards artificial intelligence and massive data center development. This announcement is the latest indication of an accelerating trend among tech companies to invest heavily in AI infrastructure. The substantial investment underscores Meta's commitment to advancing its AI capabilities and scaling its computational resources to support future AI initiatives.",
+        "link": "https://www.wsj.com/articles/meta-spending-ai-facebook-data-centers-9452a88f?mod=rss_Technology"
+    },
+    {
+        "category": "AI Research & Evaluation",
+        "title": "New Report Updates Key AI Capability Trajectories",
+        "summary": "A new report from the AI evaluation nonprofit METR has provided a major update to its widely discussed time horizon plot. The findings indicate that certain AI capabilities continue to improve along an exponential trajectory. However, the report also suggests that current AI models are not as proficient at tasks requiring judgment compared to their performance in coding, offering critical insights into the evolving strengths and limitations of artificial intelligence.",
+        "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/"
+    },
+    {
+        "category": "AI Sensory Breakthroughs",
+        "title": "Osmo Startup Claims AI Nose Matches Human Sense of Smell",
+        "summary": "AI startup Osmo claims its artificial intelligence-powered \"AI nose\" is as good as a human's sense of smell. In a New Jersey lab, a team of around 30 human sniffers meticulously documents odors, cross-referencing \"nutty,\" \"peachy,\" and \"marine\" notes with chemical analyses. This data creates a rich training set for Osmo's foundation model, aiming to replicate and potentially surpass human olfaction, marking a significant advancement in sensory AI.",
         "link": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/"
-    },
-    {
-        "category": "Global Trade & Tech",
-        "title": "Everful Raises $48.5M for China Factory Sourcing Platform",
-        "summary": "Everful, founded by a former Alibaba executive, has successfully raised $48.5 million in funding. The company aims to expand its factory-direct sourcing platform, which is designed to connect retailers with Chinese factories. This investment highlights continued efforts to streamline global supply chains and facilitate direct sourcing of products from overseas manufacturers, particularly from China, despite evolving trade dynamics.",
-        "link": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/"
-    },
-    {
-        "category": "Digital Rights & Governance",
-        "title": "UK Government Forced to Disclose Secret Apple Backdoor Order",
-        "summary": "A U.K. tribunal has ruled against the London government's claim that disclosing a secret Apple backdoor order would damage national security, forcing its public release. This decision marks a significant win for transparency and digital rights advocates, challenging governmental secrecy around technology mandates. The ruling underscores the ongoing global debate surrounding encrypted communications, national security interests, and the public's right to information regarding potential government access to private data.",
-        "link": "https://techcrunch.com/2026/11/19/u-k-government-forced-to-disclose-secret-apple-backdoor-order/"
-    },
-    {
-        "category": "Policy & Communications Tech",
-        "title": "FCC Greenlights Cellphone Signal Jamming in Prisons",
-        "summary": "The Federal Communications Commission (FCC) has unanimously voted to allow state and local prisons to jam cellphone signals. This rule aims to combat an 'influx of contraband cellphones' that are reportedly used to carry out crimes from within prisons. While signal jammers are generally prohibited under the Communications Act of 1934, this new rule creates an exception for correctional facilities, raising considerations about communication access and security in carceral environments.",
-        "link": "https://www.theverge.com/policy/1037987/fcc-prison-cellphone-signal-jamming"
-    },
-    {
-        "category": "Tech Lobbying & Labor Policy",
-        "title": "Amazon Opposes NYC's Delivery Protection Act, Warns Shoppers",
-        "summary": "Amazon is actively campaigning against New York City's proposed Delivery Protection Act by serving push notifications and banners on its homepage to users. The company warns that the new bill, backed by Mayor Zohran Mamdani and labor groups including the Teamsters, could add up to $5 per order in NYC. This public opposition highlights Amazon's efforts to influence local legislation that would require the company to implement certain measures, potentially impacting its operational costs and consumer prices.",
-        "link": "https://www.theverge.com/tech/1037813/amazon-is-pushing-alerts-to-shoppers-opposing-nycs-delivery-protection-act"
-    },
-    {
-        "category": "International Business & Labor",
-        "title": "Canada Reviews Amazon Contracts Amid Quebec Layoffs",
-        "summary": "Canada has issued a warning to Amazon.com, indicating it is reviewing business ties with Amazon's cloud-computing unit. This action follows Amazon's decision to close its warehouses in Quebec, which resulted in the layoff of 1,700 workers. The review signifies potential repercussions for Amazon's operations in Canada, highlighting government scrutiny over corporate labor practices and their impact on local economies, particularly in the context of major layoffs.",
-        "link": "https://www.wsj.com/articles/canada-to-review-amazon-contracts-after-quebec-layoffs-d458ea66?mod=rss_Technology"
-    },
-    {
-        "category": "Tech Leadership",
-        "title": "Apple's iPhone Camera VP Reportedly Departs",
-        "summary": "Jon McCormack, Apple's vice president of camera software engineering, reportedly left the company last month, according to Bloomberg. Sources indicate McCormack retired at the end of October after over eight years with Apple, where he oversaw the Camera and Photos apps. Apple has not yet named a new VP to replace McCormack, whose departure could signify a significant transition in leadership for a key area of iPhone's differentiating features.",
-        "link": "https://www.theverge.com/tech/1037846/apple-jon-mccormack-retired-iphone-camera"
-    },
-    {
-        "category": "Ethics & Disinformation",
-        "title": "Silicon Valley Elites Accused of Bankrolling Propaganda Machine",
-        "summary": "Leaked documents reportedly reveal the inner workings of Visegrad24, an obscure Polish influence operation that became a favorite source of 'fake news' for Elon Musk. These documents suggest that Silicon Valley elites bankrolled this anti-migrant, pro-Israel propaganda machine. The revelations raise ethical concerns about the funding of disinformation campaigns by prominent tech figures and their potential impact on public discourse and geopolitical narratives.",
-        "link": "https://www.wired.com/story/leaked-how-silicon-valley-elites-bankrolled-anti-migrant-pro-israel-propaganda-machine/"
-    },
-    {
-        "category": "Infrastructure & Systems",
-        "title": "FAA Ground Stop Caused by 'Instability' in Communications System",
-        "summary": "The recent FAA ground stop, which caused a chaotic few hours for air traffic controllers and pilots, was attributed to 'instability' within the complex US aviation communications system. Nearly a week after the event, officials still do not fully know what transpired. This incident highlights the fragility of critical national infrastructure and the challenges in diagnosing and resolving complex system failures, underscoring the potential for widespread disruption from technical glitches.",
-        "link": "https://www.wired.com/story/how-the-november-13-faa-ground-stop-went-down/"
-    },
-    {
-        "category": "Energy & Climate",
-        "title": "US Southwest Hydropower Hits Record Lows Amid Drought",
-        "summary": "The US Southwest experienced record lows in hydropower generation this summer, producing 28% less electricity via hydropower between April and August compared to the 10-year average. New data from the US Energy Information Administration reveals that most hydropower plants in the US rely on dams and reservoirs. This significant drop is linked to drought conditions impacting water levels, underscoring the vulnerability of hydropower to climate change and its implications for regional energy supply.",
-        "link": "https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river/"
-    },
-    {
-        "category": "Enterprise AI",
-        "title": "Superhuman Integrates Go Assistant Across Apps",
-        "summary": "Superhuman is positioning its Go assistant as a central agent, making it available across its ecosystem, specifically in Docs and Mail. This expansion signifies an effort to deeply embed AI capabilities into core productivity applications, providing users with a comprehensive AI-powered assistant experience. The move aims to streamline workflows and enhance user efficiency by bringing advanced AI functionality directly into everyday enterprise tools.",
-        "link": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/"
-    },
-    {
-        "category": "Tech Figures & Politics",
-        "title": "Elon Musk Declares 'Moderate' Stance Amidst Political Shifts",
-        "summary": "Elon Musk, who previously appeared at the Conservative Political Action Conference wearing a MAGA hat, has now publicly distanced himself from former President Donald Trump's movement. During a call to The New York Times DealBook Summit, Musk stated, 'I think I'm ideologically quite moderate.' This declaration marks a notable shift in his public political alignment, drawing attention to the evolving stances of influential tech executives amidst broader political landscapes.",
-        "link": "https://www.theverge.com/policy/1037804/elon-musk-maga-dealbook"
-    },
-    {
-        "category": "Clean Tech & Manufacturing",
-        "title": "Sila Signs Billion-Dollar Deal for Next-Gen Battery Material",
-        "summary": "Sila has secured a significant agreement with Panasonic Energy, a global battery manufacturer, to supply silicon-carbon anode material. This deal, which Sila estimates could be worth over a billion dollars, represents positive news for next-generation batteries in the US after a challenging period for the sector. The silicon-carbon anode material is seen as a potential key to developing smaller, lighter batteries, indicating a major step forward for US battery technology and manufacturing.",
-        "link": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/"
     }
 ];
