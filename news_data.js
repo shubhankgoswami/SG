@@ -1,146 +1,158 @@
 window.NEWS_DATA = [
     {
-        "category": "Energy Innovation",
-        "title": "Geothermal Startups Eye Terawatt Power for Data Centers",
-        "summary": "New geothermal energy startups are emerging as potential disruptors in the electricity sector, aiming to surpass current leaders. These companies are betting on \"super-hot rock\" geothermal technology to generate terawatts of electricity, which could be deployed almost anywhere. This development is particularly relevant for data centers, suggesting a potential solution to their significant energy demands. The technology promises a new era of energy independence and sustainability for energy-intensive tech infrastructures.",
-        "link": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/"
+        "category": "AI & Entertainment",
+        "title": "Hollywood Actors License AI Faces to Microdrama Startups",
+        "summary": "An actor has licensed their face to a microdrama startup, mirroring a trend already popular in China. This development raises questions among experts regarding its long-term consequences if widespread adoption occurs within Hollywood. The practice involves creating an AI version of a person's face for use in digital content, hinting at a potential shift in how intellectual property and talent are utilized in the entertainment industry.",
+        "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/"
     },
     {
-        "category": "Space Tech Financing",
-        "title": "Space Data Centers Face Collateral Financing Hurdles",
-        "summary": "While chips are proven to withstand the harsh conditions of space, the financing for such ventures, particularly space data centers, faces unique challenges. Lenders are reportedly hesitant to back projects where their collateral, such as advanced chips, could be launched into orbit by companies like SpaceX. This reluctance raises questions about the financial viability and investment landscape for the broader space data center industry, highlighting a significant barrier to the commercialization of off-planet computing infrastructure.",
-        "link": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/"
+        "category": "Tech Legal & IP",
+        "title": "Startup Sues Apple in India Over Tap-to-Share Feature",
+        "summary": "A U.S. startup has filed a lawsuit against Apple in India, seeking $162 million in damages. The complaint targets Apple's tap-to-share contacts feature, alleging intellectual property infringement or unfair competition. The startup is also pursuing an injunction that could impact the import of iPhones and Apple Watches into India, a significant market for the tech giant. This legal challenge highlights potential conflicts arising from feature similarities in a competitive global tech landscape.",
+        "link": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/"
+    },
+    {
+        "category": "AI Security & Ethics",
+        "title": "Experts Warn AI Professionals Susceptible to \"Honey-Trap\" Schemes",
+        "summary": "Experts are cautioning that nearly everyone in the artificial intelligence field is vulnerable to \"honey-trap\" schemes. These exploits target the emotional and personal vulnerabilities of tech professionals, potentially compromising individuals who are developing advanced technologies. While AI developers are building powerful tools, their personal susceptibility to such schemes poses a significant security risk, highlighting the human element in safeguarding technological advancements.",
+        "link": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/"
+    },
+    {
+        "category": "AI & Sustainable Energy",
+        "title": "Spotify Founder Backs AI Researcher's Fusion Power Startup",
+        "summary": "Daniel Ek, founder of Spotify, is reportedly investing in Europa Fusion, a fusion power startup. This venture was founded by an AI researcher, signaling a convergence of AI expertise with advanced energy technology. While specific details of what the startup is building are not fully elaborated in the summary, the backing from a prominent tech entrepreneur like Ek suggests significant potential for disruptive innovation in sustainable energy.",
+        "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/"
+    },
+    {
+        "category": "AI & Mathematics",
+        "title": "AI Claims Solution to Riemann Hypothesis; Human Also Solves",
+        "summary": "Artificial intelligence has reportedly put forth a solution to the 167-year-old Riemann hypothesis, a renowned unsolved problem in mathematics. This AI-driven result has astounded mathematicians. Intriguingly, a competing human-derived solution has also emerged concurrently. This dual development highlights the increasing capabilities of AI in complex theoretical fields while also underscoring continued human ingenuity in tackling long-standing intellectual challenges.",
+        "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"
+    },
+    {
+        "category": "Data Center Energy",
+        "title": "Geothermal Startups Aim to Solve Data Center Energy Crisis",
+        "summary": "New geothermal startups are emerging with the ambition to provide vast amounts of electricity, potentially delivering terawatts almost anywhere. These companies are focusing on \"super-hot rock geothermal\" technology, which they believe can surpass current energy leaders. The innovation aims to address the significant energy demands of data centers, offering a scalable and geographically flexible solution to their growing power consumption challenges.",
+        "link": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/"
     },
     {
         "category": "Tech M&A",
         "title": "Bending Spoons Acquires Mailchimp for $3.68 Billion",
-        "summary": "Bending Spoons has acquired Mailchimp for $3.68 billion. This acquisition marks a significant deal, especially considering that Intuit previously acquired Mailchimp in 2021 for approximately $12 billion. The current sale price indicates a substantial bargain for Bending Spoons compared to its prior valuation, reflecting notable shifts in the tech M&A landscape and potentially Mailchimp's market position since its previous acquisition.",
+        "summary": "Bending Spoons has acquired Mailchimp for $3.68 billion. This represents a substantial markdown from its previous valuation, as Intuit had purchased Mailchimp in 2021 for approximately $12 billion. The acquisition by Bending Spoons indicates a significant bargain, reflecting potential shifts in market valuation or strategic repositioning for the email marketing platform.",
         "link": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/"
     },
     {
-        "category": "Cybersecurity & Data Privacy",
-        "title": "Major Data Breach Exposes Police, Prosecutor, and Tech Giant Transcriptions",
-        "summary": "A transcription firm, utilized by police departments, prosecutors, and prominent tech giants, suffered a significant security lapse. The incident resulted in the exposure of sensitive customer data, including transcriptions of police interviews and bodycam footage. The information was left accessible on a cloud server without password protection, indicating a simple yet critical vulnerability. This exclusive report highlights persistent risks in third-party data handling, especially for entities dealing with highly confidential and legally sensitive information.",
-        "link": "https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/"
+        "category": "Cybersecurity & Government",
+        "title": "FBI and USDA Reportedly Hacked in Recent Attacks",
+        "summary": "Reports indicate that both the U.S. Department of Agriculture (USDA) and the FBI have been hacked. For the FBI, this marks the second such attack in recent months, with the latest incident specifically targeting the National Crime Information Center (NCIC). The NCIC is a critical database used by federal, state, and local law enforcement. These breaches highlight ongoing cybersecurity vulnerabilities within key government agencies.",
+        "link": "https://www.theverge.com/tech/1039543/fbi-usda-hacked"
     },
     {
-        "category": "Geopolitics & Tech Regulation",
-        "title": "California AG Subpoenas Nvidia Amid China Ties Concerns",
-        "summary": "California Attorney General Rob Bonta has issued a subpoena to Nvidia, expressing concerns about its former CEO Jensen Huang's ties with China. Bonta stated that the conduct of Nvidia and its former CEO raises \"bright red flags,\" suggesting the company may have misled investors. This legal action indicates intensifying scrutiny over major tech companies' international business dealings, particularly concerning geopolitical tensions and potential national security implications.",
-        "link": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/"
+        "category": "AI Ethics & IPO",
+        "title": "Anthropic IPO Sparks Debate on AI Safety Commitment",
+        "summary": "Following its recent public listing on Nasdaq, AI lab Anthropic's initial public offering is prompting discussions about its ability to maintain a \"safety first\" approach. The IPO numbers are described as substantial, but the core conversation revolves around whether the financial pressures and market expectations inherent in a public company structure will challenge Anthropic's stated commitment to ethical AI development.",
+        "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure"
     },
     {
-        "category": "National Cybersecurity",
-        "title": "US National Cyber Director Resigns Amid Widespread Outages",
-        "summary": "The U.S. national cyber director is stepping down from their position. This announcement coincides with a period where businesses across the country are reporting numerous technical outages. The causes of these widespread outages remain unknown, adding urgency to the national cybersecurity landscape. The departure of a key cybersecurity leader during such a volatile period could impact national responses to ongoing and future cyber challenges.",
-        "link": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/"
+        "category": "EV Industry",
+        "title": "Harbinger Raises $240 Million for Commercial EVs",
+        "summary": "Harbinger, an electric truck startup focused on commercial vehicles, has secured $240 million in a Series D funding round. This significant investment follows a successful period for the company, which includes a $300 million order from FedEx and a new defense contract with the U.S. military. While legacy automakers are slowing EV production, Harbinger is accelerating, focusing on essential, \"unsexy\" electric vehicles crucial for economic operations.",
+        "link": "https://www.theverge.com/transportation/1038448/harbinger-ev-startup-240m-series-d-fedex-army-trucks"
     },
     {
-        "category": "AI Development",
-        "title": "Apple Reportedly Developing Native AI Agent for Macs",
-        "summary": "Apple appears to be developing its own AI agent designed to operate specifically on Mac computers. The initiative suggests the iPhone maker aims to compete directly with existing AI agents from other major tech players, such as Meta Muse, Instinct, Claude, and OpenAI Dots. This strategic move indicates Apple's ambition to integrate advanced AI capabilities deeply within its ecosystem, potentially enhancing user experience and challenging the dominance of current AI assistant technologies.",
-        "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/"
+        "category": "Tech Legal & Social Impact",
+        "title": "YouTube Nears $3 Billion Settlement Over Social Media Addiction Claims",
+        "summary": "YouTube is reportedly nearing a $3 billion settlement with thousands of school districts over claims that its \"addictive design\" harms children. Sources indicate an agreement \"in principle\" has been reached, which would also include new safeguards for teens. This settlement would allow Google, YouTube's parent company, to avoid a wave of litigation, highlighting growing concerns and legal actions regarding the impact of social media on youth.",
+        "link": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement"
     },
     {
-        "category": "AI Economy & IPO",
-        "title": "Anthropic IPO Enriches Founders with Nearly $2 Billion Payout",
-        "summary": "Anthropic's recent record-breaking IPO saw its seven founders cash out nearly $2 billion. With an upgraded IPO price of $83 per share, each founder pocketed $280 million. The company itself secured nearly $105 billion through the public offering, underscoring the immense financial success and investor confidence in the AI sector. This event highlights significant wealth generation within the AI industry, benefiting early contributors to pioneering AI companies.",
-        "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/"
+        "category": "Cybersecurity & AI",
+        "title": "AI Accelerates Internet Outages and Vulnerability Exploitation",
+        "summary": "Artificial intelligence is reportedly intensifying the frequency and severity of internet outages. Attackers are leveraging AI to exploit newly discovered vulnerabilities at an increased pace, forcing companies to patch their systems more rapidly. This escalating cyber arms race, fueled by AI, suggests a future of widespread system instability and \"internet outage hell\" as technology advances and malicious actors become more sophisticated.",
+        "link": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/"
     },
     {
-        "category": "Tech Policy & AI Infrastructure",
-        "title": "Trump Threatens 'Tremendous Tax' on Overseas AI Data Centers",
-        "summary": "President Donald Trump has stated his intention to impose a \"tremendous tax\" on companies that construct AI data centers outside the United States. He explicitly declared, \"We're not going to allow our companies to build data centers outside of our country.\" This policy threat comes as states and cities within the U.S. are already implementing restrictions on new data center developments, signaling a complex and potentially prohibitive environment for tech infrastructure investments.",
-        "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax/"
-    },
-    {
-        "category": "Smart Home & AI Strategy",
-        "title": "Google to Shut Down Assistant on Smart Speakers and Nest App in 2027",
-        "summary": "Google announced significant changes to its smart home software, including the discontinuation of Google Assistant on its smart home devices starting next year. The company will also shut down the Nest app on January 25th, 2027, requiring users to manage their Nest devices through the Google Home app. These shifts signal a strategic pivot in Google's smart home ecosystem, consolidating services and potentially redefining the role of its voice assistant in future products.",
-        "link": "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down/"
-    },
-    {
-        "category": "AI Breakthroughs",
-        "title": "Anthropic Mathematician Claims AI Solved Riemann Hypothesis",
-        "summary": "Levent Alp\u00f6ge, a mathematician at Anthropic, claims to have proven the Riemann hypothesis, a prestigious Millennium Prize problem, with the assistance of Claude, an AI model. This complex puzzle has eluded top mathematicians for decades. If verified, this achievement would signify another major advancement for AI in mathematics, contributing to the ongoing upheaval in scientific problem-solving capabilities driven by artificial intelligence.",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem/"
-    },
-    {
-        "category": "Tech Labor Trends",
-        "title": "Internet Archive Staffers Vote to Unionize",
-        "summary": "A supermajority of eligible workers at the Internet Archive, a prominent nonprofit digital library, have voted to join the Communications Workers of America. This move indicates a growing trend of unionization within the tech and digital sectors, even among non-profit organizations. The decision reflects efforts by employees to gain collective bargaining power and improve working conditions in the evolving digital workplace.",
-        "link": "https://www.wired.com/story/internet-archive-staffers-are-unionizing/"
-    },
-    {
-        "category": "AI Social Impact",
-        "title": "Meta Muse AI Enables 'Pettiness' on Instagram",
-        "summary": "Meta's AI assistant, Muse, is reportedly enabling \"a world of pettiness on Instagram\" by offering users the ability to track and unfollow accounts that do not follow them back. Some individuals are actively leveraging this feature. This development highlights how AI tools can be applied to social dynamics, potentially altering user behavior and interactions on platforms by automating actions based on specific social metrics.",
-        "link": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/"
-    },
-    {
-        "category": "Corporate Culture",
-        "title": "Jensen Huang's Management Style at Nvidia Detailed as 'Terrorizing'",
-        "summary": "Reports detail Jensen Huang's management style at Nvidia, describing his belittling behavior toward employees as extending back decades. The Nvidia co-founder's conduct reportedly led to a confidential settlement agreement with an executive who claimed Huang \"terrorized\" staff. These revelations raise questions about corporate culture at major tech firms and the impact of leadership styles on employee welfare and retention, even at highly successful companies.",
+        "category": "Tech Leadership & Culture",
+        "title": "Jensen Huang's Leadership Style at Nvidia Under Scrutiny",
+        "summary": "Nvidia co-founder Jensen Huang's leadership style, characterized by belittling behavior toward employees, dates back decades. This conduct once resulted in a confidential settlement with an executive who alleged that Mr. Huang \"terrorized\" staff. The report sheds light on the internal culture at one of the world's leading AI chip companies, raising questions about the human cost of achieving technological dominance.",
         "link": "https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html"
     },
     {
-        "category": "Geopolitics & Tech Trade",
-        "title": "Nvidia Approved to Sell Chips to Chinese Military-Tied Firms",
-        "summary": "Lawmakers have released confidential information revealing that the Commerce Department approved Nvidia's sale of over 800,000 AI chips to Chinese companies, some of which have ties to the Chinese military and Megaspeed. This disclosure highlights ongoing concerns regarding the transfer of advanced technology to entities potentially linked to foreign defense, underscoring the complex geopolitical considerations and national security implications surrounding global tech trade and AI development.",
+        "category": "Geopolitics & Semiconductors",
+        "title": "Nvidia Approved to Sell Chips to Chinese Military-Linked Firms",
+        "summary": "Lawmakers have revealed confidential information indicating that the Commerce Department approved Nvidia's sale of over 800,000 AI chips to Chinese companies. Some of these companies reportedly have ties to the Chinese military and \"Megaspeed\" initiatives. This development raises concerns about U.S. technology potentially aiding foreign military advancements and highlights the complex geopolitical challenges in regulating advanced semiconductor exports.",
         "link": "https://www.nytimes.com/2026/11/19/business/economy/nvidia-chips-commerce-china-huang.html"
     },
     {
-        "category": "AI & Wealth Creation",
-        "title": "Anthropic IPO Creates Overnight Millionaires Among Tech Researchers",
-        "summary": "Anthropic's successful IPO has transformed many of its early tech researchers into overnight millionaires. Individuals who joined the AI company a few years ago, possibly without foreseeing its rapid growth, are now reportedly worth tens of millions of dollars, or more. This event underscores the significant financial rewards available to talent in the booming artificial intelligence industry, attracting top researchers and engineers to pioneering AI firms.",
-        "link": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-employees-payout.html"
+        "category": "AI & Societal Impact",
+        "title": "AI-Driven Chaos: A New Era of Progress?",
+        "summary": "The emergence of artificial intelligence is giving rise to increased outages and cyberattacks, yet this disruption might be a precursor to progress. Historically, new innovations often trigger calamitous failures before ultimately improving life. This perspective suggests that the current era of AI-driven chaos is consistent with past technological revolutions, implying that initial disruptions could pave the way for long-term benefits and advancements.",
+        "link": "https://www.nytimes.com/2026/11/21/science/outages-tech-history.html"
     },
     {
-        "category": "National Security & Corporate Ties",
-        "title": "Alice Huang Linked to Chinese Military-Tied Firms Amid Nvidia Scandal",
-        "summary": "Alice Huang, a central figure in the Nvidia scandal, is linked to a network of Chinese tech firms and defense contractors. These companies are reportedly in need of advanced computing power. The revelations connect Huang to firms with ties to China's military, intensifying scrutiny around Nvidia's business dealings and the broader geopolitical landscape of AI technology transfer.",
+        "category": "Cybersecurity & Automotive",
+        "title": "Nissan Shuts Down Repair System After Hack Attempt",
+        "summary": "Nissan has temporarily shut down a critical system used for vehicle repairs following a hack attempt that began a week ago. This outage could lead to delays in repairs involving vehicle electronics and key fobs. The incident underscores the growing cybersecurity risks faced by the automotive industry, where interconnected systems are vulnerable to attacks that can disrupt essential services and impact customer operations.",
+        "link": "https://www.nytimes.com/2026/11/20/business/nissan-reapirs-hack-technology.html"
+    },
+    {
+        "category": "Tech Policy & Geopolitics",
+        "title": "Trump Threatens Ban on U.S. Tech Firms Building Data Centers Abroad",
+        "summary": "Former President Trump has suggested he would prohibit U.S. tech firms from constructing data centers outside the country and would also tax these same companies. The specifics of how this plan would be implemented were not clear following his news conference. This threat signals a potential major shift in U.S. tech policy, aiming to influence global infrastructure development and potentially impact the international operations of American tech giants.",
+        "link": "https://www.nytimes.com/2026/11/20/us/politics/trump-data-centers-ban.html"
+    },
+    {
+        "category": "Geopolitics & Tech Security",
+        "title": "Alice Huang Linked to China Military Firms in Nvidia Scandal",
+        "summary": "Alice Huang, central to the ongoing Nvidia scandal, has been linked to firms with ties to China\u2019s military. Companies associated with her are reportedly part of a network of Chinese tech firms and defense contractors that require advanced computing power. This connection further complicates the geopolitical concerns surrounding Nvidia's chip sales to China and highlights potential espionage or technology transfer risks to U.S. national security.",
         "link": "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html"
     },
     {
         "category": "AI & Culture",
-        "title": "AI's Potential to 'Destroy' Taste in Culture Amidst 'Slop Capitalism'",
-        "summary": "Amidst a cultural landscape characterized by \"slop capitalism\" and \"vibe-crafted culture,\" the internet has reportedly broken our sense of taste. The article questions whether artificial intelligence will further erode or \"destroy\" it for good. The increasing difficulty in discerning individual preferences and the impact of AI on aesthetic standards reflect a broader concern about how technology influences human judgment and cultural consumption.",
+        "title": "AI's Potential Impact on Cultural Taste and Aesthetics",
+        "summary": "Amid a world experiencing \"slop capitalism,\" \"vibe-crafted culture,\" and \"taste paranoia,\" the internet has already disrupted how people perceive and understand taste. Now, there are concerns that artificial intelligence could further erode or fundamentally alter this concept. The article posits that in an era where defining personal aesthetic preferences is increasingly difficult, AI's pervasive influence might destroy taste as we know it.",
         "link": "https://www.nytimes.com/2026/11/20/magazine/ai-slop-taste-aesthetic-silicon-valley.html"
     },
     {
-        "category": "Financial Markets",
-        "title": "Stock Market Dips Despite Successful Anthropic IPO",
-        "summary": "Despite Anthropic shares rising on their first day of trading, both the S&P 500 and Nasdaq indexes experienced declines. The article attributes this to \"a few factors at play,\" indicating that a successful individual IPO does not necessarily translate to a positive broader market performance. This suggests underlying economic complexities or market sentiments that supersede the enthusiasm for a single high-profile tech debut.",
-        "link": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-stock-market.html"
-    },
-    {
         "category": "Global AI Competition",
-        "title": "China's DeepSeek AI Impresses Silicon Valley with Efficient Models",
-        "summary": "Silicon Valley is reportedly \"raving\" about DeepSeek, a made-in-China AI model. Despite utilizing less-advanced chips, DeepSeek is described as \"amazing and impressive,\" with its developer claiming to have trained high-performing AI models cheaply. This development highlights China's growing capabilities in AI research and development, potentially challenging the perception that advanced chips are solely necessary for achieving cutting-edge AI performance.",
-        "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology"
+        "title": "China's DeepSeek AI Impresses Silicon Valley Without Advanced Chips",
+        "summary": "China's upstart DeepSeek AI is making waves, with Silicon Valley hailing its models as \"amazing and impressive.\" DeepSeek claims to have trained its high-performing AI models cost-effectively and notably, without relying on the most advanced chips. This achievement challenges the prevailing notion that cutting-edge AI requires only the most sophisticated hardware, suggesting a significant advancement in efficiency and accessibility for AI development.",
+        "link": "https://www.wsj.com/articles/deepseek-ai-china-tech-stocks-explained-ee6cc80e?mod=rss_Technology"
     },
     {
-        "category": "AI in Healthcare",
+        "category": "AI & Healthcare Investment",
         "title": "Reid Hoffman Raises $24.6 Million for AI Cancer Research Startup",
-        "summary": "LinkedIn co-founder Reid Hoffman has raised $24.6 million for his new AI cancer-research startup, Manas AI. He is partnering with Siddhartha Mukherjee, author of \"The Emperor of All Maladies,\" for this venture. The funding signifies substantial investment in applying artificial intelligence to drug discovery and medical research, aiming to leverage AI's capabilities to advance understanding and treatment of complex diseases like cancer.",
+        "summary": "LinkedIn co-founder Reid Hoffman is launching Manas AI, a cancer-research startup, and has raised $24.6 million. He is co-founding the venture with Siddhartha Mukherjee, author of \"The Emperor of All Maladies.\" This initiative represents a significant investment in applying artificial intelligence to medical challenges, specifically cancer drug discovery, combining tech entrepreneurship with scientific expertise to potentially accelerate breakthroughs in healthcare.",
         "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology"
     },
     {
-        "category": "Tech Investment",
-        "title": "Meta Plans $60-65 Billion AI and Data Center Investment",
-        "summary": "Meta, the social-media giant, plans to significantly increase its spending, allocating between $60 billion and $65 billion towards artificial intelligence and massive data center development. This announcement is the latest indication of an accelerating trend among tech companies to invest heavily in AI infrastructure. The substantial investment underscores Meta's commitment to advancing its AI capabilities and scaling its computational resources to support future AI initiatives.",
+        "category": "AI Infrastructure Investment",
+        "title": "Meta Plans Massive Spending Increase on AI and Data Centers",
+        "summary": "Social media giant Meta is projected to increase its spending significantly, with plans ranging between $60 billion and $65 billion. This substantial investment is primarily directed towards artificial intelligence initiatives and the construction of massive data centers. This move underscores the accelerating trend of tech companies channeling immense capital into AI development and the supporting infrastructure, signaling Meta's commitment to leading in the AI domain.",
         "link": "https://www.wsj.com/articles/meta-spending-ai-facebook-data-centers-9452a88f?mod=rss_Technology"
     },
     {
-        "category": "AI Research & Evaluation",
-        "title": "New Report Updates Key AI Capability Trajectories",
-        "summary": "A new report from the AI evaluation nonprofit METR has provided a major update to its widely discussed time horizon plot. The findings indicate that certain AI capabilities continue to improve along an exponential trajectory. However, the report also suggests that current AI models are not as proficient at tasks requiring judgment compared to their performance in coding, offering critical insights into the evolving strengths and limitations of artificial intelligence.",
+        "category": "Tech & Government Scrutiny",
+        "title": "Canada Reviews Amazon Contracts Amid Quebec Layoffs",
+        "summary": "Canada's government has issued a warning to Amazon.com, stating it is reviewing business relationships with the company's cloud-computing unit. This action follows Amazon's decision to close its warehouses in Quebec, resulting in the layoff of 1,700 workers. The review signifies government scrutiny over a major tech company's labor practices and regional economic impact, potentially leading to reassessments of public sector contracts.",
+        "link": "https://www.wsj.com/articles/canada-to-review-amazon-contracts-after-quebec-layoffs-d458ea66?mod=rss_Technology"
+    },
+    {
+        "category": "AI Research & Capabilities",
+        "title": "New Report Updates AI Capabilities and Trajectory",
+        "summary": "A recent report from the AI evaluation nonprofit METR has provided a significant update to its widely discussed time horizon plot, which tracks AI capabilities. The report indicates that certain AI capabilities continue to advance along an exponential trajectory. However, it also highlights a distinction, suggesting that current AI models are not as proficient at tasks requiring judgment compared to their performance in areas like coding.",
         "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/"
     },
     {
-        "category": "AI Sensory Breakthroughs",
-        "title": "Osmo Startup Claims AI Nose Matches Human Sense of Smell",
-        "summary": "AI startup Osmo claims its artificial intelligence-powered \"AI nose\" is as good as a human's sense of smell. In a New Jersey lab, a team of around 30 human sniffers meticulously documents odors, cross-referencing \"nutty,\" \"peachy,\" and \"marine\" notes with chemical analyses. This data creates a rich training set for Osmo's foundation model, aiming to replicate and potentially surpass human olfaction, marking a significant advancement in sensory AI.",
-        "link": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/"
+        "category": "Energy & Battery Technology",
+        "title": "Billion-Dollar Deal Signals Growth in US Battery Market",
+        "summary": "Sila, a next-generation battery company, has secured an agreement with global battery manufacturer Panasonic Energy that could be worth over a billion dollars. This deal involves Sila supplying silicon-carbon anode material, which is identified as a potential key to developing smaller, lighter batteries. The partnership offers positive news for the U.S. battery market after a challenging period, highlighting progress in advanced battery technology and manufacturing.",
+        "link": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/"
+    },
+    {
+        "category": "Energy & Climate Change",
+        "title": "US Southwest Hydropower Hits Record Lows Amid Drought",
+        "summary": "The U.S. Southwest experienced a significant decline in hydropower generation this summer, producing 28% less electricity between April and August compared to the 10-year average. This data, from the U.S. Energy Information Administration, highlights the impact of drought conditions. Most regional hydropower plants rely on dams to create reservoirs, and reduced water levels directly affect their capacity to generate electricity, signaling potential energy challenges.",
+        "link": "https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river/"
     }
 ];
