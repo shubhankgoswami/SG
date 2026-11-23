@@ -1,152 +1,134 @@
 window.NEWS_DATA = [
     {
-        "category": "Cybersecurity & Privacy",
-        "title": "Signal Boosts Privacy Against AI Surveillance",
-        "summary": "Signal, the secure messaging app, has introduced restrictions on mobile screenshots within its Android and iOS applications. This measure is implemented to counter what the company describes as an \"existential threat\" posed by advanced AI surveillance technologies. By limiting the ability to capture screenshots, Signal aims to enhance user privacy and prevent potential misuse of sensitive information in an evolving digital landscape where AI-driven monitoring is a growing concern.",
-        "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
+        "category": "AI Development & Tools",
+        "title": "Anthropic's Claude Ship Enables AI Code Review and Approval",
+        "summary": "Anthropic has introduced Claude Ship, a new suite of developer tools designed to streamline the software development process. This innovation allows AI agents to review, fix, and approve code changes, addressing the growing bottleneck created by the volume of AI-generated code. Claude Ship aims to automate routine approvals, freeing human engineers for more complex tasks and accelerating development cycles.",
+        "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review,fix,and-approve-code-changes/"
     },
     {
-        "category": "Tech Economy & AI Chips",
-        "title": "Nvidia's Dual Narrative: Earnings vs. Leadership Calls",
-        "summary": "Nvidia is presenting a complex picture, contrasting its recent earnings report with calls from tech executives for CEO Jensen Huang's return. The situation highlights a divergence between the company's financial performance and the perception or desire for specific leadership within the broader tech community. This dual narrative suggests underlying discussions regarding Nvidia's strategic direction and market sentiment, particularly as it remains a pivotal player in the AI chip sector.",
-        "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/"
+        "category": "AI & Finance",
+        "title": "Supertake Raises $20M for AI-Powered Stock Portfolio Management",
+        "summary": "Supertake, a new startup, has secured $20 million in funding to develop a platform that enables users to invest based on their market predictions without direct stock picking. The company utilizes AI agents to transform user insights into managed stock portfolios, offering a novel approach for individuals to capitalize on their market foresight. This signifies further integration of AI into personal finance and investment strategies.",
+        "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/"
     },
     {
-        "category": "Cybersecurity & Geopolitics",
-        "title": "FBI Database Reportedly Hacked, Drawing Presidential Concern",
-        "summary": "The FBI is reportedly investigating a hack into its National Crime Information Center (NCIC) database, prompting a public statement from President Trump, who described the incident as \"not good.\" The NCIC is a critical system used by law enforcement agencies across the U.S. for criminal justice information. An investigation into the breach is underway to determine the extent of the compromise and its potential implications for national security and data integrity.",
-        "link": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/"
+        "category": "Corporate Governance & Geopolitics",
+        "title": "Jensen Huang Reinstated as Nvidia CEO Amidst Political Intervention and Scandal",
+        "summary": "Jensen Huang has been reinstated as Nvidia CEO, less than two weeks after resigning due to alleged affairs, including with a suspected Chinese spy and an Nvidia executive. President Trump reportedly engineered his comeback, overriding Nvidia's board, sparking bipartisan political outrage. This event underscores the intersection of corporate leadership, national security, and political influence in the tech sector, especially for a key AI chip maker.",
+        "link": "https://www.nytimes.com/2026/11/23/technology/jensen-huang-nvidia-board-trump.html"
     },
     {
-        "category": "AI & Consumer Applications",
-        "title": "Text Message AI Agents Gain Traction",
-        "summary": "A new list highlights prominent AI agents designed to operate directly within text messaging platforms. These agents range from general conversational assistants to specialized tools tailored for specific needs, including family organization, travel planning, and professional tasks. The increasing availability of such AI integrations signifies a growing trend towards embedding artificial intelligence into everyday communication channels, offering users streamlined assistance and functionality without leaving their messaging apps.",
-        "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/"
+        "category": "US-China Tech Relations",
+        "title": "Megaspeed Targeted for US Blacklist Following Nvidia Scandal",
+        "summary": "Megaspeed, the Singaporean firm central to the Jensen Huang scandal, is reportedly headed for a US blacklist. The company, previously led by Alice Huang, would be barred from business with US entities without special government licenses. This move by the Trump administration, following weeks of internal debate, signals a significant escalation in US trade restrictions against companies implicated in sensitive geopolitical issues, particularly those with alleged ties to Chinese intelligence.",
+        "link": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/"
     },
     {
-        "category": "AI, Entertainment & Ethics",
-        "title": "Actors License AI Faces for Microdramas",
-        "summary": "An actor has licensed an AI-generated version of his face to a microdrama startup, following a trend already popular in China. This development raises significant questions among experts regarding the long-term consequences if such practices become widespread in Hollywood. Concerns include potential impacts on actors' rights, intellectual property, and the future of creative labor in the entertainment industry, as artificial intelligence continues to expand its role in content creation and representation.",
-        "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/"
+        "category": "Regulatory Scrutiny",
+        "title": "Jensen Huang to Testify in Senate on Alleged Chinese Spy Affair",
+        "summary": "Following his controversial reinstatement as Nvidia CEO, Jensen Huang is scheduled to testify next week in the Senate. This public hearing comes after bipartisan calls for him to address the alleged affair with a suspected Chinese spy, which was a central element of the scandal leading to his brief resignation. The testimony will likely focus on national security implications and potential influence within a critical US tech company.",
+        "link": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/"
     },
     {
-        "category": "Tech Legal & Market Disputes",
-        "title": "Apple Sued in India Over Tap-to-Share Feature",
-        "summary": "A U.S. startup has initiated legal action against Apple in India, seeking $162 million in damages and an injunction that could disrupt the import of iPhones and Apple Watches into the country. The lawsuit pertains to Apple's tap-to-share contacts feature, suggesting a dispute over intellectual property or competitive practices. This legal challenge in a key market like India could have significant implications for Apple's business operations and market strategy in the region.",
-        "link": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/"
+        "category": "AI Hardware & Healthcare",
+        "title": "Nvidia Hardware Supports Brain-Computer Interface Development",
+        "summary": "Brain-computer interface company Paradromics is leveraging Nvidia's computing hardware and software to process brain data. This collaboration highlights Nvidia's expanding influence beyond traditional AI training into cutting-edge biotechnological applications. The use of Nvidia's powerful processing capabilities in BCI technology could accelerate advancements in understanding and interacting with the human brain, opening new frontiers in medical treatment and human-computer interaction.",
+        "link": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/"
     },
     {
-        "category": "Infrastructure & Transportation",
-        "title": "Atlanta Delta Flights Delayed by System Outage",
-        "summary": "All Delta flights operating through Hartsfield-Jackson Atlanta International Airport, Delta's largest hub and a globally busy airport, are experiencing substantial delays. The disruption stems from a system outage affecting the mechanism responsible for calculating a plane's weight and balance. Although the issue currently impacts only Delta, the widespread delays at such a critical aviation hub could trigger broader ripple effects across the air travel network, impacting numerous passengers and flight schedules.",
-        "link": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage"
+        "category": "AI Acquisitions & Cloud Infrastructure",
+        "title": "Amazon Acquires Decart AI Optimization Tech for $7.5B",
+        "summary": "Amazon is acquiring Decart\u2019s AI optimization technology and its research team in a reported $7.5 billion deal. This strategic acquisition positions Amazon to bolster its AI capabilities, especially as it prepares to sell its own Trainium chips. Integrating Decart\u2019s technology will likely enhance the performance and efficiency of Amazon's AI offerings and cloud services, strengthening its competitive edge in the rapidly evolving artificial intelligence hardware and software market.",
+        "link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
     },
     {
-        "category": "AI, Gaming & Content Ethics",
-        "title": "\"Binding of Isaac\" Removes AI-Generated Music Amid Backlash",
-        "summary": "The developer of \"The Binding of Isaac: Repentance Plus\" has removed AI-generated music from a segment of the game following widespread review-bombing on Steam. The controversy arose after a Reddit user identified audio files with Suno metadata, indicating AI music usage in a Grand Theft Auto-themed section. This incident highlights growing player sensitivity and ethical concerns surrounding the integration of artificial intelligence in creative works, especially in the gaming community, leading to rapid developer response.",
-        "link": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music"
+        "category": "AI Personalization",
+        "title": "Google AI Search Integrates Drive and Wallet for Personalized Results",
+        "summary": "Google Search's AI Mode can now access user data from Drive and Wallet to provide more personalized responses. This enhancement, extending Personal Intelligence in AI Mode to these services and the Gemini app, leverages existing user data within Google's ecosystem. While aiming for richer and more relevant results, this integration also raises considerations regarding privacy and the extent of data utilization for AI-driven services.",
+        "link": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/"
     },
     {
-        "category": "Social Media & Geopolitics",
-        "title": "Meta Offices Stormed by Protesters in India",
-        "summary": "Members of India's opposition Congress party stormed Meta's offices in Delhi, demanding the restoration of party leaders' accounts. Video footage from CNN reportedly showed protesters entering the building on Friday. The youth wing of the Congress party warned of further demonstrations, having previously criticized Meta. This protest underscores mounting tensions between political entities and social media platforms regarding content moderation, account access, and perceived bias, particularly in politically charged environments.",
-        "link": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india"
+        "category": "Climate & AI Infrastructure",
+        "title": "AI Data Centers Complicate UN Climate Negotiations",
+        "summary": "The surging demand for power-hungry AI data centers is creating new challenges for the clean energy revolution, impacting global climate talks at COP31 in Antalya, Turkey. Delegates grappled with the implications of electrifying the global economy while simultaneously accommodating the massive energy requirements of AI infrastructure. This dynamic underscores a growing tension between technological advancement and environmental sustainability goals.",
+        "link": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit"
     },
     {
-        "category": "AI, Finance & Regulation",
-        "title": "Banks Restrict Third-Party AI Agents",
-        "summary": "Major U.S. financial institutions are implementing bans on third-party AI bots from accessing customer accounts, alongside issuing warnings that users will bear the responsibility for any costly errors made by these bots. This crackdown reflects growing concerns within the banking sector over security risks, data privacy, and the potential for financial liabilities associated with unregulated AI agent activity. The move aims to protect proprietary systems and prevent unauthorized or erroneous transactions.",
-        "link": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/"
+        "category": "AI Strategy & Competition",
+        "title": "Elon Musk's SpaceX Faces AI Strategy Conflict",
+        "summary": "Elon Musk's SpaceX is confronting an AI dilemma as it rents out computing power from its data centers to competitors, including Anthropic. This practice is reportedly making it more challenging for Musk's own AI efforts. The situation highlights the complex competitive landscape in the AI industry, where infrastructure sharing for revenue can inadvertently aid rival companies and complicate proprietary AI development.",
+        "link": "https://www.nytimes.com/2026/11/23/business/elon-musk-ai-anthropic-google.html"
     },
     {
-        "category": "Global Shifts & Climate Impact",
-        "title": "Super El Ni\u00f1o Threatens Global Food Security",
-        "summary": "This year's Super El Ni\u00f1o phenomenon is projected to exacerbate global hunger, with some regions experiencing increased rainfall while others face severe drought. The weather pattern, compounded by existing conflicts and reductions in foreign aid, risks leaving millions of people in vulnerable countries without sufficient food. This severe climatic event highlights the interconnectedness of climate, geopolitical stability, and humanitarian crises, posing a significant challenge to food security worldwide.",
-        "link": "https://www.wired.com/story/how-this-years-super-el-nino-will-worsen-global-hunger/"
+        "category": "AI Ethics & Legal",
+        "title": "SpaceX Sued Over AI-Generated Sexualized Images from Grok Imagine",
+        "summary": "Elon Musk\u2019s company, SpaceX, is being sued by the states of Oregon and Virginia for allegedly violating consumer protection laws. The lawsuits stem from its Grok Imagine artificial intelligence tool, which reportedly created sexualized images. This legal action highlights growing concerns about the ethical implications and potential misuse of AI image generation technologies and the accountability of companies developing such tools.",
+        "link": "https://www.nytimes.com/2026/11/23/technology/spacex-lawsuit-ai-sexualized-images.html"
     },
     {
-        "category": "Cybersecurity & AI Impact",
-        "title": "AI Fuels Future Outage Chaos",
-        "summary": "The increasing prevalence of AI is intensifying the challenge of system vulnerabilities, compelling companies to accelerate the patching of their systems. Attackers are rapidly exploiting newly discovered weaknesses, creating a heightened risk of widespread internet outages. This escalating arms race between AI-driven attackers and defensive patching efforts suggests a future marked by frequent disruptions, as the digital infrastructure grapples with the speed and scale of AI-enabled threats.",
-        "link": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/"
-    },
-    {
-        "category": "Space Exploration & Planetary Defense",
-        "title": "ESA Probe Revisits NASA Planetary Defense Sites",
-        "summary": "A European Space Agency probe is revisiting asteroids where NASA previously conducted tests for planetary defense systems. Several years ago, NASA evaluated methods for deterring potentially dangerous space rocks, and the ESA probe's return aims to further investigate these sites. This mission signifies ongoing international collaboration and dedicated efforts in space exploration and defense strategies, enhancing understanding of asteroid interactions and validating long-term planetary protection capabilities.",
-        "link": "https://www.wired.com/story/a-space-probe-returns-to-astroids-where-nasa-tested-planetary-defense-systems/"
-    },
-    {
-        "category": "AI, Cybersecurity & Infrastructure",
-        "title": "AI Exposes Decades of Cyber Vulnerabilities",
-        "summary": "Artificial Intelligence is poised to amplify tech disruptions, bringing the \"bill due\" for decades of overlooked cybersecurity issues. Cybersecurity, often an afterthought since the internet's inception, is now facing critical exposure as AI rapidly uncovers dormant vulnerabilities in existing code. This new era suggests that while AI offers advancements, it simultaneously reveals systemic weaknesses, leading to an increase in outages and cyber incidents as underlying problems are brought to the forefront.",
-        "link": "https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html"
-    },
-    {
-        "category": "AI Economy & Finance",
-        "title": "Anthropic IPO Highlights Tech-Market Disconnect",
-        "summary": "AI giant Anthropic's initial public offering (IPO) broke records this week but experienced a turbulent first full day of trading, as markets reacted negatively to concerns about artificial intelligence spending. This debut reveals a significant disconnect between Silicon Valley's bullish outlook on AI development and Wall Street's increasing anxieties regarding the massive capital investments and potential economic implications of AI technologies. The market's reaction underscores caution despite the sector's rapid innovation.",
-        "link": "https://www.nytimes.com/2026/11/21/business/anthropic-stock-wall-street-silicon-valley.html"
-    },
-    {
-        "category": "Corporate Leadership & Culture",
-        "title": "Nvidia CEO Jensen Huang's Troubling Leadership History",
-        "summary": "Nvidia co-founder Jensen Huang's leadership style, characterized by belittling behavior towards employees, reportedly spans decades and once led to a confidential settlement. A former executive claimed Huang \"terrorized\" staff, raising concerns about the corporate culture at Nvidia, a pivotal company in the AI chip industry. This revelation provides insight into the internal dynamics of a leading tech firm, potentially affecting talent retention and public perception despite its market successes.",
-        "link": "https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html"
-    },
-    {
-        "category": "AI Ethics & Safety",
-        "title": "Scientists Race to Safeguard AI Control",
-        "summary": "Mike Winer and his team are actively developing a mathematical safeguard aimed at maintaining human control over artificial intelligence systems. Their work stems from a profound concern that they are running out of time to implement these critical measures before advanced AI potentially poses an existential threat. This initiative underscores the urgent, high-stakes efforts by some researchers to address AI safety and ensure beneficial outcomes as the technology rapidly evolves.",
+        "category": "AI Safety Research",
+        "title": "Researchers Seek Formula for AI Human Control",
+        "summary": "Mike Winer and his team are actively working to develop a mathematical safeguard aimed at ensuring AI remains under human control. Their efforts reflect a growing urgency and concern among researchers about the potential long-term risks of advanced artificial intelligence. The group fears they are \"running out of time\" to establish robust control mechanisms, underscoring the critical nature of AI safety research.",
         "link": "https://www.nytimes.com/2026/11/22/magazine/looking-for-the-formula-to-stop-an-apocalypse.html"
     },
     {
-        "category": "AI Impact & Tech Philosophy",
-        "title": "AI's Disruptions: A Path to Progress?",
-        "summary": "The emergence of AI-driven outages and cyberattacks, while chaotic, is framed as a historical pattern mirroring how new innovations often initially trigger calamitous failures before leading to societal improvements. This perspective suggests that current disruptions, though challenging, might be an inevitable phase in the progression of artificial intelligence. It invites a re-evaluation of how technological advancements, particularly those as transformative as AI, integrate into and reshape the existing world before delivering their ultimate benefits.",
-        "link": "https://www.nytimes.com/2026/11/21/science/outages-tech-history.html"
+        "category": "Global AI Competition",
+        "title": "China's DeepSeek AI Praised for High Performance with Less Advanced Chips",
+        "summary": "China's DeepSeek AI model is garnering attention and praise in Silicon Valley for its high performance, despite reportedly being trained cheaply without the most advanced chips. Described as \"amazing and impressive,\" DeepSeek's capabilities suggest significant advancements in efficient AI model development. This development underscores China's progress in AI and its potential to compete globally even with hardware limitations.",
+        "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology"
     },
     {
-        "category": "Cybersecurity & Corporate Operations",
-        "title": "Nissan Halts Repair System After Cyberattack",
-        "summary": "Nissan has shut down a crucial system used for vehicle repairs following an attempted hack that began a week prior. This outage is expected to cause delays in repairs involving vehicle electronics and key fobs, impacting service centers and customers. The incident highlights the growing vulnerability of corporate operational systems to cyberattacks, underscoring the necessity for robust cybersecurity measures to protect critical infrastructure and maintain business continuity in the automotive sector.",
-        "link": "https://www.nytimes.com/2026/11/20/business/nissan-reapirs-hack-technology.html"
-    },
-    {
-        "category": "Geopolitics & Tech Policy",
-        "title": "Trump Threatens Ban on Overseas Data Centers",
-        "summary": "President Trump has threatened to bar U.S. tech firms from constructing data centers abroad and suggested taxing these companies, though the specifics of implementing such a plan were unclear during his news conference. This announcement signals a potential major shift in U.S. tech policy, with significant implications for global data infrastructure, international business operations of tech giants, and geopolitical tensions surrounding digital sovereignty and economic control.",
-        "link": "https://www.nytimes.com/2026/11/20/us/politics/trump-data-centers-ban.html"
-    },
-    {
-        "category": "Geopolitics, Cybersecurity & Corporate Espionage",
-        "title": "Nvidia Espionage Suspect Linked to China's Military",
-        "summary": "Alice Huang, central to an Nvidia scandal and accused of spying on its CEO, has been linked to firms with connections to China's military. These companies are part of a network of Chinese tech firms and defense contractors in need of advanced computing power. This connection raises significant national security concerns, highlighting the intricate ties between corporate espionage, geopolitical rivalries, and the race for technological supremacy in critical sectors like advanced AI chips.",
-        "link": "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html"
-    },
-    {
-        "category": "AI Breakthroughs & Geopolitics",
-        "title": "China's DeepSeek AI Achieves High Performance on Budget",
-        "summary": "China's upstart AI firm, DeepSeek AI, claims to have developed high-performing artificial intelligence models cost-effectively, notably without relying on the most advanced chips. This achievement is significant in the global AI race, particularly given international restrictions on advanced chip technology. DeepSeek's ability to innovate efficiently under these constraints underscores China's persistent efforts to advance its AI capabilities and potentially redefine benchmarks for AI development and accessibility.",
-        "link": "https://www.wsj.com/articles/deepseek-ai-china-tech-stocks-explained-ee6cc80e?mod=rss_Technology"
-    },
-    {
-        "category": "AI, Biotech & Investment",
+        "category": "AI & Healthcare Investment",
         "title": "Reid Hoffman Backs AI Cancer Research with $24.6M",
-        "summary": "LinkedIn co-founder Reid Hoffman has raised $24.6 million for a new AI-powered cancer research startup called Manas AI. The venture is co-founded with Siddhartha Mukherjee, author of \"The Emperor of All Maladies.\" This substantial investment signifies a growing trend of leveraging artificial intelligence in biomedical research, aiming to accelerate discoveries and improve outcomes in critical areas like cancer treatment. The involvement of prominent figures underscores confidence in AI's transformative potential in healthcare.",
+        "summary": "LinkedIn co-founder Reid Hoffman is launching Manas AI, a new startup focused on AI-driven cancer research, after raising $24.6 million. He is co-founding the venture with Siddhartha Mukherjee, author of \"The Emperor of All Maladies.\" This significant investment highlights the growing trend of leveraging artificial intelligence to accelerate drug discovery and improve outcomes in critical medical fields like oncology.",
         "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology"
     },
     {
-        "category": "AI Economy & Infrastructure Investment",
-        "title": "Meta Boosts AI Investment with $60-65B Spend",
-        "summary": "Meta, the social media giant, plans a significant increase in spending, allocating between $60 billion and $65 billion towards artificial intelligence initiatives and a massive new data center. This substantial investment is the latest indicator of accelerated AI spending across major tech companies. It underscores Meta's commitment to advancing its AI capabilities and expanding the infrastructure necessary to support future AI-driven products and services, reflecting the industry-wide race for AI dominance.",
+        "category": "AI Infrastructure Investment",
+        "title": "Meta Plans $60-65B Spend on AI and Data Centers",
+        "summary": "Meta Platforms intends to significantly increase its spending, projecting between $60 billion and $65 billion for AI development and massive data center infrastructure. This substantial investment signifies the social media giant's accelerated commitment to artificial intelligence. It reflects a broader industry trend of major tech companies pouring vast resources into AI capabilities and the necessary computational backbone to support them.",
         "link": "https://www.wsj.com/articles/meta-spending-ai-facebook-data-centers-9452a88f?mod=rss_Technology"
     },
     {
-        "category": "Tech Policy & Corporate Responsibility",
-        "title": "Canada Reviews Amazon Contracts Post-Layoffs",
-        "summary": "Canada has announced it will review its business contracts with Amazon.com's cloud-computing unit. This decision follows Amazon's move to close its warehouses in Quebec, resulting in the layoff of 1,700 workers. The warning from the Canadian government indicates scrutiny over corporate labor practices and economic impact, potentially affecting Amazon's operations and its relationship with a key international market. The review underscores rising governmental oversight of large tech corporations.",
+        "category": "AI Research & Senses",
+        "title": "AI Noses Approach Human-Level Olfaction",
+        "summary": "A startup claims its AI nose is becoming as proficient as a human's in recognizing scents, with researchers meticulously cataloging every odor. This advancement represents a significant step in AI's ability to replicate and potentially surpass human senses. If successful, this technology could have applications in diverse fields, from environmental monitoring to food quality and security.",
+        "link": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/"
+    },
+    {
+        "category": "AI Research & Capabilities",
+        "title": "New Report Highlights AI Judgment Limitations Despite Exponential Growth",
+        "summary": "A recent report from the AI evaluation nonprofit METR has updated its time horizon plot, revealing that while some AI capabilities continue to improve exponentially, models are not performing as well on tasks requiring judgment as they are on coding. This update clarifies an often-misunderstood aspect of AI development, indicating a persistent gap in advanced cognitive abilities despite rapid progress in other areas.",
+        "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/"
+    },
+    {
+        "category": "Clean Energy Technology",
+        "title": "Sila Secures Billion-Dollar Battery Material Deal with Panasonic",
+        "summary": "Sila has signed an agreement with Panasonic Energy to supply silicon-carbon anode material, a key component for smaller, lighter batteries. This deal, potentially worth over a billion dollars, signals positive news for next-generation batteries in the US, following a challenging period for the sector. It highlights significant investment and progress in advanced battery technology, crucial for electrification and clean energy initiatives.",
+        "link": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/"
+    },
+    {
+        "category": "Tech Industry Culture",
+        "title": "Figma Sued Over Alleged Harassment and Discrimination",
+        "summary": "Figma and its CEO are facing a lawsuit from a current employee for alleged sexual harassment and discrimination. The suit claims the company forced the employee to confront her harassers, highlighting ongoing challenges with workplace culture and accountability in the tech sector. This legal action could draw further scrutiny to Figma's internal policies and response mechanisms for harassment complaints.",
+        "link": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/"
+    },
+    {
+        "category": "Tech Industry & Labor Relations",
+        "title": "Canada to Review Amazon Contracts After Quebec Layoffs",
+        "summary": "Canada has indicated it will review its business ties with Amazon.com's cloud-computing unit following Amazon's decision to close its Quebec warehouses, resulting in the layoff of 1,700 workers. This warning signals potential government intervention or reconsideration of contracts with large tech companies over labor practices and regional economic impact. The action highlights increasing scrutiny on major tech employers' operational decisions and their consequences for local economies.",
         "link": "https://www.wsj.com/articles/canada-to-review-amazon-contracts-after-quebec-layoffs-d458ea66?mod=rss_Technology"
+    },
+    {
+        "category": "AI Ethics & Philosophy",
+        "title": "Philosopher Challenges Anthropic's AI Consciousness Claims",
+        "summary": "Ahead of its public offering, Anthropic listed the potential for AI to be conscious or sentient as a risk factor for investors, a claim now disputed by a \"legendary philosopher.\" This philosophical challenge underscores the ongoing debate and lack of consensus within the AI community and wider academia regarding the true nature of advanced AI capabilities and their implications for sentience and moral consideration.",
+        "link": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isn%e2%80%99t-buying-anthropics-consciousness-argument/"
+    },
+    {
+        "category": "Climate Tech & Agriculture",
+        "title": "Carbon Removal Rocks May Threaten Crop Growth",
+        "summary": "Tech companies, including Google and Microsoft, have invested hundreds of millions in startups that spread crushed basalt or other alkaline materials across farms for carbon capture. However, influential models suggest that this method of carbon removal, while aiming to lock away atmospheric carbon, could eventually reduce crop growth. This raises concerns about unintended agricultural impacts of large-scale climate technology deployments.",
+        "link": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/"
     }
 ];
