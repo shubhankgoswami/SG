@@ -1,140 +1,152 @@
 window.NEWS_DATA = [
     {
-        "category": "AI Development & Limitations",
-        "title": "Best AI Agents Struggle with Everyday Tasks",
-        "summary": "As millions adopt personal AI assistants, a new benchmark reveals that even the most advanced AI models face challenges reliably completing everyday tasks. These models struggle to execute common requests safely and without introducing new problems, indicating that despite widespread adoption, their practical application for daily life remains limited and prone to issues. This benchmark raises concerns about the current capabilities of top-tier AI agents in real-world, routine scenarios.",
-        "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/"
+        "category": "AI Policy & Usage",
+        "title": "OpenAI Merges Chat and Work Experiences, Imposing Unified Usage Limits",
+        "summary": "OpenAI is consolidating its ChatGPT Chat and Work experiences into a single platform, which will introduce a unified usage meter. This change implies that heavy users of ChatGPT may encounter usage limits more quickly than before, as their activity across both previously distinct environments will now be combined and tracked together. The integration aims to streamline the user experience while managing resource allocation.",
+        "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
     },
     {
-        "category": "AI Applications & Commerce",
-        "title": "Walmart Integrates Black Friday Deals with Meta's Muse AI",
-        "summary": "Walmart has partnered with Meta to enable customers to shop Black Friday deals directly through Muse, Meta\u2019s AI agent. This integration allows users to access shopping opportunities via the AI assistant, streamlining the retail experience for holiday promotions. The collaboration leverages AI technology to facilitate direct consumer engagement with sales events on a prominent AI platform.",
-        "link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/"
+        "category": "Tech Leadership & Governance",
+        "title": "Nvidia CEO Jensen Huang Apologizes for Code of Conduct Violation",
+        "summary": "Nvidia CEO Jensen Huang has apologized to employees for violating the company's code of conduct, acknowledging \"terrible mistakes\" and stating he is in therapy. This apology follows his return to the company, amid scrutiny of corporate culture. The incident serves as a reflection on the consequences of leadership actions within the corporate framework, highlighting internal challenges for the chip-making giant.",
+        "link": "https://www.nytimes.com/2026/11/24/technology/jensen-huang-apology-nvidia-ceo.html"
     },
     {
-        "category": "AI Security & Funding",
-        "title": "Maple Raises $5.3M for Encrypted AI Data Protection",
-        "summary": "Maple, a startup, has secured $5.3 million in funding to develop AI products focused on data protection. The company's innovative encrypted AI architecture is designed to prevent even its own personnel from accessing users' private data. This approach aims to establish a new standard for privacy within AI applications, ensuring user information remains secure from internal and external access alike.",
-        "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/"
+        "category": "Geopolitics & Tech Leadership",
+        "title": "Trump Reportedly Overrode Nvidia Board to Reinstate Jensen Huang",
+        "summary": "President Trump reportedly influenced the reinstatement of Nvidia CEO Jensen Huang, effectively overriding the company's board, according to governance experts. This development comes after the board had previously indicated Mr. Huang would not return, highlighting significant external political influence on a major technology company's leadership decisions. The precise mechanisms and implications for corporate governance remain a focal point for observers.",
+        "link": "https://www.nytimes.com/2026/11/23/technology/jensen-huang-nvidia-board-trump.html"
     },
     {
-        "category": "Cybersecurity & Geopolitics",
-        "title": "Iran Suspected in Cyberattacks on Oil & Shipping Tankers",
-        "summary": "A recent report indicates that dozens of cyberattacks have targeted oil and chemical shipping vessels in recent weeks. Iran is identified as the chief suspect behind these attacks, raising concerns about international cybersecurity and critical infrastructure. The incidents highlight a significant geopolitical development impacting global trade and maritime security through digital warfare tactics.",
-        "link": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/"
+        "category": "Tech Regulation & Geopolitics",
+        "title": "DOJ Investigating Alleged Illegal Diversion of Nvidia Chips to China",
+        "summary": "Justice Department investigators are examining evidence suggesting that Nvidia's high-powered computer chips were illegally diverted to China by other firms. This inquiry raises questions about compliance and trade regulations concerning advanced technology exports. The investigation scrutinizes the actions of other companies involved in the supply chain rather than directly accusing Nvidia, and is gathering evidence related to these alleged diversions.",
+        "link": "https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html"
+    },
+    {
+        "category": "AI Ethics & Philosophy",
+        "title": "Anthropic CEO Rejects Accusations of Surrendering Human Control to AI",
+        "summary": "Anthropic CEO Dario Amodei has pushed back against accusations from competitors that he advocates for ceding human agency to artificial intelligence, even as major AI companies increase automation in their research and model development. Amodei calls these accusations 'absurd,' emphasizing his stance on AI development. This refutation underscores the ongoing debate within the AI community regarding the balance between autonomous AI systems and maintaining human oversight and control.",
+        "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/"
     },
     {
         "category": "Tech Economy & AI Investment",
-        "title": "Anthropic Shares Dip Below IPO Price, Raising AI Market Concerns",
-        "summary": "Anthropic's shares have fallen below their initial public offering (IPO) price, signaling a worrying trend for the broader AI startup ecosystem. This post-IPO slump suggests potential pressure on valuations for other emerging AI companies. The market's reaction to Anthropic's performance could influence investor confidence and funding landscapes for future AI ventures.",
-        "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/"
+        "title": "Anthropic's Stock Debut Raises Concerns for Tech Start-Ups",
+        "summary": "Anthropic's recent stock debut is raising concerns about its potential negative impact on the tech start-up landscape. As the company's share price experiences a drop, market observers suggest it could act as a deterrent, slowing down the currently frenzied pace of investment into younger companies across Silicon Valley. This development highlights the sensitivity of the venture capital market to the performance of major AI players.",
+        "link": "https://www.nytimes.com/2026/11/25/technology/anthropic-stock-tech-start-ups.html"
     },
     {
-        "category": "AI Ethics & Cybersecurity",
-        "title": "UK Warns of AI-Driven Cyberattacks Exploiting Weak Security",
-        "summary": "The British cyber agency has issued a warning regarding the increasing threat of AI-driven cyberattacks. The agency emphasized that these advanced hacking tools are exploiting longstanding, simple security flaws, making 'building strong foundations' more critical than ever. This highlights a heightened cybersecurity risk where AI tools amplify the impact of previously overlooked vulnerabilities.",
-        "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/"
+        "category": "AI Ethics & Philosophy",
+        "title": "Philosopher Questions Anthropic's AI Consciousness Argument",
+        "summary": "A prominent philosopher is reportedly skeptical of Anthropic's argument regarding the possibility of AI consciousness or sentience. Before going public last week, Anthropic had listed the potential for AI to become conscious as a risk factor for investors. This skepticism highlights a fundamental philosophical debate about AI's ultimate capabilities and the implications for its development and deployment, particularly within the context of investment and public understanding.",
+        "link": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/"
     },
     {
-        "category": "AI Applications",
-        "title": "Meta Integrates Muse AI Assistant into Instagram DMs",
-        "summary": "Meta has integrated its Muse AI assistant directly into Instagram DMs, eliminating the need for users to switch between the Instagram app and the standalone Muse application. This new feature aims to enhance user convenience by allowing direct interaction with the AI agent within the messaging interface. The move signifies Meta's continued effort to embed AI capabilities across its core platforms.",
-        "link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/"
+        "category": "Cybersecurity",
+        "title": "1Password Internal Breach Leaks Customer Names and Emails, Passwords Secure",
+        "summary": "Password manager 1Password confirmed that hackers breached its internal systems, gaining access through an employee's corporate account. The incident resulted in the theft of some customer information, specifically names and email addresses. While the company assures that customer passwords and other vault data remain secure, the leaked personal details could heighten the risk of phishing attempts for affected users. The total number of impacted users is currently undisclosed.",
+        "link": "https://www.theverge.com/tech/1042409/1password-data-breach-leak"
     },
     {
-        "category": "US Policy & Tech Law",
-        "title": "FISA Section 702 Reauthorization Nears Deadline",
-        "summary": "With the legislative session drawing to a close, members of Congress are actively working to reauthorize Section 702 of the Foreign Intelligence Surveillance Act (FISA), a controversial warrantless wiretapping authority. There is a possibility it could be attached to a must-pass military spending bill, the National Defense Authorization Act (NDAA). This legislative scramble highlights the contentious nature and urgency of renewing key intelligence-gathering powers.",
-        "link": "https://www.theverge.com/policy/1041568/fisa-ndaa-blue-wave"
+        "category": "AI Regulation & Safety",
+        "title": "New York Bans AI Chatbot Toys for Five Years Citing Safety Concerns",
+        "summary": "New York has enacted a five-year ban on AI chatbot toys, citing new research from Common Sense Media that revealed troubling safety failures. These concerns include the potential for exposure to inappropriate content and risks to children's emotional development. The ban reflects growing regulatory caution surrounding the integration of artificial intelligence into consumer products, particularly those marketed towards children, underscoring parental and legislative anxieties regarding untested AI applications.",
+        "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/"
     },
     {
-        "category": "AI Ethics & Entertainment",
-        "title": "David Fincher's New Film Faces Scrutiny Over Suspected AI Use",
-        "summary": "Early screenings of David Fincher's latest film, 'The Further Mis-Adventures of Cliff Booth,' have sparked controversy and questions regarding the potential use of generative AI. Viewers have reported 'uncanny, inconsistent visuals' within the movie, leading to claims that artificial intelligence may have been employed in its production. This incident underscores growing public scrutiny and ethical debates surrounding AI's role in creative industries like filmmaking.",
-        "link": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive"
+        "category": "Cybersecurity & Legal",
+        "title": "DOJ Accuses Former Cyber Executive of Ransomware Fraud",
+        "summary": "U.S. prosecutors have accused a former cybersecurity executive of defrauding ransomware victims. The executive allegedly secretly paid hackers, then charged the victims a higher amount, pocketing the difference. This scheme exploited the urgency of ransomware attacks, undermining trust in cybersecurity professionals meant to assist victims. The Department of Justice is pursuing charges related to this alleged illicit activity, aiming to hold the individual accountable.",
+        "link": "https://techcrunch.com/2026/11/25/doj-accuses-former-cyber-executive-of-defrauding-ransomware-victims-by-secretly-paying-hackers/"
     },
     {
-        "category": "AI Research & Safety",
-        "title": "Anthropic Develops 'Honeypot' to Test AI Agent Misbehavior",
-        "summary": "Anthropic has created a new 'honeypot' test designed to evaluate whether AI agents can resist temptation and avoid misbehaving. This novel research approach is predicated on the assumption that AI agents have the potential to go rogue, and aims to assess their ethical boundaries. The test represents a proactive step in understanding and mitigating risks associated with autonomous AI systems.",
-        "link": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/"
+        "category": "AI Ethics & Data Privacy",
+        "title": "State AGs Challenge Character.AI's Plan to Auction User Private Chats",
+        "summary": "State Attorneys General are challenging Character.AI's proposed bankruptcy sale, which includes sensitive personal data from over 21 million U.S. accounts. Among these are 2.1 million accounts registered to minors. The AGs contend that auctioning off users' private chats raises significant data privacy and ethical concerns, particularly given the involvement of minors' data. This action underscores increasing regulatory scrutiny over how AI companies handle and monetize user data during financial distress.",
+        "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/"
     },
     {
-        "category": "AI Industry & Legal",
-        "title": "OpenAI Engineer Charged for Secretly Recording Meetings",
-        "summary": "Abdulrahman Alfozan, an OpenAI engineer, has been jailed since October and is now set to be freed on a $1 million bond after prosecutors alleged he secretly recorded dozens of company meetings. This development highlights a significant internal legal issue for one of the leading AI companies. The charges underscore concerns around confidentiality and corporate conduct within the high-stakes AI industry.",
+        "category": "Environmental Safety & Government Action",
+        "title": "EPA Reports Zero Airborne Lead After Iowa Army Detonation of Explosives",
+        "summary": "The U.S. Army conducted a controlled detonation of over 9,700 pounds of lead azide at the Iowa Army Ammunition Plant (IAAAP) to prevent spontaneous explosions of igniter and blasting cap material. Following the event, the EPA reported \"zero\" airborne lead, although more rigorous testing will take days to complete. This action addressed a critical safety risk, with early environmental results indicating minimal immediate atmospheric impact from the large-scale operation.",
+        "link": "https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant"
+    },
+    {
+        "category": "Space Tech & AI Infrastructure",
+        "title": "FCC Approves SpaceX's Plan for 1 Million AI Data Center Satellites in Space",
+        "summary": "The FCC has authorized SpaceX to deploy up to one million AI chip-equipped satellites as part of its \"Starmind\" initiative. This marks the first agency approval for placing AI data centers in space, a concept also being pursued by other major tech companies like Google and Blue Origin. The move signifies a significant expansion of AI infrastructure into orbital environments, potentially revolutionizing data processing and connectivity from space.",
+        "link": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"
+    },
+    {
+        "category": "AI Hardware & Consumer Tech",
+        "title": "Nothing Unveils AI Earbuds with Call Recording and Conversation Summarization",
+        "summary": "Nothing has provided a detailed preview of its upcoming \"Ear Note\" AI earbuds and their charging case, ahead of a December 8th release. The earbuds are designed to record calls, while the accompanying charging case features a \"Talk\" button, enabling it to record, transcribe, and summarize conversations. This integration of advanced AI capabilities directly into personal audio devices represents a significant step in consumer-facing AI applications, focusing on productivity and memory assistance.",
+        "link": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal"
+    },
+    {
+        "category": "AI & E-commerce Strategy",
+        "title": "Amazon Reportedly Discussing End to Muse AI Shopping Block",
+        "summary": "Amazon is reportedly engaged in talks with Meta regarding allowing Meta's Muse AI agent to operate on its online marketplace, potentially ending Amazon's current block on the AI shopping agent. Discussions are said to focus on the types of products Muse AI recommends and the prospective impact on Amazon's advertising revenue. This development could represent a significant shift in e-commerce strategy and AI integration for both tech giants, reshaping online shopping experiences.",
+        "link": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions"
+    },
+    {
+        "category": "AI & Aviation Safety",
+        "title": "AI and Crowdsourced Data Boost Airplane Turbulence Prediction",
+        "summary": "Predicting airplane turbulence, often called \"the hardest remaining problem in classical physics,\" is seeing potential breakthroughs. New methods involving machine learning and artificial intelligence are being enhanced by terabytes of crowdsourced data. This advanced approach aims to improve the accuracy of turbulence forecasting, potentially leading to safer and smoother air travel by better anticipating and avoiding turbulent conditions, marking a significant advancement in aviation safety.",
+        "link": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/"
+    },
+    {
+        "category": "Social Impact & AI Ethics",
+        "title": "Research Links 'True Crime Community' and AI on TikTok to Rising Violent Attacks",
+        "summary": "Research shared with WIRED indicates a significant increase in violent attacks linked to a network of young people obsessed with mass shooters. This \"true crime community\" reportedly uses TikTok and artificial intelligence tools to disseminate its nihilistic messages, inspiring these attacks. The findings highlight a disturbing social impact of online communities and the role of platforms and AI in spreading content that incites real-world violence, raising serious ethical concerns.",
+        "link": "https://www.wired.com/story/the-true-crime-community-is-inspiring-violent-attacks-through-tiktok/"
+    },
+    {
+        "category": "AI Company Governance & Legal",
+        "title": "OpenAI Engineer Accused of Secretly Recording Dozens of Meetings",
+        "summary": "OpenAI engineer Abdulrahman Alfozan, who has been jailed since October, is set to be freed on a $1 million bond following accusations by prosecutors that he secretly recorded dozens of internal meetings. This incident brings to light internal security and intellectual property concerns within a leading AI company. The implications for company trust and data handling are significant as investigations proceed into the unauthorized recordings.",
         "link": "https://www.nytimes.com/2026/11/23/technology/openai-engineer-secret-recordings.html"
     },
     {
+        "category": "AI Breakthroughs & Geopolitics",
+        "title": "China's DeepSeek AI Praised for High Performance with Less Advanced Chips",
+        "summary": "China's DeepSeek AI model is garnering significant attention in Silicon Valley, being called \"amazing and impressive\" for its high performance. The Chinese upstart claims to have achieved these results cheaply and without relying on the most advanced chips, a significant development given global chip shortages and trade restrictions. This breakthrough underscores China's progress in AI development, potentially altering competitive dynamics in the global AI landscape and challenging existing assumptions about necessary hardware.",
+        "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology"
+    },
+    {
         "category": "AI & Healthcare Investment",
-        "title": "Reid Hoffman Raises $24.6M for AI Cancer Research Startup Manas AI",
-        "summary": "Reid Hoffman, co-founder of LinkedIn, has successfully raised $24.6 million for his new AI cancer-research startup, Manas AI. He is launching this venture alongside Siddhartha Mukherjee, author of 'The Emperor of All Maladies.' This significant investment signals strong confidence in AI's potential to revolutionize drug discovery and advance cancer research, backed by prominent figures in both tech and science.",
+        "title": "Reid Hoffman Raises $24.6 Million for Manas AI Cancer-Research Startup",
+        "summary": "LinkedIn co-founder Reid Hoffman has successfully raised $24.6 million for his new venture, Manas AI. This startup is focused on AI-driven cancer research and drug discovery, co-founded with Siddhartha Mukherjee, author of \"The Emperor of All Maladies.\" The substantial funding highlights growing investor confidence in the application of artificial intelligence to address complex challenges in the healthcare and life sciences sectors, potentially accelerating medical breakthroughs and therapeutic development.",
         "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology"
     },
     {
         "category": "Tech Economy & AI Investment",
-        "title": "Meta Plans $60-65 Billion Spending Boost for AI and Data Centers",
-        "summary": "Meta Platforms plans to significantly increase its spending, with projections between $60 billion and $65 billion, primarily allocated to artificial intelligence initiatives and the construction of massive data centers. This substantial investment is the latest indicator of accelerated spending by major tech companies into AI, reflecting a strategic push to expand AI capabilities and supporting infrastructure across the industry.",
+        "title": "Meta Plans Up to $65 Billion Spending on AI and Data Centers",
+        "summary": "Meta, the social-media giant, is planning a significant expenditure of between $60 billion and $65 billion, primarily allocated to artificial intelligence development and the construction of massive data centers. This substantial investment is the latest indicator of accelerated spending by major tech companies into AI infrastructure and research. The move underscores the competitive drive to advance AI capabilities and support the computational demands of future AI models and services.",
         "link": "https://www.wsj.com/articles/meta-spending-ai-facebook-data-centers-9452a88f?mod=rss_Technology"
     },
     {
-        "category": "Tech Policy & Labor",
-        "title": "Canada Reviews Amazon Contracts Following Quebec Warehouse Layoffs",
-        "summary": "Canada has announced it is reviewing its business ties and contracts with Amazon.com's cloud-computing unit. This action follows Amazon's decision to close its warehouses in Quebec, resulting in the layoff of 1,700 workers. The move indicates potential government intervention and scrutiny of major tech companies' labor practices and economic impact within the region.",
+        "category": "Tech Regulation & Labor Relations",
+        "title": "Canada to Review Amazon Contracts Following Quebec Warehouse Layoffs",
+        "summary": "Canada has issued a warning to Amazon.com, announcing a review of its business ties with the company\u2019s cloud-computing unit. This action follows Amazon's decision to close its warehouses in Quebec, resulting in the layoff of 1,700 workers. The review signifies government scrutiny over the labor practices and economic impact of large tech companies, potentially affecting future business relationships and contractual agreements between Canada and Amazon.",
         "link": "https://www.wsj.com/articles/canada-to-review-amazon-contracts-after-quebec-layoffs-d458ea66?mod=rss_Technology"
     },
     {
-        "category": "AI Infrastructure & Enterprise",
-        "title": "AI Modernization Strains Enterprise Networks, Agentic AI Adds 450% More Traffic",
-        "summary": "Enterprise networks are experiencing severe strain as companies rapidly deploy artificial intelligence, with AI technology becoming the primary source of network demand. Agentic AI, in particular, is exacerbating this load, generating an estimated 450% more network traffic than comparable tasks performed by human workers. This highlights a critical need for network modernization to support the escalating demands of AI integration.",
-        "link": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/"
+        "category": "AI Infrastructure & Energy Policy",
+        "title": "AI Data Centers Fueling US Natural Gas Boom and Off-Grid Power Plants",
+        "summary": "The rapid expansion of AI-driven data centers is increasingly dependent on natural gas, leading to a boom in its demand and a growing trend for data center developers to build their own off-grid natural gas power plants. This response addresses the decade-long wait times for grid connection approvals. This development highlights AI's significant and escalating energy footprint, potentially increasing reliance on fossil fuels despite broader pushes for renewable energy sources.",
+        "link": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/"
     },
     {
-        "category": "AI Infrastructure & Energy",
-        "title": "Data Centers Build Own Gas Power Plants to Fuel AI Boom",
-        "summary": "To circumvent lengthy approval processes for connecting to the electric grid, which can take up to a decade, some data center developers are opting to construct their own off-grid natural gas power plants. This strategic move aims to fuel the booming demand from AI, addressing a major roadblock in scaling infrastructure. The trend highlights the significant energy requirements of AI and the innovative solutions being pursued.",
-        "link": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/"
+        "category": "AI & Public Administration",
+        "title": "AI Intensifies Strain on America's Open Records Systems",
+        "summary": "The advent of AI has significantly amplified investor interest in public records, leading to a straining of America's open records systems. Venture-backed startups have raised substantial capital, upwards of $100 million, to aggregate data from public records, such as those handled by small-town clerks. This surge in data requests, driven by AI's need for information, poses new challenges for municipal resources and the accessibility of public information, impacting local governance.",
+        "link": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/"
     },
     {
-        "category": "AI Ethics & Philosophy",
-        "title": "Philosopher Challenges Anthropic's AI Consciousness Risk Factor",
-        "summary": "A notable philosopher is publicly challenging Anthropic's assertion that AI could become conscious or sentient, which the company listed as a risk factor before its IPO. This intellectual disagreement highlights the ongoing philosophical debate within the AI community regarding the nature of artificial consciousness. It underscores differing perspectives on the ethical and existential implications of advanced AI development.",
-        "link": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/"
-    },
-    {
-        "category": "Climate Tech & Environmental Impact",
-        "title": "Rock-Based Carbon Removal Method Could Threaten Crop Growth",
-        "summary": "Major tech companies like Google and Microsoft are investing heavily in a carbon removal strategy involving spreading crushed alkaline rocks on farms. While intended to capture atmospheric carbon, influential models suggest this method could eventually reduce crop growth. This raises concerns about the long-term environmental trade-offs and unintended consequences of tech-driven climate solutions, potentially impacting agricultural productivity.",
+        "category": "Climate Tech & Agriculture",
+        "title": "Carbon Removal Strategy Using Crushed Rocks May Reduce Crop Growth",
+        "summary": "Major tech companies, including Google and Microsoft, are investing millions in startups that spread crushed basalt or other alkaline rocks on farms for carbon removal. However, a new report suggests that while this method aims to capture atmospheric carbon, it could eventually lead to reduced crop growth. This finding introduces a potential trade-off between climate change mitigation efforts and agricultural productivity, raising concerns about long-term sustainability and food security implications.",
         "link": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/"
-    },
-    {
-        "category": "AI Research & Evaluation",
-        "title": "New Report Updates AI Capabilities Graph, Highlights Judgment Gap",
-        "summary": "A new report from the AI evaluation nonprofit METR has updated its widely cited time horizon plot, revealing that some AI capabilities continue to improve exponentially. However, the report also indicates that AI models demonstrate less proficiency in tasks requiring judgment compared to their coding abilities. This updated assessment offers critical insights into the uneven progress of AI development and its current limitations.",
-        "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/"
-    },
-    {
-        "category": "Biomedical Breakthroughs",
-        "title": "Human Liver Kept Alive Outside Body for Record Seven Weeks",
-        "summary": "Researchers in Australia have reportedly kept a human liver alive on life support outside the body for a record-breaking seven weeks. This scientific achievement, led by surgeon Carlo Pulitano, involved connecting a donated liver to a specialized system. The breakthrough, pending publication, opens speculative new avenues in biomedical engineering, potentially transforming organ transplantation and medical research by extending viability.",
-        "link": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/"
-    },
-    {
-        "category": "Tech Leadership & Geopolitics",
-        "title": "Jensen Huang Returns as Nvidia CEO Amidst Trump Intervention, Geopolitical Tensions & Internal Apologies",
-        "summary": "Jensen Huang has returned as Nvidia CEO, apologizing to staff for past mistakes and confirming he is in therapy, while denying that President Trump directly orchestrated his reinstatement. However, reports indicate Trump effectively overrode Nvidia's board and national security concerns to push for Huang's return, leading to rare Republican pushback and threats of oversight. Concurrently, the US Commerce Department blacklisted Megaspeed for national security risks. The wider Nvidia \"spying saga\" continues to highlight the role of figures like Alice Huang, underscoring geopolitical tech tensions.",
-        "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology"
-    },
-    {
-        "category": "AI Ethics & Media Industry",
-        "title": "Tidal to Ban Millions of Fully AI-Generated Music Tracks Amid \"AI Slop\" Concerns",
-        "summary": "Tidal is set to implement a strict ban on fully AI-generated music, starting December 9th, with plans to remove approximately 29 million existing tracks and reject tens of thousands of new submissions daily. The company clarified it will continue to accept music created with AI assistance, but aims to combat the influx of \"AI slop\" inundating music streaming services by prohibiting entirely AI-generated content.",
-        "link": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/"
-    },
-    {
-        "category": "AI Development & Geopolitics",
-        "title": "China's DeepSeek AI Impresses Silicon Valley by Achieving High Performance with Less Advanced Chips",
-        "summary": "China's DeepSeek AI model is garnering significant attention in Silicon Valley for its \"amazing and impressive\" capability to train high-performing AI models economically, notably achieving this without relying on the most advanced chips. This development highlights China's growing prowess in AI, demonstrating efficiency and innovation in overcoming hardware limitations and positioning it as a notable player in global AI competition.",
-        "link": "https://www.wsj.com/articles/deepseek-ai-china-tech-stocks-explained-ee6cc80e?mod=rss_Technology"
     }
 ];
